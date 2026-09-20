@@ -154,6 +154,29 @@ Pode permanecer público quando útil ao leitor:
 
 Antes de cada publicação, executar varredura de vazamento de governança. A presença de qualquer marcador interno na camada pública bloqueia o deploy.
 
+### 9.2. Arquitetura pública e identidade visual
+
+O Site Público adota arquitetura multipágina, inspirada no padrão estrutural do Classe e Massas, mas com identidade própria.
+
+**Menu global obrigatório:** Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fontes.
+
+Regras:
+- o menu global deve aparecer em todas as páginas públicas;
+- no mobile, o menu permanece em uma linha horizontal rolável, sempre acessível;
+- a página atual deve possuir destaque por `aria-current="page"`;
+- páginas centrais de cada área devem conter conteúdo útil, não placeholders vazios;
+- o Site não pode ser reduzido a uma homepage e uma página longa.
+
+**Identidade exclusiva Ações Judiciais:**
+- azul-marinho profundo como cor estrutural;
+- fundo marfim;
+- cobre como acento;
+- títulos em serifada e corpo/interface em sans-serif;
+- cartões e tabelas de aparência jurídica/editorial;
+- não reutilizar a paleta nem a aparência do Classe e Massas ou do Planejamento Financeiro.
+
+Os tokens visuais vigentes estão em `assets/style.css`.
+
 ## 10. Módulo software
 
 - distinguir IMPLEMENTADO, TESTADO, VERSIONADO, IMPLANTADO e VERIFICADO EM EXECUÇÃO;
