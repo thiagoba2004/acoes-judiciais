@@ -174,6 +174,7 @@ Regras obrigatórias:
 - `SITE_ARCHITECTURE.md` é a fonte da arquitetura;
 - `SITE_STYLE_GUIDE.md` é a fonte da identidade visual;
 - mudanças estruturais exigem auditoria desktop/mobile, links, overflow e navegação;
+- cards clicáveis e cards meramente informativos devem ser visualmente distintos: navegação usa cor própria + estado de hover; conteúdo estático permanece neutro e não recebe efeito de clique; nunca compensar falta de diferenciação visual com rótulos redundantes como “ACESSAR →”;
 - toda nova rota pública deve ser incluída explicitamente no workflow de GitHub Pages (`paths`, diretório `_site` e cópia para o artefato) antes de considerar o deploy concluído;
 - auditoria de publicação deve verificar a presença da rota no artefato público, não apenas no repositório.
 
