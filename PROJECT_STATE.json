@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000001",
   "current_strategy_name": "Ação de Repactuação de Dívidas por Superendividamento",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 7,
     "phase_total": 8,
-    "phase_code": "F-000003-000001-006",
-    "phase_name": "Jurisprudência, doutrina e controvérsias",
+    "phase_code": "F-000003-000001-007",
+    "phase_name": "Ferramentas práticas",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 05/08 concluída: mapa dos arts. 104-A/104-B/104-C, arquitetura de pedidos, limites e alternativas persistidos.",
-  "next_logical_step": "Construir matriz jurisprudencial por controvérsia: mínimo existencial, tutela provisória, Juizados/competência interna, boa-fé, dívidas excluídas, credor ausente, consignado/desconto em conta e plano compulsório.",
+  "last_completed_milestone": "Fase 06/08 concluída: matriz jurisprudencial consolidada, doutrina verificável incorporada e referências críticas sobre consignado e competência auditadas.",
+  "next_logical_step": "Produzir roteiro de triagem, checklist operacional de audiência/credor ausente, árvore decisória de cabimento e estrutura-base de modelo reutilizável sem presumir fatos do caso concreto.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
