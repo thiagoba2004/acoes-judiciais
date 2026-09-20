@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000005",
   "current_strategy_name": "Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 7,
     "phase_total": 9,
-    "phase_code": "F-000003-000005-006",
-    "phase_name": "Alimentos provisórios e definitivos",
+    "phase_code": "F-000003-000005-007",
+    "phase_name": "Jurisprudência, doutrina e controvérsias",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fases 01 a 05 concluídas. Matriz parental distingue guarda, residência, convivência e poder familiar e integra proteção contra violência e escuta adequada.",
-  "next_logical_step": "Construir matriz de alimentos: titulares, necessidade, recursos/capacidade, proporcionalidade, provisórios/definitivos, despesas in natura/extraordinárias, renda variável e eventual alimentos entre ex-cônjuges.",
+  "last_completed_milestone": "Fases 01 a 06 concluídas. Matriz alimentar operacionaliza necessidades, capacidade, proporcionalidade, provisórios, renda variável, in natura e alimentos entre ex-cônjuges.",
+  "next_logical_step": "Consolidar jurisprudência já coletada, pesquisar doutrina verificável e montar matriz de controvérsias antes de produzir ferramentas/modelos.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
