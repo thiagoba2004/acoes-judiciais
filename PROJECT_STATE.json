@@ -15,10 +15,10 @@
     "phase_total": 8,
     "phase_code": "F-000003-000001-008",
     "phase_name": "Publicação, auditoria e fechamento",
-    "status": "EM_EXECUCAO"
+    "status": "BLOQUEADA_POR_HABILITACAO_PAGES"
   },
-  "last_completed_milestone": "Fase 07/08 concluída: roteiro de triagem, árvore decisória de cabimento, checklist de audiência e estrutura-base de petição inicial persistidos e coerentes com as fontes verificadas.",
-  "next_logical_step": "Consolidar o dossiê publicável da EA-000003-000001, sincronizar Markdown + HTML + JSON, auditar links, fontes, navegação e comportamento dos modelos, e verificar a publicação do Site.",
+  "last_completed_milestone": "Conteúdo público da Fase 08 consolidado e auditado; build do artefato público concluído com sucesso.",
+  "next_logical_step": "Habilitar GitHub Pages em Settings > Pages > Build and deployment > Source: GitHub Actions; depois reexecutar o workflow e verificar a URL pública.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -30,7 +30,7 @@
     "SOURCE_REGISTRY.jsonl"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "ESTRUTURADO_NAO_PUBLICADO",
+  "site_status": "PUBLICACAO_PREPARADA_PAGES_DESABILITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006"
 }
