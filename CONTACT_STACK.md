@@ -126,3 +126,28 @@ O próximo gate é o teste end-to-end real:
 3. exibição do mesmo protocolo na página de recibo;
 4. chegada da notificação administrativa ao Gmail institucional;
 5. chegada da confirmação de protocolo ao e-mail informado pelo visitante.
+
+
+## Teste real de 20/09/2026
+
+Foi executada uma submissão real pelo Site.
+
+Evidências observadas:
+- protocolo público: `AJ-20260920-164456-E2CFB5`;
+- registro técnico devolvido pelo Forminit: `3C3ZU5iSwqLA4Wen`;
+- página de confirmação exibiu “Mensagem recebida” somente após sucesso do Forminit;
+- a página informou “Confirmação enviada por e-mail”;
+- EmailJS History registrou resultado **OK**;
+- History ID: `email_BOfGy7keSDe6S2llZi6wjS5r`;
+- Service ID: `service_3dyw7gl`;
+- Template ID: `template_jz6al72`;
+- destinatário informado: `thiagoba2004@yahoo.com.br`;
+- parâmetro `protocolo` no EmailJS: `AJ-20260920-164456-E2CFB5`;
+- parâmetro `registro`: `3C3ZU5iSwqLA4Wen`;
+- parâmetro `projeto`: `Ações Judiciais`.
+
+### Estado do gate
+
+O fluxo técnico **Site → Forminit → registro técnico → EmailJS** está comprovado.
+
+Permanece uma verificação final para o estado `E2E_VERIFICADO`: confirmar a chegada da mensagem na caixa postal do destinatário, não apenas o aceite pelo provedor EmailJS.
