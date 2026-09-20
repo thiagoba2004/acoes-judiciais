@@ -64,3 +64,12 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 - teste real: `AJ-20260920-164456-E2CFB5`;
 - estado final: `E2E_VERIFICADO`;
 - dívida não bloqueante: primeira entrega ao Yahoo ocorreu em Spam.
+
+
+## EA-000003-000004 — Menu Doutrina — correção arquitetural — PLANEJADA
+
+1. **Fase 01/03 — Decisão arquitetural e escopo** — definir o papel público de Doutrina e sua relação com Fontes, Legislação e Jurisprudência.
+2. **Fase 02/03 — Implementação e integração** — criar rota, conteúdo inicial, menu global e Mapa do Site.
+3. **Fase 03/03 — Auditoria, deploy e fechamento** — verificar navegação, coerência conceitual, mobile e publicação.
+
+**Origem:** auditoria comprovou que Doutrina já existia como camada de pesquisa, mas foi omitida na transposição para a arquitetura pública.
