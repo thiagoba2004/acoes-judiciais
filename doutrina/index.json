@@ -53,6 +53,72 @@
           "url": "https://www.cnj.jus.br/ojs/revista-cnj/article/view/357"
         }
       ]
+    },
+    {
+      "title": "Direito das Famílias",
+      "items": [
+        {
+          "type": "livro",
+          "title": "Manual de Direito das Famílias",
+          "authors": [
+            "Maria Berenice Dias"
+          ],
+          "edition": "17ª",
+          "year": 2025,
+          "url": "https://www.editorajuspodivm.com.br/manual-de-direito-das-familias-2025"
+        },
+        {
+          "type": "livro",
+          "title": "Curso de Direito Civil: Famílias, v. 6",
+          "authors": [
+            "Cristiano Chaves de Farias",
+            "Nelson Rosenvald"
+          ],
+          "edition": "17ª",
+          "year": 2025,
+          "url": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DPP2311"
+        },
+        {
+          "type": "livro",
+          "title": "Manual de Direito de Família",
+          "authors": [
+            "Rolf Madaleno"
+          ],
+          "edition": "14ª",
+          "year": 2024,
+          "url": "https://www.rolfmadaleno.com.br/web/livros/"
+        },
+        {
+          "type": "livro",
+          "title": "Direito das Famílias",
+          "authors": [
+            "Rodrigo da Cunha Pereira"
+          ],
+          "edition": "5ª",
+          "year": 2024,
+          "url": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DPP2311"
+        },
+        {
+          "type": "livro",
+          "title": "Direito Civil, v. 5 — Direito de Família",
+          "authors": [
+            "Flávio Tartuce"
+          ],
+          "edition": "20ª",
+          "year": 2025,
+          "url": "https://www.flaviotartuce.adv.br/livros/2"
+        },
+        {
+          "type": "livro",
+          "title": "Direito Civil — Famílias, v. 5",
+          "authors": [
+            "Paulo Lôbo"
+          ],
+          "edition": "16ª",
+          "year": 2026,
+          "url": "https://www.grupogen.com.br/e-book-direito-civil-familias-vol-5-16-edicao-2026-paulo-lobo-saraiva-jur-9786584004887"
+        }
+      ]
     }
   ]
 }
