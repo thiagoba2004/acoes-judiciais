@@ -17,8 +17,8 @@
     "phase_name": "Fatos, documentos, prova e cálculos",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 03/08 concluída: matriz de cabimento, legitimidade e competência persistida, incluindo STJ, CNJ e fluxo TJBA, com controvérsias locais expressamente qualificadas.",
-  "next_logical_step": "Construir checklist factual/documental/probatório e modelo de diagnóstico financeiro necessário à repactuação, distinguindo documento essencial, útil e dependente do caso.",
+  "last_completed_milestone": "Fase 04 iniciada: checklist factual, documental, probatório e financeiro persistido com base no fluxo oficial do TJBA.",
+  "next_logical_step": "Criar modelo reproduzível de diagnóstico financeiro e matriz requisito legal → fato → documento/prova, testando com casos fictícios.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
