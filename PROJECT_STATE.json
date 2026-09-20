@@ -1,0 +1,24 @@
+{
+  "project_code": "PRJ-000003",
+  "project_sequence": 3,
+  "project_name": "Ações Judiciais",
+  "project_alias": "AJ",
+  "project_id": "acoes-judiciais",
+  "repository": "thiagoba2004/acoes-judiciais",
+  "status": "EM_IMPLANTACAO",
+  "kernel_version": "1.4",
+  "generator_release": "1.8",
+  "current_strategy_code": "EA-000003-000001",
+  "current_strategy_name": "Ação de Repactuação de Dívidas por Superendividamento",
+  "current_phase": {
+    "phase_number": 1,
+    "phase_total": 8,
+    "phase_code": "F-000003-000001-001",
+    "phase_name": "Delimitação e perguntas de pesquisa",
+    "status": "EM_EXECUCAO"
+  },
+  "last_completed_milestone": "Projeto inicializado pela Rota A do Gerador de Agents.",
+  "next_logical_step": "Definir perguntas jurídicas, escopo, hipóteses de cabimento e mapa inicial de fontes oficiais antes de produzir conclusões.",
+  "canonical_files": ["README.md","AGENTS.md","REQUEST_LOG.jsonl","STRATEGY_LOG.jsonl","PROJECT_STATE.json","ROADMAP.md","DECISIONS.md","SOURCE_REGISTRY.jsonl"],
+  "updated_at": "2026-09-20"
+}
