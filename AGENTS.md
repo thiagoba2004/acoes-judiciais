@@ -94,7 +94,24 @@ Nunca afirmar commit, publicação, implantação, jurisprudência verificada ou
 - nunca presumir fatos ausentes;
 - modelos de peças são pontos de partida e devem indicar variáveis que dependem do caso concreto.
 
-### 8.1. Dossiê mínimo por ação judicial
+### 8.1. Teses institucionais de entidades jurídicas não governamentais
+
+Cada Estratégia Autônoma deve identificar, quando materialmente relevante, instituições jurídicas não governamentais especializadas no ramo ou tema estudado — institutos, associações científicas, academias, centros de estudo e entidades equivalentes — e verificar se mantêm enunciados, notas técnicas, pareceres, manifestos, propostas legislativas, memoriais, intervenções como amicus curiae ou outras posições institucionais recuperáveis.
+
+Regras obrigatórias:
+
+- usar preferencialmente a fonte oficial da própria instituição;
+- registrar instituição, documento/enunciado, data ou edição, URL e tema;
+- deixar explícito que a posição é **institucional e não vinculante**, salvo se o documento tiver outra natureza jurídica comprovada;
+- nunca apresentar tese institucional como lei, súmula, precedente vinculante ou jurisprudência consolidada;
+- confrontar a posição com legislação e jurisprudência atual;
+- classificar a relação, quando possível, como `CONVERGENTE`, `DIVERGENTE`, `CONTROVERTIDA`, `SUPERADA` ou `SEM_CONFRONTO_SUFICIENTE`;
+- quando houver divergência relevante, mostrá-la ao leitor em vez de ocultá-la;
+- não criar cota artificial de instituições: incluir apenas entidades pertinentes ao tema e com posição verificável;
+- a área pública **Doutrina** organiza também teses institucionais; **Fontes** preserva a proveniência e o acesso ao documento institucional;
+- cada dossiê de ação deve possuir, quando aplicável, seção **Teses institucionais relevantes**.
+
+### 8.2. Dossiê mínimo por ação judicial
 
 Cada Estratégia Autônoma de ação judicial deve buscar, quando aplicável:
 
