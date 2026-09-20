@@ -17,7 +17,7 @@
     "phase_name": "Testes funcionais",
     "status": "BLOQUEADA_POR_CONFIGURACAO_EMAILJS"
   },
-  "last_completed_milestone": "Forminit isolado do Ações Judiciais criado em conta própria, modo Public, Form ID lprwcdbax4y registrado no frontend.",
+  "last_completed_milestone": "Forminit isolado do Ações Judiciais configurado: Form ID lprwcdbax4y, modo Public e Self-email notification ativa.",
   "next_logical_step": "Ativar a notificação do Forminit para acoesjudiciais2026@gmail.com, configurar EmailJS (Service ID, Template ID e Public Key), inserir os IDs e executar teste end-to-end.",
   "canonical_files": [
     "README.md",
@@ -67,7 +67,8 @@
     "forminit": {
       "form_id": "lprwcdbax4y",
       "authentication_mode": "Public",
-      "notification_recipient": "acoesjudiciais2026@gmail.com"
+      "notification_recipient": "acoesjudiciais2026@gmail.com",
+      "self_email_notification": "Active"
     },
     "emailjs": {
       "status": "PENDENTE_CONFIGURACAO"
