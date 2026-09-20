@@ -12,6 +12,8 @@ on:
       - "jurisprudencia/**"
       - "legislacao/**"
       - "fontes/**"
+      - "fale-conosco/**"
+      - "mapa-do-site/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -35,7 +37,7 @@ jobs:
         uses: actions/checkout@v6
       - name: Build public-only artifact
         run: |
-          mkdir -p _site/assets _site/acoes _site/guias _site/modelos _site/jurisprudencia _site/legislacao _site/fontes
+          mkdir -p _site/assets _site/acoes _site/guias _site/modelos _site/jurisprudencia _site/legislacao _site/fontes _site/fale-conosco _site/mapa-do-site
           cp index.html _site/index.html
           cp -R assets/. _site/assets/
           cp acoes/*.html _site/acoes/
@@ -44,6 +46,8 @@ jobs:
           cp jurisprudencia/*.html _site/jurisprudencia/
           cp legislacao/*.html _site/legislacao/
           cp fontes/*.html _site/fontes/
+          cp fale-conosco/*.html _site/fale-conosco/
+          cp mapa-do-site/*.html _site/mapa-do-site/
           touch _site/.nojekyll
       - name: Setup Pages
         uses: actions/configure-pages@v5

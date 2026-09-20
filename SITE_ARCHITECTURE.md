@@ -2,17 +2,19 @@
 
 ## Menu global
 
-Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fontes
+Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fontes · Fale Conosco
 
 ## Função de cada área
 
-- **Início:** apresentação e acesso às áreas.
+- **Início:** apresentação institucional enxuta; não funciona como catálogo dos Menus.
 - **Ações:** catálogo dos dossiês de ações judiciais.
 - **Guias:** roteiros operacionais e passo a passo.
 - **Modelos:** peças reutilizáveis vigentes.
 - **Jurisprudência:** precedentes e teses por controvérsia.
 - **Legislação:** normas e atos relevantes.
 - **Fontes:** acesso às fontes primárias e institucionais.
+- **Fale Conosco:** canal protocolado de contato.
+- **Mapa do Site:** índice estrutural acessível pelo rodapé, fora do menu global.
 
 ## Identidade visual
 

@@ -177,6 +177,19 @@ Regras:
 
 Os tokens visuais vigentes estão em `assets/style.css`.
 
+### 9.3. Início, Mapa do Site e Fale Conosco
+
+1. A página **Início** é institucional e enxuta. É proibido transformá-la em catálogo, índice ou explicação dos Menus.
+2. O catálogo de navegação deve ficar na página **Mapa do Site**.
+3. Toda página pública deve possuir, no rodapé, hiperlink denominado exatamente **Mapa do Site**.
+4. **Fale Conosco** integra obrigatoriamente o menu global.
+5. O Fale Conosco deve disponibilizar o e-mail institucional `acoesjudiciais2026@gmail.com` e formulário protocolado.
+6. O protocolo público usa prefixo `AJ-`, data/hora e componente aleatório.
+7. Se o visitante informar e-mail, o formulário deve solicitar o envio automático do protocolo ao endereço informado.
+8. O protocolo só identifica a comunicação; não significa análise, aceite ou resposta.
+9. Mudanças no provedor do formulário devem preservar geração de protocolo, confirmação visual e tentativa de confirmação por e-mail.
+10. A página de confirmação deve ser `noindex,nofollow`.
+
 ## 10. Módulo software
 
 - distinguir IMPLEMENTADO, TESTADO, VERSIONADO, IMPLANTADO e VERIFICADO EM EXECUÇÃO;
