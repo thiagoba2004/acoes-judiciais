@@ -2,5 +2,26 @@
   "title": "Guias",
   "updated_at": "2026-09-20",
   "html": "index.html",
-  "public_path": "guias/index.html"
+  "public_path": "guias/index.html",
+  "sections": [
+    {
+      "title": "Superendividamento",
+      "topics": [
+        "Triagem",
+        "Documentos",
+        "Plano",
+        "Audiência"
+      ]
+    },
+    {
+      "title": "Divórcio litigioso",
+      "topics": [
+        "Triagem",
+        "Patrimônio",
+        "Filhos",
+        "Tutelas"
+      ],
+      "dossier": "../acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html"
+    }
+  ]
 }
