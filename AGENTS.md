@@ -158,7 +158,7 @@ Antes de cada publicação, executar varredura de vazamento de governança. A pr
 
 O Site é uma arquitetura pública multipágina. Não pode ser reduzido a uma Home com cards e uma página longa.
 
-**Menu global obrigatório:** Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fontes · Fale Conosco.
+**Menu global obrigatório:** Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco.
 
 Regras obrigatórias:
 - o mesmo menu global aparece em todas as páginas;
@@ -168,6 +168,8 @@ Regras obrigatórias:
 - toda página pública possui no rodapé o hiperlink **Mapa do Site**;
 - `mapa-do-site/` reflete as rotas públicas reais;
 - páginas centrais de Menu possuem conteúdo útil, não placeholders;
+- Doutrina é área material própria e não deve ser absorvida por Fontes; Fontes registra proveniência e acesso, enquanto Doutrina organiza conteúdo interpretativo por tema/ação;
+- toda publicação doutrinária deve separar metadados verificados, escopo seguro de uso e teses efetivamente lidas;
 - a interface pública não exibe códigos, estados e metadados de governança interna;
 - `SITE_ARCHITECTURE.md` é a fonte da arquitetura;
 - `SITE_STYLE_GUIDE.md` é a fonte da identidade visual;
@@ -197,7 +199,7 @@ Regras:
 - cada projeto deve ter Forminit próprio ou isolamento de roteamento comprovado;
 - o canal só é declarado operacional após teste end-to-end real de recebimento + protocolo + e-mail.
 
-**Estado atual:** `MIGRACAO_TECNICA_PENDENTE` de FormSubmit para Forminit + EmailJS.
+**Estado atual:** `E2E_VERIFICADO` com Forminit + EmailJS.
 
 ## 12. Módulo software
 
