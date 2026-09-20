@@ -35,3 +35,15 @@ Estes achados formam o marco normativo inicial. Ainda NÃO estão fechadas:
 - modelos de peça.
 
 Esses pontos pertencem às fases seguintes e não devem ser inferidos a partir do marco normativo isolado.
+
+## ATUALIZAÇÃO JURISPRUDENCIAL OBRIGATÓRIA — STF, 23/04/2026
+
+O marco normativo regulamentar deve ser lido à luz do julgamento conjunto das ADPFs 1005, 1006 e 1097 pelo STF:
+
+1. a fixação de parâmetro quantitativo do mínimo existencial por decreto foi considerada constitucional, desde que submetida a reavaliações periódicas baseadas em estudos técnicos;
+2. o CMN deve avaliar anualmente a necessidade de atualização/manutenção do parâmetro;
+3. foi declarada **inconstitucional** a alínea `h` do inciso I do parágrafo único do art. 4º do Decreto 11.150/2022, que excluía parcelas de crédito consignado da aferição do mínimo existencial;
+4. portanto, qualquer trecho anterior deste Dossiê que trate a exclusão do consignado como regra vigente está **SUPERADO** a partir desta atualização.
+
+**Fonte:** AJ-SRC-000014.
+
