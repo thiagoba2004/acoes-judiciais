@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000001",
   "current_strategy_name": "Ação de Repactuação de Dívidas por Superendividamento",
   "current_phase": {
-    "phase_number": 7,
+    "phase_number": 8,
     "phase_total": 8,
-    "phase_code": "F-000003-000001-007",
-    "phase_name": "Ferramentas práticas",
+    "phase_code": "F-000003-000001-008",
+    "phase_name": "Publicação, auditoria e fechamento",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 06/08 concluída: matriz jurisprudencial consolidada, doutrina verificável incorporada e referências críticas sobre consignado e competência auditadas.",
-  "next_logical_step": "Produzir roteiro de triagem, checklist operacional de audiência/credor ausente, árvore decisória de cabimento e estrutura-base de modelo reutilizável sem presumir fatos do caso concreto.",
+  "last_completed_milestone": "Fase 07/08 concluída: roteiro de triagem, árvore decisória de cabimento, checklist de audiência e estrutura-base de petição inicial persistidos e coerentes com as fontes verificadas.",
+  "next_logical_step": "Consolidar o dossiê publicável da EA-000003-000001, sincronizar Markdown + HTML + JSON, auditar links, fontes, navegação e comportamento dos modelos, e verificar a publicação do Site.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
