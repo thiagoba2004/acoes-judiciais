@@ -1,0 +1,23 @@
+section,item_id,category,description,value,unit,frequency,status,evidence_ref,formula_or_note
+META,META-001,data_base,Data-base do diagnóstico,,date,,PENDENTE,,
+META,META-002,scenario,Cenário analisado,BASE,text,,ATIVO,,"BASE|CONSERVADOR|ESTRESSE"
+RENDA,R-001,recurring_income,Renda líquida recorrente principal,,BRL,monthly,PENDENTE,,
+RENDA,R-002,variable_income_average,Média mensal documentada de renda variável,,BRL,monthly,PENDENTE,,"informar período da média"
+DESPESA,D-001,essential_recurring,Despesas essenciais recorrentes,,BRL,monthly,PENDENTE,,
+DESPESA,D-002,essential_seasonal_average,Média mensal de despesas essenciais sazonais,,BRL,monthly,PENDENTE,,
+DESPESA,D-003,justified_contingency,Reserva/contingência justificada,,BRL,monthly,PENDENTE,,
+DIVIDA,DB-001,eligible_debt_service,Serviço mensal de dívidas potencialmente elegíveis,,BRL,monthly,PENDENTE,,
+DIVIDA,DB-002,excluded_debt_service,Serviço mensal de dívidas excluídas/fora do plano,,BRL,monthly,PENDENTE,,
+DIVIDA,DB-003,eligible_debt_balance,Saldo total potencialmente elegível,,BRL,stock,PENDENTE,,
+DIVIDA,DB-004,total_debt_balance,Saldo total de todas as dívidas,,BRL,stock,PENDENTE,,
+CALC,C-001,normalized_net_income,Renda líquida mensal normalizada,,BRL,monthly,CALCULADO,,"R-001 + R-002"
+CALC,C-002,normalized_essential_expense,Despesa essencial mensal normalizada,,BRL,monthly,CALCULADO,,"D-001 + D-002"
+CALC,C-003,margin_before_debt,Margem antes do serviço das dívidas,,BRL,monthly,CALCULADO,,"C-001 - C-002 - D-003"
+CALC,C-004,current_debt_service,Serviço atual total das dívidas,,BRL,monthly,CALCULADO,,"DB-001 + DB-002"
+CALC,C-005,balance_after_debt,Saldo após dívidas,,BRL,monthly,CALCULADO,,"C-003 - C-004"
+CALC,C-006,debt_service_ratio,Índice de serviço da dívida,,ratio,monthly,CALCULADO,,"C-004 / C-001; não usar corte universal sem fonte"
+CALC,C-007,debt_to_annual_income,Dívida total / renda líquida anual,,ratio,annual,CALCULADO,,"DB-004 / (C-001 * 12)"
+PLANO,P-001,proposed_global_payment,Parcela global em cenário de plano,,BRL,monthly,PENDENTE,,"não igualar automaticamente à margem"
+PLANO,P-002,post_plan_balance,Saldo mensal após parcela global proposta,,BRL,monthly,CALCULADO,,"C-003 - P-001"
+LEGAL,L-001,regulatory_minimum,Parâmetro regulamentar vigente de mínimo existencial,,BRL,monthly,PENDENTE,,"preencher com fonte e data"
+LEGAL,L-002,documented_essential_needs,Necessidades essenciais documentadas,,BRL,monthly,PENDENTE,,"não confundir automaticamente com L-001"
