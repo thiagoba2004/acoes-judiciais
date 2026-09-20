@@ -45,7 +45,7 @@ h3{font-size:1.24rem;line-height:1.2;margin:1.35rem 0 .4rem}
 .button.secondary:hover{background:var(--navy);color:#fff}
 .section-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.4rem 0 2.2rem}
 .resource-card{display:flex;flex-direction:column;gap:.5rem;min-width:0;padding:1.1rem 1.05rem 1.2rem;background:var(--surface);border:1px solid var(--line);border-top:5px solid var(--navy);text-decoration:none;color:inherit}
-.resource-card:hover{border-top-color:var(--accent);box-shadow:0 8px 24px rgba(18,45,74,.08);transform:translateY(-2px)}
+a.resource-card:hover{border-top-color:var(--accent);box-shadow:0 8px 24px rgba(18,45,74,.12);transform:translateY(-2px)}
 .resource-card small{color:var(--accent);font:800 .68rem/1.2 var(--font-sans);letter-spacing:.07em;text-transform:uppercase}
 .resource-card strong{font:700 1.22rem/1.2 var(--font-serif);color:var(--navy-deep)}
 .resource-card span{color:var(--muted);font-size:.92rem;line-height:1.48}
@@ -102,3 +102,32 @@ textarea{min-height:11rem;resize:vertical}
 .receipt-actions{display:flex;gap:.65rem;justify-content:center;flex-wrap:wrap;margin-top:1rem}
 .small{font-size:.86rem;color:var(--muted)}
 @media(max-width:760px){.site-map-grid,.contact-grid,.form-row{grid-template-columns:1fr}.home-main{min-height:62vh}}
+
+
+/* === Semântica visual dos cards === */
+a.resource-card{
+  cursor:pointer;
+  background:#e5edf4;
+  border-color:#aebdcc;
+  border-top:5px solid var(--navy)
+}
+a.resource-card:hover{
+  background:#d8e4ee;
+  border-color:#879bad;
+  border-top-color:var(--accent);
+  color:inherit
+}
+article.resource-card{
+  cursor:default;
+  background:var(--surface);
+  border-color:var(--line);
+  border-top:1px solid var(--line);
+  box-shadow:none
+}
+article.resource-card:hover{
+  background:var(--surface);
+  border-color:var(--line);
+  border-top-color:var(--line);
+  box-shadow:none;
+  transform:none
+}
