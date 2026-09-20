@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000003-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE"
+    "status": "TESTE_E2E_PENDENTE"
   },
-  "last_completed_milestone": "Stack do Fale Conosco configurada no frontend: Forminit lprwcdbax4y + EmailJS service_3dyw7gl/template_jz6al72 com Public Key registrada.",
-  "next_logical_step": "Aguardar deploy, realizar submissão real pelo Site com e-mail de retorno e verificar protocolo no Forminit, Gmail institucional e e-mail do visitante.",
+  "last_completed_milestone": "Forminit + EmailJS completamente configurados e publicados no Ações Judiciais; deploy 35533143519 concluído com sucesso.",
+  "next_logical_step": "Executar submissão real pelo Fale Conosco com e-mail de retorno, conferir Inbox do Forminit, notificação institucional e chegada do protocolo por EmailJS.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,14 +33,14 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONFIGURACAO_CONTATO_COMPLETA_TESTE_E2E_PENDENTE",
+  "site_status": "PUBLICADO_CONTATO_CONFIGURADO_TESTE_E2E_PENDENTE",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
+  "strategy_status": "TESTE_E2E_PENDENTE",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35527340255,
+    "workflow_run_id": 35533143519,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE"
