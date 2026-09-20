@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000003",
   "current_strategy_name": "Mapa do Site, Início enxuto e Fale Conosco protocolado",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 4,
     "phase_total": 4,
-    "phase_code": "F-000003-000003-003",
-    "phase_name": "Testes funcionais",
-    "status": "E2E_TECNICO_OK_ENTREGA_CAIXA_POSTAL_PENDENTE"
+    "phase_code": "F-000003-000003-004",
+    "phase_name": "Deploy, auditoria e fechamento",
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Teste real comprovou Forminit + protocolo + EmailJS: protocolo AJ-20260920-164456-E2CFB5, registro 3C3ZU5iSwqLA4Wen, EmailJS History email_BOfGy7keSDe6S2llZi6wjS5r com resultado OK.",
-  "next_logical_step": "Confirmar a chegada do e-mail de protocolo na caixa postal de thiagoba2004@yahoo.com.br; depois concluir Fase 03/04 e executar Fase 04/04 — auditoria, fechamento e publicação final da estratégia.",
+  "last_completed_milestone": "EA-000003-000003 concluída com Fale Conosco E2E_VERIFICADO. Teste real confirmou Forminit, protocolo AJ-20260920-164456-E2CFB5, EmailJS e entrega efetiva ao destinatário.",
+  "next_logical_step": "Próxima estratégia local aberta: concluir a configuração EmailJS e o teste end-to-end do Planejamento Financeiro (EA-000004-000003).",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,10 +33,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONTATO_E2E_TECNICO_OK_ENTREGA_EMAIL_PENDENTE",
+  "site_status": "PUBLICADO_CONTATO_E2E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "E2E_TECNICO_OK_ENTREGA_CAIXA_POSTAL_PENDENTE",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -57,7 +57,7 @@
   ],
   "visual_identity": "jurídica: azul-marinho, marfim, cobre; títulos serifados e interface sans-serif",
   "contact_protocol": {
-    "status": "E2E_TECNICO_OK_ENTREGA_CAIXA_POSTAL_PENDENTE",
+    "status": "E2E_VERIFICADO",
     "institutional_email": "acoesjudiciais2026@gmail.com",
     "protocol_prefix": "AJ",
     "canonical_stack": {
@@ -87,7 +87,12 @@
       "recipient": "thiagoba2004@yahoo.com.br",
       "project": "Ações Judiciais",
       "browser": "Chrome / Android",
-      "delivery_to_inbox": "PENDENTE_DE_EVIDENCIA"
+      "delivery_to_inbox": "CONFIRMADA_APOS_REMOCAO_DE_SPAM",
+      "initial_delivery_folder": "SPAM",
+      "user_marked_not_spam": true
     }
-  }
+  },
+  "non_blocking_debts": [
+    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura."
+  ]
 }
