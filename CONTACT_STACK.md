@@ -53,3 +53,16 @@ O frontend já segue a lógica Forminit + EmailJS. A ativação pública depende
 - executar teste end-to-end real.
 
 Enquanto esses identificadores não existirem, o formulário permanece oculto e o e-mail institucional direto continua disponível.
+
+
+## Limite de formulários da conta
+
+Em 20/09/2026, ao tentar criar o formulário isolado **Fale Conosco — Ações Judiciais**, o painel Forminit exibiu: “You have reached your form limit. Please increase your package to add more.”
+
+A tabela pública do Forminit informa:
+- Free: 1 formulário;
+- Pro: 5 formulários;
+- Business: 15 formulários;
+- Volume: sem limite de formulários.
+
+O formulário do Classe e Massas não deve ser apagado nem reutilizado para este projeto apenas para contornar o limite. A solução precisa preservar isolamento entre projetos.
