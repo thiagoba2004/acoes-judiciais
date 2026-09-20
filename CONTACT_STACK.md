@@ -29,6 +29,7 @@ O FormSubmit foi removido da camada pública. O frontend já usa a stack canôni
 - `FORM_ID`: `lprwcdbax4y`;
 - Authentication mode: `Public`;
 - notificação de recebimento destinada a `acoesjudiciais2026@gmail.com`;
+- Self-email notification: `Active`;
 - configurar EmailJS para envio ao e-mail informado pelo visitante;
 - registrar `SERVICE_ID`, `TEMPLATE_ID` e chave pública quando aplicável;
 - não reutilizar FORM_ID do Classe e Massas sem comprovar isolamento.
@@ -83,3 +84,8 @@ Em seguida, o usuário entrou com o e-mail próprio do projeto Ações Judiciais
 - destinatário da notificação: `acoesjudiciais2026@gmail.com`.
 
 Portanto, o estado `BLOQUEADA_POR_LIMITE_DE_CONTA_FORMINIT` está superado.
+
+
+## Self-email notification ativada
+
+A captura subsequente do painel Actions mostrou **Self-email notification — Active**, confirmando a ativação da notificação administrativa do Forminit.
