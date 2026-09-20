@@ -248,7 +248,28 @@ Calcular conforme os pedidos cumulados e as regras aplicáveis.
 - STJ — jurisprudência de 2026: FGTS do período conjugal em comunhão parcial é comunicável.
 - STJ — jurisprudência de 2026: horas extras e PLR recebem tratamento distinto na base alimentar.
 
-## 10. Doutrina para aprofundamento
+## 10. Teses institucionais relevantes
+
+Além da doutrina individual, este dossiê acompanha posições institucionais de entidades jurídicas não governamentais especializadas. Essas teses são **atribuídas, não vinculantes** e devem ser confrontadas com a legislação e a jurisprudência vigentes.
+
+### IBDFAM — Instituto Brasileiro de Direito de Família
+
+Entre os Enunciados do IBDFAM relevantes para esta ação:
+
+- **Enunciado 01:** sustenta a extinção da separação judicial após a EC 66/2010. **Situação:** convergente com o Tema 1053 do STF.
+- **Enunciado 02:** sustenta que a separação de fato encerra o regime de bens. **Situação:** convergente, em linhas gerais, com a jurisprudência atual do STJ, sempre dependendo da prova do marco fático.
+- **Enunciado 14:** inclui a participação nos lucros e resultados na base dos alimentos ad valorem, salvo disposição em contrário. **Situação:** há divergência relevante com a orientação atual do STJ, que não admite inclusão automática da PLR e exige análise concreta da necessidade.
+- **Enunciado 18:** defende como regra o julgamento parcial do mérito para decretar o divórcio e prosseguir com as demais questões. **Situação:** convergente com precedente recente do STJ.
+- **Enunciado 46:** admite, excepcionalmente e de forma justificada, divórcio em tutela provisória antes da oitiva da outra parte. **Situação:** tese institucional que exige conferência da técnica processual adequada ao caso.
+- **Enunciado 47:** propõe que a violência doméstica repercuta na definição da convivência parental. **Situação:** convergente com a legislação atual de proteção contra risco de violência.
+- **Enunciado 58:** propõe considerar o tempo de cuidado dedicado aos filhos na fixação dos alimentos. **Situação:** tese institucional não vinculante, relevante para a análise concreta de proporcionalidade.
+- **Enunciado 60:** sustenta que o divórcio liminar não extingue automaticamente obrigações econômicas assumidas durante o casamento, a depender do contexto. **Situação:** tese institucional não vinculante que exige confronto com contrato, alimentos, dependência econômica e partilha.
+
+Fontes oficiais:
+- [IBDFAM — Enunciados](https://ibdfam.org.br/index.php/conheca-o-ibdfam/enunciados-ibdfam)
+- [IBDFAM — Enunciados Doutrinários 2026/2027](https://ibdfam.org.br/publicacoes/enunciados)
+
+## 11. Doutrina para aprofundamento
 
 Referências gerais, a consultar na edição e trecho pertinentes:
 - Maria Berenice Dias — *Manual de Direito das Famílias*, 17ª ed., 2025.
@@ -258,7 +279,7 @@ Referências gerais, a consultar na edição e trecho pertinentes:
 - Flávio Tartuce — *Direito Civil, v. 5 — Direito de Família*, 20ª ed., 2025.
 - Paulo Lôbo — *Direito Civil — Famílias, v. 5*, 16ª ed., 2026.
 
-## 11. Fontes centrais
+## 12. Fontes centrais
 
 - Constituição Federal e Emenda Constitucional nº 66/2010.
 - Código Civil.
