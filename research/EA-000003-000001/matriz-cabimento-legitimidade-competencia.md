@@ -116,3 +116,15 @@ O gate é considerado satisfeito porque:
 - pontos territoriais/localmente variáveis permaneceram marcados como pendentes.
 
 A próxima fase deve converter essa matriz em **checklist factual, documental, probatório e financeiro**, sem ainda produzir modelo final de petição.
+
+## ATUALIZAÇÃO OBRIGATÓRIA — JURISPRUDÊNCIA EM TESES/STJ 282
+
+A edição 282 do STJ, disponibilizada em 12/06/2026, exige refinar a seção de competência:
+
+1. **Concurso de credores com presença de ente federal:** a Justiça Estadual é competente para a ação global de repactuação, em razão da exceção do art. 109, I, da Constituição para concurso de credores.
+2. **Polo passivo composto exclusivamente por instituição financeira federal:** a competência é da **Justiça Federal**.
+3. **Ação de cobrança autônoma proposta por empresa pública federal:** a competência federal é absoluta e não se desloca por conexão, continência ou mera coexistência com o processo de superendividamento.
+
+Portanto, qualquer formulação anterior do tipo “a presença de credor federal nunca desloca a competência” deve ser lida com esta qualificação.
+
+**Fonte:** AJ-SRC-000015 — teses 8, 9 e 10.
