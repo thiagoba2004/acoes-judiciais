@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000003-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "TESTE_E2E_PENDENTE"
+    "status": "E2E_TECNICO_OK_ENTREGA_CAIXA_POSTAL_PENDENTE"
   },
-  "last_completed_milestone": "Forminit + EmailJS completamente configurados e publicados no Ações Judiciais; deploy 35533143519 concluído com sucesso.",
-  "next_logical_step": "Executar submissão real pelo Fale Conosco com e-mail de retorno, conferir Inbox do Forminit, notificação institucional e chegada do protocolo por EmailJS.",
+  "last_completed_milestone": "Teste real comprovou Forminit + protocolo + EmailJS: protocolo AJ-20260920-164456-E2CFB5, registro 3C3ZU5iSwqLA4Wen, EmailJS History email_BOfGy7keSDe6S2llZi6wjS5r com resultado OK.",
+  "next_logical_step": "Confirmar a chegada do e-mail de protocolo na caixa postal de thiagoba2004@yahoo.com.br; depois concluir Fase 03/04 e executar Fase 04/04 — auditoria, fechamento e publicação final da estratégia.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,10 +33,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONTATO_CONFIGURADO_TESTE_E2E_PENDENTE",
+  "site_status": "PUBLICADO_CONTATO_E2E_TECNICO_OK_ENTREGA_EMAIL_PENDENTE",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "TESTE_E2E_PENDENTE",
+  "strategy_status": "E2E_TECNICO_OK_ENTREGA_CAIXA_POSTAL_PENDENTE",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -57,7 +57,7 @@
   ],
   "visual_identity": "jurídica: azul-marinho, marfim, cobre; títulos serifados e interface sans-serif",
   "contact_protocol": {
-    "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
+    "status": "E2E_TECNICO_OK_ENTREGA_CAIXA_POSTAL_PENDENTE",
     "institutional_email": "acoesjudiciais2026@gmail.com",
     "protocol_prefix": "AJ",
     "canonical_stack": {
@@ -77,6 +77,17 @@
       "public_key": "bRDjSNFb96VvEUPvx",
       "connected_account": "acoesjudiciais2026@gmail.com",
       "template_name": "Confirmação de Protocolo — Ações Judiciais"
+    },
+    "last_test": {
+      "timestamp": "2026-09-20T16:45:02-03:00",
+      "protocol": "AJ-20260920-164456-E2CFB5",
+      "forminit_record": "3C3ZU5iSwqLA4Wen",
+      "emailjs_history_id": "email_BOfGy7keSDe6S2llZi6wjS5r",
+      "emailjs_result": "OK",
+      "recipient": "thiagoba2004@yahoo.com.br",
+      "project": "Ações Judiciais",
+      "browser": "Chrome / Android",
+      "delivery_to_inbox": "PENDENTE_DE_EVIDENCIA"
     }
   }
 }
