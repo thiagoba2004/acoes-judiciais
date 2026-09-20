@@ -42,6 +42,17 @@ O artigo trata do papel do Poder Judiciário no tratamento do superendividamento
 
 [Consultar artigo na Revista CNJ](https://www.cnj.jus.br/ojs/revista-cnj/article/view/357)
 
+## Direito das Famílias
+
+- Maria Berenice Dias — *Manual de Direito das Famílias*, 17ª ed., 2025.
+- Cristiano Chaves de Farias e Nelson Rosenvald — *Curso de Direito Civil: Famílias*, v. 6, 17ª ed., 2025.
+- Rolf Madaleno — *Manual de Direito de Família*, 14ª ed., 2024.
+- Rodrigo da Cunha Pereira — *Direito das Famílias*, 5ª ed., 2024.
+- Flávio Tartuce — *Direito Civil, v. 5 — Direito de Família*, 20ª ed., 2025.
+- Paulo Lôbo — *Direito Civil — Famílias, v. 5*, 16ª ed., 2026.
+
+As obras são referências para aprofundamento. Teses específicas só devem ser atribuídas após leitura do trecho correspondente.
+
 ## Como usar a doutrina
 
 A consulta doutrinária deve ser combinada com:
