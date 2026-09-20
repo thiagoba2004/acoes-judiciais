@@ -2,7 +2,7 @@
 
 ## Menu global
 
-Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fontes · Fale Conosco
+Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco
 
 ## Função de cada área
 
@@ -11,6 +11,7 @@ Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fon
 - **Guias:** roteiros operacionais e passo a passo.
 - **Modelos:** peças reutilizáveis vigentes.
 - **Jurisprudência:** precedentes e teses por controvérsia.
+- **Doutrina:** obras, capítulos e artigos organizados por ação/tema, com escopo de uso e limites de atribuição.
 - **Legislação:** normas e atos relevantes.
 - **Fontes:** acesso às fontes primárias e institucionais.
 - **Fale Conosco:** canal protocolado de contato.
