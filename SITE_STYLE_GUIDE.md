@@ -24,6 +24,9 @@ A identidade deve transmitir rigor jurídico, consulta, clareza e confiabilidade
 
 - cabeçalho escuro e sóbrio;
 - cards com bordas retas e ênfase superior;
+- **cards clicáveis** (`a.resource-card`) usam fundo azul-claro `#e5edf4`, borda azul acinzentada e faixa superior azul-marinho; no hover, ganham fundo `#d8e4ee`, faixa cobre e leve elevação;
+- **cards estáticos** (`article.resource-card`) usam superfície branco-quente/marfim, borda neutra, sem faixa superior colorida, sem deslocamento e sem sombra de hover;
+- a diferença entre navegação e informação deve ser perceptível **pela cor e pelo comportamento**, sem rótulos redundantes como “ACESSAR →”;
 - tabelas editoriais;
 - botões sólidos, sem aparência de aplicativo financeiro;
 - leitura longa com largura controlada.
