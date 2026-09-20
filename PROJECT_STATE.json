@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000003-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_POR_LIMITE_DE_CONTA_FORMINIT"
+    "status": "BLOQUEADA_POR_CONFIGURACAO_EMAILJS"
   },
-  "last_completed_milestone": "Frontend canônico Forminit + EmailJS publicado; FormSubmit removido; deploy verificado. Backend permanece sem configuração autenticada.",
-  "next_logical_step": "Disponibilizar capacidade para um Forminit próprio do Ações Judiciais, criar o formulário e obter o Form ID; depois configurar EmailJS e testar E2E.",
+  "last_completed_milestone": "Forminit isolado do Ações Judiciais criado em conta própria, modo Public, Form ID lprwcdbax4y registrado no frontend.",
+  "next_logical_step": "Ativar a notificação do Forminit para acoesjudiciais2026@gmail.com, configurar EmailJS (Service ID, Template ID e Public Key), inserir os IDs e executar teste end-to-end.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,10 +33,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONTATO_FRONTEND_CANONICO_BACKEND_NAO_CONFIGURADO",
+  "site_status": "PUBLICADO_FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "BLOQUEADA_POR_LIMITE_DE_CONTA_FORMINIT",
+  "strategy_status": "BLOQUEADA_POR_CONFIGURACAO_EMAILJS",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -57,13 +57,20 @@
   ],
   "visual_identity": "jurídica: azul-marinho, marfim, cobre; títulos serifados e interface sans-serif",
   "contact_protocol": {
-    "status": "BLOQUEADO_POR_LIMITE_DE_CONTA_FORMINIT",
+    "status": "FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
     "institutional_email": "acoesjudiciais2026@gmail.com",
     "protocol_prefix": "AJ",
     "canonical_stack": {
       "receipt": "Forminit",
       "email_confirmation": "EmailJS"
     },
-    "current_nonconforming_stack": null
+    "forminit": {
+      "form_id": "lprwcdbax4y",
+      "authentication_mode": "Public",
+      "notification_recipient": "acoesjudiciais2026@gmail.com"
+    },
+    "emailjs": {
+      "status": "PENDENTE_CONFIGURACAO"
+    }
   }
 }

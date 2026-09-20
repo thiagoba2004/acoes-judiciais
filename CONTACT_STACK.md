@@ -2,9 +2,9 @@
 
 ## Estado
 
-**FRONTEND MIGRADO / BACKEND NÃO CONFIGURADO**
+**FORMINIT CONFIGURADO / EMAILJS PENDENTE**
 
-A implementação pública atual usa **FormSubmit** e foi classificada como não conforme após a revisão do padrão.
+O FormSubmit foi removido da camada pública. O frontend já usa a stack canônica Forminit + EmailJS.
 
 ## Padrão canônico aprovado
 
@@ -25,8 +25,10 @@ A implementação pública atual usa **FormSubmit** e foi classificada como não
 
 ## Configuração exigida antes do teste
 
-- criar Forminit próprio do projeto, com roteamento ao e-mail institucional;
-- registrar `FORM_ID`;
+- Forminit próprio do projeto criado;
+- `FORM_ID`: `lprwcdbax4y`;
+- Authentication mode: `Public`;
+- notificação de recebimento destinada a `acoesjudiciais2026@gmail.com`;
 - configurar EmailJS para envio ao e-mail informado pelo visitante;
 - registrar `SERVICE_ID`, `TEMPLATE_ID` e chave pública quando aplicável;
 - não reutilizar FORM_ID do Classe e Massas sem comprovar isolamento.
@@ -46,13 +48,13 @@ O canal só pode ser declarado operacional depois de teste real que comprove:
 
 O frontend já segue a lógica Forminit + EmailJS. A ativação pública depende de configuração autenticada nos painéis dos provedores:
 
-- criar um formulário próprio no Forminit, colocá-lo em modo Public e obter o Form ID;
-- configurar o recebimento/armazenamento correspondente ao projeto;
+- Forminit próprio já criado em modo Public, com `FORM_ID lprwcdbax4y`;
+- notificação de recebimento apontada para `acoesjudiciais2026@gmail.com`;
 - criar ou validar serviço/template EmailJS e obter Service ID, Template ID e Public Key;
 - inserir os quatro identificadores no frontend;
 - executar teste end-to-end real.
 
-Enquanto esses identificadores não existirem, o formulário permanece oculto e o e-mail institucional direto continua disponível.
+Enquanto os identificadores do EmailJS não existirem, o formulário permanece oculto e o e-mail institucional direto continua disponível.
 
 
 ## Limite de formulários da conta
@@ -66,3 +68,18 @@ A tabela pública do Forminit informa:
 - Volume: sem limite de formulários.
 
 O formulário do Classe e Massas não deve ser apagado nem reutilizado para este projeto apenas para contornar o limite. A solução precisa preservar isolamento entre projetos.
+
+
+## Correção do bloqueio por limite de conta
+
+O alerta de limite registrado anteriormente ocorreu porque a tentativa foi feita na conta Forminit já utilizada pelo Classe e Massas.
+
+Em seguida, o usuário entrou com o e-mail próprio do projeto Ações Judiciais e criou com sucesso o formulário isolado:
+
+- nome: **Fale Conosco — Ações Judiciais**;
+- Form ID: `lprwcdbax4y`;
+- endpoint exibido: `/f/lprwcdbax4y`;
+- Authentication mode: **Public**;
+- destinatário da notificação: `acoesjudiciais2026@gmail.com`.
+
+Portanto, o estado `BLOQUEADA_POR_LIMITE_DE_CONTA_FORMINIT` está superado.
