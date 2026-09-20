@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000001",
   "current_strategy_name": "Ação de Repactuação de Dívidas por Superendividamento",
   "current_phase": {
-    "phase_number": 2,
+    "phase_number": 3,
     "phase_total": 8,
-    "phase_code": "F-000003-000001-002",
-    "phase_name": "Marco normativo e conceitos",
+    "phase_code": "F-000003-000001-003",
+    "phase_name": "Cabimento, legitimidade e competência",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 01/08 concluída: escopo e perguntas de pesquisa persistidos em research/EA-000003-000001/perguntas-de-pesquisa.md.",
-  "next_logical_step": "Levantar e verificar as fontes normativas e institucionais primárias sobre superendividamento antes de produzir conclusões.",
+  "last_completed_milestone": "Fase 02/08 concluída: núcleo normativo primário registrado e verificado em SOURCE_REGISTRY.jsonl e research/EA-000003-000001/marco-normativo-inicial.md.",
+  "next_logical_step": "Pesquisar cabimento, legitimidade e competência, com atenção a divergências entre Justiça comum, Juizados, CEJUSCs e órgãos administrativos.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
