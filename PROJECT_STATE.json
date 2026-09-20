@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000005",
   "current_strategy_name": "Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
   "current_phase": {
-    "phase_number": 7,
+    "phase_number": 8,
     "phase_total": 9,
-    "phase_code": "F-000003-000005-007",
-    "phase_name": "Jurisprudência, doutrina e controvérsias",
+    "phase_code": "F-000003-000005-008",
+    "phase_name": "Ferramentas práticas e modelos",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fases 01 a 06 concluídas. Matriz alimentar operacionaliza necessidades, capacidade, proporcionalidade, provisórios, renda variável, in natura e alimentos entre ex-cônjuges.",
-  "next_logical_step": "Consolidar jurisprudência já coletada, pesquisar doutrina verificável e montar matriz de controvérsias antes de produzir ferramentas/modelos.",
+  "last_completed_milestone": "Fases 01 a 07 concluídas. Jurisprudência classificada por força e controvérsia; camada doutrinária verificável criada.",
+  "next_logical_step": "Produzir roteiro de triagem, checklist documental, inventário patrimonial, matriz de despesas dos filhos, cronologia, quadro de pedidos/tutelas e estrutura-base de petição com variáveis explícitas.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
