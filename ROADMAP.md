@@ -66,7 +66,7 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 - dívida não bloqueante: primeira entrega ao Yahoo ocorreu em Spam.
 
 
-## EA-000003-000004 — Menu Doutrina — correção arquitetural — EM EXECUÇÃO
+## EA-000003-000004 — Menu Doutrina — correção arquitetural — FASE 03/03
 
 1. **Fase 01/03 — Decisão arquitetural e escopo** — definir o papel público de Doutrina e sua relação com Fontes, Legislação e Jurisprudência.
 2. **Fase 02/03 — Implementação e integração** — criar rota, conteúdo inicial, menu global e Mapa do Site.
