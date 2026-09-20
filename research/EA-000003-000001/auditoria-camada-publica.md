@@ -26,3 +26,11 @@
 ## Regra preventiva
 
 O AGENTS.md agora proíbe exposição de governança interna na UI pública e exige varredura antes de cada publicação.
+
+## Verificação final de implantação
+
+- Workflow: `35522738059`.
+- Resultado: `completed/success`.
+- Build, Setup Pages, Upload e Deploy: `success`.
+- Arquivos públicos auditados: `index.html`, `acoes/repactuacao-superendividamento.html`.
+- Resultado da varredura de marcadores internos: **zero ocorrências**.
