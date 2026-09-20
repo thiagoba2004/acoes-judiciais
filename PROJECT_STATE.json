@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000003-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_POR_TEMPLATE_E_PUBLIC_KEY_EMAILJS"
+    "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE"
   },
-  "last_completed_milestone": "EmailJS Service criado para o Ações Judiciais: service_3dyw7gl, conta institucional conectada; Forminit já configurado.",
-  "next_logical_step": "Criar template EmailJS de confirmação de protocolo, obter Template ID e Public Key, inserir no frontend e executar teste end-to-end.",
+  "last_completed_milestone": "Stack do Fale Conosco configurada no frontend: Forminit lprwcdbax4y + EmailJS service_3dyw7gl/template_jz6al72 com Public Key registrada.",
+  "next_logical_step": "Aguardar deploy, realizar submissão real pelo Site com e-mail de retorno e verificar protocolo no Forminit, Gmail institucional e e-mail do visitante.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,10 +33,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_FORMINIT_E_EMAILJS_SERVICE_CONFIGURADOS_TEMPLATE_PENDENTE",
+  "site_status": "PUBLICADO_CONFIGURACAO_CONTATO_COMPLETA_TESTE_E2E_PENDENTE",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "BLOQUEADA_POR_TEMPLATE_E_PUBLIC_KEY_EMAILJS",
+  "strategy_status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -57,7 +57,7 @@
   ],
   "visual_identity": "jurídica: azul-marinho, marfim, cobre; títulos serifados e interface sans-serif",
   "contact_protocol": {
-    "status": "FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
+    "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
     "institutional_email": "acoesjudiciais2026@gmail.com",
     "protocol_prefix": "AJ",
     "canonical_stack": {
@@ -67,13 +67,16 @@
     "forminit": {
       "form_id": "lprwcdbax4y",
       "authentication_mode": "Public",
-      "notification_recipient": "acoesjudiciais2026@gmail.com",
-      "self_email_notification": "Active"
+      "self_email_notification": "Active",
+      "notification_recipient": "acoesjudiciais2026@gmail.com"
     },
     "emailjs": {
-      "status": "SERVICE_CONFIGURADO_TEMPLATE_E_PUBLIC_KEY_PENDENTES",
+      "status": "CONFIGURADO_TESTE_E2E_PENDENTE",
       "service_id": "service_3dyw7gl",
-      "connected_account": "acoesjudiciais2026@gmail.com"
+      "template_id": "template_jz6al72",
+      "public_key": "bRDjSNFb96VvEUPvx",
+      "connected_account": "acoesjudiciais2026@gmail.com",
+      "template_name": "Confirmação de Protocolo — Ações Judiciais"
     }
   }
 }

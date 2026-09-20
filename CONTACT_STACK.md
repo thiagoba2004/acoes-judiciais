@@ -2,7 +2,7 @@
 
 ## Estado
 
-**FORMINIT CONFIGURADO / EMAILJS SERVICE CONFIGURADO / TEMPLATE PENDENTE**
+**FORMINIT + EMAILJS CONFIGURADOS / TESTE E2E PENDENTE**
 
 O FormSubmit foi removido da camada pública. O frontend já usa a stack canônica Forminit + EmailJS.
 
@@ -106,3 +106,23 @@ O teste end-to-end ainda não está concluído. Permanecem pendentes:
 - obtenção da Public Key;
 - inserção dos identificadores no frontend;
 - teste real de recebimento + confirmação por e-mail.
+
+
+## EmailJS Template e Public Key configurados
+
+Em 20/09/2026, a configuração do EmailJS foi completada com:
+
+- Service ID: `service_3dyw7gl`;
+- Template: **Confirmação de Protocolo — Ações Judiciais**;
+- Template ID: `template_jz6al72`;
+- Public Key: `bRDjSNFb96VvEUPvx`;
+- variáveis do template: `to_email`, `protocolo`, `registro`, `projeto`.
+
+A Public Key é um identificador público de cliente usado pelo SDK no navegador. Não é tratada como segredo de backend.
+
+O próximo gate é o teste end-to-end real:
+1. submissão pelo Site;
+2. confirmação de sucesso do Forminit;
+3. exibição do mesmo protocolo na página de recibo;
+4. chegada da notificação administrativa ao Gmail institucional;
+5. chegada da confirmação de protocolo ao e-mail informado pelo visitante.

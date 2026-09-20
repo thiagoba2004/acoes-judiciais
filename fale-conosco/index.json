@@ -7,16 +7,20 @@
     "receipt": "Forminit",
     "email_confirmation": "EmailJS"
   },
-  "status": "FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
+  "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
   "html": "index.html",
   "forminit": {
     "form_id": "lprwcdbax4y",
     "authentication_mode": "Public",
+    "self_email_notification": "Active",
     "notification_recipient": "acoesjudiciais2026@gmail.com"
   },
   "emailjs": {
-    "status": "SERVICE_CONFIGURADO_TEMPLATE_E_PUBLIC_KEY_PENDENTES",
+    "status": "CONFIGURADO_TESTE_E2E_PENDENTE",
     "service_id": "service_3dyw7gl",
-    "connected_account": "acoesjudiciais2026@gmail.com"
+    "template_id": "template_jz6al72",
+    "public_key": "bRDjSNFb96VvEUPvx",
+    "connected_account": "acoesjudiciais2026@gmail.com",
+    "template_name": "Confirmação de Protocolo — Ações Judiciais"
   }
 }
