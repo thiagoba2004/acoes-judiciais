@@ -3,7 +3,7 @@
 **Estratégia:** EA-000003-000001  
 **Projeto:** PRJ-000003 — Ações Judiciais  
 **Última revisão:** 20/09/2026  
-**Estado editorial:** DOSSIÊ CONSOLIDADO — publicação preparada
+**Estado editorial:** DOSSIÊ CONSOLIDADO — PUBLICADO
 
 Este dossiê organiza, de forma teórica e prática, a ação/procedimento de repactuação de dívidas por superendividamento prevista no Código de Defesa do Consumidor (CDC), com as alterações da Lei nº 14.181/2021.
 

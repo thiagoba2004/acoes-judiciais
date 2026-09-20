@@ -2,7 +2,7 @@
   "slug": "repactuacao-superendividamento",
   "type": "legal-dossier",
   "title": "Ação de Repactuação de Dívidas por Superendividamento",
-  "status": "PUBLICACAO_PREPARADA",
+  "status": "PUBLICADO",
   "project_code": "PRJ-000003",
   "strategy_code": "EA-000003-000001",
   "phase": "08/08",
@@ -32,5 +32,9 @@
     "AJ-SRC-000014",
     "AJ-SRC-000015"
   ],
-  "review_date": "2026-09-20"
+  "review_date": "2026-09-20",
+  "public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
+  "deployment_run_id": 35521317252,
+  "deployment_attempt": 2,
+  "deployment_status": "SUCCESS"
 }

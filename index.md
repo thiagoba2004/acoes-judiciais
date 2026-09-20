@@ -8,6 +8,6 @@ Fonte pública de consulta teórica e prática sobre possíveis ações judiciai
 
 O primeiro dossiê já possui pesquisa normativa, jurisprudencial e doutrinária, metodologia probatória/financeira, roteiro de triagem, árvore decisória, checklist de audiência e estrutura-base de petição.
 
-**Estado técnico do Site:** conteúdo público preparado; implantação no GitHub Pages ainda depende da habilitação do serviço no repositório.
+**Estado técnico do Site:** PUBLICADO no GitHub Pages — https://thiagoba2004.github.io/acoes-judiciais/
 
 O Projeto separa fatos, fontes jurídicas, interpretações, controvérsias e ferramentas práticas e mantém somente a edição vigente dos modelos no Site Público.
