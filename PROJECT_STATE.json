@@ -17,8 +17,8 @@
     "phase_name": "Auditoria, deploy e fechamento",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Defeito preventivamente identificado: doutrina/ não estava incluída no artefato GitHub Pages; workflow corrigido.",
-  "next_logical_step": "Confirmar deploy corretivo de Doutrina e então manter EA-000003-000004 como concluída com publicação realmente acessível.",
+  "last_completed_milestone": "Correção preventiva da publicação de Doutrina concluída; workflow 35538616915 success.",
+  "next_logical_step": "Retomar a próxima prioridade do Projeto Ações Judiciais.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,18 +33,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "CORRECAO_PREVENTIVA_PUBLICACAO_DOUTRINA_EM_DEPLOY",
+  "site_status": "PUBLICADO_MENU_DOUTRINA_AUDITADO_CONTATO_E2E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/doutrina/",
   "last_deployment": {
-    "workflow_run_id": 35537406550,
+    "workflow_run_id": 35538616915,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "232f154d943cd2e57fdf6bc5f7d022b1b600a41e"
+    "public_content_commit": "c9d905c5ca11c66bb3a9550e446c1f6074ac8e00"
   },
   "public_menu": [
     "Início",
