@@ -1,9 +1,6 @@
 # Ação de Repactuação de Dívidas por Superendividamento
 
-**Estratégia:** EA-000003-000001  
-**Projeto:** PRJ-000003 — Ações Judiciais  
 **Última revisão:** 20/09/2026  
-**Estado editorial:** DOSSIÊ CONSOLIDADO — PUBLICADO
 
 Este dossiê organiza, de forma teórica e prática, a ação/procedimento de repactuação de dívidas por superendividamento prevista no Código de Defesa do Consumidor (CDC), com as alterações da Lei nº 14.181/2021.
 
@@ -74,7 +71,7 @@ O dossiê recomenda organizar:
 - eventos que alteraram renda ou despesas;
 - diagnóstico financeiro reproduzível.
 
-Cada informação deve ser marcada como comprovada, declarada sem prova, divergente ou não informada.
+Para organizar a prova, classifique cada informação como comprovada, ainda não comprovada, divergente ou não informada.
 
 ## 8. Ferramentas práticas
 
@@ -93,18 +90,18 @@ A estrutura abaixo é um ponto de partida. Não é petição pronta e contém va
 ### COPIAR MODELO
 
 ```text
-AO JUÍZO [VAR_JUIZO_COMPETENTE]
+AO JUÍZO [JUÍZO COMPETENTE]
 
-[VAR_CONSUMIDOR], [VAR_QUALIFICACAO], propõe procedimento de
+[NOME DO CONSUMIDOR], [QUALIFICAÇÃO], propõe procedimento de
 REPACTUAÇÃO DE DÍVIDAS POR SUPERENDIVIDAMENTO
 em face dos credores relacionados no quadro anexo.
 
 I — DOS FATOS
-1. Renda líquida atual: [VAR_RENDA].
-2. Despesas essenciais documentadas: [VAR_DESPESAS_ESSENCIAIS].
-3. Serviço mensal das dívidas: [VAR_SERVICO_DIVIDA].
-4. Evolução do endividamento e eventos relevantes: [VAR_CRONOLOGIA].
-5. Tentativas anteriores de negociação: [VAR_NEGOCIACOES].
+1. Renda líquida atual: [RENDA LÍQUIDA].
+2. Despesas essenciais documentadas: [DESPESAS ESSENCIAIS].
+3. Serviço mensal das dívidas: [SERVIÇO MENSAL DAS DÍVIDAS].
+4. Evolução do endividamento e eventos relevantes: [CRONOLOGIA DOS FATOS].
+5. Tentativas anteriores de negociação: [TENTATIVAS DE NEGOCIAÇÃO].
 
 II — DO ENQUADRAMENTO
 Demonstrar, com fatos e documentos:
@@ -122,11 +119,11 @@ III — DA COMPETÊNCIA
 Verificar ainda a organização judiciária local.
 
 IV — DO DIAGNÓSTICO ECONÔMICO
-RENDA_LIQUIDA = [VAR]
-DESPESAS_ESSENCIAIS = [VAR]
-SERVICO_MENSAL_DAS_DIVIDAS = [VAR]
-ATIVOS_LIQUIDOS = [VAR]
-FLUXO_LIVRE = [VAR]
+RENDA LÍQUIDA = [VALOR]
+DESPESAS ESSENCIAIS = [VALOR]
+SERVIÇO MENSAL DAS DÍVIDAS = [VALOR]
+ATIVOS LÍQUIDOS = [VALOR]
+FLUXO LIVRE = [VALOR]
 Explicar a metodologia e anexar documentos.
 
 V — DO PLANO CONSENSUAL

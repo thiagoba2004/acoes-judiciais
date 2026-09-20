@@ -132,6 +132,28 @@ Se forem publicados Modelos reutilizáveis:
 - versões anteriores permanecem no Git ou em mecanismo não publicado;
 - a verificação deve testar posição do botão, alvo da cópia e ausência de acesso público à edição superada.
 
+### 9.1. Separação entre governança interna e Site Público
+
+O Site Público é orientado ao leitor externo. A governança do projeto permanece no repositório e **não deve ser exibida na interface pública**.
+
+É proibido publicar na UI, rodapé, cabeçalho, cards, tabelas, modelos ou metadados destinados ao navegador:
+
+- códigos internos de projeto, estratégia, fase, pedido, evento ou fonte (`PRJ-*`, `EA-*`, `F-*`, `REQ-*`, `EVT-*`, `SRC-*`);
+- número/total de fases, gates, estados de workflow ou estados editoriais/técnicos;
+- versões de kernel/gerador, IDs de deployment, run, commit, branch ou arquivos de governança;
+- nomes como `PROJECT_STATE`, `REQUEST_LOG`, `STRATEGY_LOG`, `AGENTS` ou equivalentes;
+- rótulos de controle metodológico que só façam sentido internamente.
+
+Pode permanecer público quando útil ao leitor:
+
+- título e conteúdo material;
+- data de atualização/revisão em linguagem comum;
+- fontes jurídicas, bibliográficas e institucionais;
+- avisos de uso e limitações;
+- ferramentas, modelos e explicações em linguagem natural.
+
+Antes de cada publicação, executar varredura de vazamento de governança. A presença de qualquer marcador interno na camada pública bloqueia o deploy.
+
 ## 10. Módulo software
 
 - distinguir IMPLEMENTADO, TESTADO, VERSIONADO, IMPLANTADO e VERIFICADO EM EXECUÇÃO;

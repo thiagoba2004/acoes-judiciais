@@ -1,16 +1,10 @@
 {
-  "slug": "index",
-  "type": "homepage",
   "title": "Ações Judiciais",
-  "status": "PUBLICADO",
-  "source_markdown": "index.md",
-  "html": "index.html",
-  "project_code": "PRJ-000003",
-  "featured_strategy": "EA-000003-000001",
+  "description": "Consulta teórica e prática sobre ações judiciais, com fontes e instrumentos verificáveis.",
   "updated_at": "2026-09-20",
-  "pages_enabled": true,
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "deployment_run_id": 35521317252,
-  "deployment_attempt": 2,
-  "deployment_status": "SUCCESS"
+  "featured_content": {
+    "title": "Ação de Repactuação de Dívidas por Superendividamento",
+    "url": "acoes/repactuacao-superendividamento.html"
+  }
 }
