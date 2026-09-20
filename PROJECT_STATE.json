@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000005",
   "current_strategy_name": "Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 4,
     "phase_total": 9,
-    "phase_code": "F-000003-000005-003",
-    "phase_name": "Competência, rito, cumulação, segredo de justiça e tutelas provisórias",
+    "phase_code": "F-000003-000005-004",
+    "phase_name": "Partilha: acervo, comunicabilidade, dívidas, avaliação e prova",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fases 01 e 02 concluídas: escopo com 44 perguntas persistido e núcleo normativo federal primário verificado.",
-  "next_logical_step": "Construir a matriz da Fase 03 sobre competência, compatibilidade da cumulação, procedimento, segredo de justiça, Ministério Público, julgamento parcial e tutelas provisórias, incluindo violência doméstica/familiar.",
+  "last_completed_milestone": "Fases 01 a 03 concluídas. Matriz processual consolidou competência, cumulação, rito, segredo, MP, violência, divórcio parcial e tutelas provisórias.",
+  "next_logical_step": "Construir a matriz patrimonial da Fase 04 por regime de bens, classe de ativo/passivo, data de aquisição, origem dos recursos, comunicabilidade, prova e método de avaliação.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
