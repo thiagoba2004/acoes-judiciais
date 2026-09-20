@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000003-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_POR_CONFIGURACAO_EXTERNA"
+    "status": "BLOQUEADA_POR_LIMITE_DE_CONTA_FORMINIT"
   },
   "last_completed_milestone": "Frontend canônico Forminit + EmailJS publicado; FormSubmit removido; deploy verificado. Backend permanece sem configuração autenticada.",
-  "next_logical_step": "Criar/configurar Forminit e EmailJS nos painéis autenticados, inserir IDs reais e executar teste end-to-end.",
+  "next_logical_step": "Disponibilizar capacidade para um Forminit próprio do Ações Judiciais, criar o formulário e obter o Form ID; depois configurar EmailJS e testar E2E.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -36,7 +36,7 @@
   "site_status": "PUBLICADO_CONTATO_FRONTEND_CANONICO_BACKEND_NAO_CONFIGURADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "BLOQUEADA_POR_CONFIGURACAO_EXTERNA",
+  "strategy_status": "BLOQUEADA_POR_LIMITE_DE_CONTA_FORMINIT",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -57,7 +57,7 @@
   ],
   "visual_identity": "jurídica: azul-marinho, marfim, cobre; títulos serifados e interface sans-serif",
   "contact_protocol": {
-    "status": "BACKEND_NAO_CONFIGURADO",
+    "status": "BLOQUEADO_POR_LIMITE_DE_CONTA_FORMINIT",
     "institutional_email": "acoesjudiciais2026@gmail.com",
     "protocol_prefix": "AJ",
     "canonical_stack": {
