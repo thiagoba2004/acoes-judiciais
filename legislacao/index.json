@@ -2,5 +2,30 @@
   "title": "Legislação",
   "updated_at": "2026-09-20",
   "html": "index.html",
-  "public_path": "legislacao/index.html"
+  "public_path": "legislacao/index.html",
+  "sections": [
+    {
+      "title": "Superendividamento",
+      "items": [
+        "CDC",
+        "Lei 14.181/2021",
+        "Decreto 11.150/2022",
+        "Decreto 11.567/2023",
+        "Recomendação CNJ 125/2021"
+      ]
+    },
+    {
+      "title": "Divórcio, partilha, guarda e alimentos",
+      "items": [
+        "Constituição/EC 66",
+        "Código Civil",
+        "CPC",
+        "ECA",
+        "Lei 5.478/1968",
+        "Lei 14.713/2023",
+        "Lei Maria da Penha",
+        "Leis 15.411/2026 e 15.412/2026"
+      ]
+    }
+  ]
 }
