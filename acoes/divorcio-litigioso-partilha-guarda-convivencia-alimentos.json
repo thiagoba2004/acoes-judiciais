@@ -1,0 +1,30 @@
+{
+  "title": "Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
+  "updated_at": "2026-09-20",
+  "public_path": "acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html",
+  "html": "divorcio-litigioso-partilha-guarda-convivencia-alimentos.html",
+  "topics": [
+    "Divórcio",
+    "Processo e competência",
+    "Partilha de bens e dívidas",
+    "Guarda e convivência",
+    "Alimentos",
+    "Prova e triagem",
+    "Modelo",
+    "Jurisprudência",
+    "Doutrina",
+    "Fontes"
+  ],
+  "key_rules": [
+    "Divórcio não depende de separação judicial prévia.",
+    "Divórcio pode ser concedido sem prévia partilha.",
+    "Guarda compartilhada não implica divisão igualitária do tempo.",
+    "Não existe percentual legal universal de alimentos.",
+    "Comunicabilidade patrimonial depende do regime, data, causa, origem dos recursos e prova."
+  ],
+  "model": {
+    "id": "modelo-divorcio",
+    "copy_button": true
+  },
+  "last_review": "2026-09-20"
+}
