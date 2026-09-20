@@ -1,10 +1,6 @@
 {
   "title": "Ações Judiciais",
-  "description": "Consulta teórica e prática sobre ações judiciais, com fontes e instrumentos verificáveis.",
+  "description": "Pesquisa jurídica aplicada, fontes verificáveis e instrumentos práticos para análise de ações judiciais.",
   "updated_at": "2026-09-20",
-  "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "featured_content": {
-    "title": "Ação de Repactuação de Dívidas por Superendividamento",
-    "url": "acoes/repactuacao-superendividamento.html"
-  }
+  "public_url": "https://thiagoba2004.github.io/acoes-judiciais/"
 }
