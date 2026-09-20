@@ -35,3 +35,12 @@ Produzir checklists, roteiro de triagem e, se aprovado, modelos reutilizáveis c
 ### FASE 08/08 [F-000003-000001-008] — Publicação, auditoria e fechamento
 Gerar/sincronizar Markdown + HTML + JSON, revisar links e fontes e verificar publicação.  
 **Gate:** dossiê publicável, coerente e verificável.
+
+
+## EA-000003-000002 — Arquitetura pública e identidade visual do Site Ações Judiciais
+
+1. **Fase 01/05 — Arquitetura de informação e identidade visual** — definir menu global, páginas centrais, hierarquia pública e design tokens exclusivos.
+2. **Fase 02/05 — Implementação do sistema global** — criar CSS, cabeçalho, menu responsivo, componentes e rodapé compartilhados.
+3. **Fase 03/05 — Construção das páginas centrais** — criar e popular as áreas do menu com conteúdo existente e rotas claras.
+4. **Fase 04/05 — Migração e integração do conteúdo atual** — adaptar páginas já publicadas à nova navegação e identidade.
+5. **Fase 05/05 — Auditoria, deploy e verificação pública** — testar navegação, responsividade, ausência de vazamento interno e publicação GitHub Pages.
