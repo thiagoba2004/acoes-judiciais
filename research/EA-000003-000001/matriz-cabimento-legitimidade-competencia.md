@@ -37,15 +37,13 @@ Na operacionalização do TJBA, o consumidor aparece como polo ativo e os credor
 
 ### Estado: CONSOLIDADO NO STJ
 
-O STJ, em conflitos de competência da Segunda Seção, firmou que o processo de superendividamento dos arts. 104-A e 104-B é de competência da Justiça Estadual ou Distrital **mesmo quando entidade federal integra o polo passivo**.
+O STJ distingue três situações, que não podem ser fundidas em uma regra única:
 
-Fundamento central:
-- natureza concursal;
-- necessidade de juízo único/universal;
-- reunião global dos débitos e credores;
-- exceção prevista no art. 109, I, da Constituição para processos de natureza concursal.
+1. **concurso global de credores com presença de ente federal e credores não federais:** a repactuação permanece na Justiça Estadual/Distrital, em razão da natureza concursal e da exceção do art. 109, I, da Constituição;
+2. **polo passivo composto exclusivamente por instituição financeira federal:** a competência é da Justiça Federal;
+3. **ação de cobrança autônoma proposta por empresa pública federal:** permanece na Justiça Federal e não se desloca por conexão, continência ou mera coexistência com a repactuação.
 
-Fontes principais: AJ-SRC-000006 e jurisprudência posterior incorporada ao registro.
+Fontes principais: AJ-SRC-000006 e AJ-SRC-000015.
 
 ## 5. CEJUSC, Núcleo e Procon
 
@@ -100,7 +98,7 @@ Para Salvador/BA, já há estrutura institucional comprovada de Núcleo de Super
 | Há quadro global de superendividamento? | Se não: avaliar outro instrumento |
 | Dívidas são de consumo e elegíveis? | Excluir as legalmente afastadas |
 | Há múltiplos credores/dívidas com necessidade de tratamento global? | Favorece o procedimento concursal |
-| Há ente federal entre credores? | Não desloca, por si, para Justiça Federal |
+| Há ente federal entre credores? | Se houver concurso global com credores não federais, a repactuação permanece na Justiça Estadual/Distrital; se o polo passivo for exclusivamente federal, a competência é da Justiça Federal |
 | Há estrutura pré-processual/CEJUSC/Procon disponível? | Mapear e avaliar uso conforme jurisdição |
 | Pretende-se usar Juizado Especial? | Verificar jurisprudência e organização local; não presumir competência |
 | Unidade judicial/foro territorial confirmados? | Obrigatório antes do protocolo |
@@ -110,7 +108,7 @@ Para Salvador/BA, já há estrutura institucional comprovada de Núcleo de Super
 O gate é considerado satisfeito porque:
 - cabimento foi delimitado sem extrapolar o marco normativo;
 - legitimidades foram identificadas;
-- competência Estadual/Distrital x Federal foi consolidada com STJ;
+- competência Estadual/Distrital x Federal foi consolidada com a distinção entre concurso global, polo exclusivamente federal e cobrança federal autônoma;
 - fluxo institucional baiano foi documentado;
 - controvérsia sobre Juizados foi explicitada sem falsa uniformização;
 - pontos territoriais/localmente variáveis permaneceram marcados como pendentes.
@@ -125,6 +123,6 @@ A edição 282 do STJ, disponibilizada em 12/06/2026, exige refinar a seção de
 2. **Polo passivo composto exclusivamente por instituição financeira federal:** a competência é da **Justiça Federal**.
 3. **Ação de cobrança autônoma proposta por empresa pública federal:** a competência federal é absoluta e não se desloca por conexão, continência ou mera coexistência com o processo de superendividamento.
 
-Portanto, qualquer formulação anterior do tipo “a presença de credor federal nunca desloca a competência” deve ser lida com esta qualificação.
+A formulação principal desta matriz já foi corrigida para incorporar essas três hipóteses, evitando a generalização anterior.
 
 **Fonte:** AJ-SRC-000015 — teses 8, 9 e 10.
