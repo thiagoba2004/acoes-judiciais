@@ -2,7 +2,7 @@
 
 ## Estado
 
-**FORMINIT CONFIGURADO / EMAILJS PENDENTE**
+**FORMINIT CONFIGURADO / EMAILJS SERVICE CONFIGURADO / TEMPLATE PENDENTE**
 
 O FormSubmit foi removido da camada pública. O frontend já usa a stack canônica Forminit + EmailJS.
 
@@ -89,3 +89,20 @@ Portanto, o estado `BLOQUEADA_POR_LIMITE_DE_CONTA_FORMINIT` está superado.
 ## Self-email notification ativada
 
 A captura subsequente do painel Actions mostrou **Self-email notification — Active**, confirmando a ativação da notificação administrativa do Forminit.
+
+
+## EmailJS Service criado
+
+Em 20/09/2026, foi criado o serviço Gmail isolado do projeto:
+
+- nome: **Gmail — Ações Judiciais**;
+- Service ID: `service_3dyw7gl`;
+- conta conectada: `acoesjudiciais2026@gmail.com`;
+- estado no painel: serviço criado e marcado como **DEFAULT**.
+
+O teste end-to-end ainda não está concluído. Permanecem pendentes:
+- criação do template de confirmação de protocolo;
+- obtenção do Template ID;
+- obtenção da Public Key;
+- inserção dos identificadores no frontend;
+- teste real de recebimento + confirmação por e-mail.

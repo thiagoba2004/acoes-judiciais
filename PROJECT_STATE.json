@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000003-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_POR_CONFIGURACAO_EMAILJS"
+    "status": "BLOQUEADA_POR_TEMPLATE_E_PUBLIC_KEY_EMAILJS"
   },
-  "last_completed_milestone": "Forminit isolado do Ações Judiciais configurado: Form ID lprwcdbax4y, modo Public e Self-email notification ativa.",
-  "next_logical_step": "Ativar a notificação do Forminit para acoesjudiciais2026@gmail.com, configurar EmailJS (Service ID, Template ID e Public Key), inserir os IDs e executar teste end-to-end.",
+  "last_completed_milestone": "EmailJS Service criado para o Ações Judiciais: service_3dyw7gl, conta institucional conectada; Forminit já configurado.",
+  "next_logical_step": "Criar template EmailJS de confirmação de protocolo, obter Template ID e Public Key, inserir no frontend e executar teste end-to-end.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,10 +33,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
+  "site_status": "PUBLICADO_FORMINIT_E_EMAILJS_SERVICE_CONFIGURADOS_TEMPLATE_PENDENTE",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "BLOQUEADA_POR_CONFIGURACAO_EMAILJS",
+  "strategy_status": "BLOQUEADA_POR_TEMPLATE_E_PUBLIC_KEY_EMAILJS",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -71,7 +71,9 @@
       "self_email_notification": "Active"
     },
     "emailjs": {
-      "status": "PENDENTE_CONFIGURACAO"
+      "status": "SERVICE_CONFIGURADO_TEMPLATE_E_PUBLIC_KEY_PENDENTES",
+      "service_id": "service_3dyw7gl",
+      "connected_account": "acoesjudiciais2026@gmail.com"
     }
   }
 }
