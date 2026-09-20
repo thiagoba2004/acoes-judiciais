@@ -12,6 +12,7 @@
     "Prova e triagem",
     "Modelo",
     "Jurisprudência",
+    "Teses institucionais",
     "Doutrina",
     "Fontes"
   ],
@@ -26,5 +27,57 @@
     "id": "modelo-divorcio",
     "copy_button": true
   },
-  "last_review": "2026-09-20"
+  "last_review": "2026-09-20",
+  "institutional_positions": [
+    {
+      "institution": "Instituto Brasileiro de Direito de Família — IBDFAM",
+      "nature": "posição institucional não vinculante",
+      "sources": [
+        "https://ibdfam.org.br/index.php/conheca-o-ibdfam/enunciados-ibdfam",
+        "https://ibdfam.org.br/publicacoes/enunciados"
+      ],
+      "selected_enunciados": [
+        {
+          "number": 1,
+          "relation": "CONVERGENTE",
+          "context": "divórcio e separação judicial"
+        },
+        {
+          "number": 2,
+          "relation": "CONVERGENTE_EM_LINHAS_GERAIS",
+          "context": "separação de fato e regime de bens"
+        },
+        {
+          "number": 14,
+          "relation": "DIVERGENTE_DA_ORIENTACAO_STJ_ATUAL",
+          "context": "PLR e base alimentar"
+        },
+        {
+          "number": 18,
+          "relation": "CONVERGENTE",
+          "context": "julgamento parcial do divórcio"
+        },
+        {
+          "number": 46,
+          "relation": "TESE_INSTITUCIONAL",
+          "context": "divórcio em tutela provisória"
+        },
+        {
+          "number": 47,
+          "relation": "CONVERGENTE_COM_LEGISLACAO_ATUAL",
+          "context": "violência doméstica e convivência"
+        },
+        {
+          "number": 58,
+          "relation": "TESE_INSTITUCIONAL_NAO_VINCULANTE",
+          "context": "tempo de cuidado e alimentos"
+        },
+        {
+          "number": 60,
+          "relation": "TESE_INSTITUCIONAL_NAO_VINCULANTE",
+          "context": "divórcio liminar e obrigações econômicas"
+        }
+      ]
+    }
+  ]
 }
