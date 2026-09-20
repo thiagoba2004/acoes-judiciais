@@ -1,5 +1,10 @@
 # Ações
 
-Página central da área **Ações** do Site Ações Judiciais.
+A área **Ações** reúne dossiês jurídicos teórico-práticos, com fundamentos, prova, procedimento, riscos e instrumentos para adaptação ao caso concreto.
 
-Consulte a versão HTML pública para a navegação e os recursos disponíveis nesta área.
+## Dossiês disponíveis
+
+- [Repactuação de Dívidas por Superendividamento](repactuacao-superendividamento.html)
+- [Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos](divorcio-litigioso-partilha-guarda-convivencia-alimentos.html)
+
+**Última revisão:** 20/09/2026.
