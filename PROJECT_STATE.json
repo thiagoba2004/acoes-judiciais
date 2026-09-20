@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000004",
-  "current_strategy_name": "Menu Doutrina — correção arquitetural",
+  "current_strategy_code": "EA-000003-000005",
+  "current_strategy_name": "Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
   "current_phase": {
-    "phase_number": 3,
-    "phase_total": 3,
-    "phase_code": "F-000003-000004-003",
-    "phase_name": "Auditoria, deploy e fechamento",
-    "status": "CONCLUIDA"
+    "phase_number": 1,
+    "phase_total": 9,
+    "phase_code": "F-000003-000005-001",
+    "phase_name": "Delimitação e perguntas de pesquisa",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Correção preventiva da publicação de Doutrina concluída; workflow 35538616915 success.",
-  "next_logical_step": "Retomar a próxima prioridade do Projeto Ações Judiciais.",
+  "last_completed_milestone": "Nova Estratégia Autônoma de Direito de Família registrada com Plano de Fases completo.",
+  "next_logical_step": "Iniciar a Fase 01/09: delimitar escopo, perguntas jurídicas, público, hipóteses de cumulação e fronteiras entre informação geral e análise de caso concreto.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -36,9 +36,9 @@
   "site_status": "PUBLICADO_MENU_DOUTRINA_AUDITADO_CONTATO_E2E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/doutrina/",
+  "current_strategy_public_url": null,
   "last_deployment": {
     "workflow_run_id": 35538616915,
     "attempt": 1,
@@ -96,5 +96,6 @@
   },
   "non_blocking_debts": [
     "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura."
-  ]
+  ],
+  "planned_public_path": "acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html"
 }

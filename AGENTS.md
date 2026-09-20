@@ -212,7 +212,7 @@ Regras:
 
 ## 13. Interoperabilidade com outros projetos
 
-O tema “superendividamento” também pode ser estudado no PRJ-000004 — Planejamento Financeiro. A referência cruzada é permitida, mas cada projeto mantém sua própria fonte da verdade, estratégia, análise e conclusão. Não copiar silenciosamente conteúdo entre projetos.
+Temas com consequências financeiras, inclusive **superendividamento** e **divórcio litigioso com partilha, guarda, convivência e alimentos**, podem ser estudados também no PRJ-000004 — Planejamento Financeiro. O PRJ-000003 permanece fonte da verdade para questões jurídicas; o PRJ-000004 pode usar resultados jurídicos confirmados como premissas/cenários financeiros. Cada projeto mantém estratégia, fontes, análise e conclusão próprias. Não copiar silenciosamente conteúdo entre projetos.
 
 ## 14. Fechamento
 

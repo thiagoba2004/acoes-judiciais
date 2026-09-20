@@ -86,3 +86,42 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 - quatro referências doutrinárias iniciais sobre Superendividamento;
 - auditoria: 12 páginas HTML, 159 links internos e 11 âncoras, sem quebra;
 - deploy público `35537406550`: **success**.
+
+
+## EA-000003-000005 — Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos — PLANEJADA
+
+### FASE 01/09 [F-000003-000005-001] — Delimitação e perguntas de pesquisa
+Definir objeto, público, pressupostos, hipóteses de cumulação e perguntas jurídicas centrais, distinguindo informação geral de análise de caso concreto.  
+**Gate:** escopo, perguntas e limites persistidos.
+
+### FASE 02/09 [F-000003-000005-002] — Marco normativo, casamento e regime de bens
+Levantar e verificar Constituição, Código Civil, Código de Processo Civil, Estatuto da Criança e do Adolescente, Lei de Alimentos e demais fontes primárias pertinentes, incluindo regime de bens e efeitos patrimoniais do casamento.  
+**Gate:** núcleo normativo primário registrado, datado e classificado.
+
+### FASE 03/09 [F-000003-000005-003] — Competência, rito, cumulação, segredo de justiça e tutelas provisórias
+Mapear competência, procedimento, possibilidade e limites da cumulação dos pedidos, intervenção do Ministério Público quando aplicável, segredo de justiça e tutelas provisórias, sem tratar medidas urgentes como automáticas.  
+**Gate:** matriz processual de entrada e urgência verificada.
+
+### FASE 04/09 [F-000003-000005-004] — Partilha: acervo, comunicabilidade, dívidas, avaliação e prova
+Estruturar identificação do patrimônio, datas relevantes, titularidade formal, comunicabilidade, passivos, avaliação de ativos, frutos, empresas, financiamentos e documentos probatórios, preservando controvérsias conforme o regime de bens.  
+**Gate:** matriz bem/dívida/regime/fato/prova e metodologia de avaliação persistidas.
+
+### FASE 05/09 [F-000003-000005-005] — Guarda, convivência e proteção integral
+Examinar guarda, convivência, rotina, tomada de decisões, melhor interesse da criança/adolescente, prova, escuta protegida quando juridicamente cabível e situações de risco ou violência, sem converter preferências parentais em presunções jurídicas.  
+**Gate:** mapa de questões, provas e alternativas de organização parental verificado.
+
+### FASE 06/09 [F-000003-000005-006] — Alimentos provisórios e definitivos
+Mapear titulares, necessidades, capacidade contributiva, proporcionalidade, despesas ordinárias e extraordinárias, alimentos provisórios/definitivos, eventual obrigação entre ex-cônjuges e efeitos processuais relevantes.  
+**Gate:** matriz necessidade/capacidade/proporcionalidade/prova e variáveis de cálculo documentadas.
+
+### FASE 07/09 [F-000003-000005-007] — Jurisprudência, doutrina e controvérsias
+Pesquisar precedentes e doutrina sobre partilha, bens particulares/comuns, dívidas, guarda, convivência, alimentos, empresas, previdência, imóveis e demais controvérsias encontradas, distinguindo entendimento consolidado, divergência e hipótese.  
+**Gate:** fundamentos críticos e controvérsias verificáveis.
+
+### FASE 08/09 [F-000003-000005-008] — Ferramentas práticas e modelos
+Produzir roteiro de triagem, checklist documental, inventário patrimonial, matriz de despesas dos filhos, cronologia, quadro de pedidos/tutelas e, se adequado, modelos reutilizáveis com variáveis explícitas e alertas de adaptação ao caso concreto.  
+**Gate:** instrumentos revisados e coerentes com fontes e limites profissionais.
+
+### FASE 09/09 [F-000003-000005-009] — Publicação, interoperabilidade financeira, auditoria e fechamento
+Sincronizar Markdown + HTML + JSON, integrar Legislação/Jurisprudência/Doutrina/Fontes, relacionar consequências financeiras ao PRJ-000004 sem transferir conclusões jurídicas, auditar links, workflow Pages e publicação.  
+**Gate:** dossiê publicável, verificável, sem vazamento de governança e com interface interprojetos documentada.
