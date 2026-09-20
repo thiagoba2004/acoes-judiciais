@@ -4,7 +4,7 @@
 **Estratégia:** EA-000003-000001 — Ação de Repactuação de Dívidas por Superendividamento  
 **Fase:** 06/08 — Jurisprudência, doutrina e controvérsias  
 **Data de corte:** 20/09/2026  
-**Estado:** VERSÃO 1 — NÚCLEO JURISPRUDENCIAL CONSOLIDADO
+**Estado:** VERSÃO 2 — NÚCLEO JURISPRUDENCIAL CONSOLIDADO + CAMADA DOUTRINÁRIA VERIFICADA
 
 ## 1. Escala de estado
 
@@ -117,17 +117,26 @@ A incompatibilidade é defendida em precedentes/orientações locais, mas ainda 
 
 ## 9. Doutrina
 
-A incorporação de doutrina será feita em camada própria, com:
-- autor/obra/edição;
-- tese atribuída;
-- relação com a controvérsia;
-- distinção entre interpretação doutrinária e precedente judicial.
+A camada doutrinária foi consolidada em `camada-doutrinaria-verificada.md`, com metadados e escopo controlados.
 
-Nenhum argumento doutrinário será inventado por memória.
+Fontes-base:
+- AJ-SRC-000021 — Benjamin, Marques, Lima e Vial, comentários à Lei 14.181/2021;
+- AJ-SRC-000022 — Buzzi, Marques, Cabral e Andrade (coord.), obra coletiva de 2024;
+- AJ-SRC-000023 — Gonçalves e Sabino, capítulo registrado na BDJur/STJ;
+- AJ-SRC-000024 — Cabral, Santiago e Freitas, artigo da Revista CNJ.
+
+Regra de hierarquia: doutrina orienta interpretação e sistematização, mas não é tratada como precedente, não substitui a lei e não prevalece sobre decisão vinculante do STF ou orientação jurisprudencial superior verificada.
 
 ## 10. Gate da Fase 06
 
-O núcleo jurisprudencial superior está suficientemente consolidado para avançar, mas a fase somente deve ser encerrada após:
-- registrar formalmente as correções em todos os arquivos afetados;
-- consolidar pelo menos uma camada de doutrina verificável OU registrar a doutrina como subfrente pendente da Fase 07, se não bloquear ferramentas práticas;
-- auditar referências cruzadas sobre consignado e competência.
+**SATISFEITO.**
+
+Foram cumpridos os requisitos de fechamento:
+- núcleo jurisprudencial superior consolidado e datado;
+- controvérsias locais mantidas visíveis;
+- correção sobre consignado após as ADPFs 1005, 1006 e 1097 registrada;
+- competência federal/estadual saneada sem generalização;
+- camada doutrinária verificável criada;
+- referências cruzadas críticas auditadas.
+
+A estratégia avança para a **Fase 07/08 — Ferramentas práticas**.
