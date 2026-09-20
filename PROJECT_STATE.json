@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000001",
   "current_strategy_name": "Ação de Repactuação de Dívidas por Superendividamento",
   "current_phase": {
-    "phase_number": 5,
+    "phase_number": 6,
     "phase_total": 8,
-    "phase_code": "F-000003-000001-005",
-    "phase_name": "Procedimento, pedidos e alternativas",
+    "phase_code": "F-000003-000001-006",
+    "phase_name": "Jurisprudência, doutrina e controvérsias",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 04/08 concluída: checklist probatório, matriz requisito→fato→prova, metodologia financeira, template CSV e teste estrutural persistidos.",
-  "next_logical_step": "Reconstruir o fluxo dos arts. 104-A a 104-C do CDC e do procedimento operacional baiano, distinguindo conciliação, plano consensual, fase judicial compulsória, pedidos possíveis e alternativas.",
+  "last_completed_milestone": "Fase 05/08 concluída: mapa dos arts. 104-A/104-B/104-C, arquitetura de pedidos, limites e alternativas persistidos.",
+  "next_logical_step": "Construir matriz jurisprudencial por controvérsia: mínimo existencial, tutela provisória, Juizados/competência interna, boa-fé, dívidas excluídas, credor ausente, consignado/desconto em conta e plano compulsório.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
