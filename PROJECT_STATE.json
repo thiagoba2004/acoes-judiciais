@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000005",
   "current_strategy_name": "Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
   "current_phase": {
-    "phase_number": 8,
+    "phase_number": 9,
     "phase_total": 9,
-    "phase_code": "F-000003-000005-008",
-    "phase_name": "Ferramentas práticas e modelos",
+    "phase_code": "F-000003-000005-009",
+    "phase_name": "Publicação, interoperabilidade financeira, auditoria e fechamento",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fases 01 a 07 concluídas. Jurisprudência classificada por força e controvérsia; camada doutrinária verificável criada.",
-  "next_logical_step": "Produzir roteiro de triagem, checklist documental, inventário patrimonial, matriz de despesas dos filhos, cronologia, quadro de pedidos/tutelas e estrutura-base de petição com variáveis explícitas.",
+  "last_completed_milestone": "Fase 08 concluída: roteiro de triagem, checklist, inventário patrimonial, despesas dos filhos, cronologia, quadro de pedidos/tutelas, interface financeira e estrutura-base de petição produzidos e revisados.",
+  "next_logical_step": "Publicar o dossiê em Markdown + HTML + JSON, integrar hubs temáticos, auditar links/governança/workflow Pages e fechar a estratégia.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
