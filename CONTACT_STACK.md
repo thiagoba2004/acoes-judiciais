@@ -151,3 +151,22 @@ Evidências observadas:
 O fluxo técnico **Site → Forminit → registro técnico → EmailJS** está comprovado.
 
 Permanece uma verificação final para o estado `E2E_VERIFICADO`: confirmar a chegada da mensagem na caixa postal do destinatário, não apenas o aceite pelo provedor EmailJS.
+
+
+## Entrega real confirmada
+
+O e-mail de confirmação do protocolo `AJ-20260920-164456-E2CFB5` foi efetivamente recebido por `thiagoba2004@yahoo.com.br`.
+
+O e-mail chegou inicialmente à pasta Spam do Yahoo Mail e foi marcado manualmente como “não é spam”.
+
+### Estado
+
+`E2E_VERIFICADO`
+
+### Observação de entregabilidade
+
+A ida inicial ao Spam é registrada como dívida não bloqueante. Ela não invalida:
+- o recebimento no Forminit;
+- a geração e preservação do protocolo;
+- o envio bem-sucedido pelo EmailJS;
+- a chegada efetiva da mensagem ao destinatário.
