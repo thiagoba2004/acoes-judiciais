@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000001",
   "current_strategy_name": "Ação de Repactuação de Dívidas por Superendividamento",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 2,
     "phase_total": 8,
-    "phase_code": "F-000003-000001-001",
-    "phase_name": "Delimitação e perguntas de pesquisa",
+    "phase_code": "F-000003-000001-002",
+    "phase_name": "Marco normativo e conceitos",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Projeto inicializado pela Rota A do Gerador de Agents.",
-  "next_logical_step": "Definir perguntas jurídicas, escopo, hipóteses de cabimento e mapa inicial de fontes oficiais antes de produzir conclusões.",
+  "last_completed_milestone": "Fase 01/08 concluída: escopo e perguntas de pesquisa persistidos em research/EA-000003-000001/perguntas-de-pesquisa.md.",
+  "next_logical_step": "Levantar e verificar as fontes normativas e institucionais primárias sobre superendividamento antes de produzir conclusões.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
