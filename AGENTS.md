@@ -6,9 +6,9 @@
 **project_name:** `Ações Judiciais`  
 **project_id legado:** `acoes-judiciais`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.8`  
+**generator_release:** `1.9`  
 **repository:** `thiagoba2004/acoes-judiciais`  
-**modules:** `research`, `legal`, `publication`, `software`
+**modules:** `research`, `legal`, `publication`, `web-site`, `contact-protocol`, `software`, `legal`, `publication`, `software`
 
 ## 1. Missão
 
@@ -154,54 +154,63 @@ Pode permanecer público quando útil ao leitor:
 
 Antes de cada publicação, executar varredura de vazamento de governança. A presença de qualquer marcador interno na camada pública bloqueia o deploy.
 
-### 9.2. Arquitetura pública e identidade visual
+## 10. Módulo web-site
 
-O Site Público adota arquitetura multipágina, inspirada no padrão estrutural do Classe e Massas, mas com identidade própria.
+O Site é uma arquitetura pública multipágina. Não pode ser reduzido a uma Home com cards e uma página longa.
 
-**Menu global obrigatório:** Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fontes.
+**Menu global obrigatório:** Início · Ações · Guias · Modelos · Jurisprudência · Legislação · Fontes · Fale Conosco.
+
+Regras obrigatórias:
+- o mesmo menu global aparece em todas as páginas;
+- a página corrente usa `aria-current="page"`;
+- no mobile, o menu permanece acessível em linha horizontal rolável;
+- a Home é institucional e enxuta; não contém catálogo dos Menus nem “Explore o Site”;
+- toda página pública possui no rodapé o hiperlink **Mapa do Site**;
+- `mapa-do-site/` reflete as rotas públicas reais;
+- páginas centrais de Menu possuem conteúdo útil, não placeholders;
+- a interface pública não exibe códigos, estados e metadados de governança interna;
+- `SITE_ARCHITECTURE.md` é a fonte da arquitetura;
+- `SITE_STYLE_GUIDE.md` é a fonte da identidade visual;
+- mudanças estruturais exigem auditoria desktop/mobile, links, overflow e navegação.
+
+**Identidade visual:** deve ser exclusiva deste projeto. Reutilizar a estrutura do Classe e Massas não autoriza reutilizar sua paleta, tipografia ou composição.
+
+## 11. Módulo contact-protocol
+
+O Fale Conosco adota o padrão técnico de referência do Classe e Massas:
+
+```text
+Forminit = recebimento/aceite da submissão e anexos
+EmailJS  = confirmação do protocolo ao e-mail informado
+```
 
 Regras:
-- o menu global deve aparecer em todas as páginas públicas;
-- no mobile, o menu permanece em uma linha horizontal rolável, sempre acessível;
-- a página atual deve possuir destaque por `aria-current="page"`;
-- páginas centrais de cada área devem conter conteúdo útil, não placeholders vazios;
-- o Site não pode ser reduzido a uma homepage e uma página longa.
+- e-mail institucional: `acoesjudiciais2026@gmail.com`;
+- prefixo: `AJ-`;
+- `CONTACT_STACK.md` documenta a configuração e o estado;
+- FormSubmit não é stack canônica e a implementação atual deve ser migrada;
+- é proibido substituir Forminit/EmailJS por outro provedor sem decisão expressa e persistida;
+- o protocolo pode ser preparado antes do envio, mas só é **confirmado** após sucesso do Forminit;
+- EmailJS só é acionado após recebimento confirmado;
+- falha no EmailJS não invalida um protocolo já aceito pelo Forminit;
+- a página de confirmação usa `noindex,nofollow` e oferece **Copiar protocolo**;
+- cada projeto deve ter Forminit próprio ou isolamento de roteamento comprovado;
+- o canal só é declarado operacional após teste end-to-end real de recebimento + protocolo + e-mail.
 
-**Identidade exclusiva Ações Judiciais:**
-- azul-marinho profundo como cor estrutural;
-- fundo marfim;
-- cobre como acento;
-- títulos em serifada e corpo/interface em sans-serif;
-- cartões e tabelas de aparência jurídica/editorial;
-- não reutilizar a paleta nem a aparência do Classe e Massas ou do Planejamento Financeiro.
+**Estado atual:** `MIGRACAO_TECNICA_PENDENTE` de FormSubmit para Forminit + EmailJS.
 
-Os tokens visuais vigentes estão em `assets/style.css`.
-
-### 9.3. Início, Mapa do Site e Fale Conosco
-
-1. A página **Início** é institucional e enxuta. É proibido transformá-la em catálogo, índice ou explicação dos Menus.
-2. O catálogo de navegação deve ficar na página **Mapa do Site**.
-3. Toda página pública deve possuir, no rodapé, hiperlink denominado exatamente **Mapa do Site**.
-4. **Fale Conosco** integra obrigatoriamente o menu global.
-5. O Fale Conosco deve disponibilizar o e-mail institucional `acoesjudiciais2026@gmail.com` e formulário protocolado.
-6. O protocolo público usa prefixo `AJ-`, data/hora e componente aleatório.
-7. Se o visitante informar e-mail, o formulário deve solicitar o envio automático do protocolo ao endereço informado.
-8. O protocolo só identifica a comunicação; não significa análise, aceite ou resposta.
-9. Mudanças no provedor do formulário devem preservar geração de protocolo, confirmação visual e tentativa de confirmação por e-mail.
-10. A página de confirmação deve ser `noindex,nofollow`.
-
-## 10. Módulo software
+## 12. Módulo software
 
 - distinguir IMPLEMENTADO, TESTADO, VERSIONADO, IMPLANTADO e VERIFICADO EM EXECUÇÃO;
 - testar alterações de comportamento quando tecnicamente possível;
 - preservar compatibilidade, configuração e segurança;
 - não confundir arquivo no repositório com site efetivamente publicado.
 
-## 11. Interoperabilidade com outros projetos
+## 13. Interoperabilidade com outros projetos
 
 O tema “superendividamento” também pode ser estudado no PRJ-000004 — Planejamento Financeiro. A referência cruzada é permitida, mas cada projeto mantém sua própria fonte da verdade, estratégia, análise e conclusão. Não copiar silenciosamente conteúdo entre projetos.
 
-## 12. Fechamento
+## 16. Fechamento
 
 Antes de declarar uma etapa concluída, confirmar persistência, versão remota, estado, fontes críticas, coerência dos artefatos publicados e próximo passo lógico.
 

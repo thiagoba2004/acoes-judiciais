@@ -11,3 +11,12 @@ Todo texto editorial/publicável usa Markdown como fonte textual canônica, HTML
 
 ## DEC-000004 — 20/09/2026 — Autonomia temática entre projetos
 O superendividamento pode ser estudado também no PRJ-000004, mas Ações Judiciais conserva fonte da verdade e conclusões próprias.
+
+
+## DEC-20260920-CONTACT-STACK — Stack canônica do Fale Conosco
+
+**Decisão:** a expressão “seguir o mesmo padrão do Fale Conosco do Classe e Massas” inclui a stack técnica **Forminit + EmailJS**.
+
+A implementação FormSubmit criada anteriormente é classificada como divergência técnica. Ela não deve ser tratada como solução final nem receber estado E2E_VERIFICADO.
+
+**Migração obrigatória:** configurar Forminit isolado para `acoesjudiciais2026@gmail.com`, configurar EmailJS para confirmação ao remetente e testar o fluxo completo antes do fechamento.
