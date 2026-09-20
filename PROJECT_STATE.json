@@ -17,8 +17,8 @@
     "phase_name": "Auditoria, deploy e fechamento",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000003-000004 concluída: Doutrina criada como área pública própria, menu global e Mapa do Site integrados; 12 páginas, 159 links internos e 11 âncoras auditados sem quebra; deploy público 35537406550 success.",
-  "next_logical_step": "Retomar a próxima prioridade do Projeto Ações Judiciais conforme o Plano de Fases e os pedidos do usuário.",
+  "last_completed_milestone": "Defeito preventivamente identificado: doutrina/ não estava incluída no artefato GitHub Pages; workflow corrigido.",
+  "next_logical_step": "Confirmar deploy corretivo de Doutrina e então manter EA-000003-000004 como concluída com publicação realmente acessível.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,7 +33,7 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_MENU_DOUTRINA_AUDITADO_CONTATO_E2E_VERIFICADO",
+  "site_status": "CORRECAO_PREVENTIVA_PUBLICACAO_DOUTRINA_EM_DEPLOY",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
