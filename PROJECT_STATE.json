@@ -15,10 +15,10 @@
     "phase_total": 3,
     "phase_code": "F-000003-000004-003",
     "phase_name": "Auditoria, deploy e fechamento",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Fase 02 concluída: doutrina/index.md, .html e .json criados; Doutrina integrada ao menu global e ao Mapa do Site.",
-  "next_logical_step": "Auditar todas as páginas públicas, links, menu, vazamento de governança, responsividade estrutural e deploy GitHub Pages.",
+  "last_completed_milestone": "EA-000003-000004 concluída: Doutrina criada como área pública própria, menu global e Mapa do Site integrados; 12 páginas, 159 links internos e 11 âncoras auditados sem quebra; deploy público 35537406550 success.",
+  "next_logical_step": "Retomar a próxima prioridade do Projeto Ações Judiciais conforme o Plano de Fases e os pedidos do usuário.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,17 +33,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONTATO_E2E_VERIFICADO",
+  "site_status": "PUBLICADO_MENU_DOUTRINA_AUDITADO_CONTATO_E2E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/doutrina/",
   "last_deployment": {
-    "workflow_run_id": 35533143519,
+    "workflow_run_id": 35537406550,
     "attempt": 1,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE"
+    "verified_by": "GITHUB_PAGES_PIPELINE",
+    "public_content_commit": "232f154d943cd2e57fdf6bc5f7d022b1b600a41e"
   },
   "public_menu": [
     "Início",
@@ -72,7 +73,7 @@
       "notification_recipient": "acoesjudiciais2026@gmail.com"
     },
     "emailjs": {
-      "status": "CONFIGURADO_TESTE_E2E_PENDENTE",
+      "status": "E2E_VERIFICADO",
       "service_id": "service_3dyw7gl",
       "template_id": "template_jz6al72",
       "public_key": "bRDjSNFb96VvEUPvx",
@@ -94,7 +95,6 @@
     }
   },
   "non_blocking_debts": [
-    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura.",
-    "Tratar a lacuna arquitetural do Menu Doutrina: decidir e implementar uma área pública própria, coerente com a camada doutrinária já existente e com a tríade Legislação · Jurisprudência · Doutrina."
+    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura."
   ]
 }

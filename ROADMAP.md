@@ -66,7 +66,7 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 - dívida não bloqueante: primeira entrega ao Yahoo ocorreu em Spam.
 
 
-## EA-000003-000004 — Menu Doutrina — correção arquitetural — FASE 03/03
+## EA-000003-000004 — Menu Doutrina — correção arquitetural — CONCLUÍDA
 
 1. **Fase 01/03 — Decisão arquitetural e escopo** — definir o papel público de Doutrina e sua relação com Fontes, Legislação e Jurisprudência.
 2. **Fase 02/03 — Implementação e integração** — criar rota, conteúdo inicial, menu global e Mapa do Site.
@@ -75,3 +75,14 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 **Origem:** auditoria comprovou que Doutrina já existia como camada de pesquisa, mas foi omitida na transposição para a arquitetura pública.
 
 **Decisão da Fase 01:** Doutrina é área material própria; Fontes é camada transversal de proveniência. Menu aprovado pela lógica arquitetural: Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco.
+
+
+### Resultado — EA-000003-000004
+
+- Doutrina criada como Menu de primeiro nível;
+- trio canônico `doutrina/index.md + .html + .json`;
+- menu global final: **Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco**;
+- Mapa do Site atualizado;
+- quatro referências doutrinárias iniciais sobre Superendividamento;
+- auditoria: 12 páginas HTML, 159 links internos e 11 âncoras, sem quebra;
+- deploy público `35537406550`: **success**.
