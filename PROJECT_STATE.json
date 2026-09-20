@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000004",
   "current_strategy_name": "Menu Doutrina — correção arquitetural",
   "current_phase": {
-    "phase_number": 2,
+    "phase_number": 3,
     "phase_total": 3,
-    "phase_code": "F-000003-000004-002",
-    "phase_name": "Implementação e integração",
+    "phase_code": "F-000003-000004-003",
+    "phase_name": "Auditoria, deploy e fechamento",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 01 concluída: Doutrina definida como área material própria, distinta de Legislação, Jurisprudência e Fontes.",
-  "next_logical_step": "Criar doutrina/index.md + .html + .json, integrar Doutrina ao menu global e ao Mapa do Site.",
+  "last_completed_milestone": "Fase 02 concluída: doutrina/index.md, .html e .json criados; Doutrina integrada ao menu global e ao Mapa do Site.",
+  "next_logical_step": "Auditar todas as páginas públicas, links, menu, vazamento de governança, responsividade estrutural e deploy GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,7 +38,7 @@
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
+  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/doutrina/",
   "last_deployment": {
     "workflow_run_id": 35533143519,
     "attempt": 1,
