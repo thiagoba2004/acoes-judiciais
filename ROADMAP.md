@@ -88,7 +88,7 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 - deploy público `35537406550`: **success**.
 
 
-## EA-000003-000005 — Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos — PLANEJADA
+## EA-000003-000005 — Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos — CONCLUÍDA
 
 ### FASE 01/09 [F-000003-000005-001] — Delimitação e perguntas de pesquisa
 Definir objeto, público, pressupostos, hipóteses de cumulação e perguntas jurídicas centrais, distinguindo informação geral de análise de caso concreto.  
@@ -125,3 +125,14 @@ Produzir roteiro de triagem, checklist documental, inventário patrimonial, matr
 ### FASE 09/09 [F-000003-000005-009] — Publicação, interoperabilidade financeira, auditoria e fechamento
 Sincronizar Markdown + HTML + JSON, integrar Legislação/Jurisprudência/Doutrina/Fontes, relacionar consequências financeiras ao PRJ-000004 sem transferir conclusões jurídicas, auditar links, workflow Pages e publicação.  
 **Gate:** dossiê publicável, verificável, sem vazamento de governança e com interface interprojetos documentada.
+
+
+### Resultado — EA-000003-000005
+
+- 9/9 fases concluídas;
+- novo dossiê público em Markdown + HTML + JSON;
+- integração com Ações, Guias, Modelos, Jurisprudência, Doutrina, Legislação e Mapa do Site;
+- roteiro de triagem, checklist, inventário patrimonial, despesas dos filhos, cronologia, quadro de pedidos/tutelas e estrutura-base de petição;
+- interface formal com o Projeto Planejamento Financeiro;
+- auditoria final: 13 HTMLs, 256 hrefs, zero links internos quebrados, zero âncoras locais quebradas e zero vazamentos de governança;
+- deploy público 35540435610: **success**.

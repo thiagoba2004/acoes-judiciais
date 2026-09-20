@@ -15,10 +15,10 @@
     "phase_total": 9,
     "phase_code": "F-000003-000005-009",
     "phase_name": "Publicação, interoperabilidade financeira, auditoria e fechamento",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Fase 08 concluída: roteiro de triagem, checklist, inventário patrimonial, despesas dos filhos, cronologia, quadro de pedidos/tutelas, interface financeira e estrutura-base de petição produzidos e revisados.",
-  "next_logical_step": "Publicar o dossiê em Markdown + HTML + JSON, integrar hubs temáticos, auditar links/governança/workflow Pages e fechar a estratégia.",
+  "last_completed_milestone": "EA-000003-000005 concluída: dossiê de divórcio litigioso publicado, integrado, auditado e com interface financeira documentada.",
+  "next_logical_step": "Prosseguir no PRJ-000004 Planejamento Financeiro com a primeira estratégia financeira correlata às consequências do divórcio.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,18 +33,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_MENU_DOUTRINA_AUDITADO_CONTATO_E2E_VERIFICADO",
+  "site_status": "PUBLICADO_DIVORCIO_LITIGIOSO_INTEGRADO_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": null,
+  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html",
   "last_deployment": {
-    "workflow_run_id": 35538616915,
+    "workflow_run_id": 35540435610,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "c9d905c5ca11c66bb3a9550e446c1f6074ac8e00"
+    "public_content_commit": "b794a3a30d23e0ca63ce7dcbbc1c80fa9fa4f0b6"
   },
   "public_menu": [
     "Início",
