@@ -52,3 +52,15 @@ Gerar/sincronizar Markdown + HTML + JSON, revisar links e fontes e verificar pub
 2. **Fase 02/04 — Implementação** — retirar catálogo de menus da Início, criar Mapa do Site, inserir Fale Conosco no menu e adaptar protocolo/e-mail.
 3. **Fase 03/04 — Testes funcionais** — testar geração de protocolo, submissão, confirmação, navegação e responsividade.
 4. **Fase 04/04 — Deploy, auditoria e fechamento** — publicar, verificar o GitHub Pages e encerrar a estratégia.
+
+
+## EA-000003-000003 — CONCLUÍDA
+
+Fale Conosco protocolado implantado e verificado end-to-end com Forminit + EmailJS.
+
+- Forminit: `lprwcdbax4y`;
+- EmailJS Service: `service_3dyw7gl`;
+- EmailJS Template: `template_jz6al72`;
+- teste real: `AJ-20260920-164456-E2CFB5`;
+- estado final: `E2E_VERIFICADO`;
+- dívida não bloqueante: primeira entrega ao Yahoo ocorreu em Spam.
