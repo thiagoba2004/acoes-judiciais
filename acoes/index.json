@@ -2,5 +2,17 @@
   "title": "Ações",
   "updated_at": "2026-09-20",
   "html": "index.html",
-  "public_path": "acoes/index.html"
+  "public_path": "acoes/index.html",
+  "items": [
+    {
+      "title": "Repactuação de Dívidas por Superendividamento",
+      "path": "repactuacao-superendividamento.html",
+      "area": "Direito do consumidor"
+    },
+    {
+      "title": "Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
+      "path": "divorcio-litigioso-partilha-guarda-convivencia-alimentos.html",
+      "area": "Direito das famílias"
+    }
+  ]
 }
