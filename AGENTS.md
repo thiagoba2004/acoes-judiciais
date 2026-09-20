@@ -210,7 +210,7 @@ Regras:
 
 O tema “superendividamento” também pode ser estudado no PRJ-000004 — Planejamento Financeiro. A referência cruzada é permitida, mas cada projeto mantém sua própria fonte da verdade, estratégia, análise e conclusão. Não copiar silenciosamente conteúdo entre projetos.
 
-## 16. Fechamento
+## 14. Fechamento
 
 Antes de declarar uma etapa concluída, confirmar persistência, versão remota, estado, fontes críticas, coerência dos artefatos publicados e próximo passo lógico.
 
