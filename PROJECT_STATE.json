@@ -18,7 +18,7 @@
     "status": "CONCLUIDA"
   },
   "last_completed_milestone": "EA-000003-000003 concluída com Fale Conosco E2E_VERIFICADO. Teste real confirmou Forminit, protocolo AJ-20260920-164456-E2CFB5, EmailJS e entrega efetiva ao destinatário.",
-  "next_logical_step": "Próxima estratégia local aberta: concluir a configuração EmailJS e o teste end-to-end do Planejamento Financeiro (EA-000004-000003).",
+  "next_logical_step": "Após a auditoria estrutural do Planejamento Financeiro, retomar a pendência planejada do Menu Doutrina no Ações Judiciais.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -93,6 +93,7 @@
     }
   },
   "non_blocking_debts": [
-    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura."
+    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura.",
+    "Tratar a lacuna arquitetural do Menu Doutrina: decidir e implementar uma área pública própria, coerente com a camada doutrinária já existente e com a tríade Legislação · Jurisprudência · Doutrina."
   ]
 }
