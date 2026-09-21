@@ -131,15 +131,28 @@ Cada Estratégia Autônoma de ação judicial deve buscar, quando aplicável:
 
 ## 9. Módulo publication
 
-Para todo texto editorial/publicável:
+Para conteúdo textual/editorial publicável, o padrão é:
 
 ```text
 Markdown (.md) = fonte textual canônica
 HTML (.html) = artefato de publicação
-JSON (.json) = representação estruturada
+JSON (.json) = somente quando houver função estruturada real
 ```
 
-Alterações materiais devem ser sincronizadas nos três artefatos. Exceções exigem decisão expressa, persistente e versionada.
+**JSON não é terceiro artefato obrigatório.** Não criar `.json` apenas para repetir título, resumo, seções, caminhos ou conteúdo já preservado em Markdown e HTML.
+
+JSON/JSONL é apropriado quando houver finalidade objetiva de máquina, como:
+- estado e governança do projeto;
+- registros append-only;
+- configuração;
+- datasets, catálogos, taxonomias ou glossários;
+- schemas;
+- dados consumidos por script, automação, API, busca estruturada, filtro ou validação;
+- interoperabilidade comprovada entre projetos.
+
+Para cada novo JSON deve ser possível responder: **quem ou qual processo o consome e que informação estruturada não é adequadamente representada pelo Markdown?** Se não houver resposta concreta, não criar o arquivo.
+
+Alterações editoriais devem ser sincronizadas entre a fonte Markdown e o HTML publicado. JSON existente só precisa ser atualizado quando sua função estruturada exigir.
 
 Se forem publicados Modelos reutilizáveis:
 
