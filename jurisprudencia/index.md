@@ -10,9 +10,9 @@ Precedentes e teses organizados por tema, sempre vinculados às fontes oficiais.
 ## Divórcio, partilha, guarda e alimentos
 - STF — Tema 1053: divórcio após a EC nº 66/2010;
 - STJ — REsp 2.189.143/SP: julgamento parcial do divórcio;
-- STF — Tema 1.236: regime de bens para pessoa maior de 70 anos;
+- STF — Tema 1.236: o regime do art. 1.641, II, pode ser afastado por expressa manifestação de vontade das partes, mediante escritura pública;
 - STJ — REsp 1.878.041/SP: guarda compartilhada e distância;
-- STJ — jurisprudência de 2026 sobre FGTS e base de cálculo dos alimentos.
+- STJ — jurisprudência de 2026: FGTS do período conjugal em comunhão parcial e base de cálculo dos alimentos; horas extras, mesmo não habituais, integram a base quando os alimentos são fixados em percentual sobre rendimentos líquidos, enquanto PLR não entra automaticamente.
 
 ## Reclamação trabalhista com danos morais
 - STF — Tema 932: responsabilidade objetiva em atividade de risco;
