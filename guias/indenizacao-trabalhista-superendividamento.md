@@ -96,7 +96,7 @@ Depois identifique se o recebimento ocorreu antes do ajuizamento, durante a fase
 
 ## 10. Modelo — manifestação de fato superveniente
 
-É um ponto de partida para adaptação ao processo concreto.
+É uma **estrutura-base, não uma petição pronta**, para adaptação ao processo concreto, à fase processual e à jurisdição aplicável.
 
 ### COPIAR MODELO
 
