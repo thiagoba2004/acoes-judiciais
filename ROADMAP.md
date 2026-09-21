@@ -33,7 +33,7 @@ Produzir checklists, roteiro de triagem e, se aprovado, modelos reutilizáveis c
 **Gate:** instrumentos revisados e coerentes com as fontes.
 
 ### FASE 08/08 [F-000003-000001-008] — Publicação, auditoria e fechamento
-Gerar/sincronizar Markdown + HTML + JSON, revisar links e fontes e verificar publicação.  
+Gerar/sincronizar Markdown + HTML; JSON apenas quando houver função estruturada real, revisar links e fontes e verificar publicação.  
 **Gate:** dossiê publicável, coerente e verificável.
 
 
@@ -80,7 +80,7 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 ### Resultado — EA-000003-000004
 
 - Doutrina criada como Menu de primeiro nível;
-- trio canônico `doutrina/index.md + .html + .json`;
+- par canônico `doutrina/index.md + .html`; JSON somente se houver uso estruturado comprovado;
 - menu global final: **Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco**;
 - Mapa do Site atualizado;
 - quatro referências doutrinárias iniciais sobre Superendividamento;
@@ -123,14 +123,14 @@ Produzir roteiro de triagem, checklist documental, inventário patrimonial, matr
 **Gate:** instrumentos revisados e coerentes com fontes e limites profissionais.
 
 ### FASE 09/09 [F-000003-000005-009] — Publicação, interoperabilidade financeira, auditoria e fechamento
-Sincronizar Markdown + HTML + JSON, integrar Legislação/Jurisprudência/Doutrina/Fontes, relacionar consequências financeiras ao PRJ-000004 sem transferir conclusões jurídicas, auditar links, workflow Pages e publicação.  
+Sincronizar Markdown + HTML; JSON apenas quando houver função estruturada real, integrar Legislação/Jurisprudência/Doutrina/Fontes, relacionar consequências financeiras ao PRJ-000004 sem transferir conclusões jurídicas, auditar links, workflow Pages e publicação.  
 **Gate:** dossiê publicável, verificável, sem vazamento de governança e com interface interprojetos documentada.
 
 
 ### Resultado — EA-000003-000005
 
 - 9/9 fases concluídas;
-- novo dossiê público em Markdown + HTML + JSON;
+- novo dossiê público em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Ações, Guias, Modelos, Jurisprudência, Doutrina, Legislação e Mapa do Site;
 - roteiro de triagem, checklist, inventário patrimonial, despesas dos filhos, cronologia, quadro de pedidos/tutelas e estrutura-base de petição;
 - interface formal com o Projeto Planejamento Financeiro;
