@@ -157,3 +157,44 @@ Sincronizar Markdown + HTML; JSON apenas quando houver função estruturada real
 - 0 vazamentos de governança;
 - menu global uniforme;
 - 32 cards clicáveis, 11 cards estáticos e 0 usos ambíguos.
+
+## EA-000003-000006 — Reclamação Trabalhista com pedido de Indenização por Danos Morais — PLANEJADA
+
+### FASE 01/09 [F-000003-000006-001] — Delimitação, hipóes de dano e perguntas de pesquisa
+Mapear hipóteses de dano moral no contexto laboral e formular as perguntas jurídicas centrais, sem presumir que toda ilicitude trabalhista gere dano moral indenizável.  
+**Gate:** escopo, taxonomia inicial, perguntas e limites persistidos.
+
+### FASE 02/09 [F-000003-000006-002] — Marco normativo e responsabilidade civil trabalhista
+Levantar e verificar Constituição, CLT, Código Civil, CPC, legislação especial e fontes primárias pertinentes.  
+**Gate:** núcleo normativo registrado, datado e classificado.
+
+### FASE 03/09 [F-000003-000006-003] — Competência, legitimidade, prescrição e estrutura processual
+Mapear competência, legitimidade, prescrição, cumulação, rito, valor da causa, tutela provisória e requisitos processuais.  
+**Gate:** matriz processual de entrada verificada.
+
+### FASE 04/09 [F-000003-000006-004] — Fatos, documentos, prova e ônus probatório
+Estruturar cronologia, documentos, prova testemunhal, prova digital, registros internos, documentos médicos/ocupacionais quando pertinentes e ônus probatório.  
+**Gate:** matriz fato–elemento jurídico–prova e checklist documental persistidos.
+
+### FASE 05/09 [F-000003-000006-005] — Elementos da responsabilidade, defesas e controvérsias
+Examinar ilicitude, dano, nexo, imputação, culpa ou risco conforme o caso, excludentes e principais linhas defensivas.  
+**Gate:** matriz de responsabilidade e defesas previsíveis documentada.
+
+### FASE 06/09 [F-000003-000006-006] — Quantificação da indenização e repercussões
+Pesquisar critérios jurídicos de arbitramento, gravidade, duração, repercussão, proporcionalidade e controvérsias sobre parâmetros de fixação.  
+**Gate:** metodologia de análise do quantum e mapa de controvérsias verificados.
+
+### FASE 07/09 [F-000003-000006-007] — Jurisprudência, doutrina e teses institucionais
+Pesquisar STF, TST, TRTs, doutrina e posições institucionais recuperáveis de entidades jurídicas especializadas.  
+**Gate:** matriz jurisprudencial, camada doutrinária e teses institucionais criticamente confrontadas.
+
+### FASE 08/09 [F-000003-000006-008] — Ferramentas práticas e modelos
+Produzir roteiro de triagem, cronologia, checklist de provas, matriz de danos e nexo, quadro de pedidos, mapa de riscos e, se adequado, estrutura-base de petição inicial.  
+**Gate:** instrumentos revisados e coerentes com as fontes.
+
+### FASE 09/09 [F-000003-000006-009] — Publicação, auditoria e fechamento
+Sincronizar Markdown + HTML; criar JSON apenas se houver função estruturada real; integrar Menus pertinentes, auditar fontes, links, governança, responsividade e GitHub Pages.  
+**Gate:** dossiê publicável, verificável, sem vazamento de governança e com deploy comprovado.
+
+**Plano detalhado:** `research/EA-000003-000006/plano-de-fases.md`.
+
