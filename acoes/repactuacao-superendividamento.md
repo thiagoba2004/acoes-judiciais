@@ -153,7 +153,38 @@ Relacionar e numerar todos os documentos.
 [ASSINATURA / OAB]
 ```
 
-## 10. Fontes centrais
+## 10. Teses institucionais relevantes
+
+Além da doutrina individual, este dossiê acompanha posições institucionais de entidades especializadas em Direito do Consumidor e defesa do consumidor. Essas posições são **atribuídas e não vinculantes** e devem ser confrontadas com a legislação e a jurisprudência atuais.
+
+### BRASILCON — Instituto Brasileiro de Política e Direito do Consumidor
+
+O BRASILCON teve participação relevante na construção e difusão da Lei nº 14.181/2021 e sustenta a centralidade do crédito responsável, da boa-fé, da prevenção do superendividamento e da preservação do mínimo existencial.
+
+Em 03/03/2023, o Instituto entregou requerimento de revogação do Decreto nº 11.150/2022, por entender que a regulamentação deveria preservar as diretrizes protetivas da Lei do Superendividamento. O BRASILCON também participou como *amicus curiae* da ADPF 1005.
+
+**Situação atual:** `DIVERGENTE_EM_PARTE_COM_SUPERVENIENCIA`.
+
+Em 23/04/2026, o STF não acolheu uma invalidação ampla do parâmetro quantitativo por decreto. A Corte admitiu essa técnica regulamentar, mas determinou avaliação técnica anual para manutenção ou atualização do valor e declarou inconstitucional a exclusão do crédito consignado da aferição do mínimo existencial.
+
+### Idec — Instituto de Defesa de Consumidores
+
+O Idec criticou a definição de um valor nominal fixo para o mínimo existencial e sustentou metodologia que considere as necessidades reais do consumidor — como habitação, saúde, alimentação, transporte e educação —, além da situação individual e do histórico de endividamento.
+
+**Situação atual:** `DIVERGENTE_EM_PARTE_E_CONVERGENTE_QUANTO_A_NECESSIDADE_DE_BASE_TECNICA`.
+
+O STF não afastou a possibilidade de parâmetro quantitativo, mas passou a exigir reavaliação técnica periódica e publicidade da decisão sobre sua manutenção ou atualização.
+
+### Entidades monitoradas
+
+A auditoria também identificou a **MPCON — Associação Nacional do Ministério Público do Consumidor** como entidade relevante. Nesta versão, porém, não foi localizada posição institucional própria suficientemente delimitada sobre a repactuação para ser apresentada como tese autônoma; por isso, permanece em monitoramento.
+
+Fontes institucionais:
+- [BRASILCON — notícias e posições institucionais](https://www.brasilcon.org/general-6)
+- [Idec — posição sobre mínimo existencial](https://idec.org.br/release/decreto-do-minimo-existencial-beneficia-sistema-financeiro-e-prejudica-populacao-avalia-idec)
+- [STF — ADPF 1005](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6468508)
+
+## 11. Fontes centrais
 
 - Código de Defesa do Consumidor — Lei nº 8.078/1990, texto consolidado;
 - Lei nº 14.181/2021;
@@ -164,6 +195,6 @@ Relacionar e numerar todos os documentos.
 - CNJ — Recomendação nº 125/2021, alterada pela Recomendação nº 153/2024;
 - atos e materiais do TJBA/NUPEMEC sobre o Núcleo de Superendividamento.
 
-## 11. Atualização e limites
+## 12. Atualização e limites
 
 A legislação, a jurisprudência e a organização judiciária podem mudar. Antes de utilizar qualquer instrumento deste dossiê em situação real, verificar a data, a jurisdição, os precedentes atuais e os documentos concretos.
