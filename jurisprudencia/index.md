@@ -15,11 +15,13 @@ Precedentes e teses organizados por tema, sempre vinculados às fontes oficiais.
 - STJ — jurisprudência de 2026: FGTS do período conjugal em comunhão parcial e base de cálculo dos alimentos; horas extras, mesmo não habituais, integram a base quando os alimentos são fixados em percentual sobre rendimentos líquidos, enquanto PLR não entra automaticamente.
 
 ## Reclamação trabalhista com danos morais
-- STF — Tema 932: responsabilidade objetiva em atividade de risco;
+- STF — Tema 932: responsabilidade objetiva por danos decorrentes de acidente de trabalho em atividade que expõe habitualmente o trabalhador a risco especial;
 - STF — ADIs 6.050, 6.069 e 6.082: art. 223-G sem teto absoluto;
-- TST — IRR 84: carteiro vítima de roubo e responsabilidade objetiva;
+- TST — IRR 84: carteiro vítima de roubo e responsabilidade objetiva; **estado consultado em 21/09/2026: RE Pendente**;
 - TST — IRR 143: verbas rescisórias não geram dano moral automaticamente;
 - TST — IRR 192: retenção injustificada de CTPS e dano presumido;
-- temas 103, 107 e 117: controvérsias ainda afetadas na fonte oficial consultada.
+- TST — Tema 215: julgado em 19/08/2026; foro do domicílio admitido apenas excepcionalmente, mediante demonstração concreta de acesso impossível ou desproporcionalmente oneroso a outro foro legalmente competente;
+- Temas 103 e 117: afetados e sem tese definitiva na consulta de 21/09/2026;
+- Temas 107, 200 e 35: permanecem em monitoramento e devem ter o estado individual conferido antes do protocolo.
 
 **Última revisão:** 21/09/2026.
