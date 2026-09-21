@@ -8,6 +8,9 @@
   - Teses institucionais: BRASILCON, Idec e entidades monitoradas
 - Divórcio Litigioso c/c Partilha, Guarda, Convivência e Alimentos
   - Teses institucionais: IBDFAM, ADFAS e entidades monitoradas
+- Reclamação Trabalhista com pedido de Indenização por Danos Morais
+  - Assalto/roubo no trabalho
+  - Teses institucionais: ANAMATRA, ABRAT e entidade monitorada
 
 ## Áreas
 
