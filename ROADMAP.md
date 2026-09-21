@@ -192,11 +192,13 @@ Pesquisar critérios jurídicos de arbitramento, gravidade, duração, repercuss
 
 ### FASE 07/09 [F-000003-000006-007] — Jurisprudência, doutrina e teses institucionais
 Pesquisar STF, TST, TRTs, doutrina e posições institucionais recuperáveis de entidades jurídicas especializadas.  
-**Gate:** matriz jurisprudencial, camada doutrinária e teses institucionais criticamente confrontadas.
+**Gate:** matriz jurisprudencial, camada doutrinária e teses institucionais criticamente confrontadas.  
+**Estado:** CONCLUÍDA — STF, TST qualificado, TRTs, doutrina, ANAMATRA e ABRAT separados por força e natureza; ANPT monitorada.
 
 ### FASE 08/09 [F-000003-000006-008] — Ferramentas práticas e modelos
 Produzir roteiro de triagem, cronologia, checklist de provas, matriz de danos e nexo, quadro de pedidos, mapa de riscos e, se adequado, estrutura-base de petição inicial.  
-**Gate:** instrumentos revisados e coerentes com as fontes.
+**Gate:** instrumentos revisados e coerentes com as fontes.  
+**Estado:** CONCLUÍDA — triagem, cronologia, matriz dano–nexo, quadro de pedidos/riscos e estrutura-base da inicial produzidos.
 
 ### FASE 09/09 [F-000003-000006-009] — Publicação, auditoria e fechamento
 Sincronizar Markdown + HTML; criar JSON apenas se houver função estruturada real; integrar Menus pertinentes, auditar fontes, links, governança, responsividade e GitHub Pages.  
