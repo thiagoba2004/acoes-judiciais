@@ -22,6 +22,32 @@ Quando houver controvérsia material, a pesquisa procura deliberadamente as prin
 
 Uma publicação de professor não é automaticamente posição oficial da universidade; um artigo de membro de comissão não é automaticamente posição da OAB; e um texto de advogado não é automaticamente posição institucional do escritório.
 
+## Produção acadêmica, OAB e doutrina profissional
+
+### Superendividamento
+
+- **UFRGS — Observatório do Crédito, Superendividamento e Conciliação de Conflitos de Consumo:** produção acadêmica coordenada por Claudia Lima Marques sobre diagnóstico, prevenção, tratamento e conciliação.
+- **OAB Nacional — Comissão de Defesa do Consumidor:** nota técnica histórica sobre o então PL 3515/2015 e Cartilha Superendividamento; materiais anteriores à Lei nº 14.181/2021 são usados com marcação de superveniência.
+- **Machado Meyer Advogados:** artigo de Débora Chaves Martines Fernandes, Bruna de Godoy Marques das Neves e Barbara de Sousa Braz sobre mínimo existencial. É doutrina profissional não vinculante, atualizada pelo Decreto nº 11.567/2023 e pelo julgamento do STF em 2026.
+
+### Direito das Famílias
+
+- **Faculdade de Direito da USP:** dissertações de Flavia Ribeiro Borges Manzano e Isadora Vieira Ribeiro, respectivamente sobre fragmentação familiar e obrigação alimentar. São teses autorais acadêmicas, não posições oficiais da universidade.
+- **OAB-SP — Comissão de Direito de Família:** cartilha que diferencia guarda compartilhada de divisão obrigatória do tempo em 50%, lida hoje com a Lei nº 14.713/2023 e jurisprudência superveniente.
+- **Conselho Federal da OAB — Comissão Especial de Direito de Família:** produção acadêmica 2026 em desenvolvimento; permanece monitorada até que documentos substantivos sejam publicados.
+- **Chieco Advogados / Chambers Family Law 2026:** análise profissional assinada sobre divórcio, patrimônio, guarda e responsabilidade parental. É fonte profissional não vinculante.
+
+### Direito do Trabalho
+
+- **Faculdade de Direito da USP:** dissertação de Tatiana Durand Coelho sobre indenizações por dano moral trabalhista e Lei nº 13.467/2017.
+- **OAB — cartilha sobre assédio moral e sexual:** produção institucional de prevenção no ambiente da advocacia.
+- **OAB-MT:** artigo de Dirceu Paixão sobre prova testemunhal no assédio moral, classificado como **autoria individual em ambiente OAB**, e não como posição oficial da Seccional.
+- **Machado Meyer Advogados:** análise profissional de 2025 sobre risco jurídico/reputacional do assédio e prevenção corporativa, identificada como perspectiva profissional de matriz empresarial.
+
+### Critério de excelência e reconhecimento
+
+A seleção acadêmica usa critérios externos verificáveis, como avaliações oficiais da CAPES, sem criar ranking próprio do Site. A seleção de produção profissional pode usar diretórios jurídicos independentes apenas para demonstrar reconhecimento externo da especialidade; o ranking em si não é reproduzido nem tratado como argumento jurídico.
+
 ## Teses institucionais
 
 Enunciados, pareceres, notas técnicas e posições de entidades jurídicas não governamentais são apresentados como **teses institucionais atribuídas e não vinculantes**. O Site confronta essas posições com legislação e jurisprudência atuais.
