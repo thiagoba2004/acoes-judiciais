@@ -1,6 +1,6 @@
 # Reclamação Trabalhista com pedido de Indenização por Danos Morais
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
 
 ## Visão geral
 
@@ -261,6 +261,36 @@ Trata-se de posição institucional não vinculante.
 ### ANPT
 
 A Associação Nacional dos Procuradores e Procuradoras do Trabalho foi identificada como entidade relevante, mas os materiais encontrados nesta etapa tinham autoria individual; por isso, não foram atribuídos artificialmente como tese institucional da entidade.
+
+### Produção acadêmica de excelência
+
+A dissertação de Tatiana Durand Coelho, defendida na Faculdade de Direito da USP em 2024, examina especificamente as indenizações por dano moral trabalhista depois da Lei nº 13.467/2017 e a controvérsia sobre tarifação.
+
+Ela é utilizada como **produção acadêmica autoral**, e não como posição institucional da universidade. A seleção acadêmica decorre de pertinência temática e critérios externos verificáveis de excelência.
+
+### Comissões e ambiente OAB
+
+A OAB disponibiliza cartilha de conscientização, prevenção e enfrentamento ao assédio moral e sexual, produzida no âmbito da advocacia e de comissão temática. O material é útil para conceitos, sinais e prevenção, mas não substitui os requisitos jurídicos de dano, nexo e responsabilidade em cada vínculo de emprego.
+
+Em 21/07/2026, a OAB-MT publicou artigo de Dirceu Paixão, membro de sua Comissão de Direito do Trabalho, sobre dificuldades da prova testemunhal em assédio moral. Pelo protocolo, o texto é classificado como **AUTORIA_INDIVIDUAL_EM_AMBIENTE_OAB**: não é atribuído como posição oficial da OAB-MT.
+
+### Doutrina profissional especializada
+
+Andrea Giamondo Massei, Ana Júlia Sales Aragão Bunduki e Vitória Jordão Galego do Amaral, do Machado Meyer Advogados, analisaram em 2025 o crescimento do risco jurídico e reputacional ligado ao assédio moral e a necessidade de prevenção corporativa.
+
+Trata-se de **doutrina profissional especializada**, com perspectiva predominantemente preventiva/empresarial. O escritório foi selecionado por pertinência e reconhecimento externo verificável em Labour & Employment; o Site não reproduz ranking e não converte a visão da assessoria empresarial em posição neutra.
+
+### Contraditório doutrinário
+
+A camada doutrinária reúne perspectivas diferentes: ANAMATRA e ABRAT criticaram limitações rígidas à reparação; a produção acadêmica examina criticamente a tarifação; publicações profissionais empresariais enfatizam prevenção, compliance e gestão de risco.
+
+**Controle atual:** nas ADIs 6.050, 6.069 e 6.082, o STF preservou os parâmetros do art. 223-G como orientativos, sem teto absoluto. Esse precedente controla a leitura atual, independentemente da corrente doutrinária adotada.
+
+Fontes desta camada:
+- [USP — As indenizações por dano moral no Direito do Trabalho brasileiro e a Lei 13.467/2017](https://teses.usp.br/teses/disponiveis/2/2138/tde-26072024-154702/pt-br.html)
+- [OAB — Cartilha de Conscientização, Prevenção e Enfrentamento ao Assédio Moral e Sexual](https://www.oab.org.br/Content/pdf/Cartilha-Advocacia-Sem-Assedio.pdf)
+- [OAB-MT — artigo individual sobre prova testemunhal no assédio moral](https://www.oabmt.org.br/artigo/1739/a-prova-testemunhal-nos-casos-de-assedio-moral-no-trabalho)
+- [Machado Meyer — Assédio moral: o crescente risco jurídico e reputacional](https://www.machadomeyer.com.br/pt/inteligencia-juridica/publicacoes-ij/inteligencia-juridica-trabalhista/assedio-moral-o-crescente-risco-juridico-e-reputacional)
 
 ## 11. Ferramentas práticas
 
