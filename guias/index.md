@@ -6,7 +6,8 @@ Roteiros práticos para organizar triagem, documentos, prova, audiência e pedid
 - enquadramento;
 - documentos;
 - plano;
-- audiência.
+- audiência;
+- [indenização trabalhista recebida antes ou durante a repactuação](indenizacao-trabalhista-superendividamento.html).
 
 ## Divórcio litigioso
 - triagem do conflito;
