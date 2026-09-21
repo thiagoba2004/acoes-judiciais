@@ -119,3 +119,20 @@ Etapas:
 
 URL pública:
 https://thiagoba2004.github.io/acoes-judiciais/acoes/reclamacao-trabalhista-danos-morais.html
+
+
+## 9. Verificação pós-publicação
+
+**Pedido:** REQ-20260920-040.
+
+A tentativa de abertura direta do domínio público pelo navegador de busca da sessão não foi suportada pelo próprio mecanismo de navegação, portanto não foi registrada falsa verificação visual.
+
+A verificação foi concluída por evidência do GitHub:
+
+- workflow `.github/workflows/pages.yml` publica explicitamente `acoes/*.html`, `guias/*.html`, `modelos/*.html`, `jurisprudencia/*.html`, `doutrina/*.html`, `legislacao/*.html`, `fontes/*.html`, `fale-conosco/*.html` e `mapa-do-site/*.html`;
+- run público `35550557280`: `completed/success`;
+- commit implantado: `68df9fe996cdc6a1c915650bd9bbe0fddf708339`;
+- comparação entre esse commit e `main`: apenas arquivos de governança/pesquisa foram alterados depois do deploy;
+- nenhuma página HTML, CSS ou JavaScript público mudou após o commit implantado.
+
+**Conclusão:** a camada pública auditada corresponde à camada implantada no GitHub Pages.
