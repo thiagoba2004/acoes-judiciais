@@ -4,6 +4,24 @@ A área **Doutrina** reúne livros, capítulos e artigos úteis para compreender
 
 A doutrina cumpre função interpretativa e sistematizadora. Ela **não substitui** o texto legal vigente nem a jurisprudência aplicável ao caso concreto.
 
+## Como pesquisamos a doutrina
+
+A pesquisa não se limita a livros e artigos tradicionais. Conforme o tema, o Projeto também consulta:
+
+- produção acadêmica de professores, grupos de pesquisa, núcleos, centros e periódicos vinculados a instituições de reconhecida excelência acadêmica;
+- pareceres, notas técnicas, estudos e outras produções de comissões permanentes ou temáticas da OAB;
+- teses de institutos e entidades jurídicas especializadas;
+- artigos e análises técnicas assinadas por advogados ou equipes de escritórios reconhecidos no ramo jurídico específico;
+- posições institucionais de atores interessados, quando relevantes à controvérsia.
+
+O Site **não cria ranking de faculdades ou escritórios**. A seleção usa pertinência temática, autoria identificada, qualidade jurídica e critérios externos verificáveis de reconhecimento.
+
+Prestígio institucional não transforma uma tese em regra jurídica. Toda posição deve ser identificada pela autoria e natureza do documento e confrontada com legislação e jurisprudência.
+
+Quando houver controvérsia material, a pesquisa procura deliberadamente as principais formulações favoráveis e contrárias, inclusive posições superadas ou parcialmente acolhidas, para evitar uma seleção apenas confirmatória.
+
+Uma publicação de professor não é automaticamente posição oficial da universidade; um artigo de membro de comissão não é automaticamente posição da OAB; e um texto de advogado não é automaticamente posição institucional do escritório.
+
 ## Teses institucionais
 
 Enunciados, pareceres, notas técnicas e posições de entidades jurídicas não governamentais são apresentados como **teses institucionais atribuídas e não vinculantes**. O Site confronta essas posições com legislação e jurisprudência atuais.
