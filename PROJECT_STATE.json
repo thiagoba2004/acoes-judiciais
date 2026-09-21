@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000007",
   "current_strategy_name": "Impacto da indenização trabalhista por dano moral na Ação de Repactuação de Dívidas por Superendividamento",
   "current_phase": {
-    "phase_number": 7,
+    "phase_number": 8,
     "phase_total": 9,
-    "phase_code": "F-000003-000007-007",
-    "phase_name": "Jurisprudência, doutrina e teses institucionais",
+    "phase_code": "F-000003-000007-008",
+    "phase_name": "Ferramentas práticas e protocolo de caso",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000003-000007 com Fases 01 a 06 concluídas, inclusive integração do capital extraordinário aos cenários de plano e credores.",
-  "next_logical_step": "Executar a Fase 07/09 — Jurisprudência, doutrina e teses institucionais.",
+  "last_completed_milestone": "EA-000003-000007 com Fases 01 a 07 concluídas; jurisprudência e doutrina consolidadas, sem precedente superior específico localizado para a destinação da indenização.",
+  "next_logical_step": "Executar a Fase 08/09 — Ferramentas práticas e protocolo de caso.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
