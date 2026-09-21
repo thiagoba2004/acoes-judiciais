@@ -160,7 +160,7 @@ Sincronizar Markdown + HTML; JSON apenas quando houver função estruturada real
 
 ## EA-000003-000006 — Reclamação Trabalhista com pedido de Indenização por Danos Morais — PLANEJADA
 
-### FASE 01/09 [F-000003-000006-001] — Delimitação, hipóes de dano e perguntas de pesquisa
+### FASE 01/09 [F-000003-000006-001] — Delimitação, hipóteses de dano e perguntas de pesquisa
 Mapear hipóteses de dano moral no contexto laboral e formular as perguntas jurídicas centrais, sem presumir que toda ilicitude trabalhista gere dano moral indenizável.  
 **Gate:** escopo, taxonomia inicial, perguntas e limites persistidos.
 
