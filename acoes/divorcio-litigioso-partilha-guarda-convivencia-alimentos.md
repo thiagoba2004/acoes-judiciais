@@ -89,7 +89,7 @@ Alimentos provisórios devem ser pedidos de forma destacada, com quadro inicial 
 
 ### Renda variável
 
-A redação do pedido precisa definir a base de cálculo. Em 2026, o STJ reconheceu que horas extras podem integrar a base quando a pensão é fixada sobre rendimentos líquidos, enquanto a participação nos lucros e resultados não entra automaticamente e depende de necessidade específica demonstrada.
+A redação do pedido precisa definir a base de cálculo. Em 2026, o STJ destacou que, quando os alimentos são fixados em percentual sobre os rendimentos líquidos do alimentante, as horas extras, mesmo não habituais, integram a base por seu caráter remuneratório e pelo acréscimo patrimonial. Já a participação nos lucros e resultados (PLR), de natureza eventual, não se incorpora automaticamente e exige comprovação de necessidade específica do alimentado.
 
 Alimentos entre ex-cônjuges são tratados pelo STJ como excepcionais e, em regra, transitórios, sem confusão com a partilha.
 
@@ -243,7 +243,7 @@ Calcular conforme os pedidos cumulados e as regras aplicáveis.
 
 - STF — Tema 1053: separação judicial não é requisito para divórcio após a EC 66/2010.
 - STJ — REsp 2.189.143/SP: divórcio pode ser decretado por julgamento parcial do mérito em ação cumulada.
-- STF — Tema 1.236: pessoa maior de 70 anos pode afastar, por escritura pública, a separação prevista no art. 1.641, II, nos termos da tese.
+- STF — Tema 1.236: nos casamentos e uniões estáveis envolvendo pessoa maior de 70 anos, o regime de separação previsto no art. 1.641, II, pode ser afastado por expressa manifestação de vontade das partes, mediante escritura pública. Sem opção válida, permanece aplicável a regra legal.
 - STJ — REsp 1.878.041/SP: distância entre os pais não impede, por si só, guarda compartilhada.
 - STJ — jurisprudência de 2026: FGTS do período conjugal em comunhão parcial é comunicável.
 - STJ — jurisprudência de 2026: horas extras e PLR recebem tratamento distinto na base alimentar.
@@ -291,9 +291,9 @@ O **IBDCivil — Instituto Brasileiro de Direito Civil** foi identificado como a
 
 Referências gerais, a consultar na edição e trecho pertinentes:
 - Maria Berenice Dias — *Manual de Direito das Famílias*, 17ª ed., 2025.
-- Cristiano Chaves de Farias e Nelson Rosenvald — *Curso de Direito Civil: Famílias*, v. 6, 17ª ed., 2025.
+- Cristiano Chaves de Farias, Nelson Rosenvald e Felipe Braga Netto — *Curso de Direito Civil: Famílias*, v. 6, 18ª ed., 2026.
 - Rolf Madaleno — *Manual de Direito de Família*, 14ª ed., 2024.
-- Rodrigo da Cunha Pereira — *Direito das Famílias*, 5ª ed., 2024.
+- Rodrigo da Cunha Pereira — *Direito das Famílias*, 6ª ed., 2025.
 - Flávio Tartuce — *Direito Civil, v. 5 — Direito de Família*, 20ª ed., 2025.
 - Paulo Lôbo — *Direito Civil — Famílias, v. 5*, 16ª ed., 2026.
 
