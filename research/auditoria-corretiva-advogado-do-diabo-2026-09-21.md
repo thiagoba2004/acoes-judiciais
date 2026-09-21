@@ -76,4 +76,10 @@ Reauditoria do estado final do repositório:
 
 Os achados do Relatório do Advogado do Diabo foram convertidos em seis Estratégias Autônomas, tratados materialmente e convertidos em regras preventivas. O corpus corrigido não apresenta, nos testes finais, as inconsistências objetivas que motivaram o ciclo.
 
-A verificação de publicação GitHub Pages deve ser registrada separadamente pelo estado do workflow após o último commit público.
+## 7. Verificação de publicação
+
+O GitHub Pages workflow run **35623051769**, associado ao commit público `717e7c1d0a54b6f3d24a5d76459520f6152d9fab`, foi concluído com **success**. O job `deploy` e todas as suas etapas — inclusive `Build public-only artifact`, `Upload Pages artifact` e `Deploy to GitHub Pages` — foram concluídos com sucesso.
+
+O ambiente de pesquisa utilizado nesta sessão não conseguiu realizar leitura HTTP direta do domínio `thiagoba2004.github.io`; por isso, a verificação registrada é **por pipeline e artefato do GitHub Pages**, sem alegar uma leitura direta do HTML servido.
+
+**Estado final: CICLO CORRETIVO CONCLUÍDO, REAUDITADO E PUBLICADO PELO PIPELINE DO GITHUB PAGES.**
