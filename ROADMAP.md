@@ -320,3 +320,27 @@ Plano: `research/EA-000003-000013/plano-de-fases.md`.
 - etapa `Deploy to GitHub Pages`: **success**;
 - reauditoria do corpus: aprovada;
 - leitura HTTP direta do domínio `github.io`: não disponível neste ambiente; verificação registrada por pipeline/artefato.
+
+## Frente — Separação de fato sem divórcio × Superendividamento — REQ-20260921-054
+
+### EA-000003-000014 — Separação de fato sem divórcio e unidade econômica familiar no superendividamento — EM EXECUÇÃO
+Plano: `research/EA-000003-000014/plano-de-fases.md`.  
+7 fases: delimitação/cronologia → efeitos civis → unidade econômica familiar → jurisprudência/doutrina → prova → riscos/objeções → síntese/auditoria.
+
+### EA-000003-000015 — Renda do cônjuge não devedor, mínimo existencial e capacidade de pagamento — PLANEJADA
+Plano: `research/EA-000003-000015/plano-de-fases.md`.  
+7 fases: cenários de renda → marco do mínimo existencial → renda informativa versus fonte de pagamento → despesas/dependentes → jurisprudência/doutrina → prova/redação processual → integração.
+
+### EA-000003-000016 — Patrimônio conjugal, regime de bens e separação de fato na repactuação — PLANEJADA
+Plano: `research/EA-000003-000016/plano-de-fases.md`.  
+7 fases: regime/linha do tempo → comunicabilidade → patrimônio/direitos aquisitivos → capacidade de pagamento → jurisprudência/doutrina → prova/declaração patrimonial → síntese.
+
+### EA-000003-000017 — Apartamento financiado, veículo e limites patrimoniais da repactuação — PLANEJADA
+Plano: `research/EA-000003-000017/plano-de-fases.md`.  
+7 fases: tipologia de bens/garantias → apartamento financiado → veículo quitado/financiado → moradia/mobilidade → avaliação/transparência → jurisprudência/doutrina → ferramentas/integração.
+
+### EA-000003-000018 — Integração da separação de fato, renda do cônjuge e patrimônio ao dossiê de Superendividamento — PLANEJADA
+Plano: `research/EA-000003-000018/plano-de-fases.md`.  
+6 fases: consolidação → revisão do dossiê → ferramentas/modelos → sincronização pública → auditoria adversarial → publicação/fechamento.  
+**Dependências:** EA-000003-000014 a EA-000003-000017.
+
