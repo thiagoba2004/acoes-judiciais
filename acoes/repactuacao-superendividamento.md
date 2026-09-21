@@ -83,6 +83,22 @@ A pesquisa já produziu:
 - metodologia de diagnóstico financeiro;
 - estrutura-base de petição inicial.
 
+## Tema complementar — recebimento de indenização trabalhista durante a repactuação
+
+Quando o consumidor recebe indenização líquida por dano moral trabalhista antes ou durante a repactuação, o valor não deve ser tratado nem como renda recorrente nem como verba automaticamente excluída da análise.
+
+A investigação complementar examina:
+- efeito sobre cabimento e impossibilidade manifesta de pagamento;
+- boa-fé e atualização da fotografia econômica;
+- mínimo existencial e reserva justificada;
+- fato superveniente e art. 493 do CPC;
+- impacto sobre plano consensual ou judicial;
+- situação após homologação;
+- cenários de uso do capital;
+- modelo de manifestação processual.
+
+Consulte o guia público: [Indenização trabalhista e superendividamento](../guias/indenizacao-trabalhista-superendividamento.html).
+
 ## 9. Modelo reutilizável — estrutura-base de petição
 
 A estrutura abaixo é um ponto de partida. Não é petição pronta e contém variáveis que precisam ser preenchidas e juridicamente validadas.
