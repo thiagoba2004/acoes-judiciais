@@ -34,5 +34,16 @@ Criar checklist documental e cláusulas-modelo para informar estado civil, separ
 Consolidar critérios e encaminhar resultados à estratégia integradora e ao dossiê principal.
 **Gate:** conclusões auditadas e prontas para a EA-000003-000018.
 
-## Estado inicial
-**Estratégia: PLANEJADA.**
+## Estado final
+
+**Estratégia: CONCLUÍDA.**
+
+- Fase 01/07: **CONCLUÍDA**.
+- Fase 02/07: **CONCLUÍDA**.
+- Fase 03/07: **CONCLUÍDA**.
+- Fase 04/07: **CONCLUÍDA**.
+- Fase 05/07: **CONCLUÍDA**.
+- Fase 06/07: **CONCLUÍDA**.
+- Fase 07/07: **CONCLUÍDA**.
+
+**Conclusão:** `research/EA-000003-000015/conclusao-integracao.md`.
