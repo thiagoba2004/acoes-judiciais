@@ -139,7 +139,7 @@ Antes de estruturar a ação, responda:
 
 ## 8. Modelo reutilizável — estrutura-base de petição
 
-O modelo abaixo é uma estrutura para adaptação. Exclua blocos não aplicáveis e confirme competência, fatos, provas e legislação vigente.
+O modelo abaixo é uma **estrutura-base, não uma petição pronta**. Exclua blocos não aplicáveis e confirme competência, fatos, provas, jurisdição e legislação vigente.
 
 ```text
 AO JUÍZO [JUÍZO COMPETENTE]
