@@ -34,5 +34,16 @@ Pesquisar precedentes e posições atualizadas sobre financiamentos imobiliário
 Produzir checklist de contratos/bens e enviar conclusões às estratégias patrimonial e integradora.
 **Gate:** instrumentos auditados e resultados prontos para integração.
 
-## Estado inicial
-**Estratégia: PLANEJADA.**
+## Estado final
+
+**Estratégia: CONCLUÍDA.**
+
+- Fase 01/07: **CONCLUÍDA**.
+- Fase 02/07: **CONCLUÍDA**.
+- Fase 03/07: **CONCLUÍDA**.
+- Fase 04/07: **CONCLUÍDA**.
+- Fase 05/07: **CONCLUÍDA**.
+- Fase 06/07: **CONCLUÍDA**.
+- Fase 07/07: **CONCLUÍDA**.
+
+**Ferramentas e conclusão:** `research/EA-000003-000017/ferramentas-integracao.md`.
