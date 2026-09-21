@@ -32,3 +32,5 @@
   - Doutrina profissional especializada
   - Instituições jurídicas não governamentais
 - Fale Conosco
+
+**Última revisão:** 21/09/2026.
