@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000006",
-  "current_strategy_name": "Reclamação Trabalhista com pedido de Indenização por Danos Morais",
+  "current_strategy_code": "EA-000003-000007",
+  "current_strategy_name": "Impacto da indenização trabalhista por dano moral na Ação de Repactuação de Dívidas por Superendividamento",
   "current_phase": {
-    "phase_number": 9,
+    "phase_number": 1,
     "phase_total": 9,
-    "phase_code": "F-000003-000006-009",
-    "phase_name": "Publicação, auditoria e fechamento",
-    "status": "CONCLUIDA"
+    "phase_code": "F-000003-000007-001",
+    "phase_name": "Delimitação jurídica e cenários temporais",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Auditoria global de títulos visíveis concluída: 14 páginas públicas verificadas; superendividamento e divórcio litigioso corrigidos; 14/14 páginas agora possuem exatamente um <title> técnico e um <h1> editorial visível.",
-  "next_logical_step": "Aguardar nova Estratégia Autônoma ou novo pedido de manutenção/auditoria do Projeto Ações Judiciais.",
+  "last_completed_milestone": "EA-000003-000007 criada como estratégia jurídica integradora da frente indenização líquida × superendividamento, com plano de 9 fases e vínculo explícito à EA-000004-000022.",
+  "next_logical_step": "Executar a Fase 01/09 da EA-000003-000007, delimitando cenários temporais e perguntas jurídicas antes de pesquisar o marco normativo integrado.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -36,9 +36,9 @@
   "site_status": "PUBLICADO_TITULOS_VISIVEIS_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/reclamacao-trabalhista-danos-morais.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
     "workflow_run_id": 35589232271,
     "attempt": 1,
@@ -104,5 +104,16 @@
     "json": "CONDITIONAL_ONLY",
     "rule": "Create JSON/JSONL only for structured data with a concrete machine-processing need; do not create JSON as an automatic mirror of Markdown/HTML.",
     "updated_at": "2026-09-20"
+  },
+  "cross_project_front": {
+    "theme": "Impacto da indenização líquida por dano moral trabalhista sobre a repactuação por superendividamento",
+    "legal_strategy": "EA-000003-000007",
+    "financial_project": "PRJ-000004",
+    "financial_strategy": "EA-000004-000022",
+    "source_strategies": [
+      "EA-000003-000001",
+      "EA-000003-000006"
+    ],
+    "status": "PLANEJADA"
   }
 }
