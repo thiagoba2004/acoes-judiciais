@@ -378,12 +378,17 @@ Fontes institucionais:
 ## 13. Fontes centrais
 
 - Código de Defesa do Consumidor — Lei nº 8.078/1990, texto consolidado;
+- Código Civil — Lei nº 10.406/2002, especialmente regime de bens e obrigações familiares;
 - Lei nº 14.181/2021;
 - Decretos nº 11.150/2022 e nº 11.567/2023;
 - STF — ADPFs 1005, 1006 e 1097, julgamento de 23/04/2026;
 - STJ — Jurisprudência em Teses, edição 282, Superendividamento;
 - STJ — CC 192.140/DF;
 - CNJ — Recomendação nº 125/2021, alterada pela Recomendação nº 153/2024;
+- STJ — REsp 2.180.444/MT — separação de fato e eficácia do regime de bens;
+- STJ — AgInt no AREsp 3.032.409/SP — realidade fático-probatória, renda familiar, despesas e contratos;
+- TJSP — AI 2017822-94.2025.8.26.0000 — documentação do cônjuge na aferição econômica;
+- TJSP — Apelação 1182227-29.2023.8.26.0100 — alienação fiduciária de bem móvel e exclusão do crédito garantido;
 - atos e materiais do TJBA/NUPEMEC sobre o Núcleo de Superendividamento.
 
 ## 14. Atualização e limites
