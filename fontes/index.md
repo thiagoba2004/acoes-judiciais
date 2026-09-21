@@ -12,6 +12,31 @@ A área preserva a proveniência das fontes primárias, institucionais e técnic
 - Conselho Nacional de Justiça — atos e políticas judiciárias;
 - Tribunal Superior do Trabalho — precedentes qualificados, acórdãos e jurisprudência trabalhista.
 
+## Produção acadêmica
+
+A produção acadêmica é selecionada por pertinência temática, autoria identificada e critérios externos verificáveis de qualidade. O Site não atribui ao curso ou à universidade a tese individual do autor.
+
+- **UFRGS:** Observatório do Crédito, Superendividamento e Conciliação de Conflitos de Consumo.
+- **Faculdade de Direito da USP:** teses e dissertações sobre Direito de Família, alimentos e dano moral trabalhista.
+- **CAPES:** fonte metodológica para avaliação externa da excelência de programas de pós-graduação; não é usada para criar ranking próprio.
+
+## OAB e suas comissões
+
+- **OAB Nacional — Defesa do Consumidor:** nota técnica e Cartilha Superendividamento.
+- **OAB-SP — Comissão de Direito de Família:** Cartilha de Direito de Família.
+- **OAB Nacional — Comissão Especial de Direito de Família:** produção acadêmica e agenda nacional de 2026 em monitoramento.
+- **OAB — Comissão da Mulher Advogada:** cartilha de prevenção e enfrentamento ao assédio moral e sexual.
+- **OAB-MT:** artigos individuais são classificados como autoria individual quando não houver adoção institucional.
+
+## Doutrina profissional especializada
+
+Publicações de escritórios só entram quando há autoria, conteúdo jurídico substantivo, pertinência e reconhecimento externo verificável da especialidade. Não constituem recomendação comercial.
+
+- **Machado Meyer Advogados:** análises sobre mínimo existencial/superendividamento e assédio moral.
+- **Chieco Advogados:** capítulo brasileiro do *Family Law 2026* da Chambers.
+
+O reconhecimento externo serve apenas como critério de seleção da fonte; não substitui legislação, jurisprudência ou análise crítica.
+
 ## Instituições jurídicas não governamentais
 
 ### Direito das Famílias
