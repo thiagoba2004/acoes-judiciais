@@ -39,6 +39,26 @@ Justiça do Trabalho é competente para indenizações por danos morais e patrim
 
 ## 3. TST — precedentes qualificados já firmados
 
+### IRR Tema 84 — carteiro vítima de assalto
+
+Tese:
+- em roubo sofrido por carteiro durante a entrega de correspondências e mercadorias;
+- a responsabilidade civil do empregador pela reparação do dano moral é objetiva;
+- porque a atividade envolve risco diferenciado em relação aos trabalhadores em geral.
+
+**Status:** tese firmada; recurso extraordinário pendente na fonte oficial consultada.
+
+### Assaltos em atividades de risco
+
+A jurisprudência do TST contém precedentes reconhecendo responsabilidade objetiva em contextos de risco especial, especialmente:
+- bancos/agências bancárias;
+- vigilância;
+- transporte de valores;
+- bancos postais;
+- atividades em que o roubo se vincula ao risco profissional.
+
+Em 2025, a 1ª Turma do TST reconheceu, pelas circunstâncias concretas, o risco da atividade em caso de balconista de farmácia vítima de três assaltos. Esse julgamento deve ser usado como precedente fático, não como regra abstrata para todo estabelecimento comercial.
+
 ### IRR Tema 88 — limbo previdenciário
 
 Tese:
@@ -138,6 +158,8 @@ Uso:
 | dano em ricochete por acidente fatal | presunção relativa para núcleo familiar indicado |
 | cobrança abusiva de metas | análise fática; jurisprudência regional oferece exemplos |
 | discriminação | análise de indícios, presunções e legislação específica |
+| assalto/roubo em atividade de risco especial | pode atrair responsabilidade objetiva; IRR 84 específico para carteiro |
+| assalto em comércio comum | depende da atividade e das circunstâncias; não há automatismo |
 
 ## 7. Doutrina selecionada
 
