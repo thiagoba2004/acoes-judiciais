@@ -20,8 +20,15 @@
 - Modelos
 - Jurisprudência
 - Doutrina
+  - Como pesquisamos a doutrina
+  - Produção acadêmica
+  - Comissões da OAB
+  - Doutrina profissional especializada
   - Teses institucionais
 - Legislação
 - Fontes
+  - Produção acadêmica
+  - OAB e suas comissões
+  - Doutrina profissional especializada
   - Instituições jurídicas não governamentais
 - Fale Conosco
