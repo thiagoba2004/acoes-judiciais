@@ -323,9 +323,11 @@ Plano: `research/EA-000003-000013/plano-de-fases.md`.
 
 ## Frente — Separação de fato sem divórcio × Superendividamento — REQ-20260921-054
 
-### EA-000003-000014 — Separação de fato sem divórcio e unidade econômica familiar no superendividamento — EM EXECUÇÃO
+### EA-000003-000014 — Separação de fato sem divórcio e unidade econômica familiar no superendividamento — CONCLUÍDA
 Plano: `research/EA-000003-000014/plano-de-fases.md`.  
 7 fases: delimitação/cronologia → efeitos civis → unidade econômica familiar → jurisprudência/doutrina → prova → riscos/objeções → síntese/auditoria.
+
+**Resultado EA-000003-000014:** 7/7 fases concluídas; casamento formal, separação de fato, unidade econômica e prova foram distinguidos; não localizada regra legal de soma automática da renda do cônjuge; dever de transparência e análise funcional de despesas preservados.
 
 ### EA-000003-000015 — Renda do cônjuge não devedor, mínimo existencial e capacidade de pagamento — PLANEJADA
 Plano: `research/EA-000003-000015/plano-de-fases.md`.  
