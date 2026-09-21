@@ -90,7 +90,108 @@ O dossiê recomenda organizar:
 
 Para organizar a prova, classifique cada informação como comprovada, ainda não comprovada, divergente ou não informada.
 
-## 8. Ferramentas práticas
+## 8. Separação de fato, renda do cônjuge e patrimônio
+
+A manutenção formal do casamento **não impede**, por si só, o procedimento de repactuação. Quando o consumidor está separado de fato, porém sem divórcio, o dossiê deve distinguir estado civil, ruptura fática, unidade econômica, renda do outro cônjuge e patrimônio.
+
+### 8.1. Estado civil e separação de fato
+
+Sem divórcio, o consumidor permanece formalmente **casado**. Se houver separação de fato, a petição deve informar a situação de modo preciso e documentado, por exemplo: **“casado, separado de fato desde [DATA]”**.
+
+A separação de fato pode produzir efeitos jurídicos relevantes antes do divórcio, inclusive sobre a eficácia prospectiva do regime de bens. A data da ruptura, contudo, é questão fática e pode exigir prova.
+
+Documentos potencialmente úteis:
+- endereços distintos;
+- contas e despesas separadas;
+- extratos;
+- comunicações contemporâneas à ruptura;
+- contratos;
+- IRPF;
+- testemunhas;
+- comprovantes de pagamentos posteriores à separação.
+
+A permanência no mesmo imóvel não torna impossível a separação de fato, mas exige explicação e prova mais robustas sobre a cessação da vida conjugal e a autonomia econômica.
+
+### 8.2. Renda do cônjuge: quatro camadas diferentes
+
+Não foi localizada regra legal nacional que determine soma automática da renda do cônjuge à renda do consumidor.
+
+Ao mesmo tempo, há jurisprudência estadual exigindo informações e documentos financeiros do cônjuge para compreender a realidade econômica do núcleo familiar. Por isso, a estratégia segura não é omitir a existência do outro cônjuge.
+
+A renda do cônjuge deve ser analisada em quatro camadas:
+
+1. **dado informativo** sobre a realidade econômica;
+2. **participação no custeio de despesas** comuns ou dos filhos;
+3. **eventual transferência econômica** efetivamente realizada ao consumidor;
+4. **responsabilidade jurídica por obrigação específica**, que depende de fundamento próprio.
+
+Essas quatro camadas não devem ser convertidas em uma soma automática.
+
+### 8.3. Despesas compartilhadas e filhos
+
+O orçamento deve indicar quanto o consumidor **efetivamente suporta**.
+
+Exemplo: se uma despesa mensal de R$ 1.000,00 é comprovadamente dividida em partes iguais, a fotografia econômica do consumidor não deve atribuir automaticamente a ele os R$ 1.000,00 integrais.
+
+Despesas com filhos devem ser discriminadas separadamente. Contribuição de ambos os genitores para educação, saúde ou alimentação não significa, por si só, recomposição da unidade conjugal.
+
+### 8.4. Patrimônio: valor, dívida e liquidez
+
+A existência de patrimônio deve ser declarada com transparência, mas patrimônio não se confunde com renda mensal nem com liquidez imediata.
+
+Para cada bem, registrar:
+- data de aquisição;
+- titularidade;
+- regime de bens;
+- valor atual;
+- saldo devedor;
+- pagamentos antes e depois da separação;
+- eventual meação;
+- uso atual;
+- liquidez.
+
+O pedido de repactuação não importa declaração de insolvência civil e o CDC não estabelece, como requisito geral, a venda prévia de todos os bens.
+
+### 8.5. Apartamento financiado
+
+O **financiamento imobiliário** é expressamente excluído do processo de repactuação pelo art. 104-A, § 1º, do CDC.
+
+Isso não torna o apartamento invisível ao processo. Devem ser informados, conforme o caso:
+- matrícula e titularidade;
+- valor de mercado;
+- saldo devedor;
+- direitos aquisitivos;
+- meação potencial;
+- quem reside no imóvel;
+- quem paga as prestações após a separação.
+
+O valor integral de mercado não deve ser tratado automaticamente como patrimônio líquido disponível.
+
+### 8.6. Veículo quitado ou financiado
+
+**Veículo quitado:** é patrimônio e deve ser declarado; sua existência não afasta automaticamente o superendividamento.
+
+**Veículo financiado com alienação fiduciária:** jurisprudência estadual consultada classifica o crédito como garantido e o exclui da repactuação do art. 104-A, § 1º. A classificação deve ser feita contrato a contrato e a ausência de tese repetitiva específica do STJ deve ser explicitada quando relevante.
+
+Para ambos, avaliar:
+- valor de mercado;
+- saldo devedor/gravame;
+- uso profissional ou familiar;
+- despesas;
+- quem utiliza e quem paga;
+- essencialidade concreta.
+
+### 8.7. Quadro prático
+
+| Situação | Declarar | Pode influir nas despesas | Entra automaticamente no plano |
+|---|---:|---:|---:|
+| renda do cônjuge separado de fato | quando material/disponível ou exigida | sim, para rateios e realidade econômica | não |
+| apartamento financiado | sim | sim, conforme moradia e parcela efetiva | não — financiamento imobiliário excluído |
+| veículo quitado | sim | custos essenciais comprovados | não há dívida associada |
+| veículo com alienação fiduciária | sim, com saldo e gravame | sim, conforme uso | tendência de exclusão do crédito garantido |
+| patrimônio comum não partilhado | sim | conforme frutos/despesas | não se confunde com dívida do plano |
+
+## 9. Ferramentas práticas
 
 A pesquisa já produziu:
 - roteiro de triagem inicial;
@@ -100,7 +201,7 @@ A pesquisa já produziu:
 - metodologia de diagnóstico financeiro;
 - estrutura-base de petição inicial.
 
-## Tema complementar — recebimento de indenização trabalhista durante a repactuação
+## 10. Tema complementar — recebimento de indenização trabalhista durante a repactuação
 
 Quando o consumidor recebe indenização líquida por dano moral trabalhista antes ou durante a repactuação, o valor não deve ser tratado nem como renda recorrente nem como verba automaticamente excluída da análise.
 
@@ -116,7 +217,7 @@ A investigação complementar examina:
 
 Consulte o guia público: [Indenização trabalhista e superendividamento](../guias/indenizacao-trabalhista-superendividamento.html).
 
-## 9. Modelo reutilizável — estrutura-base de petição
+## 11. Modelo reutilizável — estrutura-base de petição
 
 A estrutura abaixo é uma **estrutura-base, não uma petição pronta**. Contém variáveis que precisam ser preenchidas e juridicamente validadas para a jurisdição e o caso concreto.
 
@@ -135,6 +236,9 @@ I — DOS FATOS
 3. Serviço mensal das dívidas: [SERVIÇO MENSAL DAS DÍVIDAS].
 4. Evolução do endividamento e eventos relevantes: [CRONOLOGIA DOS FATOS].
 5. Tentativas anteriores de negociação: [TENTATIVAS DE NEGOCIAÇÃO].
+6. Estado civil e situação conjugal atual: [CASADO / SEPARADO DE FATO DESDE DATA / OUTRO].
+7. Organização econômica familiar: [RESIDÊNCIAS / RATEIOS / DESPESAS DOS FILHOS / TRANSFERÊNCIAS].
+8. Patrimônio relevante: [BENS, TITULARIDADE, REGIME DE BENS, SALDO DEVEDOR, MEAÇÃO POTENCIAL].
 
 II — DO ENQUADRAMENTO
 Demonstrar, com fatos e documentos:
@@ -153,23 +257,36 @@ III — DA COMPETÊNCIA
 Verificar ainda a organização judiciária local.
 
 IV — DO DIAGNÓSTICO ECONÔMICO
-RENDA LÍQUIDA = [VALOR]
-DESPESAS ESSENCIAIS = [VALOR]
+RENDA LÍQUIDA DO AUTOR = [VALOR]
+RENDA DO CÔNJUGE/COMPANHEIRO [SE MATERIAL AO CASO] = [VALOR / DESCONHECIDA / NÃO COMPARTILHADA]
+DESPESAS ESSENCIAIS EFETIVAMENTE SUPORTADAS PELO AUTOR = [VALOR]
+DESPESAS COMPARTILHADAS = [VALOR E RATEIO]
+DESPESAS DOS FILHOS = [VALOR E RESPONSÁVEL PELO PAGAMENTO]
 SERVIÇO MENSAL DAS DÍVIDAS = [VALOR]
 ATIVOS LÍQUIDOS = [VALOR]
+BENS FINANCIADOS = [VALOR DE MERCADO / SALDO DEVEDOR / DIREITO AQUISITIVO]
 FLUXO LIVRE = [VALOR]
-Explicar a metodologia e anexar documentos.
+Explicar a metodologia, separar renda de terceiro de capacidade própria de pagamento e anexar documentos.
 
-V — DO PLANO CONSENSUAL
+V — DA SITUAÇÃO FAMILIAR E PATRIMONIAL [SE APLICÁVEL]
+a) informar separação de fato e respectiva prova;
+b) distinguir orçamento próprio de despesas compartilhadas;
+c) explicar eventual renda/documentação do cônjuge sem presumir solidariedade;
+d) declarar apartamento, veículo e outros bens com saldo devedor e regime de bens;
+e) separar dívidas excluídas pelo art. 104-A, § 1º, das demais dívidas de consumo.
+
+VI — DO PLANO CONSENSUAL
+
+VI — DO PLANO CONSENSUAL
 Apresentar, por credor:
 saldo-base; proposta; prazo; parcela; encargos negociados; observações.
 Demonstrar que o plano é compatível com a capacidade de pagamento.
 
-VI — DA TUTELA PROVISÓRIA [SOMENTE SE CABÍVEL]
+VII — DA TUTELA PROVISÓRIA [SOMENTE SE CABÍVEL]
 Descrever fato urgente, prova e medida cautelar individualizada.
 Não usar percentual-padrão sem fundamento no caso.
 
-VII — DOS PEDIDOS
+VIII — DOS PEDIDOS
 Selecionar somente pedidos sustentados pelos fatos:
 a) processamento autônomo do procedimento;
 b) convocação/citação dos credores para audiência global;
@@ -180,14 +297,14 @@ f) homologação de acordo total ou parcial;
 g) a pedido do consumidor, eventual fase do art. 104-B quanto aos créditos remanescentes;
 h) demais providências estritamente cabíveis.
 
-VIII — DAS PROVAS
+IX — DAS PROVAS
 Relacionar e numerar todos os documentos.
 
 [LOCAL], [DATA]
 [ASSINATURA / OAB]
 ```
 
-## 10. Teses institucionais relevantes
+## 12. Teses institucionais relevantes
 
 Além da doutrina individual, este dossiê acompanha posições institucionais de entidades especializadas em Direito do Consumidor e defesa do consumidor. Essas posições são **atribuídas e não vinculantes** e devem ser confrontadas com a legislação e a jurisprudência atuais.
 
@@ -248,7 +365,7 @@ Fontes institucionais:
 - [Idec — posição sobre mínimo existencial](https://idec.org.br/release/decreto-do-minimo-existencial-beneficia-sistema-financeiro-e-prejudica-populacao-avalia-idec)
 - [STF — ADPF 1005](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6468508)
 
-## 11. Fontes centrais
+## 13. Fontes centrais
 
 - Código de Defesa do Consumidor — Lei nº 8.078/1990, texto consolidado;
 - Lei nº 14.181/2021;
@@ -259,6 +376,6 @@ Fontes institucionais:
 - CNJ — Recomendação nº 125/2021, alterada pela Recomendação nº 153/2024;
 - atos e materiais do TJBA/NUPEMEC sobre o Núcleo de Superendividamento.
 
-## 12. Atualização e limites
+## 14. Atualização e limites
 
 A legislação, a jurisprudência e a organização judiciária podem mudar. Antes de utilizar qualquer instrumento deste dossiê em situação real, verificar a data, a jurisdição, os precedentes atuais e os documentos concretos.
