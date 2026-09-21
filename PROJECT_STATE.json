@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000006",
   "current_strategy_name": "Reclamação Trabalhista com pedido de Indenização por Danos Morais",
   "current_phase": {
-    "phase_number": 5,
+    "phase_number": 7,
     "phase_total": 9,
-    "phase_code": "F-000003-000006-005",
-    "phase_name": "Elementos da responsabilidade, defesas e controvérsias",
+    "phase_code": "F-000003-000006-007",
+    "phase_name": "Jurisprudência, doutrina e teses institucionais",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 03 e 04 da EA-000003-000006 concluídas: matriz processual de entrada e matriz fato–documento–prova persistidas, com controvérsias qualificadas e fontes atualizadas.",
-  "next_logical_step": "Iniciar a Fase 05/09, estruturando ato/omissão, ilicitude, dano, nexo, imputação, culpa ou risco conforme o caso, excludentes, culpa concorrente/exclusiva, fato de terceiro, exercício regular de direito, inexistência de dano autônomo e principais linhas defensivas.",
+  "last_completed_milestone": "Fases 05 e 06 da EA-000003-000006 concluídas: matriz de responsabilidade/defesas e metodologia de quantificação persistidas, com fontes atuais do STF/TST incorporadas.",
+  "next_logical_step": "Iniciar a Fase 07/09, pesquisando e comparando STF, TST, TRTs, doutrina especializada e teses institucionais de entidades jurídicas não governamentais ligadas ao Direito do Trabalho, distinguindo precedente vinculante, entendimento qualificado, divergência e posição institucional não vinculante.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
