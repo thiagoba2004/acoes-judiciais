@@ -15,10 +15,10 @@
     "phase_total": 9,
     "phase_code": "F-000003-000007-009",
     "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000003-000007 com Fases 01 a 08 concluídas; investigação jurídica e seis ferramentas práticas/interoperabilidade concluídas.",
-  "next_logical_step": "Executar a Fase 09/09: publicar unidade complementar em Guias, integrar dossiê/Modelos/Mapa do Site, auditar e verificar deploy.",
+  "last_completed_milestone": "EA-000003-000007 concluída em 9/9 fases, publicada e auditada; frente jurídica da indenização trabalhista × superendividamento encerrada.",
+  "next_logical_step": "Frente interprojetos concluída. Aguardar nova Estratégia Autônoma no PRJ-000003; no PRJ-000004, retomar a EA-000004-000018 — Investimentos e alocação do capital extraordinário.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,18 +33,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_TITULOS_VISIVEIS_AUDITADO",
+  "site_status": "PUBLICADO_INDENIZACAO_TRABALHISTA_SUPERENDIVIDAMENTO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": null,
+  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/guias/indenizacao-trabalhista-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35589232271,
-    "attempt": 1,
+    "workflow_run_id": 35593885449,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "9f9d458f1a719c75840b96ad57cc19b85406b28f"
+    "public_content_commit": "0d2957ea999393c4a7ed84379abc7f78c73a0e81"
   },
   "public_menu": [
     "Início",
@@ -114,6 +113,6 @@
       "EA-000003-000001",
       "EA-000003-000006"
     ],
-    "status": "PLANEJADA"
+    "status": "CONCLUIDA"
   }
 }
