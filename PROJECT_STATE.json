@@ -17,8 +17,8 @@
     "phase_name": "Publicação, auditoria e atualização",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Metodologia doutrinária ampliada implantada: doutrina autoral, produção acadêmica, Comissões da OAB, entidades especializadas, doutrina profissional e posições interessadas, com contraditório obrigatório e atribuição qualificada.",
-  "next_logical_step": "Aguardar nova Estratégia Autônoma ou revisão material; aplicar obrigatoriamente o RESEARCH_DOUTRINA_PROTOCOL.md nas futuras pesquisas doutrinárias.",
+  "last_completed_milestone": "Revisão doutrinária transversal concluída e auditada em todo o corpus editorial/canônico: protocolo aplicado materialmente às três ações publicadas e ao guia interáreas; 15 HTMLs públicos, 22 Markdown não-research e SOURCE_REGISTRY.jsonl com 142 registros auditados.",
+  "next_logical_step": "Aguardar nova Estratégia Autônoma ou revisão material; aplicar RESEARCH_DOUTRINA_PROTOCOL.md desde a fase de pesquisa de toda nova ação e registrar ausência de fonte materialmente aplicável sem inventar posição institucional.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -34,17 +34,17 @@
     "RESEARCH_DOUTRINA_PROTOCOL.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_METODOLOGIA_DOUTRINARIA_AMPLIADA",
+  "site_status": "PUBLICADO_REVISAO_DOUTRINARIA_GLOBAL_AUDITADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/guias/indenizacao-trabalhista-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35604156202,
+    "workflow_run_id": 35607094313,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "4691ba0cbff2780ebe31dc5635f8f70dff06f316"
+    "public_content_commit": "7cc5b8b9c9071c1f85d3a8c2d66ddb414eb127b6"
   },
   "public_menu": [
     "Início",
