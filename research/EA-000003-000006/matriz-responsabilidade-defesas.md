@@ -282,7 +282,7 @@ Separar:
 
 Não presumir doença ocupacional apenas porque houve assalto; diagnóstico, nexo e extensão precisam de prova quando essa repercussão específica for alegada.
 
-## 26. Assédio praticado por gestor ou colega
+## 15. Assédio praticado por gestor ou colega
 
 Defesas frequentes:
 - inexistência dos fatos;
@@ -298,7 +298,7 @@ Limites:
 - política de compliance não imuniza a empresa;
 - reiteração pode ser relevante ao assédio moral, mas ato único muito grave pode configurar outra lesão indenizável.
 
-## 26. Assédio sexual
+## 16. Assédio sexual
 
 Defesas possíveis:
 - inexistência;
@@ -312,7 +312,7 @@ Cuidados:
 - retaliação posterior é fato autônomo relevante;
 - omissão preventiva e de apuração podem influenciar imputação.
 
-## 26. Discriminação
+## 17. Discriminação
 
 Defesas:
 - critério objetivo e legítimo;
@@ -328,7 +328,7 @@ Cuidados:
 - tratamento de comparadores;
 - prova documental.
 
-## 26. Acidente/doença
+## 18. Acidente/doença
 
 Defesas:
 - inexistência de nexo;
@@ -345,7 +345,7 @@ Cuidados:
 - benefício previdenciário não encerra a responsabilidade civil;
 - atividade de risco pode atrair responsabilidade objetiva.
 
-## 26. Medidas preventivas e resposta empresarial
+## 19. Medidas preventivas e resposta empresarial
 
 Podem funcionar como elementos defensivos:
 - política clara;
@@ -368,7 +368,7 @@ Checklist:
 - houve proteção contra retaliação?
 - o problema cessou?
 
-## 26. Retratação e mitigação
+## 20. Retratação e mitigação
 
 O art. 223-G permite considerar:
 - retratação espontânea;
@@ -378,7 +378,7 @@ O art. 223-G permite considerar:
 
 Esses fatores podem influenciar o quantum, mas não apagam automaticamente o dano já consumado.
 
-## 26. Bis in idem
+## 21. Bis in idem
 
 Evitar dupla indenização pelo mesmo dano.
 
@@ -390,7 +390,7 @@ Cumulação é possível quando os danos são juridicamente autônomos:
 - moral + material;
 - moral + existencial, se houver autonomia fática e jurídica.
 
-## 26. Prescrição e questões processuais como defesa
+## 22. Prescrição e questões processuais como defesa
 
 Defesas preliminares possíveis:
 - incompetência territorial;
@@ -404,7 +404,7 @@ Defesas preliminares possíveis:
 
 Devem ser separadas das defesas de mérito.
 
-## 26. Matriz por hipótese
+## 23. Matriz por hipótese
 
 | Hipótese | Elemento-chave | Defesa frequente | Cautela |
 |---|---|---|---|
@@ -418,7 +418,7 @@ Devem ser separadas das defesas de mérito.
 | dispensa | fato adicional ofensivo | poder potestativo | discriminação/retaliação |
 | verba rescisória | lesão adicional | mero inadimplemento | tese TST exige lesão concreta |
 
-## 26. Roteiro de análise defensiva
+## 24. Roteiro de análise defensiva
 
 ```text
 1. O FATO ACONTECEU?
@@ -433,7 +433,7 @@ Devem ser separadas das defesas de mérito.
 10. QUAIS FATOS AGRAVAM OU MITIGAM?
 ```
 
-## 26. Gate da Fase 05
+## 25. Gate da Fase 05
 
 **SATISFEITO.**
 
