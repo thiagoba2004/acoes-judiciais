@@ -10,4 +10,4 @@ Os modelos são estruturas de partida e devem ser adaptados ao caso concreto.
 
 O botão **COPIAR MODELO** fica imediatamente acima do texto copiável em cada dossiê.
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
