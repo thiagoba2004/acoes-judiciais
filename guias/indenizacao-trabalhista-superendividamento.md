@@ -153,6 +153,17 @@ e) demais providências processuais compatíveis com a fase concreta.
 [ASSINATURA / OAB]
 ```
 
+## Camada doutrinária complementar
+
+O novo protocolo doutrinário foi aplicado também a esta interface entre Direito do Trabalho e Direito do Consumidor.
+
+- **Produção acadêmica:** o Observatório do Crédito e Superendividamento da UFRGS fornece base acadêmica para compreender prevenção, diagnóstico e tratamento global do endividamento.
+- **OAB:** materiais da Comissão Nacional de Defesa do Consumidor tratam do superendividamento, conciliação, plano e preservação do mínimo existencial; documentos anteriores à Lei nº 14.181/2021 são tratados como históricos e atualizados pela legislação superveniente.
+- **Doutrina profissional:** artigo do Machado Meyer sobre mínimo existencial é usado para mapear a discussão entre previsibilidade do parâmetro objetivo e críticas à sua suficiência, com atualização obrigatória pelo STF em 2026.
+- **Contraditório:** nenhuma dessas fontes resolve, isoladamente, a questão específica do destino de uma indenização trabalhista superveniente. A conclusão permanece dependente do CDC, do CPC, da jurisprudência e dos fatos econômicos demonstrados.
+
+Consulte a área [Doutrina](../doutrina/index.html) e o dossiê de [Repactuação de Dívidas por Superendividamento](../acoes/repactuacao-superendividamento.html) para as fontes e divergências completas.
+
 ## 11. O que a pesquisa não encontrou
 
 Até a revisão desta unidade, não foi localizado precedente superior específico estabelecendo que a indenização por dano moral trabalhista deva ser integralmente aplicada no plano de superendividamento, nem precedente superior determinando sua exclusão integral.
