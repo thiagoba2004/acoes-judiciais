@@ -34,5 +34,16 @@ Criar inventário patrimonial, checklist de documentos, critérios de valor, tit
 Consolidar conclusões e encaminhá-las à estratégia de bens financiados e à integradora.
 **Gate:** síntese auditada e pronta para integração.
 
-## Estado inicial
-**Estratégia: PLANEJADA.**
+## Estado final
+
+**Estratégia: CONCLUÍDA.**
+
+- Fase 01/07: **CONCLUÍDA**.
+- Fase 02/07: **CONCLUÍDA**.
+- Fase 03/07: **CONCLUÍDA**.
+- Fase 04/07: **CONCLUÍDA**.
+- Fase 05/07: **CONCLUÍDA**.
+- Fase 06/07: **CONCLUÍDA**.
+- Fase 07/07: **CONCLUÍDA**.
+
+**Síntese:** `research/EA-000003-000016/sintese-patrimonial.md`.
