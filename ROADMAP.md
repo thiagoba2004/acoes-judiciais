@@ -347,8 +347,10 @@ Plano: `research/EA-000003-000017/plano-de-fases.md`.
 
 **Resultado EA-000003-000017:** 7/7 fases concluídas; apartamento financiado, veículo quitado e financiamento com alienação fiduciária separados, com checklists e metodologia de valor líquido.
 
-### EA-000003-000018 — Integração da separação de fato, renda do cônjuge e patrimônio ao dossiê de Superendividamento — EM EXECUÇÃO
+### EA-000003-000018 — Integração da separação de fato, renda do cônjuge e patrimônio ao dossiê de Superendividamento — CONCLUÍDA
 Plano: `research/EA-000003-000018/plano-de-fases.md`.  
 6 fases: consolidação → revisão do dossiê → ferramentas/modelos → sincronização pública → auditoria adversarial → publicação/fechamento.  
 **Dependências:** EA-000003-000014 a EA-000003-000017.
+
+**Resultado EA-000003-000018:** 6/6 fases concluídas; dossiê e modelo integrados; Markdown/HTML sincronizados; fontes específicas expostas; reauditoria global aprovada com 16 HTMLs, 457 hrefs, 69 verificações de âncoras, 4 botões de cópia e zero falhas; GitHub Pages run `35668023210` success.
 
