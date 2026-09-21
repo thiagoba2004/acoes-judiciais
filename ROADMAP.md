@@ -329,7 +329,7 @@ Plano: `research/EA-000003-000014/plano-de-fases.md`.
 
 **Resultado EA-000003-000014:** 7/7 fases concluídas; casamento formal, separação de fato, unidade econômica e prova foram distinguidos; não localizada regra legal de soma automática da renda do cônjuge; dever de transparência e análise funcional de despesas preservados.
 
-### EA-000003-000015 — Renda do cônjuge não devedor, mínimo existencial e capacidade de pagamento — PLANEJADA
+### EA-000003-000015 — Renda do cônjuge não devedor, mínimo existencial e capacidade de pagamento — EM EXECUÇÃO
 Plano: `research/EA-000003-000015/plano-de-fases.md`.  
 7 fases: cenários de renda → marco do mínimo existencial → renda informativa versus fonte de pagamento → despesas/dependentes → jurisprudência/doutrina → prova/redação processual → integração.
 
