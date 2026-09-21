@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000013",
-  "current_strategy_name": "Integridade editorial, proveniência pública e navegação",
+  "current_strategy_code": "EA-000003-000014",
+  "current_strategy_name": "Separação de fato sem divórcio e unidade econômica familiar no superendividamento",
   "current_phase": {
-    "phase_number": 4,
-    "phase_total": 4,
-    "phase_code": "F-000003-000013-004",
-    "phase_name": "Auditoria editorial e publicação",
-    "status": "CONCLUIDA"
+    "phase_number": 1,
+    "phase_total": 7,
+    "phase_code": "F-000003-000014-001",
+    "phase_name": "Delimitação e cronologia jurídica da separação de fato",
+    "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "Ciclo corretivo do Relatório do Advogado do Diabo concluído, reauditado e publicado pelo GitHub Pages; run 35623051769 concluído com sucesso.",
-  "next_logical_step": "Aguardar nova Estratégia Autônoma; aplicar permanentemente o protocolo adversarial, a JURISPRUDENCE_MATRIX.md e a paridade semântica Markdown–HTML em toda revisão futura.",
+  "next_logical_step": "Executar a Fase 01/07 da EA-000003-000014, fixando cenários, cronologia e perguntas jurídicas; depois avançar sequencialmente pelas EA-000003-000015 a EA-000003-000017 e concluir com a integração da EA-000003-000018.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -118,5 +118,19 @@
       "EA-000003-000006"
     ],
     "status": "CONCLUIDA"
+  },
+  "active_strategy_cluster": {
+    "theme": "Separação de fato sem divórcio, renda do cônjuge e patrimônio na repactuação por superendividamento",
+    "trigger_request": "REQ-20260921-054",
+    "strategies": [
+      "EA-000003-000014",
+      "EA-000003-000015",
+      "EA-000003-000016",
+      "EA-000003-000017",
+      "EA-000003-000018"
+    ],
+    "current": "EA-000003-000014",
+    "integrator": "EA-000003-000018",
+    "status": "EM_EXECUCAO"
   }
 }
