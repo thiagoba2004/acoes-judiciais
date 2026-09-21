@@ -78,6 +78,21 @@
           "context": "divórcio liminar e obrigações econômicas"
         }
       ]
+    },
+    {
+      "institution": "Associação de Direito de Família e das Sucessões — ADFAS",
+      "nature": "posição institucional não vinculante",
+      "relation": "SUPERADA",
+      "context": "subsistência da separação judicial após a EC 66/2010",
+      "source": "https://adfas.org.br/wp-content/uploads/2019/07/Parecer-ADFAS-Projeto-de-Lei-510-de-2019.pdf",
+      "current_law_reference": "STF Tema 1053"
+    }
+  ],
+  "monitored_entities": [
+    {
+      "institution": "Instituto Brasileiro de Direito Civil — IBDCivil",
+      "status": "MONITORAR",
+      "reason": "entidade civilista relevante, mas sem tese institucional específica e recuperável incorporada nesta auditoria; artigos de autores não são automaticamente posições do Instituto"
     }
   ]
 }
