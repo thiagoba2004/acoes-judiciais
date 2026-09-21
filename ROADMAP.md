@@ -172,11 +172,13 @@ Levantar e verificar Constituição, CLT, Código Civil, CPC, legislação espec
 
 ### FASE 03/09 [F-000003-000006-003] — Competência, legitimidade, prescrição e estrutura processual
 Mapear competência, legitimidade, prescrição, cumulação, rito, valor da causa, tutela provisória e requisitos processuais.  
-**Gate:** matriz processual de entrada verificada.
+**Gate:** matriz processual de entrada verificada.  
+**Estado:** CONCLUÍDA — controvérsias dos IRR 215, 200 e 35 tratadas como pendentes, sem simplificação.
 
 ### FASE 04/09 [F-000003-000006-004] — Fatos, documentos, prova e ônus probatório
 Estruturar cronologia, documentos, prova testemunhal, prova digital, registros internos, documentos médicos/ocupacionais quando pertinentes e ônus probatório.  
-**Gate:** matriz fato–elemento jurídico–prova e checklist documental persistidos.
+**Gate:** matriz fato–elemento jurídico–prova e checklist documental persistidos.  
+**Estado:** CONCLUÍDA — matriz probatória, preservação digital, gravações, testemunhas, saúde, assédio, discriminação, acidente e ônus dinâmico estruturados.
 
 ### FASE 05/09 [F-000003-000006-005] — Elementos da responsabilidade, defesas e controvérsias
 Examinar ilicitude, dano, nexo, imputação, culpa ou risco conforme o caso, excludentes e principais linhas defensivas.  
