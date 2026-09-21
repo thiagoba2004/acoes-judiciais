@@ -114,4 +114,4 @@ A consulta doutrinária deve ser combinada com:
 
 Uma obra doutrinária pode ajudar a interpretar, organizar e comparar soluções jurídicas, mas não transforma uma tese em regra vinculante.
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
