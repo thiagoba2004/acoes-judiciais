@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000015",
-  "current_strategy_name": "Renda do cônjuge não devedor, mínimo existencial e capacidade de pagamento",
+  "current_strategy_code": "EA-000003-000016",
+  "current_strategy_name": "Patrimônio conjugal, regime de bens e separação de fato na repactuação",
   "current_phase": {
-    "phase_number": 4,
+    "phase_number": 1,
     "phase_total": 7,
-    "phase_code": "F-000003-000015-004",
-    "phase_name": "Despesas compartilhadas, dependentes e obrigações familiares",
+    "phase_code": "F-000003-000016-001",
+    "phase_name": "Regime de bens e linha do tempo patrimonial",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000003-000015: Fases 01 a 03 concluídas; renda do cônjuge separada em informação, rateio de despesas, responsabilidade e capacidade de pagamento.",
-  "next_logical_step": "Executar a Fase 04/07 da EA-000003-000015, detalhando despesas compartilhadas, despesas da filha, moradia, transferências e dependência econômica.",
+  "last_completed_milestone": "EA-000003-000015 concluída em 7/7 fases; renda do cônjuge estruturada sem soma automática e com protocolo de transparência.",
+  "next_logical_step": "Executar a Fase 01/07 da EA-000003-000016, construindo a linha do tempo patrimonial por regime de bens, data de aquisição e marco da separação de fato.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -129,7 +129,7 @@
       "EA-000003-000017",
       "EA-000003-000018"
     ],
-    "current": "EA-000003-000015",
+    "current": "EA-000003-000016",
     "integrator": "EA-000003-000018",
     "status": "EM_EXECUCAO"
   }
