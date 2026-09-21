@@ -17,7 +17,7 @@
     "phase_name": "Publicação, interoperabilidade financeira, auditoria e fechamento",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000003-000005 concluída: dossiê de divórcio litigioso publicado, integrado, auditado e com interface financeira documentada.",
+  "last_completed_milestone": "Auditoria das entidades jurídicas das ações publicadas concluída: IBDFAM, ADFAS, BRASILCON e Idec integrados com teses atribuídas e confrontadas; IBDCivil e MPCON mantidos em monitoramento sem atribuição artificial.",
   "next_logical_step": "Prosseguir no PRJ-000004 Planejamento Financeiro com a primeira estratégia financeira correlata às consequências do divórcio.",
   "canonical_files": [
     "README.md",
@@ -33,18 +33,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_DIVORCIO_LITIGIOSO_INTEGRADO_AUDITADO",
+  "site_status": "PUBLICADO_ENTIDADES_JURIDICAS_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html",
   "last_deployment": {
-    "workflow_run_id": 35540435610,
+    "workflow_run_id": 35546489572,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "b794a3a30d23e0ca63ce7dcbbc1c80fa9fa4f0b6"
+    "public_content_commit": "05ae89a576b0edd91998f7bc91cfe4fb417cdc9e"
   },
   "public_menu": [
     "Início",
