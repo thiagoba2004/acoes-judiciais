@@ -51,6 +51,7 @@ Marcar uma ou mais:
 - dano existencial;
 - retaliação;
 - violência;
+- assalto/roubo no estabelecimento ou durante o trabalho;
 - inadimplemento contratual com possível lesão adicional;
 - outra.
 
@@ -150,6 +151,21 @@ Perguntar:
 - fato de terceiro?
 - culpa concorrente?
 - possível excludente?
+
+### Se houve assalto/roubo
+
+Perguntar:
+- qual era a atividade?
+- havia movimentação de numerário/valores?
+- qual função do trabalhador?
+- quantos assaltos anteriores?
+- havia histórico conhecido?
+- quais medidas de segurança existiam?
+- havia dever legal específico de segurança?
+- ocorreu ameaça, arma, agressão, sequestro ou cárcere?
+- houve afastamento ou adoecimento posterior?
+- há boletim de ocorrência, câmeras, CAT, documentos médicos ou testemunhas?
+- o risco criminal era especial da atividade ou equivalente ao risco comum da coletividade?
 
 ## 11. Quantificação
 
