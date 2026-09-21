@@ -129,6 +129,36 @@ Cada Estratégia Autônoma de ação judicial deve buscar, quando aplicável:
 12. modelos reutilizáveis, quando aprovados;
 13. data e escopo da última revisão.
 
+### 8.3. Protocolo canônico de pesquisa doutrinária
+
+O arquivo `RESEARCH_DOUTRINA_PROTOCOL.md` é obrigatório para toda nova Estratégia Autônoma e para revisões materiais de ações já publicadas.
+
+A pesquisa doutrinária deve, quando materialmente aplicável, percorrer estas camadas:
+
+1. doutrina autoral tradicional;
+2. produção acadêmica de faculdades, programas, grupos, núcleos, centros e periódicos de reconhecida excelência;
+3. comissões permanentes ou temáticas da OAB, no Conselho Federal e nas Seccionais;
+4. institutos e entidades jurídicas especializadas;
+5. doutrina profissional especializada produzida por advogados/equipes de escritórios reconhecidos no ramo;
+6. posições institucionais interessadas, claramente identificadas como tais.
+
+Regras obrigatórias:
+
+- não criar ranking próprio de autores, faculdades ou escritórios;
+- usar critérios externos verificáveis e pertinência temática para selecionar instituições acadêmicas ou profissionais;
+- renome/prestígio não substitui leitura, fundamentação, legislação ou jurisprudência;
+- identificar sempre autor, documento, data/edição, natureza da fonte e tese efetivamente consultada;
+- não atribuir posição a universidade, curso, OAB, comissão, instituto ou escritório quando o texto for apenas de autoria individual;
+- distinguir `POSICAO_INSTITUCIONAL_OAB`, `PRODUCAO_DE_COMISSAO` e `AUTORIA_INDIVIDUAL_EM_AMBIENTE_OAB`;
+- tratar publicações de escritórios como doutrina profissional especializada e não como recomendação comercial;
+- posições de partes interessadas devem ser rotuladas como potencialmente interessadas;
+- em controvérsia material, buscar deliberadamente as principais formulações favoráveis e contrárias;
+- confrontar toda tese com legislação vigente, precedentes qualificados e jurisprudência atual;
+- registrar superveniência, divergência e eventual superação;
+- a fase doutrinária não satisfaz o gate se houver atribuição sem leitura, ambiguidade de autoria institucional, ausência de contraditório relevante ou desconsideração de norma/precedente superveniente.
+
+A área pública **Doutrina** pode expor essas categorias e teses relevantes, mas não deve publicar listas promocionais de “melhores escritórios” ou “melhores faculdades”.
+
 ## 9. Módulo publication
 
 Para conteúdo textual/editorial publicável, o padrão é:
