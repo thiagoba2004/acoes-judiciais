@@ -15,10 +15,10 @@
     "phase_total": 6,
     "phase_code": "F-000003-000018-006",
     "phase_name": "Publicação e fechamento",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000003-000018: Fases 01 a 05 concluídas; conteúdo integrado, sincronizado e auditado adversarialmente.",
-  "next_logical_step": "Executar auditoria global do artefato público alterado e verificar o workflow/deploy do GitHub Pages; se aprovado, concluir EA-000003-000018.",
+  "last_completed_milestone": "Cluster separação de fato × superendividamento concluído: EA14-EA18 finalizadas, integradas, auditadas e publicadas.",
+  "next_logical_step": "Aguardar nova Estratégia Autônoma ou nova revisão material; usar o dossiê de Superendividamento atualizado como fonte canônica para separação de fato, renda do cônjuge, patrimônio, apartamento e veículo.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,19 +35,19 @@
     "JURISPRUDENCE_MATRIX.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "CORRECOES_ADVERSARIAIS_PUBLICADAS_E_VERIFICADAS_POR_PIPELINE",
+  "site_status": "INTEGRACAO_SEPARACAO_RENDA_PATRIMONIO_PUBLICADA_E_VERIFICADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/guias/indenizacao-trabalhista-superendividamento.html",
+  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35623051769,
+    "workflow_run_id": 35668023210,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "717e7c1d0a54b6f3d24a5d76459520f6152d9fab",
-    "completed_at": "2026-09-21T16:12:19Z",
-    "note": "Todas as etapas do job deploy, inclusive Deploy to GitHub Pages, concluídas com success. Leitura HTTP direta do domínio github.io não pôde ser executada neste ambiente; a verificação pública registrada é por pipeline/artefato."
+    "public_content_commit": "9a27731b2f8e9eaa583f0974d13e25961dce3142",
+    "completed_at": "2026-09-21T23:32:45Z",
+    "note": "Job deploy e todas as etapas, inclusive Deploy to GitHub Pages, concluídas com success. Reauditoria global local ao repositório: 16 HTMLs, 457 hrefs, 69 verificações de âncoras, 4 botões de cópia e zero falhas."
   },
   "public_menu": [
     "Início",
@@ -131,6 +131,6 @@
     ],
     "current": "EA-000003-000018",
     "integrator": "EA-000003-000018",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   }
 }
