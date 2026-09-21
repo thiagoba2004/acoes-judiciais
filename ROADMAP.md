@@ -310,3 +310,13 @@ Plano: `research/EA-000003-000012/plano-de-fases.md`.
 ### EA-000003-000013 — Integridade editorial, proveniência pública e navegação — CONCLUÍDA
 Plano: `research/EA-000003-000013/plano-de-fases.md`.  
 4 fases: Home → proveniência → Modelos/Mapa → auditoria/publicação.
+
+
+### Verificação final do ciclo adversarial
+
+- GitHub Pages run `35623051769`: **success**;
+- commit público implantado: `717e7c1d0a54b6f3d24a5d76459520f6152d9fab`;
+- job `deploy`: **success**;
+- etapa `Deploy to GitHub Pages`: **success**;
+- reauditoria do corpus: aprovada;
+- leitura HTTP direta do domínio `github.io`: não disponível neste ambiente; verificação registrada por pipeline/artefato.
