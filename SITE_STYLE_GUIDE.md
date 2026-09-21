@@ -22,6 +22,9 @@ A identidade deve transmitir rigor jurídico, consulta, clareza e confiabilidade
 
 ## Componentes
 
+- toda página pública deve possuir `<title>` técnico no `<head>` e exatamente um `<h1>` editorial visível no corpo da página;
+- páginas de dossiê/ação devem abrir com bloco `hero`, contendo ao menos `eyebrow`, `<h1>` e texto introdutório (`lede`) antes do índice local;
+
 - cabeçalho escuro e sóbrio;
 - cards com bordas retas e ênfase superior;
 - **cards clicáveis** (`a.resource-card`) usam fundo azul-claro `#e5edf4`, borda azul acinzentada e faixa superior azul-marinho; no hover, ganham fundo `#d8e4ee`, faixa cobre e leve elevação;
