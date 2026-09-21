@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000005",
-  "current_strategy_name": "Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos",
+  "current_strategy_code": "EA-000003-000006",
+  "current_strategy_name": "Reclamação Trabalhista com pedido de Indenização por Danos Morais",
   "current_phase": {
-    "phase_number": 9,
+    "phase_number": 1,
     "phase_total": 9,
-    "phase_code": "F-000003-000005-009",
-    "phase_name": "Publicação, interoperabilidade financeira, auditoria e fechamento",
-    "status": "CONCLUIDA"
+    "phase_code": "F-000003-000006-001",
+    "phase_name": "Delimitação, hipóteses de dano e perguntas de pesquisa",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Auditoria das entidades jurídicas das ações publicadas concluída: IBDFAM, ADFAS, BRASILCON e Idec integrados com teses atribuídas e confrontadas; IBDCivil e MPCON mantidos em monitoramento sem atribuição artificial.",
-  "next_logical_step": "Prosseguir no PRJ-000004 Planejamento Financeiro com a primeira estratégia financeira correlata às consequências do divórcio.",
+  "last_completed_milestone": "EA-000003-000006 criada e planejada em 9 fases, com escopo, limites metodológicos, gates e artefatos previstos persistidos.",
+  "next_logical_step": "Iniciar a Fase 01/09 da EA-000003-000006, delimitando hipóteses de dano moral no contexto laboral, perguntas de pesquisa e fronteiras entre mero inadimplemento trabalhista e dano extrapatrimonial indenizável.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -36,9 +36,9 @@
   "site_status": "PUBLICADO_ENTIDADES_JURIDICAS_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
     "workflow_run_id": 35546489572,
     "attempt": 1,
@@ -97,7 +97,7 @@
   "non_blocking_debts": [
     "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura."
   ],
-  "planned_public_path": "acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html",
+  "planned_public_path": "acoes/reclamacao-trabalhista-danos-morais.html",
   "artifact_policy": {
     "text_canonical": "Markdown",
     "public_text": "HTML when published",
