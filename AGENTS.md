@@ -95,6 +95,25 @@ Nunca afirmar commit, publicação, implantação, jurisprudência verificada ou
 - nunca presumir fatos ausentes;
 - modelos de peças são pontos de partida e devem indicar variáveis que dependem do caso concreto.
 
+### 8.0. Auditoria adversarial obrigatória
+
+Uma afirmação jurídica relevante **não é considerada auditada apenas porque a fonte citada está correta**. Antes de publicar ou manter tese, precedente, regra, exceção ou síntese jurídica, verificar e registrar, quando materialmente aplicável:
+
+1. fonte primária ou institucional recuperável;
+2. recorte exato da tese/regra;
+3. condições de incidência;
+4. exceções e limites;
+5. alcance material e processual;
+6. estado processual/recursal do precedente;
+7. data da última verificação;
+8. existência de superveniência normativa ou jurisprudencial;
+9. fidelidade entre a formulação publicada e a fonte;
+10. coerência com outras páginas do Site.
+
+Se a conclusão for negativa (por exemplo, “não foi localizado precedente”), documentar bases pesquisadas, descritores e data de corte e qualificá-la como pesquisa negativa datada, nunca como inexistência absoluta.
+
+Quando houver Markdown canônico e HTML público, é obrigatória **paridade semântica**: apresentação visual pode variar, mas nenhuma condicionante, exceção, estado processual, ressalva material ou conteúdo jurídico relevante pode existir em apenas uma das versões.
+
 ### 8.1. Teses institucionais de entidades jurídicas não governamentais
 
 Cada Estratégia Autônoma deve identificar, quando materialmente relevante, instituições jurídicas não governamentais especializadas no ramo ou tema estudado — institutos, associações científicas, academias, centros de estudo e entidades equivalentes — e verificar se mantêm enunciados, notas técnicas, pareceres, manifestos, propostas legislativas, memoriais, intervenções como amicus curiae ou outras posições institucionais recuperáveis.
@@ -183,7 +202,7 @@ JSON/JSONL é apropriado quando houver finalidade objetiva de máquina, como:
 
 Para cada novo JSON deve ser possível responder: **quem ou qual processo o consome e que informação estruturada não é adequadamente representada pelo Markdown?** Se não houver resposta concreta, não criar o arquivo.
 
-Alterações editoriais devem ser sincronizadas entre a fonte Markdown e o HTML publicado. JSON existente só precisa ser atualizado quando sua função estruturada exigir.
+Alterações editoriais devem ser sincronizadas entre a fonte Markdown e o HTML publicado. JSON existente só precisa ser atualizado quando sua função estruturada exigir. A auditoria final deve comparar semanticamente Markdown e HTML e bloquear a publicação quando houver divergência material.
 
 Se forem publicados Modelos reutilizáveis:
 
