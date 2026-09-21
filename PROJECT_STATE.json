@@ -17,7 +17,7 @@
     "phase_name": "Publicação, auditoria e fechamento",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000003-000006 concluída em 9/9 fases, com hipótese específica de assalto/roubo incorporada, dossiê público em Markdown+HTML, auditoria integral aprovada e deploy confirmado.",
+  "last_completed_milestone": "Auditoria global de títulos visíveis concluída: 14 páginas públicas verificadas; superendividamento e divórcio litigioso corrigidos; 14/14 páginas agora possuem exatamente um <title> técnico e um <h1> editorial visível.",
   "next_logical_step": "Aguardar nova Estratégia Autônoma ou novo pedido de manutenção/auditoria do Projeto Ações Judiciais.",
   "canonical_files": [
     "README.md",
@@ -32,19 +32,19 @@
     "SITE_STYLE_GUIDE.md",
     "CONTACT_STACK.md"
   ],
-  "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_RECLAMACAO_TRABALHISTA_DANOS_MORAIS_AUDITADO",
+  "updated_at": "2026-09-21",
+  "site_status": "PUBLICADO_TITULOS_VISIVEIS_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/reclamacao-trabalhista-danos-morais.html",
   "last_deployment": {
-    "workflow_run_id": 35550557280,
+    "workflow_run_id": 35589232271,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "68df9fe996cdc6a1c915650bd9bbe0fddf708339"
+    "public_content_commit": "9f9d458f1a719c75840b96ad57cc19b85406b28f"
   },
   "public_menu": [
     "Início",
