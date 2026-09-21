@@ -5,6 +5,53 @@
   "public_path": "doutrina/index.html",
   "sections": [
     {
+      "title": "Teses institucionais",
+      "items": [
+        {
+          "type": "tese_institucional",
+          "institution": "IBDFAM — Instituto Brasileiro de Direito de Família",
+          "branch": "Direito das Famílias",
+          "status": "INCORPORADA",
+          "relation": "MISTA_CONFORME_ENUNCIADO",
+          "url": "https://ibdfam.org.br/index.php/conheca-o-ibdfam/enunciados-ibdfam"
+        },
+        {
+          "type": "tese_institucional",
+          "institution": "ADFAS — Associação de Direito de Família e das Sucessões",
+          "branch": "Direito das Famílias",
+          "status": "INCORPORADA",
+          "relation": "SUPERADA_NO_TEMA_SEPARACAO_JUDICIAL",
+          "url": "https://adfas.org.br/wp-content/uploads/2019/07/Parecer-ADFAS-Projeto-de-Lei-510-de-2019.pdf"
+        },
+        {
+          "type": "tese_institucional",
+          "institution": "BRASILCON — Instituto Brasileiro de Política e Direito do Consumidor",
+          "branch": "Direito do Consumidor",
+          "status": "INCORPORADA",
+          "relation": "DIVERGENTE_EM_PARTE_COM_SUPERVENIENCIA",
+          "url": "https://www.brasilcon.org/general-6"
+        },
+        {
+          "type": "tese_institucional",
+          "institution": "Idec — Instituto de Defesa de Consumidores",
+          "branch": "Direito do Consumidor",
+          "status": "INCORPORADA",
+          "relation": "DIVERGENTE_EM_PARTE_E_CONVERGENTE_QUANTO_A_NECESSIDADE_DE_BASE_TECNICA",
+          "url": "https://idec.org.br/release/decreto-do-minimo-existencial-beneficia-sistema-financeiro-e-prejudica-populacao-avalia-idec"
+        }
+      ],
+      "monitored": [
+        {
+          "institution": "IBDCivil — Instituto Brasileiro de Direito Civil",
+          "reason": "sem tese institucional específica incorporada nesta auditoria"
+        },
+        {
+          "institution": "MPCON — Associação Nacional do Ministério Público do Consumidor",
+          "reason": "sem tese institucional autônoma suficientemente delimitada incorporada nesta auditoria"
+        }
+      ]
+    },
+    {
       "title": "Superendividamento",
       "items": [
         {
