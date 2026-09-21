@@ -335,11 +335,13 @@ Plano: `research/EA-000003-000015/plano-de-fases.md`.
 
 **Resultado EA-000003-000015:** 7/7 fases concluídas; renda do cônjuge separada em quatro camadas — informação, custeio de despesas, transferência econômica e responsabilidade jurídica — sem soma automática.
 
-### EA-000003-000016 — Patrimônio conjugal, regime de bens e separação de fato na repactuação — EM EXECUÇÃO
+### EA-000003-000016 — Patrimônio conjugal, regime de bens e separação de fato na repactuação — CONCLUÍDA
 Plano: `research/EA-000003-000016/plano-de-fases.md`.  
 7 fases: regime/linha do tempo → comunicabilidade → patrimônio/direitos aquisitivos → capacidade de pagamento → jurisprudência/doutrina → prova/declaração patrimonial → síntese.
 
-### EA-000003-000017 — Apartamento financiado, veículo e limites patrimoniais da repactuação — PLANEJADA
+**Resultado EA-000003-000016:** 7/7 fases concluídas; patrimônio separado de renda e liquidez; bens financiados tratados por direito aquisitivo + passivo, com controle de meação e período de pagamentos.
+
+### EA-000003-000017 — Apartamento financiado, veículo e limites patrimoniais da repactuação — EM EXECUÇÃO
 Plano: `research/EA-000003-000017/plano-de-fases.md`.  
 7 fases: tipologia de bens/garantias → apartamento financiado → veículo quitado/financiado → moradia/mobilidade → avaliação/transparência → jurisprudência/doutrina → ferramentas/integração.
 
