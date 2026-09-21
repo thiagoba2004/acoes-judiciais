@@ -197,6 +197,7 @@ Regras obrigatórias:
 - a Home é institucional e enxuta; não contém catálogo dos Menus nem “Explore o Site”;
 - toda página pública possui no rodapé o hiperlink **Mapa do Site**;
 - toda página pública deve possuir `<title>` técnico no `<head>` e exatamente um `<h1>` editorial visível no corpo; páginas de dossiê/ação devem exibir o título antes do índice local;
+- o `<h1>` editorial não pode usar escala de manchete gigante: deve ficar apenas moderadamente maior que o corpo, seguindo o `SITE_STYLE_GUIDE.md`; em mobile, títulos longos não podem ser artificialmente comprimidos por `max-width` estreito nem provocar overflow horizontal;
 - a auditoria de publicação deve verificar separadamente presença de `<title>`, quantidade de `<h1>` e visibilidade editorial do título, para impedir páginas cujo título exista apenas na aba do navegador;
 - `mapa-do-site/` reflete as rotas públicas reais;
 - páginas centrais de Menu possuem conteúdo útil, não placeholders;
