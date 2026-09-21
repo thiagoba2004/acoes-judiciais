@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000014",
   "current_strategy_name": "Separação de fato sem divórcio e unidade econômica familiar no superendividamento",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 7,
-    "phase_code": "F-000003-000014-001",
-    "phase_name": "Delimitação e cronologia jurídica da separação de fato",
+    "phase_code": "F-000003-000014-003",
+    "phase_name": "Unidade familiar e unidade econômica no regime do superendividamento",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Ciclo corretivo do Relatório do Advogado do Diabo concluído, reauditado e publicado pelo GitHub Pages; run 35623051769 concluído com sucesso.",
-  "next_logical_step": "Executar a Fase 01/07 da EA-000003-000014, fixando cenários, cronologia e perguntas jurídicas; depois avançar sequencialmente pelas EA-000003-000015 a EA-000003-000017 e concluir com a integração da EA-000003-000018.",
+  "last_completed_milestone": "EA-000003-000014: Fases 01 e 02 concluídas; distinção entre estado civil, separação de fato e efeitos patrimoniais confirmada com fontes oficiais.",
+  "next_logical_step": "Executar a Fase 03/07 da EA-000003-000014, investigando se e como casamento formal, separação de fato, coabitação, dependência econômica e despesas compartilhadas compõem a unidade econômica relevante ao superendividamento.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
