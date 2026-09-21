@@ -6,8 +6,11 @@ Cada ação judicial relevante deve possuir estratégia própria, permitindo pes
 ## DEC-000002 — 20/09/2026 — Dossiê teórico-prático padronizado
 Cada estratégia buscará um dossiê mínimo com cabimento, competência, fatos/documentos, fontes, procedimento, jurisprudência, riscos e ferramentas práticas.
 
-## DEC-000003 — 20/09/2026 — Publicação tripla
-Todo texto editorial/publicável usa Markdown como fonte textual canônica, HTML como publicação e JSON como representação estruturada.
+## DEC-000003 — 20/09/2026 — Publicação tripla — SUPERADA
+Decisão histórica que previa Markdown, HTML e JSON para conteúdo editorial. **Superada** pela política posterior de JSON condicional.
+
+## DEC-000005 — 21/09/2026 — Markdown + HTML; JSON somente quando necessário
+Todo texto editorial/publicável usa Markdown como fonte textual canônica e HTML como publicação. JSON/JSONL só é criado quando houver finalidade estruturada real e consumidor de máquina identificado; não é espelho automático do conteúdo editorial.
 
 ## DEC-000004 — 20/09/2026 — Autonomia temática entre projetos
 O superendividamento pode ser estudado também no PRJ-000004, mas Ações Judiciais conserva fonte da verdade e conclusões próprias.
