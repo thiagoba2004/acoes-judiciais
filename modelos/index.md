@@ -1,6 +1,6 @@
 # Modelos
 
-Os modelos são estruturas de partida e devem ser adaptados ao caso concreto.
+Os modelos são **estruturas-base, não petições prontas**, e devem ser adaptados ao caso concreto, à jurisdição e ao estado atual das normas e precedentes.
 
 ## Disponíveis
 - [Repactuação de dívidas por superendividamento](../acoes/repactuacao-superendividamento.html#modelo)
