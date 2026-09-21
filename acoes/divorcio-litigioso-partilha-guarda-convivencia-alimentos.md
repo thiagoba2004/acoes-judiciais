@@ -297,7 +297,42 @@ Referências gerais, a consultar na edição e trecho pertinentes:
 - Flávio Tartuce — *Direito Civil, v. 5 — Direito de Família*, 20ª ed., 2025.
 - Paulo Lôbo — *Direito Civil — Famílias, v. 5*, 16ª ed., 2026.
 
-## 12. Fontes centrais
+## 12. Protocolo doutrinário aplicado
+
+### Produção acadêmica de excelência
+
+A revisão incorporou produção acadêmica da Faculdade de Direito da USP sobre fragmentação familiar, alimentos e partilha. A dissertação de Flavia Ribeiro Borges Manzano examina efeitos jurídicos e econômicos da ruptura familiar; a dissertação de Isadora Vieira Ribeiro aprofunda os pressupostos da obrigação alimentar e o binômio necessidade–possibilidade.
+
+Essas obras são **teses autorais acadêmicas**. Não são apresentadas como “posição da USP”. A seleção usa critério externo verificável de excelência acadêmica e pertinência temática, sem criar ranking próprio.
+
+### Comissões da OAB
+
+A Cartilha de Direito de Família da Comissão de Direito de Família da OAB-SP explica que guarda compartilhada significa compartilhamento de responsabilidades e decisões, não divisão obrigatória do tempo em 50%.
+
+O material é produção de comissão e deve ser atualizado pela legislação posterior, especialmente a Lei nº 14.713/2023, e pela jurisprudência atual sobre melhor interesse e risco de violência.
+
+A Comissão Especial de Direito de Família do Conselho Federal da OAB mantém, em 2026, agenda de produção acadêmica e debate nacional. Como a obra coletiva anunciada ainda estava em elaboração na fonte consultada, a Comissão permanece **monitorada**, sem atribuição artificial de tese específica ainda não publicada.
+
+### Doutrina profissional especializada
+
+Adriana Chieco, Camila Ieracitano Macedo Maia e Mabel Tucunduva Prieto de Souza assinam o capítulo brasileiro do *Family Law 2026*, publicado pelo Chambers, abordando divórcio, efeitos patrimoniais, guarda e responsabilidade parental.
+
+O texto é **doutrina profissional especializada e não vinculante**. A identificação da banca decorre de reconhecimento externo verificável na especialidade; o Site não cria ou reproduz ranking de escritórios.
+
+### Contraditório e superveniência
+
+O protocolo exige que posições acadêmicas e profissionais sejam confrontadas com legislação e precedentes. Exemplo já presente neste dossiê: a antiga tese institucional da ADFAS sobre permanência da separação judicial está **superada pelo Tema 1053 do STF**.
+
+Em guarda e convivência, orientações gerais sobre compartilhamento de responsabilidades não substituem a análise concreta do melhor interesse, nem as restrições introduzidas pela Lei nº 14.713/2023 em contexto de risco de violência.
+
+Fontes desta camada:
+- [USP — Fragmentação da família e suas consequências: novos paradigmas](https://teses.usp.br/teses/disponiveis/2/2131/tde-03052021-023943/pt-br.html)
+- [USP — Alimentos: o binômio necessidade-possibilidade e o direito de acrescer](https://teses.usp.br/teses/disponiveis/2/2131/tde-24072020-134851/pt-br.html)
+- [OAB-SP — Cartilha de Direito de Família](https://comissoes.oabsp.org.br/comissoes/gestoes2/2016-2018/acao-social/cartilhas/Cartilha%20Direito%20de%20Familia%20Acao%20Social%20%20e%20CDFAM.pdf)
+- [OAB Nacional — agenda 2026 da Comissão Especial de Direito de Família](https://www.oab.org.br/noticia/63972/comissao-de-direito-de-familia-lanca-edital-de-obra-coletiva-e-avanca-em-agenda-nacional)
+- [Chambers — Family Law 2026, Brazil](https://practiceguides.chambers.com/practice-guides/family-law-2026/brazil)
+
+## 13. Fontes centrais
 
 - Constituição Federal e Emenda Constitucional nº 66/2010.
 - Código Civil.
@@ -309,4 +344,4 @@ Referências gerais, a consultar na edição e trecho pertinentes:
 - Leis nº 15.411/2026 e 15.412/2026.
 - STF e STJ para os precedentes indicados.
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
