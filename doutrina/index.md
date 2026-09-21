@@ -4,6 +4,25 @@ A área **Doutrina** reúne livros, capítulos e artigos úteis para compreender
 
 A doutrina cumpre função interpretativa e sistematizadora. Ela **não substitui** o texto legal vigente nem a jurisprudência aplicável ao caso concreto.
 
+## Teses institucionais
+
+Enunciados, pareceres, notas técnicas e posições de entidades jurídicas não governamentais são apresentados como **teses institucionais atribuídas e não vinculantes**. O Site confronta essas posições com legislação e jurisprudência atuais.
+
+### Direito das Famílias
+
+- **IBDFAM — Instituto Brasileiro de Direito de Família:** enunciados institucionais sobre divórcio, regime de bens, alimentos, guarda, convivência e violência doméstica; a edição 2026/2027 está disponível no portal oficial.
+- **ADFAS — Associação de Direito de Família e das Sucessões:** parecer institucional de 2019 que sustentou a permanência da separação judicial após a EC 66/2010. Essa posição está **superada pelo Tema 1053 do STF**.
+
+### Direito do Consumidor / Superendividamento
+
+- **BRASILCON — Instituto Brasileiro de Política e Direito do Consumidor:** posição institucional crítica ao Decreto nº 11.150/2022 e atuação sobre crédito responsável, mínimo existencial e superendividamento. A tese deve ser lida à luz do julgamento do STF de 23/04/2026.
+- **Idec — Instituto de Defesa de Consumidores:** posição contrária a um valor nominal rígido de mínimo existencial e defesa de avaliação baseada em necessidades essenciais e situação individual. O STF preservou a possibilidade de parâmetro quantitativo, mas exigiu revisão técnica periódica.
+
+### Entidades monitoradas
+
+- **IBDCivil:** relevante ao Direito Civil, mas sem tese institucional específica incorporada nesta auditoria; artigos da revista são atribuídos aos autores.
+- **MPCON:** entidade relevante ao Direito do Consumidor, mas sem tese institucional autônoma suficientemente delimitada incorporada nesta versão.
+
 ## Superendividamento
 
 ### Comentários à Lei 14.181/2021: a atualização do CDC em matéria de superendividamento
