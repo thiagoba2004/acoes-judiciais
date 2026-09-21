@@ -27,4 +27,4 @@ Código de Defesa do Consumidor, Lei nº 14.181/2021, Decretos nº 11.150/2022 e
 - Lei nº 13.709/2018 — LGPD;
 - Lei nº 14.967/2024 — segurança privada e instituições financeiras.
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
