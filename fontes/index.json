@@ -2,5 +2,31 @@
   "title": "Fontes",
   "updated_at": "2026-09-20",
   "html": "index.html",
-  "public_path": "fontes/index.html"
+  "public_path": "fontes/index.html",
+  "institutional_sources": [
+    {
+      "institution": "IBDFAM — Instituto Brasileiro de Direito de Família",
+      "branch": "Direito das Famílias",
+      "status": "INCORPORADA",
+      "url": "https://ibdfam.org.br/index.php/conheca-o-ibdfam/enunciados-ibdfam"
+    },
+    {
+      "institution": "ADFAS — Associação de Direito de Família e das Sucessões",
+      "branch": "Direito das Famílias",
+      "status": "INCORPORADA_COM_TESE_SUPERADA",
+      "url": "https://adfas.org.br/wp-content/uploads/2019/07/Parecer-ADFAS-Projeto-de-Lei-510-de-2019.pdf"
+    },
+    {
+      "institution": "BRASILCON — Instituto Brasileiro de Política e Direito do Consumidor",
+      "branch": "Direito do Consumidor",
+      "status": "INCORPORADA",
+      "url": "https://www.brasilcon.org/general-6"
+    },
+    {
+      "institution": "Idec — Instituto de Defesa de Consumidores",
+      "branch": "Direito do Consumidor",
+      "status": "INCORPORADA",
+      "url": "https://idec.org.br/release/decreto-do-minimo-existencial-beneficia-sistema-financeiro-e-prejudica-populacao-avalia-idec"
+    }
+  ]
 }
