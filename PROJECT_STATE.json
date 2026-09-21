@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000007",
-  "current_strategy_name": "Impacto da indenização trabalhista por dano moral na Ação de Repactuação de Dívidas por Superendividamento",
+  "current_strategy_code": "EA-000003-000008",
+  "current_strategy_name": "Fale Conosco, Privacidade e conformidade informacional",
   "current_phase": {
-    "phase_number": 9,
-    "phase_total": 9,
-    "phase_code": "F-000003-000007-009",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "CONCLUIDA"
+    "phase_number": 1,
+    "phase_total": 5,
+    "phase_code": "F-000003-000008-001",
+    "phase_name": "Estado comprovado e requisitos de transparência",
+    "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "Revisão doutrinária transversal concluída e auditada em todo o corpus editorial/canônico: protocolo aplicado materialmente às três ações publicadas e ao guia interáreas; 15 HTMLs públicos, 22 Markdown não-research e SOURCE_REGISTRY.jsonl com 142 registros auditados.",
-  "next_logical_step": "Aguardar nova Estratégia Autônoma ou revisão material; aplicar RESEARCH_DOUTRINA_PROTOCOL.md desde a fase de pesquisa de toda nova ação e registrar ausência de fonte materialmente aplicável sem inventar posição institucional.",
+  "next_logical_step": "Executar o ciclo corretivo EA-000003-000008 a EA-000003-000013 e reauditar todo o corpus.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -37,7 +37,7 @@
   "site_status": "PUBLICADO_REVISAO_DOUTRINARIA_GLOBAL_AUDITADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/guias/indenizacao-trabalhista-superendividamento.html",
   "last_deployment": {
