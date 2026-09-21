@@ -341,11 +341,13 @@ Plano: `research/EA-000003-000016/plano-de-fases.md`.
 
 **Resultado EA-000003-000016:** 7/7 fases concluídas; patrimônio separado de renda e liquidez; bens financiados tratados por direito aquisitivo + passivo, com controle de meação e período de pagamentos.
 
-### EA-000003-000017 — Apartamento financiado, veículo e limites patrimoniais da repactuação — EM EXECUÇÃO
+### EA-000003-000017 — Apartamento financiado, veículo e limites patrimoniais da repactuação — CONCLUÍDA
 Plano: `research/EA-000003-000017/plano-de-fases.md`.  
 7 fases: tipologia de bens/garantias → apartamento financiado → veículo quitado/financiado → moradia/mobilidade → avaliação/transparência → jurisprudência/doutrina → ferramentas/integração.
 
-### EA-000003-000018 — Integração da separação de fato, renda do cônjuge e patrimônio ao dossiê de Superendividamento — PLANEJADA
+**Resultado EA-000003-000017:** 7/7 fases concluídas; apartamento financiado, veículo quitado e financiamento com alienação fiduciária separados, com checklists e metodologia de valor líquido.
+
+### EA-000003-000018 — Integração da separação de fato, renda do cônjuge e patrimônio ao dossiê de Superendividamento — EM EXECUÇÃO
 Plano: `research/EA-000003-000018/plano-de-fases.md`.  
 6 fases: consolidação → revisão do dossiê → ferramentas/modelos → sincronização pública → auditoria adversarial → publicação/fechamento.  
 **Dependências:** EA-000003-000014 a EA-000003-000017.
