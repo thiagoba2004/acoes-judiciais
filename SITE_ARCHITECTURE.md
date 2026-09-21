@@ -11,9 +11,9 @@ Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legisla
 - **Guias:** roteiros operacionais e passo a passo.
 - **Modelos:** peças reutilizáveis vigentes.
 - **Jurisprudência:** precedentes e teses por controvérsia.
-- **Doutrina:** obras, capítulos, artigos e **teses institucionais de entidades jurídicas não governamentais** organizados por ação/tema, com escopo de uso, atribuição e confronto com legislação/jurisprudência.
+- **Doutrina:** obras, capítulos, artigos, produção acadêmica, produção de Comissões da OAB, teses de entidades jurídicas especializadas, doutrina profissional assinada e posições institucionais interessadas, organizadas por ação/tema com autoria, natureza documental, contraditório e confronto com legislação/jurisprudência.
 - **Legislação:** normas e atos relevantes.
-- **Fontes:** acesso às fontes primárias e institucionais, incluindo documentos oficiais de entidades jurídicas não governamentais cujas posições sejam utilizadas no Site.
+- **Fontes:** acesso às fontes primárias, acadêmicas, institucionais e profissionais efetivamente utilizadas, preservando proveniência, autoria e contexto. O Site não cria ranking de universidades ou escritórios.
 - **Fale Conosco:** canal protocolado de contato.
 - **Mapa do Site:** índice estrutural acessível pelo rodapé, fora do menu global.
 
@@ -33,11 +33,11 @@ Tipografia:
 A identidade deve comunicar rigor jurídico, consulta e confiabilidade, sem reproduzir a aparência do Classe e Massas.
 
 
-### Camada de teses institucionais
+### Camada doutrinária ampliada
 
-A arquitetura não cria, por padrão, um novo item no Menu global. As posições de institutos e entidades jurídicas especializadas são tratadas em dois níveis:
+A arquitetura não cria, por padrão, novos itens no Menu global. O conteúdo doutrinário pode vir de autores, academia, OAB, institutos especializados, produção profissional e posições interessadas. O protocolo canônico é `RESEARCH_DOUTRINA_PROTOCOL.md`. As fontes são tratadas em dois níveis:
 
-1. **Doutrina:** apresenta e compara a tese institucional, sempre como posição atribuída e não vinculante;
-2. **Fontes:** oferece acesso ao documento/página oficial da instituição.
+1. **Doutrina:** apresenta e compara teses, com autoria, natureza documental, contraditório e indicação de caráter não vinculante quando aplicável;
+2. **Fontes:** oferece acesso ao documento/página de origem e preserva a proveniência.
 
-Nos dossiês de ações judiciais, quando materialmente relevante, deve existir a seção **Teses institucionais relevantes**, situada próxima à jurisprudência e à doutrina para permitir confronto crítico.
+Nos dossiês de ações judiciais, quando materialmente relevante, devem existir as camadas necessárias do protocolo — incluindo teses institucionais, produção acadêmica, OAB e doutrina profissional — próximas à jurisprudência para permitir confronto crítico.
