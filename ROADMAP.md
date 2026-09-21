@@ -158,7 +158,7 @@ Sincronizar Markdown + HTML; JSON apenas quando houver função estruturada real
 - menu global uniforme;
 - 32 cards clicáveis, 11 cards estáticos e 0 usos ambíguos.
 
-## EA-000003-000006 — Reclamação Trabalhista com pedido de Indenização por Danos Morais — EM EXECUÇÃO
+## EA-000003-000006 — Reclamação Trabalhista com pedido de Indenização por Danos Morais — CONCLUÍDA
 
 ### FASE 01/09 [F-000003-000006-001] — Delimitação, hipóteses de dano e perguntas de pesquisa
 Mapear hipóteses de dano moral no contexto laboral e formular as perguntas jurídicas centrais, sem presumir que toda ilicitude trabalhista gere dano moral indenizável.  
@@ -202,7 +202,25 @@ Produzir roteiro de triagem, cronologia, checklist de provas, matriz de danos e 
 
 ### FASE 09/09 [F-000003-000006-009] — Publicação, auditoria e fechamento
 Sincronizar Markdown + HTML; criar JSON apenas se houver função estruturada real; integrar Menus pertinentes, auditar fontes, links, governança, responsividade e GitHub Pages.  
-**Gate:** dossiê publicável, verificável, sem vazamento de governança e com deploy comprovado.
+**Gate:** dossiê publicável, verificável, sem vazamento de governança e com deploy comprovado.  
+**Estado:** CONCLUÍDA — dossiê publicado, hipótese específica de assalto/roubo incorporada, 14 HTMLs/338 hrefs auditados sem links ou âncoras quebrados, zero vazamentos, modelo com botão de cópia correto e deploy 35550557280 success.
+
+### Resultado — EA-000003-000006
+
+- 9/9 fases concluídas;
+- dano moral trabalhista tratado sem automatismo;
+- assédio, discriminação, acidente/doença, privacidade, retaliação e violência estruturados;
+- hipótese de assalto/roubo incorporada com distinção entre risco especial e comércio comum;
+- responsabilidade subjetiva/objetiva, prepostos e excludentes sistematizados;
+- competência, prescrição e temas qualificados pendentes separados;
+- prova digital, gravações, testemunhas e documentos médicos estruturados;
+- quantum sem tabela automática e art. 223-G tratado conforme STF;
+- STF, TST, TRTs, doutrina, ANAMATRA e ABRAT organizados por força/natureza;
+- ferramentas práticas e modelo reutilizável produzidos;
+- publicação em Markdown + HTML, sem JSON narrativo;
+- integração pública em Ações, Guias, Modelos, Jurisprudência, Doutrina, Legislação, Fontes e Mapa do Site;
+- auditoria técnica final aprovada;
+- deploy GitHub Pages `35550557280`: **success**.
 
 **Plano detalhado:** `research/EA-000003-000006/plano-de-fases.md`.
 
