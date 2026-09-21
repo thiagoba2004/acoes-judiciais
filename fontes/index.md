@@ -56,3 +56,5 @@ O reconhecimento externo serve apenas como critério de seleção da fonte; não
 - **Idec — Instituto de Defesa de Consumidores:** posição institucional sobre mínimo existencial e avaliação material da capacidade de pagamento.
 
 As instituições são fontes de posições **não vinculantes**. A incorporação ao Site exige atribuição, documento recuperável e confronto com legislação e jurisprudência.
+
+**Última revisão:** 21/09/2026.
