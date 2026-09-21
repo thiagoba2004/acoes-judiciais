@@ -59,12 +59,12 @@ Também não há base para declarar que todo o capital deve ser entregue aos cre
 
 ## 7. Efeito sobre o plano
 
-Podem ser analisados, conforme o caso:
+Os itens abaixo são **cenários analíticos**, não recomendações automáticas de pagamento. Sua admissibilidade e seus efeitos dependem da fase processual, da boa-fé, da composição global do passivo, do plano já apresentado, do tratamento dos demais credores e da sustentabilidade posterior:
 
 1. preservação temporária para diagnóstico;
 2. reserva justificada e saldo decisório;
-3. quitação seletiva;
-4. amortização seletiva;
+3. quitação seletiva, somente após avaliar seus efeitos jurídicos e econômicos sobre o plano global;
+4. amortização seletiva, com a mesma cautela;
 5. entrada extraordinária em proposta global;
 6. combinação entre reserva e pagamento;
 7. outro arranjo negocial sustentável.
@@ -164,11 +164,15 @@ O novo protocolo doutrinário foi aplicado também a esta interface entre Direit
 
 Consulte a área [Doutrina](../doutrina/index.html) e o dossiê de [Repactuação de Dívidas por Superendividamento](../acoes/repactuacao-superendividamento.html) para as fontes e divergências completas.
 
-## 11. O que a pesquisa não encontrou
+## 11. Pesquisa negativa documentada
 
-Até a revisão desta unidade, não foi localizado precedente superior específico estabelecendo que a indenização por dano moral trabalhista deva ser integralmente aplicada no plano de superendividamento, nem precedente superior determinando sua exclusão integral.
+**Data de corte: 21/09/2026.** Em pesquisa dirigida nas bases públicas do STF e do STJ, com descritores combinando superendividamento, repactuação, indenização trabalhista e dano moral, não foi localizado precedente superior específico estabelecendo que a indenização por dano moral trabalhista deva ser integralmente aplicada no plano de superendividamento, nem precedente superior determinando sua exclusão integral.
 
-Por isso, a resposta deve ser construída a partir do CDC, CPC, mínimo existencial, boa-fé, momento processual, dados econômicos e prova concreta.
+Trata-se de **pesquisa negativa datada**, e não de afirmação de inexistência absoluta. Ela deve ser refeita antes de uso profissional futuro e não exclui decisões de tribunais locais ou julgados não recuperados pelos descritores empregados.
+
+A metodologia e os descritores estão preservados em `research/EA-000003-000009/pesquisa-negativa-precedente-superior.md`.
+
+Por isso, a resposta continua dependente do CDC, CPC, mínimo existencial, boa-fé, momento processual, dados econômicos e prova concreta.
 
 ## 12. Fontes centrais
 
