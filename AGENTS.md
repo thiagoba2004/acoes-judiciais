@@ -38,9 +38,10 @@ EXECUTAR
 4. `PROJECT_STATE.json`;
 5. `ROADMAP.md` e planos de fases;
 6. `SOURCE_REGISTRY.jsonl` e fontes recuperáveis;
-7. arquivos Markdown canônicos de conteúdo;
-8. histórico Git comprovado;
-9. somente depois, memória/conversa.
+7. `RESEARCH_DOUTRINA_PROTOCOL.md` para a metodologia doutrinária;
+8. arquivos Markdown canônicos de conteúdo;
+9. histórico Git comprovado;
+10. somente depois, memória/conversa.
 
 ## 4. Estratégias e fases
 
