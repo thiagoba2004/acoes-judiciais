@@ -1,6 +1,6 @@
 # Ação de Repactuação de Dívidas por Superendividamento
 
-**Última revisão:** 20/09/2026  
+**Última revisão:** 21/09/2026  
 
 Este dossiê organiza, de forma teórica e prática, a ação/procedimento de repactuação de dívidas por superendividamento prevista no Código de Defesa do Consumidor (CDC), com as alterações da Lei nº 14.181/2021.
 
@@ -194,6 +194,36 @@ O STF não afastou a possibilidade de parâmetro quantitativo, mas passou a exig
 ### Entidades monitoradas
 
 A auditoria também identificou a **MPCON — Associação Nacional do Ministério Público do Consumidor** como entidade relevante. Nesta versão, porém, não foi localizada posição institucional própria suficientemente delimitada sobre a repactuação para ser apresentada como tese autônoma; por isso, permanece em monitoramento.
+
+### Produção acadêmica de excelência
+
+O Observatório do Crédito, Superendividamento e Conciliação de Conflitos de Consumo da UFRGS, coordenado por Claudia Lima Marques, desenvolveu pesquisa e extensão voltadas ao diagnóstico do crédito, prevenção, tratamento e conciliação do superendividamento. O material é usado como **produção acadêmica**, não como norma ou jurisprudência.
+
+A seleção acadêmica segue critério externo verificável; o Site não cria ranking de universidades.
+
+### Comissões da OAB
+
+A Comissão Especial de Defesa do Consumidor do Conselho Federal da OAB participou, com outras entidades do Sistema Nacional de Defesa do Consumidor, de nota técnica de 2020 favorável à aprovação do então PL 3515/2015, enfatizando tratamento sistêmico, conciliação, plano de pagamento e preservação do mínimo existencial.
+
+Após a Lei nº 14.181/2021, a Comissão Nacional de Defesa do Consumidor também produziu **Cartilha Superendividamento**. Esses documentos são classificados como produção institucional/de comissão e precisam ser lidos com a legislação e a jurisprudência supervenientes.
+
+### Doutrina profissional especializada
+
+Débora Chaves Martines Fernandes, Bruna de Godoy Marques das Neves e Barbara de Sousa Braz, em artigo de 2023 do Machado Meyer Advogados, examinaram a regulamentação do mínimo existencial e o contraste entre previsibilidade de um parâmetro objetivo e críticas à sua suficiência material.
+
+A publicação é tratada como **doutrina profissional especializada**, não como posição neutra ou vinculante. O escritório foi selecionado por pertinência temática e reconhecimento externo verificável em Direito do Consumidor; o Site não reproduz ranking. A análise de 2023 deve ser atualizada pelo Decreto nº 11.567/2023 e, sobretudo, pelo julgamento do STF de 23/04/2026.
+
+### Contraditório doutrinário
+
+Há tensão relevante entre posições que enfatizam um parâmetro quantitativo uniforme — pela previsibilidade — e posições que defendem avaliação material mais individualizada do mínimo existencial. BRASILCON e Idec formularam críticas à regulamentação anterior; a doutrina profissional também registrou vantagens e limitações do critério objetivo.
+
+**Controle atual:** o STF admitiu a regulamentação quantitativa por decreto, exigiu avaliação técnica periódica e afastou a exclusão do crédito consignado da aferição. Nenhuma posição doutrinária pode ser apresentada como se tivesse superado esse controle jurisprudencial.
+
+Fontes acadêmicas, OAB e profissionais:
+- [UFRGS — Observatório do Crédito e Superendividamento](https://lume.ufrgs.br/handle/10183/185473)
+- [OAB Nacional — nota técnica sobre o então PL 3515/2015](https://www.oab.org.br/noticia/58225/oab-e-entidades-de-defesa-do-consumidor-pedem-aprovacao-do-pl-que-trata-do-superendividamento)
+- [OAB Nacional — Cartilha Superendividamento](https://www.oab.org.br/Content/pdf/Cartilha_A4_Superendividamento%20-%20CEDC.pdf)
+- [Machado Meyer — O mínimo existencial e a Lei do Superendividamento](https://www.machadomeyer.com.br/pt/inteligencia-juridica/publicacoes-ij/inteligencia-juridica-contencioso/o-minimo-existencial-e-a-lei-do-superendividamento)
 
 Fontes institucionais:
 - [BRASILCON — notícias e posições institucionais](https://www.brasilcon.org/general-6)
