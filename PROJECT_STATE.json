@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000006",
   "current_strategy_name": "Reclamação Trabalhista com pedido de Indenização por Danos Morais",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 5,
     "phase_total": 9,
-    "phase_code": "F-000003-000006-003",
-    "phase_name": "Competência, legitimidade, prescrição e estrutura processual",
+    "phase_code": "F-000003-000006-005",
+    "phase_name": "Elementos da responsabilidade, defesas e controvérsias",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 e 02 da EA-000003-000006 concluídas: delimitação/taxonomia e marco normativo de responsabilidade civil trabalhista persistidos e verificados.",
-  "next_logical_step": "Iniciar a Fase 03/09, sistematizando competência material e territorial, legitimidade, prescrição, cumulação, rito, requisitos da petição inicial, valor da causa e tutelas provisórias aplicáveis à reclamação trabalhista com pedido de indenização por danos morais.",
+  "last_completed_milestone": "Fases 03 e 04 da EA-000003-000006 concluídas: matriz processual de entrada e matriz fato–documento–prova persistidas, com controvérsias qualificadas e fontes atualizadas.",
+  "next_logical_step": "Iniciar a Fase 05/09, estruturando ato/omissão, ilicitude, dano, nexo, imputação, culpa ou risco conforme o caso, excludentes, culpa concorrente/exclusiva, fato de terceiro, exercício regular de direito, inexistência de dano autônomo e principais linhas defensivas.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
