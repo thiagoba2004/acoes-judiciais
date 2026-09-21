@@ -287,26 +287,26 @@ Sincronizar Markdown + HTML; criar JSON apenas se houver função estruturada re
 
 ## Ciclo corretivo do Relatório do Advogado do Diabo — REQ-20260921-052
 
-### EA-000003-000008 — Fale Conosco, Privacidade e conformidade informacional
+### EA-000003-000008 — Fale Conosco, Privacidade e conformidade informacional — CONCLUÍDA
 Plano: `research/EA-000003-000008/plano-de-fases.md`.  
 5 fases: estado/requisitos → privacidade/retenção → correção do Fale Conosco → recibo/navegação → auditoria/publicação.
 
-### EA-000003-000009 — Revisão adversarial do Superendividamento e da interface com indenização trabalhista
+### EA-000003-000009 — Revisão adversarial do Superendividamento e da interface com indenização trabalhista — CONCLUÍDA
 Plano: `research/EA-000003-000009/plano-de-fases.md`.  
 5 fases: exclusões/enquadramento → pesquisa negativa → cenários de capital → sincronização → auditoria/publicação.
 
-### EA-000003-000010 — Revisão adversarial de Divórcio, Partilha, Guarda, Convivência e Alimentos
+### EA-000003-000010 — Revisão adversarial de Divórcio, Partilha, Guarda, Convivência e Alimentos — CONCLUÍDA
 Plano: `research/EA-000003-000010/plano-de-fases.md`.  
 4 fases: precedentes → dossiê/jurisprudência → proveniência doutrinária → auditoria/publicação.
 
-### EA-000003-000011 — Revisão adversarial da Reclamação Trabalhista com Danos Morais
+### EA-000003-000011 — Revisão adversarial da Reclamação Trabalhista com Danos Morais — CONCLUÍDA
 Plano: `research/EA-000003-000011/plano-de-fases.md`.  
 5 fases: precedentes → responsabilidade/excludentes → gravação → dossiê/índice → auditoria/publicação.
 
-### EA-000003-000012 — Matriz canônica de jurisprudência, paridade Markdown–HTML e auditoria adversarial
+### EA-000003-000012 — Matriz canônica de jurisprudência, paridade Markdown–HTML e auditoria adversarial — CONCLUÍDA
 Plano: `research/EA-000003-000012/plano-de-fases.md`.  
 5 fases: regra adversarial → matriz de precedentes → paridade → hierarquia normativa → auditoria global.
 
-### EA-000003-000013 — Integridade editorial, proveniência pública e navegação
+### EA-000003-000013 — Integridade editorial, proveniência pública e navegação — CONCLUÍDA
 Plano: `research/EA-000003-000013/plano-de-fases.md`.  
 4 fases: Home → proveniência → Modelos/Mapa → auditoria/publicação.
