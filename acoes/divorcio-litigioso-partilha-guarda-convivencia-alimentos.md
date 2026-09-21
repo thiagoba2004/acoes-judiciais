@@ -269,6 +269,24 @@ Fontes oficiais:
 - [IBDFAM — Enunciados](https://ibdfam.org.br/index.php/conheca-o-ibdfam/enunciados-ibdfam)
 - [IBDFAM — Enunciados Doutrinários 2026/2027](https://ibdfam.org.br/publicacoes/enunciados)
 
+
+### ADFAS — Associação de Direito de Família e das Sucessões
+
+Em parecer institucional de 2019 sobre proposta legislativa relacionada a divórcio e violência doméstica, a ADFAS sustentou que a EC 66/2010 não teria extinguido a separação judicial e que ela permaneceria como faculdade.
+
+**Situação atual:** `SUPERADA`.
+
+O STF fixou no Tema 1053 que, após a EC 66/2010, a separação judicial não é requisito para o divórcio **nem subsiste como figura autônoma no ordenamento jurídico**, preservados os estados civis anteriormente constituídos por ato jurídico perfeito.
+
+Esse exemplo é mantido no Site porque mostra como uma tese institucional relevante pode perder atualidade após precedente vinculante superveniente.
+
+Fonte:
+- [ADFAS — parecer institucional de 2019](https://adfas.org.br/wp-content/uploads/2019/07/Parecer-ADFAS-Projeto-de-Lei-510-de-2019.pdf)
+
+### Entidades monitoradas
+
+O **IBDCivil — Instituto Brasileiro de Direito Civil** foi identificado como associação privada sem fins lucrativos, com produção acadêmica relevante e atuação como *amicus curiae*. Nesta auditoria, porém, não foi localizada posição institucional específica e recuperável sobre este dossiê que justificasse atribuição como tese do Instituto. Artigos publicados em sua revista permanecem doutrina de seus respectivos autores.
+
 ## 11. Doutrina para aprofundamento
 
 Referências gerais, a consultar na edição e trecho pertinentes:
