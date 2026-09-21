@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000014",
-  "current_strategy_name": "Separação de fato sem divórcio e unidade econômica familiar no superendividamento",
+  "current_strategy_code": "EA-000003-000015",
+  "current_strategy_name": "Renda do cônjuge não devedor, mínimo existencial e capacidade de pagamento",
   "current_phase": {
-    "phase_number": 4,
+    "phase_number": 1,
     "phase_total": 7,
-    "phase_code": "F-000003-000014-004",
-    "phase_name": "Jurisprudência, doutrina e teses institucionais",
+    "phase_code": "F-000003-000015-001",
+    "phase_name": "Perguntas de pesquisa e cenários de renda",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000003-000014: Fases 01 a 03 concluídas; critérios de unidade econômica e relevância da renda do cônjuge delimitados sem soma automática.",
-  "next_logical_step": "Executar a Fase 04/07 da EA-000003-000014, aprofundando jurisprudência favorável e contrária, doutrina, produção acadêmica, OAB e teses institucionais sobre separação de fato e unidade econômica.",
+  "last_completed_milestone": "EA-000003-000014 concluída em 7/7 fases, com síntese auditada sobre separação de fato, unidade econômica e prova.",
+  "next_logical_step": "Executar a Fase 01/07 da EA-000003-000015, separando cenários de renda do cônjuge, despesas compartilhadas e responsabilidade; avançar ao marco normativo do mínimo existencial se o gate for satisfeito.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -129,7 +129,7 @@
       "EA-000003-000017",
       "EA-000003-000018"
     ],
-    "current": "EA-000003-000014",
+    "current": "EA-000003-000015",
     "integrator": "EA-000003-000018",
     "status": "EM_EXECUCAO"
   }
