@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000008",
-  "current_strategy_name": "Fale Conosco, Privacidade e conformidade informacional",
+  "current_strategy_code": "EA-000003-000013",
+  "current_strategy_name": "Integridade editorial, proveniência pública e navegação",
   "current_phase": {
-    "phase_number": 1,
-    "phase_total": 5,
-    "phase_code": "F-000003-000008-001",
-    "phase_name": "Estado comprovado e requisitos de transparência",
-    "status": "EM_EXECUCAO"
+    "phase_number": 4,
+    "phase_total": 4,
+    "phase_code": "F-000003-000013-004",
+    "phase_name": "Auditoria editorial e publicação",
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Revisão doutrinária transversal concluída e auditada em todo o corpus editorial/canônico: protocolo aplicado materialmente às três ações publicadas e ao guia interáreas; 15 HTMLs públicos, 22 Markdown não-research e SOURCE_REGISTRY.jsonl com 142 registros auditados.",
-  "next_logical_step": "Executar o ciclo corretivo EA-000003-000008 a EA-000003-000013 e reauditar todo o corpus.",
+  "last_completed_milestone": "Ciclo corretivo do Relatório do Advogado do Diabo concluído: seis Estratégias Autônomas, 28 fases, 20 achados tratados e reauditoria técnica de 16 HTMLs aprovada.",
+  "next_logical_step": "Aguardar nova Estratégia Autônoma ou nova auditoria material; aplicar o protocolo adversarial e a JURISPRUDENCE_MATRIX.md em toda revisão futura.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -31,13 +31,14 @@
     "SITE_ARCHITECTURE.md",
     "SITE_STYLE_GUIDE.md",
     "CONTACT_STACK.md",
-    "RESEARCH_DOUTRINA_PROTOCOL.md"
+    "RESEARCH_DOUTRINA_PROTOCOL.md",
+    "JURISPRUDENCE_MATRIX.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_REVISAO_DOUTRINARIA_GLOBAL_AUDITADA",
+  "site_status": "CORRECOES_ADVERSARIAIS_REAUDITADAS",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/guias/indenizacao-trabalhista-superendividamento.html",
   "last_deployment": {
