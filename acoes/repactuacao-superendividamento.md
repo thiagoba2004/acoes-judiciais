@@ -199,7 +199,19 @@ A pesquisa já produziu:
 - checklist de audiência global;
 - matriz requisito → fato → prova;
 - metodologia de diagnóstico financeiro;
+- checklist integrado de separação de fato, renda do cônjuge e patrimônio;
 - estrutura-base de petição inicial.
+
+### Checklist rápido para separação de fato e patrimônio
+
+Antes do protocolo, confirme:
+- prova documental da data da separação de fato;
+- identificação do regime de bens;
+- quadro de renda e de despesas efetivamente suportadas pelo consumidor;
+- discriminação das despesas dos filhos e dos rateios com o outro genitor;
+- inventário do apartamento, veículo e demais bens com saldo devedor e meação potencial;
+- classificação contrato a contrato das dívidas abrangidas e excluídas;
+- coerência entre petição, IRPF, extratos, Registrato/SCR, endereços e contratos.
 
 ## 10. Tema complementar — recebimento de indenização trabalhista durante a repactuação
 
@@ -274,8 +286,6 @@ b) distinguir orçamento próprio de despesas compartilhadas;
 c) explicar eventual renda/documentação do cônjuge sem presumir solidariedade;
 d) declarar apartamento, veículo e outros bens com saldo devedor e regime de bens;
 e) separar dívidas excluídas pelo art. 104-A, § 1º, das demais dívidas de consumo.
-
-VI — DO PLANO CONSENSUAL
 
 VI — DO PLANO CONSENSUAL
 Apresentar, por credor:
