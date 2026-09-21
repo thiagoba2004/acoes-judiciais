@@ -53,7 +53,7 @@ O simples fato de o empregado sofrer assalto durante a jornada **não torna todo
 
 ### Atividades de risco especial
 
-O STF, no Tema 932, admite responsabilidade objetiva quando a atividade normalmente desenvolvida expõe o trabalhador a risco especial superior ao da coletividade.
+O Tema 932 do STF trata da responsabilidade objetiva do empregador por danos decorrentes de **acidente de trabalho** quando a atividade normalmente desenvolvida expõe o trabalhador, de forma habitual, a risco especial superior ao suportado pela coletividade. Essa tese é especialmente relevante para acidentes ligados a assalto/roubo em atividades de risco, mas não transforma automaticamente assédio, discriminação, humilhação ou qualquer outro dano extrapatrimonial em hipótese de responsabilidade objetiva.
 
 O TST aplica essa lógica, conforme o caso, a atividades como:
 - vigilância;
@@ -62,7 +62,7 @@ O TST aplica essa lógica, conforme o caso, a atividades como:
 - bancos postais;
 - entrega postal.
 
-No IRR Tema 84, o TST firmou que o roubo sofrido por carteiro durante a entrega gera responsabilidade objetiva do empregador, em razão do risco diferenciado da atividade.
+No IRR Tema 84, o TST firmou tese de responsabilidade objetiva pelo dano moral decorrente de roubo sofrido por carteiro durante a entrega, em razão do risco diferenciado da atividade. **Estado processual consultado em 21/09/2026: RE Pendente**, segundo a ficha oficial do TST.
 
 ### Comércio varejista
 
@@ -131,11 +131,11 @@ Quando aplicável, exige:
 
 Pode incidir:
 - nos casos previstos em lei;
-- ou quando a atividade normalmente desenvolvida implicar risco especial, conforme o art. 927, parágrafo único, do Código Civil e o Tema 932 do STF.
+- ou, em matéria de acidente de trabalho, quando a atividade normalmente desenvolvida implicar risco especial, conforme o art. 927, parágrafo único, do Código Civil e o Tema 932 do STF.
 
-Responsabilidade objetiva **não é regra geral para todo dano moral trabalhista**.
+Responsabilidade objetiva **não é regra geral para todo dano moral trabalhista**. Assédio, discriminação, ofensa à honra, violação de intimidade e outras hipóteses exigem identificação do fundamento de imputação próprio.
 
-## 5. Fato de terceiro e excludentes
+## 5. Fato de terceiro, excludentes e culpa concorrente
 
 Um assaltante, cliente ou outro agressor é terceiro, mas isso não encerra a análise.
 
@@ -143,13 +143,18 @@ Um assaltante, cliente ou outro agressor é terceiro, mas isso não encerra a an
 - o evento era externo ao risco da atividade;
 - ou se o risco de violência estava incorporado ao trabalho.
 
-Também devem ser avaliados:
+### Excludentes ou causas capazes de romper a responsabilidade/nexo
+
+Devem ser avaliadas, conforme o regime aplicável e os fatos:
 - culpa exclusiva da vítima;
-- culpa concorrente;
 - fortuito externo;
 - exercício regular de direito;
 - inexistência de dano;
-- ausência de nexo.
+- ausência ou ruptura do nexo causal.
+
+### Culpa concorrente
+
+A culpa concorrente **não equivale, em regra, a excludente total**. Quando juridicamente reconhecida, pode repercutir na extensão da reparação, inclusive conforme a contribuição causal de cada parte, nos termos do art. 945 do Código Civil. Sua incidência depende da prova e do regime de responsabilidade do caso concreto.
 
 ## 6. Competência, prescrição e estrutura processual
 
@@ -161,7 +166,7 @@ Em acidente do trabalho, a Súmula Vinculante 22 do STF confirma essa competênc
 
 ### Competência territorial
 
-A regra geral é o local da prestação dos serviços. O foro do domicílio do empregado não deve ser tratado como regra geral; o Tema 215 do TST estava afetado e sem tese definitiva na fonte oficial consultada.
+A regra geral continua sendo o local da prestação dos serviços, nos termos do art. 651 da CLT. Em 19/08/2026, o TST julgou o Tema 215 e admitiu, **excepcionalmente**, o ajuizamento no foro do domicílio do trabalhador quando o acesso a outro foro legalmente competente se mostrar impossível ou desproporcionalmente oneroso, mediante fundamentação concreta. Distância geográfica ou vulnerabilidade econômica presumida, isoladamente, não bastam, e deve ser preservado o direito de defesa.
 
 ### Prescrição
 
@@ -200,7 +205,7 @@ Possíveis provas:
 
 ### Gravação
 
-O STF, no Tema 237, reconhece a licitude da gravação ambiental feita por um dos interlocutores, sem conhecimento do outro. Isso não autoriza automaticamente interceptações ou acesso indevido a dispositivos.
+O STF, no Tema 237, reconhece a licitude da gravação ambiental feita por um dos interlocutores, sem conhecimento do outro. Isso não autoriza automaticamente interceptações ou acesso indevido a dispositivos. **Licitude não prova, por si só, autenticidade, integridade, completude ou contexto**: preserve o arquivo original, metadados disponíveis, cadeia de preservação e elementos que permitam enfrentar eventual impugnação ou alegação de edição/manipulação.
 
 ## 8. Quantificação
 
@@ -223,26 +228,26 @@ As faixas do § 1º são **orientativas**. Nas ADIs 6.050, 6.069 e 6.082, o STF 
 
 ### STF
 
-- **Tema 932:** responsabilidade objetiva em atividades com risco especial.
+- **Tema 932:** responsabilidade objetiva por danos decorrentes de acidente de trabalho quando a atividade expõe habitualmente o empregado a risco especial.
 - **ADIs 6.050, 6.069 e 6.082:** parâmetros do art. 223-G são orientativos; não há teto absoluto.
 - **Súmula Vinculante 22:** competência da Justiça do Trabalho em indenização por acidente de trabalho.
 
 ### TST — precedentes qualificados
 
-- **IRR 84:** carteiro vítima de roubo — responsabilidade objetiva.
+- **IRR 84:** carteiro vítima de roubo — responsabilidade objetiva; **situação consultada em 21/09/2026: RE Pendente**.
 - **IRR 88:** limbo previdenciário — dano moral in re ipsa.
 - **IRR 143:** atraso de verbas rescisórias não gera dano automaticamente.
 - **IRR 181:** dano por ricochete em acidente fatal.
 - **IRR 192:** retenção injustificada de CTPS — dano presumido.
 
-### Temas ainda pendentes na fonte oficial consultada
+### Temas em monitoramento
 
-- Tema 103 — atraso reiterado de salários;
-- Tema 107 — barreira sanitária;
-- Tema 117 — limitação do banheiro;
-- Tema 200 — norma prescricional em acidente/doença;
-- Tema 215 — foro do domicílio;
-- Tema 35 — limitação aos valores indicados na inicial.
+- Tema 103 — atraso reiterado de salários: afetado, sem tese definitiva na consulta de 21/09/2026;
+- Tema 107 — barreira sanitária: conferir o estado individual antes do protocolo;
+- Tema 117 — limitação do banheiro: afetado, sem tese definitiva na consulta de 21/09/2026;
+- Tema 200 — norma prescricional em acidente/doença: conferir o estado individual antes do protocolo;
+- **Tema 215 — foro do domicílio: julgado em 19/08/2026; não deve mais ser descrito como apenas afetado**;
+- Tema 35 — limitação aos valores indicados na inicial: conferir o estado individual antes do protocolo.
 
 ## 10. Teses institucionais
 
