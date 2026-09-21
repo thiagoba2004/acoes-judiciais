@@ -158,15 +158,17 @@ Sincronizar Markdown + HTML; JSON apenas quando houver função estruturada real
 - menu global uniforme;
 - 32 cards clicáveis, 11 cards estáticos e 0 usos ambíguos.
 
-## EA-000003-000006 — Reclamação Trabalhista com pedido de Indenização por Danos Morais — PLANEJADA
+## EA-000003-000006 — Reclamação Trabalhista com pedido de Indenização por Danos Morais — EM EXECUÇÃO
 
 ### FASE 01/09 [F-000003-000006-001] — Delimitação, hipóteses de dano e perguntas de pesquisa
 Mapear hipóteses de dano moral no contexto laboral e formular as perguntas jurídicas centrais, sem presumir que toda ilicitude trabalhista gere dano moral indenizável.  
-**Gate:** escopo, taxonomia inicial, perguntas e limites persistidos.
+**Gate:** escopo, taxonomia inicial, perguntas e limites persistidos.  
+**Estado:** CONCLUÍDA — 12 grupos de hipóteses e 40 perguntas de pesquisa persistidos.
 
 ### FASE 02/09 [F-000003-000006-002] — Marco normativo e responsabilidade civil trabalhista
 Levantar e verificar Constituição, CLT, Código Civil, CPC, legislação especial e fontes primárias pertinentes.  
-**Gate:** núcleo normativo registrado, datado e classificado.
+**Gate:** núcleo normativo registrado, datado e classificado.  
+**Estado:** CONCLUÍDA — Constituição, CLT, Código Civil, CPC, legislação especial e precedentes constitucionais centrais sistematizados.
 
 ### FASE 03/09 [F-000003-000006-003] — Competência, legitimidade, prescrição e estrutura processual
 Mapear competência, legitimidade, prescrição, cumulação, rito, valor da causa, tutela provisória e requisitos processuais.  
