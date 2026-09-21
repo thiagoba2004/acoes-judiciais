@@ -308,7 +308,7 @@ A estratégia produziu:
 
 ## 12. Modelo reutilizável — estrutura-base
 
-O modelo abaixo é um ponto de partida. Não substitui análise individual de competência, prescrição, prova, responsabilidade e jurisprudência atual.
+O modelo abaixo é uma **estrutura-base, não uma petição pronta**. Não substitui análise individual de competência, prescrição, prova, responsabilidade, jurisdição e jurisprudência atual.
 
 ```text
 AO JUÍZO DA [VARA DO TRABALHO COMPETENTE]
