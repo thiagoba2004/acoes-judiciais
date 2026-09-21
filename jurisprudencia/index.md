@@ -22,4 +22,4 @@ Precedentes e teses organizados por tema, sempre vinculados às fontes oficiais.
 - TST — IRR 192: retenção injustificada de CTPS e dano presumido;
 - temas 103, 107 e 117: controvérsias ainda afetadas na fonte oficial consultada.
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
