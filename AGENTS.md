@@ -38,10 +38,11 @@ EXECUTAR
 4. `PROJECT_STATE.json`;
 5. `ROADMAP.md` e planos de fases;
 6. `SOURCE_REGISTRY.jsonl` e fontes recuperáveis;
-7. `RESEARCH_DOUTRINA_PROTOCOL.md` para a metodologia doutrinária;
-8. arquivos Markdown canônicos de conteúdo;
-9. histórico Git comprovado;
-10. somente depois, memória/conversa.
+7. `JURISPRUDENCE_MATRIX.md` para status e recorte dos precedentes centrais;
+8. `RESEARCH_DOUTRINA_PROTOCOL.md` para a metodologia doutrinária;
+9. arquivos Markdown canônicos de conteúdo;
+10. histórico Git comprovado;
+11. somente depois, memória/conversa.
 
 ## 4. Estratégias e fases
 
