@@ -18,6 +18,11 @@ Enunciados, pareceres, notas técnicas e posições de entidades jurídicas não
 - **BRASILCON — Instituto Brasileiro de Política e Direito do Consumidor:** posição institucional crítica ao Decreto nº 11.150/2022 e atuação sobre crédito responsável, mínimo existencial e superendividamento. A tese deve ser lida à luz do julgamento do STF de 23/04/2026.
 - **Idec — Instituto de Defesa de Consumidores:** posição contrária a um valor nominal rígido de mínimo existencial e defesa de avaliação baseada em necessidades essenciais e situação individual. O STF preservou a possibilidade de parâmetro quantitativo, mas exigiu revisão técnica periódica.
 
+### Direito do Trabalho
+
+- **ANAMATRA — Associação Nacional das Magistradas e dos Magistrados da Justiça do Trabalho:** enunciados da 2ª Jornada sobre dano extrapatrimonial, tratados como teses institucionais/doutrinárias não vinculantes e confrontados com as ADIs 6.050, 6.069 e 6.082.
+- **ABRAT — Associação Brasileira da Advocacia Trabalhista:** Nota Técnica de 2017 com crítica a limites rígidos à reparação extrapatrimonial; posição institucional não vinculante.
+
 ### Entidades monitoradas
 
 - **IBDCivil:** relevante ao Direito Civil, mas sem tese institucional específica incorporada nesta auditoria; artigos da revista são atribuídos aos autores.
@@ -71,6 +76,15 @@ O artigo trata do papel do Poder Judiciário no tratamento do superendividamento
 - Paulo Lôbo — *Direito Civil — Famílias, v. 5*, 16ª ed., 2026.
 
 As obras são referências para aprofundamento. Teses específicas só devem ser atribuídas após leitura do trecho correspondente.
+
+## Direito do Trabalho — danos extrapatrimoniais
+
+- José Affonso Dallegrave Neto — *O dano moral trabalhista nas lentes do STF*.
+- Daniela Vasconcellos Gomes — *O dano extrapatrimonial na Justiça do Trabalho: os parâmetros estabelecidos pela Reforma Trabalhista*.
+- Andreza Carina Baggio e Polyana Laís Majewski Caggiano — *O papel da jurisdição no combate ao assédio moral*.
+- Mathias Felipe Gewehr — *A concausa como hipótese de responsabilização do empregador nas doenças ocupacionais*.
+
+A ANPT permanece como entidade monitorada: artigos de autores publicados em seu portal não são automaticamente posições institucionais da associação.
 
 ## Como usar a doutrina
 
