@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000018",
   "current_strategy_name": "Integração da separação de fato, renda do cônjuge e patrimônio ao dossiê de Superendividamento",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 6,
-    "phase_code": "F-000003-000018-001",
-    "phase_name": "Consolidação e resolução de conflitos",
+    "phase_code": "F-000003-000018-003",
+    "phase_name": "Ferramentas, checklists e modelos",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000003-000017 concluída em 7/7 fases; apartamento, veículo e garantias classificados para integração.",
-  "next_logical_step": "Executar a Fase 01/06 da EA-000003-000018, consolidando as conclusões das EA14-EA17 e resolvendo duplicações/contradições antes da revisão do dossiê canônico.",
+  "last_completed_milestone": "EA-000003-000018: Fases 01 e 02 concluídas; dossiê canônico revisado e modelo de petição parcialmente atualizado.",
+  "next_logical_step": "Concluir a Fase 03/06 atualizando as ferramentas práticas correlatas; depois sincronizar o HTML público e executar auditoria adversarial.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
