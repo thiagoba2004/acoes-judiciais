@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000006",
   "current_strategy_name": "Reclamação Trabalhista com pedido de Indenização por Danos Morais",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 9,
-    "phase_code": "F-000003-000006-001",
-    "phase_name": "Delimitação, hipóteses de dano e perguntas de pesquisa",
+    "phase_code": "F-000003-000006-003",
+    "phase_name": "Competência, legitimidade, prescrição e estrutura processual",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000003-000006 criada e planejada em 9 fases, com escopo, limites metodológicos, gates e artefatos previstos persistidos.",
-  "next_logical_step": "Iniciar a Fase 01/09 da EA-000003-000006, delimitando hipóteses de dano moral no contexto laboral, perguntas de pesquisa e fronteiras entre mero inadimplemento trabalhista e dano extrapatrimonial indenizável.",
+  "last_completed_milestone": "Fases 01 e 02 da EA-000003-000006 concluídas: delimitação/taxonomia e marco normativo de responsabilidade civil trabalhista persistidos e verificados.",
+  "next_logical_step": "Iniciar a Fase 03/09, sistematizando competência material e territorial, legitimidade, prescrição, cumulação, rito, requisitos da petição inicial, valor da causa e tutelas provisórias aplicáveis à reclamação trabalhista com pedido de indenização por danos morais.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -36,7 +36,7 @@
   "site_status": "PUBLICADO_ENTIDADES_JURIDICAS_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
