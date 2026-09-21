@@ -118,7 +118,7 @@ Consulte o guia público: [Indenização trabalhista e superendividamento](../gu
 
 ## 9. Modelo reutilizável — estrutura-base de petição
 
-A estrutura abaixo é um ponto de partida. Não é petição pronta e contém variáveis que precisam ser preenchidas e juridicamente validadas.
+A estrutura abaixo é uma **estrutura-base, não uma petição pronta**. Contém variáveis que precisam ser preenchidas e juridicamente validadas para a jurisdição e o caso concreto.
 
 ### COPIAR MODELO
 
