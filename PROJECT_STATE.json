@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000016",
-  "current_strategy_name": "Patrimônio conjugal, regime de bens e separação de fato na repactuação",
+  "current_strategy_code": "EA-000003-000017",
+  "current_strategy_name": "Apartamento financiado, veículo e limites patrimoniais da repactuação",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 1,
     "phase_total": 7,
-    "phase_code": "F-000003-000016-003",
-    "phase_name": "Patrimônio comum, patrimônio exclusivo e direitos aquisitivos",
+    "phase_code": "F-000003-000017-001",
+    "phase_name": "Tipologia dos bens, contratos e garantias",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000003-000016: Fases 01 e 02 concluídas; linha do tempo patrimonial e comunicabilidade de bens/dívidas estruturadas.",
-  "next_logical_step": "Executar a Fase 03/07 da EA-000003-000016, distinguindo propriedade formal, meação, direitos aquisitivos de bens financiados, saldo devedor e patrimônio líquido econômico.",
+  "last_completed_milestone": "EA-000003-000016 concluída em 7/7 fases; patrimônio, direitos aquisitivos, passivo e liquidez estruturados.",
+  "next_logical_step": "Executar a Fase 01/07 da EA-000003-000017, classificando apartamento, veículo, financiamento imobiliário, crédito garantido e alienação fiduciária.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -129,7 +129,7 @@
       "EA-000003-000017",
       "EA-000003-000018"
     ],
-    "current": "EA-000003-000016",
+    "current": "EA-000003-000017",
     "integrator": "EA-000003-000018",
     "status": "EM_EXECUCAO"
   }
