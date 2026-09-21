@@ -230,34 +230,57 @@ Sincronizar Markdown + HTML; criar JSON apenas se houver função estruturada re
 **Integração:** PRJ-000003 ↔ PRJ-000004.  
 **Estratégia financeira correlata:** EA-000004-000022.
 
-## EA-000003-000007 — Impacto da indenização trabalhista por dano moral na Ação de Repactuação de Dívidas por Superendividamento — PLANEJADA
+## EA-000003-000007 — Impacto da indenização trabalhista por dano moral na Ação de Repactuação de Dívidas por Superendividamento — CONCLUÍDA
 
 ### FASE 01/09 [F-000003-000007-001] — Delimitação jurídica e cenários temporais
-**Gate:** escopo, cenários antes/durante/depois do processo e perguntas centrais persistidos.
+**Gate:** escopo, cenários antes/durante/depois do processo e perguntas centrais persistidos.  
+**Estado:** CONCLUÍDA.
 
 ### FASE 02/09 [F-000003-000007-002] — Marco normativo integrado
-**Gate:** núcleo normativo oficial registrado e classificado.
+**Gate:** núcleo normativo oficial registrado e classificado.  
+**Estado:** CONCLUÍDA.
 
 ### FASE 03/09 [F-000003-000007-003] — Natureza jurídica e patrimonial da indenização recebida
-**Gate:** matriz natureza jurídica → efeito patrimonial → consequência potencial na repactuação persistida.
+**Gate:** matriz natureza jurídica → efeito patrimonial → consequência potencial na repactuação persistida.  
+**Estado:** CONCLUÍDA.
 
 ### FASE 04/09 [F-000003-000007-004] — Cabimento, boa-fé e mínimo existencial
-**Gate:** matriz de cabimento e efeitos sobre os requisitos da repactuação concluída sem automatismos.
+**Gate:** matriz de cabimento e efeitos sobre os requisitos da repactuação concluída sem automatismos.  
+**Estado:** CONCLUÍDA.
 
 ### FASE 05/09 [F-000003-000007-005] — Fato superveniente, dever de informação e estágios processuais
-**Gate:** consequências processuais por marco temporal e deveres de informação documentados.
+**Gate:** consequências processuais por marco temporal e deveres de informação documentados.  
+**Estado:** CONCLUÍDA.
 
 ### FASE 06/09 [F-000003-000007-006] — Efeito sobre o plano, credores e uso do capital
-**Gate:** matriz jurídico-financeira de alternativas e limites produzida.
+**Gate:** matriz jurídico-financeira de alternativas e limites produzida.  
+**Estado:** CONCLUÍDA.
 
 ### FASE 07/09 [F-000003-000007-007] — Jurisprudência, doutrina e teses institucionais
-**Gate:** matriz de precedentes, doutrina e posições institucionais criticamente confrontadas.
+**Gate:** matriz de precedentes, doutrina e posições institucionais criticamente confrontadas.  
+**Estado:** CONCLUÍDA.
 
 ### FASE 08/09 [F-000003-000007-008] — Ferramentas práticas e protocolo de caso
-**Gate:** instrumentos práticos revisados e protocolo de interoperabilidade com EA-000004-000022 produzido.
+**Gate:** instrumentos práticos revisados e protocolo de interoperabilidade com EA-000004-000022 produzido.  
+**Estado:** CONCLUÍDA — checklist, roteiro de entrevista, árvore decisória, quadro antes/depois, manifestação e protocolo interprojetos.
 
 ### FASE 09/09 [F-000003-000007-009] — Publicação, auditoria e atualização
-**Gate:** publicação verificável, fontes auditadas, ausência de vazamentos e estado atualizado.
+**Gate:** publicação verificável, fontes auditadas, ausência de vazamentos e estado atualizado.  
+**Estado:** CONCLUÍDA — guia Markdown+HTML publicado, integrações concluídas, 15 HTMLs auditados e deploy 35593885449 success.
 
-**Plano detalhado:** `research/EA-000003-000007/plano-de-fases.md`.
+**Plano detalhado:** `research/EA-000003-000007/plano-de-fases.md`.  
+**Auditoria:** `research/EA-000003-000007/auditoria-final-publicacao.md`.
 
+
+
+### Resultado — EA-000003-000007
+
+- 9/9 fases concluídas;
+- cenário-base de R$ 100.000,00 líquidos integrado sem tratá-lo como renda recorrente;
+- efeitos sobre cabimento, boa-fé, mínimo existencial, fato superveniente e plano estruturados;
+- pesquisa superior sem tese específica localizada de captura integral ou exclusão integral da indenização;
+- seis ferramentas práticas concluídas;
+- guia público em `guias/indenizacao-trabalhista-superendividamento.html`;
+- integração com o PRJ-000004 preservando fronteiras jurídica/financeira;
+- auditoria global de 15 HTMLs aprovada;
+- deploy GitHub Pages `35593885449`: **success**.
