@@ -36,5 +36,17 @@ Testar as novas teses contra argumentos de credores, jurisprudência contrária,
 Auditar links, navegação, fontes, workflow Pages e implantação do conteúdo final.
 **Gate:** publicação verificável e ciclo encerrado.
 
-## Estado inicial
-**Estratégia: PLANEJADA e dependente das EA-000003-000014 a EA-000003-000017.**
+## Estado final
+
+**Estratégia: CONCLUÍDA.**
+
+- Fase 01/06: **CONCLUÍDA**.
+- Fase 02/06: **CONCLUÍDA**.
+- Fase 03/06: **CONCLUÍDA**.
+- Fase 04/06: **CONCLUÍDA**.
+- Fase 05/06: **CONCLUÍDA**.
+- Fase 06/06: **CONCLUÍDA**.
+
+**Auditoria:** `research/EA-000003-000018/auditoria-adversarial-integracao.md`.
+
+**Publicação verificada:** GitHub Pages run `35668023210`, job `deploy` e etapa `Deploy to GitHub Pages` concluídos com `success`, conteúdo público associado ao commit `9a27731b2f8e9eaa583f0974d13e25961dce3142`.
