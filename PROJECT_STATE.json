@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000006",
   "current_strategy_name": "Reclamação Trabalhista com pedido de Indenização por Danos Morais",
   "current_phase": {
-    "phase_number": 7,
+    "phase_number": 9,
     "phase_total": 9,
-    "phase_code": "F-000003-000006-007",
-    "phase_name": "Jurisprudência, doutrina e teses institucionais",
+    "phase_code": "F-000003-000006-009",
+    "phase_name": "Publicação, auditoria e fechamento",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 05 e 06 da EA-000003-000006 concluídas: matriz de responsabilidade/defesas e metodologia de quantificação persistidas, com fontes atuais do STF/TST incorporadas.",
-  "next_logical_step": "Iniciar a Fase 07/09, pesquisando e comparando STF, TST, TRTs, doutrina especializada e teses institucionais de entidades jurídicas não governamentais ligadas ao Direito do Trabalho, distinguindo precedente vinculante, entendimento qualificado, divergência e posição institucional não vinculante.",
+  "last_completed_milestone": "Fases 07 e 08 da EA-000003-000006 concluídas: jurisprudência/doutrina/teses institucionais e ferramentas práticas/modelos persistidos.",
+  "next_logical_step": "Executar a Fase 09/09: produzir o dossiê público em Markdown e HTML, integrar Ações/Guias/Modelos/Jurisprudência/Doutrina/Legislação/Fontes/Mapa do Site, auditar links, âncoras, governança, semântica visual e confirmar o deploy do GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
