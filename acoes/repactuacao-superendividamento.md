@@ -19,9 +19,26 @@ A existência de várias dívidas, inadimplência ou alto comprometimento de ren
 
 ## 2. Dívidas abrangidas e exclusões
 
-O procedimento alcança dívidas de consumo assumidas por pessoa natural, inclusive operações de crédito e compras a prazo, observadas as exclusões legais.
+O procedimento alcança dívidas de consumo assumidas por pessoa natural, inclusive operações de crédito, compras a prazo e serviços de prestação continuada, mas a triagem deve separar **duas camadas normativas diferentes**.
 
-Na triagem, cada contrato deve ser classificado separadamente. Entre as exclusões relevantes do procedimento de repactuação estão dívidas oriundas de contratos celebrados dolosamente sem propósito de pagamento, crédito com garantia real, financiamento imobiliário e crédito rural, além das demais hipóteses legais aplicáveis.
+### 2.1. Hipóteses que afastam a aplicação do capítulo — art. 54-A, § 3º
+
+O capítulo de prevenção e tratamento do superendividamento não se aplica ao consumidor cujas dívidas:
+- tenham sido contraídas mediante fraude ou má-fé;
+- sejam oriundas de contratos celebrados dolosamente com o propósito de não realizar o pagamento;
+- decorram da aquisição ou contratação de produtos e serviços de luxo de alto valor.
+
+Essas hipóteses dizem respeito ao próprio enquadramento no regime do superendividamento e exigem prova e análise dos fatos; não devem ser presumidas apenas pela existência de inadimplência.
+
+### 2.2. Dívidas excluídas do processo de repactuação — art. 104-A, § 1º
+
+Ainda que haja relação de consumo, ficam fora do processo de repactuação:
+- dívidas oriundas de contratos celebrados dolosamente sem propósito de pagamento;
+- crédito com garantia real;
+- financiamento imobiliário;
+- crédito rural.
+
+Na triagem, cada contrato deve ser classificado separadamente, distinguindo **não enquadramento do consumidor/regime** de **exclusão de determinada dívida do rito de repactuação**.
 
 ## 3. Mínimo existencial e crédito consignado
 
@@ -124,8 +141,9 @@ Demonstrar, com fatos e documentos:
 a) condição de pessoa natural consumidora;
 b) impossibilidade manifesta de pagamento global sem comprometimento do mínimo existencial;
 c) elementos concretos de boa-fé;
-d) classificação contrato a contrato das dívidas abrangidas e excluídas;
-e) necessidade de tratamento global.
+d) teste separado das hipóteses do art. 54-A, § 3º;
+e) classificação contrato a contrato das dívidas abrangidas e das excluídas pelo art. 104-A, § 1º;
+f) necessidade de tratamento global.
 
 III — DA COMPETÊNCIA
 [SELECIONAR E FUNDAMENTAR A HIPÓTESE CONCRETA]
