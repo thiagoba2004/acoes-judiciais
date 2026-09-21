@@ -18,7 +18,11 @@ A identidade deve transmitir rigor jurídico, consulta, clareza e confiabilidade
 ## Tipografia
 
 - títulos: Georgia / Times New Roman;
-- corpo, navegação e interface: Arial / Helvetica.
+- corpo, navegação e interface: Arial / Helvetica;
+- o `<h1>` editorial deve ser apenas moderadamente maior que o corpo do texto, nunca em escala de manchete gigante;
+- padrão atual do `<h1>`: `clamp(1.5rem, 2.7vw, 1.9rem)` no desktop/tablet e `1.5rem` no mobile até 620px;
+- títulos longos devem usar largura suficiente para evitar fragmentação excessiva; no mobile o `<h1>` não deve usar `max-width` estreito;
+- `h2` e `h3` permanecem hierarquicamente menores que o `<h1>`.
 
 ## Componentes
 
