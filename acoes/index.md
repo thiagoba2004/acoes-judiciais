@@ -6,5 +6,6 @@ A área **Ações** reúne dossiês jurídicos teórico-práticos, com fundament
 
 - [Repactuação de Dívidas por Superendividamento](repactuacao-superendividamento.html)
 - [Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos](divorcio-litigioso-partilha-guarda-convivencia-alimentos.html)
+- [Reclamação Trabalhista com pedido de Indenização por Danos Morais](reclamacao-trabalhista-danos-morais.html)
 
 **Última revisão:** 20/09/2026.
