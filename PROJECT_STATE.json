@@ -15,10 +15,10 @@
     "phase_total": 9,
     "phase_code": "F-000003-000006-009",
     "phase_name": "Publicação, auditoria e fechamento",
-    "status": "PLANEJADA"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Fases 07 e 08 da EA-000003-000006 concluídas: jurisprudência/doutrina/teses institucionais e ferramentas práticas/modelos persistidos.",
-  "next_logical_step": "Executar a Fase 09/09: produzir o dossiê público em Markdown e HTML, integrar Ações/Guias/Modelos/Jurisprudência/Doutrina/Legislação/Fontes/Mapa do Site, auditar links, âncoras, governança, semântica visual e confirmar o deploy do GitHub Pages.",
+  "last_completed_milestone": "EA-000003-000006 concluída em 9/9 fases, com hipótese específica de assalto/roubo incorporada, dossiê público em Markdown+HTML, auditoria integral aprovada e deploy confirmado.",
+  "next_logical_step": "Aguardar nova Estratégia Autônoma ou novo pedido de manutenção/auditoria do Projeto Ações Judiciais.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -33,18 +33,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_ENTIDADES_JURIDICAS_AUDITADO",
+  "site_status": "PUBLICADO_RECLAMACAO_TRABALHISTA_DANOS_MORAIS_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": null,
+  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/reclamacao-trabalhista-danos-morais.html",
   "last_deployment": {
-    "workflow_run_id": 35546489572,
+    "workflow_run_id": 35550557280,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "05ae89a576b0edd91998f7bc91cfe4fb417cdc9e"
+    "public_content_commit": "68df9fe996cdc6a1c915650bd9bbe0fddf708339"
   },
   "public_menu": [
     "Início",
