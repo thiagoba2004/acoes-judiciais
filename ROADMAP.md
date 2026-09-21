@@ -136,3 +136,24 @@ Sincronizar Markdown + HTML + JSON, integrar Legislação/Jurisprudência/Doutri
 - interface formal com o Projeto Planejamento Financeiro;
 - auditoria final: 13 HTMLs, 256 hrefs, zero links internos quebrados, zero âncoras locais quebradas e zero vazamentos de governança;
 - deploy público 35540435610: **success**.
+
+
+## Manutenção — Auditoria de entidades jurídicas das ações publicadas — 20/09/2026
+
+**Escopo:** dossiês públicos de Superendividamento e Divórcio Litigioso.
+
+**Resultado institucional:**
+- Superendividamento: BRASILCON e Idec incorporados; MPCON mantido em monitoramento sem atribuição artificial de tese;
+- Divórcio: IBDFAM mantido e ampliado; ADFAS incorporada com tese histórica classificada como superada pelo Tema 1053 do STF; IBDCivil mantido em monitoramento sem atribuição artificial de tese;
+- Doutrina e Fontes ampliadas com camada institucional por ramo;
+- Mapa do Site atualizado com acesso às seções de teses institucionais;
+- regra metodológica preservada: só há atribuição de tese quando existe posição institucional própria, oficial e recuperável.
+
+**Auditoria pública:**
+- 13 páginas HTML;
+- 277 hrefs;
+- 0 links internos quebrados;
+- 0 âncoras quebradas;
+- 0 vazamentos de governança;
+- menu global uniforme;
+- 32 cards clicáveis, 11 cards estáticos e 0 usos ambíguos.
