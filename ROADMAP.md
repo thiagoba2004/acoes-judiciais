@@ -182,11 +182,13 @@ Estruturar cronologia, documentos, prova testemunhal, prova digital, registros i
 
 ### FASE 05/09 [F-000003-000006-005] — Elementos da responsabilidade, defesas e controvérsias
 Examinar ilicitude, dano, nexo, imputação, culpa ou risco conforme o caso, excludentes e principais linhas defensivas.  
-**Gate:** matriz de responsabilidade e defesas previsíveis documentada.
+**Gate:** matriz de responsabilidade e defesas previsíveis documentada.  
+**Estado:** CONCLUÍDA — responsabilidade subjetiva/objetiva, prepostos, excludentes, fato de terceiro, compliance, mitigação e bis in idem estruturados.
 
 ### FASE 06/09 [F-000003-000006-006] — Quantificação da indenização e repercussões
 Pesquisar critérios jurídicos de arbitramento, gravidade, duração, repercussão, proporcionalidade e controvérsias sobre parâmetros de fixação.  
-**Gate:** metodologia de análise do quantum e mapa de controvérsias verificados.
+**Gate:** metodologia de análise do quantum e mapa de controvérsias verificados.  
+**Estado:** CONCLUÍDA — art. 223-G tratado como referência orientativa pós-STF; metodologia do quantum, agravantes, mitigantes e danos autônomos persistidos.
 
 ### FASE 07/09 [F-000003-000006-007] — Jurisprudência, doutrina e teses institucionais
 Pesquisar STF, TST, TRTs, doutrina e posições institucionais recuperáveis de entidades jurídicas especializadas.  
