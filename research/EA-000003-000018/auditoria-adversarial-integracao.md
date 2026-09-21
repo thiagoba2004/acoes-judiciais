@@ -72,3 +72,25 @@ A lista pública de fontes foi ampliada para incluir:
 ## Gate da Fase 05
 
 **SATISFEITO.** Nenhuma fragilidade material aberta impede a publicação. Permanecem apenas as ressalvas expressamente documentadas quanto ao caráter não vinculante dos precedentes estaduais e às pesquisas negativas datadas.
+
+## Reauditoria global do Site Público
+
+Após a sincronização e uma correção herdada no guia de indenização trabalhista × superendividamento, foi executada varredura de todas as rotas HTML públicas presentes no artefato do repositório.
+
+**Resultado:**
+- 16 páginas HTML;
+- 457 `href` verificados;
+- 69 verificações de âncoras locais ou de destino;
+- 4 botões de cópia;
+- 0 alvos de cópia ausentes;
+- 0 links internos quebrados;
+- 0 âncoras quebradas;
+- 0 páginas sem exatamente um `<title>`;
+- 0 páginas sem exatamente um `<h1>`;
+- 0 vazamentos de governança após correção;
+- botão `COPIAR MODELO` do dossiê de Superendividamento imediatamente acima do bloco copiável.
+
+### Correção herdada
+A auditoria detectou no HTML público do guia `guias/indenizacao-trabalhista-superendividamento.html` uma referência interna à estratégia de pesquisa. O código de governança foi removido e substituído por formulação editorial neutra, sem alteração jurídica material.
+
+**Resultado global final: APROVADO.**
