@@ -4,6 +4,10 @@ Página central da área **Fontes** do Site Ações Judiciais.
 
 A área preserva a proveniência das fontes primárias, institucionais e técnicas utilizadas nos dossiês.
 
+## Padrão público de rastreabilidade
+
+Para afirmações jurídicas relevantes, a referência pública deve permitir identificar, quando aplicável: **órgão ou autoria, documento/processo, data ou edição, natureza/status da fonte, link recuperável e data de verificação**. O catálogo técnico interno não precisa ser exposto ao visitante, mas a proveniência material da tese não pode ficar apenas nos registros internos.
+
 ## Consulta oficial
 
 - Planalto — legislação federal;
