@@ -34,6 +34,16 @@ Antecipar alegações de ocultação de renda, unidade familiar artificial, frau
 Consolidar conclusões, entregar premissas às estratégias correlatas e preparar integração ao dossiê principal sem duplicação.
 **Gate:** síntese auditada e pronta para integração pela EA-000003-000018.
 
-## Estado inicial
-**Estratégia: EM EXECUÇÃO.**
-Fase corrente: **01/07**.
+## Estado final
+
+**Estratégia: CONCLUÍDA.**
+
+- Fase 01/07: **CONCLUÍDA**.
+- Fase 02/07: **CONCLUÍDA**.
+- Fase 03/07: **CONCLUÍDA**.
+- Fase 04/07: **CONCLUÍDA**.
+- Fase 05/07: **CONCLUÍDA**.
+- Fase 06/07: **CONCLUÍDA**.
+- Fase 07/07: **CONCLUÍDA**.
+
+**Síntese final:** `research/EA-000003-000014/sintese-integracao-auditoria.md`.
