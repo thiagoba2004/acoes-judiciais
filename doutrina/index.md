@@ -113,9 +113,9 @@ O artigo trata do papel do Poder Judiciário no tratamento do superendividamento
 ## Direito das Famílias
 
 - Maria Berenice Dias — *Manual de Direito das Famílias*, 17ª ed., 2025.
-- Cristiano Chaves de Farias e Nelson Rosenvald — *Curso de Direito Civil: Famílias*, v. 6, 17ª ed., 2025.
+- Cristiano Chaves de Farias, Nelson Rosenvald e Felipe Braga Netto — *Curso de Direito Civil: Famílias*, v. 6, 18ª ed., 2026. [Referência editorial](https://www.editorajuspodivm.com.br/curso-de-direito-civil-v6-familias-2026-farias-rosenvald-netto).
 - Rolf Madaleno — *Manual de Direito de Família*, 14ª ed., 2024.
-- Rodrigo da Cunha Pereira — *Direito das Famílias*, 5ª ed., 2024.
+- Rodrigo da Cunha Pereira — *Direito das Famílias*, 6ª ed., 2025. [Registro bibliográfico na BDJur/STJ](https://bdjur.stj.jus.br/handle/2011/148844).
 - Flávio Tartuce — *Direito Civil, v. 5 — Direito de Família*, 20ª ed., 2025.
 - Paulo Lôbo — *Direito Civil — Famílias, v. 5*, 16ª ed., 2026.
 
