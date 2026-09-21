@@ -5,5 +5,11 @@
   "actions": [
     "acoes/repactuacao-superendividamento.html",
     "acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html"
+  ],
+  "institutional_sections": [
+    "acoes/repactuacao-superendividamento.html#teses-institucionais",
+    "acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html#teses-institucionais",
+    "doutrina/index.html#teses-institucionais",
+    "fontes/index.html#instituicoes-juridicas"
   ]
 }
