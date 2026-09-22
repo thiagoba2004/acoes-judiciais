@@ -2,7 +2,7 @@
 
 **Projeto:** PRJ-000003 — Ações Judiciais  
 **Função:** fonte canônica de status e recorte dos precedentes centrais usados no Site.  
-**Última verificação global:** 21/09/2026.
+**Última verificação global:** 22/09/2026.
 
 > Esta matriz não substitui a leitura do inteiro teor. Antes do uso profissional, conferir a fonte oficial e eventual superveniência.
 
@@ -26,7 +26,7 @@
 | Gravação por interlocutor | STF — Tema 237 | gravação ambiental feita por um interlocutor sem ciência do outro é lícita | licitude não comprova autenticidade, integridade, completude ou contexto | trânsito em julgado | 21/09/2026 |
 | Tarifação do dano extrapatrimonial | STF — ADIs 6.050, 6.069 e 6.082 | critérios do art. 223-G orientam, mas não operam como teto absoluto | arbitramento continua sujeito à fundamentação e extensão do dano | controle concentrado consultado | 21/09/2026 |
 | Roubo de carteiro | TST — IRR 84 | tese de responsabilidade objetiva pelo risco diferenciado da entrega postal | status recursal deve acompanhar a tese | **RE Pendente** | 21/09/2026 |
-| Competência territorial | TST — Tema 215 | foro do domicílio pode ser admitido excepcionalmente se outro foro legalmente competente tornar acesso impossível ou desproporcionalmente oneroso | exige motivação concreta; distância/vulnerabilidade presumida não bastam; preservar defesa | julgado em 19/08/2026 | 21/09/2026 |
+| Competência territorial | TST — Tema 215 | foro do domicílio pode ser admitido excepcionalmente se outro foro legalmente competente tornar acesso impossível ou desproporcionalmente oneroso | exige motivação concreta; distância/vulnerabilidade presumida não bastam; preservar defesa | **tese firmada em 19/08/2026** | 22/09/2026 |
 | Atraso reiterado de salários | TST — Tema 103 | controvérsia sobre dano moral | não antecipar tese | afetado, sem tese definitiva na consulta | 21/09/2026 |
 | Limitação de banheiro | TST — Tema 117 | controvérsia sobre dano moral | não antecipar tese | afetado, sem tese definitiva na consulta | 21/09/2026 |
 | Barreiras sanitárias | TST — Tema 107 | controvérsia trabalhista relevante | conferir página individual antes do uso | monitoramento | 21/09/2026 |
@@ -41,4 +41,5 @@ Ao alterar qualquer precedente acima:
 3. atualizar esta matriz;
 4. sincronizar o dossiê material;
 5. sincronizar a página pública Jurisprudência;
-6. verificar se a mudança exige correção em Modelos, Guias ou Doutrina.
+6. verificar se a mudança exige correção em Modelos, Guias ou Doutrina;
+7. quando o estado de um tema qualificado mudar, preservar a ficha histórica como superada, criar/atualizar a fonte oficial vigente e ligar os registros por `superseded_by` / `supersedes`, evitando que automações reutilizem estado antigo como atual.
