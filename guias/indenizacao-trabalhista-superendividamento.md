@@ -61,6 +61,8 @@ Também não há base para declarar que todo o capital deve ser entregue aos cre
 
 Os itens abaixo são **cenários analíticos**, não recomendações automáticas de pagamento. Sua admissibilidade e seus efeitos dependem da fase processual, da boa-fé, da composição global do passivo, do plano já apresentado, do tratamento dos demais credores e da sustentabilidade posterior:
 
+> **Alerta sobre pagamento seletivo:** quitação ou amortização de uma dívida específica **não é estratégia presumidamente lícita, necessária ou ótima** dentro de uma repactuação por superendividamento. Antes de qualquer pagamento, é preciso identificar se a dívida integra o rito, verificar a fase processual e eventual plano/proposta já apresentados, avaliar efeitos sobre a boa-fé e o tratamento econômico dos demais credores e recalcular a sustentabilidade global. O exemplo abaixo não autoriza pagamento preferencial nem substitui análise jurídica do caso.
+
 1. preservação temporária para diagnóstico;
 2. reserva justificada e saldo decisório;
 3. quitação seletiva, somente após avaliar seus efeitos jurídicos e econômicos sobre o plano global;
@@ -183,4 +185,4 @@ Por isso, a resposta continua dependente do CDC, CPC, mínimo existencial, boa-f
 - STJ — Jurisprudência em Teses, edição 282, Superendividamento;
 - STJ — Tema 370, indenização por dano moral e imposto de renda.
 
-**Última revisão:** 21/09/2026.
+**Última revisão:** 22/09/2026.
