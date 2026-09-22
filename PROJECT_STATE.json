@@ -8,16 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000033",
-  "current_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
-  "current_phase": {
-    "phase_number": 3,
-    "phase_total": 3,
-    "phase_name": "Auditoria, deploy e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000032 concluída: 24/24 páginas públicas aprovadas na auditoria de semântica visual; ações, navegação destacada, links secundários e cards harmonizados; deploy verificado.",
-  "next_logical_step": "Confirmar deploy do botão ENVIAR MENSAGEM oval.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000033 concluída: botão ENVIAR MENSAGEM oval/pílula, mantendo azul-marinho; deploy verificado.",
+  "next_logical_step": "Modo operacional. Preservar submit-button oval em futuras alterações.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -41,12 +36,12 @@
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35795174312,
+    "workflow_run_id": 35797334756,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_INTERFACE_AUDIT",
-    "commit_sha": "66616c60982ac43c24a1d3d579ca2e67d671aed6",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_SUBMIT_BUTTON_AUDIT",
+    "commit_sha": "25ffe378d1ff530d1b9dff496ae41b5089e7228e",
     "completed_at": "2026-09-22",
-    "note": "EA-000003-000032: harmonização semântica da interface jurídica; 24/24 HTMLs aprovados."
+    "note": "EA-000003-000033: botão ENVIAR MENSAGEM oval/pílula."
   },
   "public_menu": [
     "Início",
@@ -168,14 +163,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000032",
-  "last_concluded_strategy_name": "Auditoria e harmonização semântica da interface do Site Ações Judiciais",
-  "current_strategy": {
-    "strategy_code": "EA-000003-000033",
-    "strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
-    "plan_ref": "research/EA-000003-000033/plano-de-fases.md",
-    "status": "EM_EXECUCAO"
-  },
+  "last_concluded_strategy_code": "EA-000003-000033",
+  "last_concluded_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
