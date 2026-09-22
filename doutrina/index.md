@@ -59,8 +59,8 @@ Enunciados, pareceres, notas técnicas e posições de entidades jurídicas não
 
 ### Direito do Consumidor / Superendividamento
 
-- **BRASILCON — Instituto Brasileiro de Política e Direito do Consumidor:** posição institucional crítica ao Decreto nº 11.150/2022 e atuação sobre crédito responsável, mínimo existencial e superendividamento. A tese deve ser lida à luz do julgamento do STF de 23/04/2026.
-- **Idec — Instituto de Defesa de Consumidores:** posição contrária a um valor nominal rígido de mínimo existencial e defesa de avaliação baseada em necessidades essenciais e situação individual. O STF preservou a possibilidade de parâmetro quantitativo, mas exigiu revisão técnica periódica.
+- **BRASILCON — posição institucional interessada no polo consumerista:** atuação em crédito responsável, mínimo existencial e superendividamento. A classificação explicita sua perspectiva institucional; a posição é não vinculante e deve ser confrontada com o julgamento do STF de 23/04/2026.
+- **Idec — posição institucional interessada no polo consumerista:** associação de consumidores voltada à defesa de direitos consumeristas; sua crítica ao valor nominal rígido do mínimo existencial é posição institucional não vinculante e deve ser confrontada com legislação e jurisprudência atuais.
 
 ### Direito do Trabalho
 
