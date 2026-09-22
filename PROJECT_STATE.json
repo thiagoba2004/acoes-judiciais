@@ -7,18 +7,12 @@
   "repository": "thiagoba2004/acoes-judiciais",
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
-  "generator_release": "1.12",
-  "current_strategy_code": "EA-000003-000025",
-  "current_strategy_name": "Atualização da síntese institucional da Home",
-  "current_phase": {
-    "phase_number": 3,
-    "phase_total": 3,
-    "phase_code": "F-000003-000025-003",
-    "phase_name": "Auditoria, deploy e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000025 Fases 01-02 concluídas: síntese institucional atualizada para refletir Doutrina e Publicações.",
-  "next_logical_step": "Auditar paridade index.md/index.html e confirmar deploy do GitHub Pages; então fechar a estratégia.",
+  "generator_release": "1.13",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000025 concluída: Home revalidada e atualizada para refletir Doutrina e Publicações; deploy verificado.",
+  "next_logical_step": "Modo operacional; novas mudanças de escopo do Site devem revalidar a síntese institucional da Home sem convertê-la em catálogo.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -42,12 +36,12 @@
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35740233434,
+    "workflow_run_id": 35747259846,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_COLLECTION_DETAIL_AUDIT",
-    "public_content_commit": "220ca0310dd967f2d55cf57507b3e749851a2793",
-    "completed_at": "2026-09-22T14:28:01Z",
-    "note": "Coleção → Detalhe: 3 índices, 4 detalhes, 169 links verificados, zero falhas."
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_HOME_AUDIT",
+    "public_content_commit": "68b0eca4927b9eefe7ddeda3e2ee6cd42cd8916e",
+    "completed_at": "2026-09-22",
+    "note": "Home institucional atualizada; tipografia compatível com Gerador 1.13."
   },
   "public_menu": [
     "Início",
@@ -167,6 +161,6 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000024",
-  "last_concluded_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações"
+  "last_concluded_strategy_code": "EA-000003-000025",
+  "last_concluded_strategy_name": "Atualização da síntese institucional da Home"
 }

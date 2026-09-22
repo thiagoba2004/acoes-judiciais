@@ -6,7 +6,7 @@
 **project_name:** `Ações Judiciais`  
 **project_id legado:** `acoes-judiciais`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.11`  
+**generator_release:** `1.13`  
 **repository:** `thiagoba2004/acoes-judiciais`  
 **modules:** `research`, `legal`, `publication`, `web-site`, `contact-protocol`, `software`, `legal`, `publication`, `software`
 
@@ -329,3 +329,11 @@ Antes de declarar uma etapa concluída, confirmar persistência, versão remota,
 ## Padrão editorial Coleção → Detalhe
 
 Para Notícias, Artigos e Observatório públicos, a página da seção é um índice/arquivo. Cada conteúdo integral deve possuir página própria; o título do item é o hiperlink principal, acompanhado de metadados e resumo curto. É proibido acumular múltiplos conteúdos integrais na página de índice quando os itens têm autonomia editorial.
+
+
+## 13. Escala tipográfica responsiva
+
+- Títulos devem estabelecer hierarquia sem dominar a página.
+- O padrão atual do Site — `h1` em aproximadamente `1,5rem–1,9rem`, Home em aproximadamente `1,75rem–2,25rem` e mobile em `1,5rem` — é compatível com a regra do Gerador 1.13.
+- A Home e demais páginas não podem produzir overflow horizontal geral; exceções deliberadas ficam restritas a componentes próprios de rolagem.
+- Alterações de CSS estrutural devem ser revalidadas em mobile.
