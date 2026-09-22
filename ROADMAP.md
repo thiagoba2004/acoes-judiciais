@@ -391,6 +391,6 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 ## Ciclo corretivo dos 10 achados da EA-000003-000019
 
 - **EA-000003-000028 — Correção adversarial do dossiê de Direito das Famílias** — CONCLUÍDA; 6/6; A-01, A-02 e A-08 corrigidos; run `35759582362` success.
-- **EA-000003-000029 — Correção adversarial do dossiê trabalhista e da proveniência institucional** — PLANEJADA; 6 fases; achados A-03, A-04, A-07 e A-09.
+- **EA-000003-000029 — Correção adversarial do dossiê trabalhista e da proveniência institucional** — CONCLUÍDA; 6/6; A-03, A-04, A-07 e A-09 corrigidos; run `35760077593` success.
 - **EA-000003-000030 — Correção adversarial de Superendividamento e Doutrina** — PLANEJADA; 5 fases; achados A-05, A-06 e A-10.
 - **EA-000003-000031 — Reauditoria regressiva pós-correção do Site Ações Judiciais** — PLANEJADA; 5 fases; depende da conclusão das EA-000003-000028 a EA-000003-000030.
