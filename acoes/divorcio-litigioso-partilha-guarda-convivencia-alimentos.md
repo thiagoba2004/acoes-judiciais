@@ -25,7 +25,17 @@ Antes do ajuizamento, confira:
 
 Os processos de divórcio, guarda e alimentos tramitam em segredo de justiça. Quando houver interesse de incapaz, há intervenção do Ministério Público nas hipóteses legais.
 
-Em ações de guarda, a Lei nº 14.713/2023 exige atenção específica ao risco de violência doméstica ou familiar antes da mediação ou conciliação.
+Em ações de guarda, a Lei nº 14.713/2023 exige atenção específica ao risco de violência doméstica ou familiar antes da mediação ou conciliação. O art. 699-A do CPC determina que, antes de iniciada a audiência do art. 695, o juiz indague as partes e o Ministério Público sobre a existência desse risco e fixe prazo de **5 dias** para apresentação de prova ou de indícios pertinentes.
+
+### Violência doméstica, urgências protetivas e efeitos das Leis nº 15.411/2026 e nº 15.412/2026
+
+A existência de violência doméstica ou familiar pode repercutir simultaneamente em segurança, moradia, guarda, convivência, alimentos e organização patrimonial. A análise precisa identificar medidas protetivas já existentes e evitar pedidos ou decisões incompatíveis entre processos.
+
+A **Lei nº 15.411/2026** ampliou o art. 12-C da Lei Maria da Penha: o afastamento imediato do agressor do lar, domicílio ou local de convivência pode ser acionado diante de risco atual ou iminente à vida ou à integridade **física, sexual, psicológica, moral ou patrimonial** da mulher em situação de violência doméstica e familiar, ou de seus dependentes.
+
+A **Lei nº 15.412/2026** acrescentou ao art. 22 da Lei Maria da Penha que as medidas protetivas de natureza cível, **inclusive alimentos provisionais ou provisórios**, constituem **título executivo judicial de pleno direito** e dispensam a propositura de ação principal. Isso exige conferir o conteúdo e a vigência da medida antes de formular pedido alimentar, de moradia ou patrimonial na ação de família.
+
+Essas regras não significam que toda ação de divórcio, guarda ou alimentos seja automaticamente deslocada para o juízo de violência doméstica, nem que qualquer medida protetiva seja cabível sem seus pressupostos. Competência, conexão, prevenção e coordenação entre processos dependem do caso concreto.
 
 ## 3. Partilha de bens e dívidas
 
@@ -209,7 +219,13 @@ Para cada tutela: fato, probabilidade, perigo, prova,
 adequação e proporcionalidade.
 
 XV — DA VIOLÊNCIA DOMÉSTICA OU FAMILIAR [SE APLICÁVEL]
-Identificar medidas em vigor e seus reflexos processuais.
+Identificar risco atual ou iminente, medidas em vigor, juízo/processo de origem
+e seus reflexos processuais. Se houver pedido de guarda, observar o art. 699-A
+do CPC: antes da audiência de mediação/conciliação, o juiz indaga partes e
+Ministério Público sobre risco de violência e fixa 5 dias para prova ou indícios.
+Verificar se medidas protetivas cíveis já concedidas — inclusive alimentos
+provisionais/provisórios — constituem título executivo judicial nos termos
+do art. 22, § 10, da Lei Maria da Penha, evitando pedidos incompatíveis ou duplicados.
 
 XVI — DAS PROVAS
 Relacionar documentos, testemunhas, estudo técnico,
@@ -230,7 +246,9 @@ j) partilha item a item;
 k) avaliação ou apuração de haveres;
 l) tutela patrimonial específica;
 m) intervenção do Ministério Público, quando exigida;
-n) produção de provas.
+n) observância do art. 699-A do CPC, quando houver ação de guarda e risco de violência;
+o) coordenação com medidas protetivas cíveis vigentes, quando aplicável;
+p) produção de provas.
 
 XVIII — DO VALOR DA CAUSA
 Calcular conforme os pedidos cumulados e as regras aplicáveis.
@@ -242,7 +260,7 @@ Calcular conforme os pedidos cumulados e as regras aplicáveis.
 ## 9. Jurisprudência essencial
 
 - STF — Tema 1053: separação judicial não é requisito para divórcio após a EC 66/2010.
-- STJ — REsp 2.189.143/SP: divórcio pode ser decretado por julgamento parcial do mérito em ação cumulada.
+- STJ — REsp 2.189.143/SP: admite a decretação liminar/parcial do divórcio em ação cumulada, com prosseguimento quanto aos consectários; o precedente confirma a admissibilidade da técnica, não uma regra universal de utilização.
 - STF — Tema 1.236: nos casamentos e uniões estáveis envolvendo pessoa maior de 70 anos, o regime de separação previsto no art. 1.641, II, pode ser afastado por expressa manifestação de vontade das partes, mediante escritura pública. Sem opção válida, permanece aplicável a regra legal.
 - STJ — REsp 1.878.041/SP: distância entre os pais não impede, por si só, guarda compartilhada.
 - STJ — jurisprudência de 2026: FGTS do período conjugal em comunhão parcial é comunicável.
@@ -259,7 +277,7 @@ Entre os Enunciados do IBDFAM relevantes para esta ação:
 - **Enunciado 01:** sustenta a extinção da separação judicial após a EC 66/2010. **Situação:** convergente com o Tema 1053 do STF.
 - **Enunciado 02:** sustenta que a separação de fato encerra o regime de bens. **Situação:** convergente, em linhas gerais, com a jurisprudência atual do STJ, sempre dependendo da prova do marco fático.
 - **Enunciado 14:** inclui a participação nos lucros e resultados na base dos alimentos ad valorem, salvo disposição em contrário. **Situação:** há divergência relevante com a orientação atual do STJ, que não admite inclusão automática da PLR e exige análise concreta da necessidade.
-- **Enunciado 18:** defende como regra o julgamento parcial do mérito para decretar o divórcio e prosseguir com as demais questões. **Situação:** convergente com precedente recente do STJ.
+- **Enunciado 18:** defende como regra o julgamento parcial do mérito para decretar o divórcio e prosseguir com as demais questões. **Situação:** **CONVERGENTE EM PARTE** com o REsp 2.189.143/SP: há convergência quanto à admissibilidade do julgamento parcial/liminar do divórcio, mas o STJ não estabeleceu que essa técnica seja universalmente a regra.
 - **Enunciado 46:** admite, excepcionalmente e de forma justificada, divórcio em tutela provisória antes da oitiva da outra parte. **Situação:** tese institucional que exige conferência da técnica processual adequada ao caso.
 - **Enunciado 47:** propõe que a violência doméstica repercuta na definição da convivência parental. **Situação:** convergente com a legislação atual de proteção contra risco de violência.
 - **Enunciado 58:** propõe considerar o tempo de cuidado dedicado aos filhos na fixação dos alimentos. **Situação:** tese institucional não vinculante, relevante para a análise concreta de proporcionalidade.
@@ -341,7 +359,8 @@ Fontes desta camada:
 - Lei nº 5.478/1968 — Lei de Alimentos.
 - Lei nº 14.713/2023.
 - Lei nº 11.340/2006 — Lei Maria da Penha.
-- Leis nº 15.411/2026 e 15.412/2026.
+- Lei nº 15.411/2026 — ampliação do art. 12-C da Lei Maria da Penha.
+- Lei nº 15.412/2026 — medidas protetivas cíveis como título executivo judicial.
 - STF e STJ para os precedentes indicados.
 
-**Última revisão:** 21/09/2026.
+**Última revisão:** 22/09/2026.
