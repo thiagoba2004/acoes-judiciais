@@ -99,7 +99,15 @@ D) coordenação com medidas protetivas existentes.
 Para cada tutela: probabilidade + perigo + prova + proporcionalidade.
 
 XV — DA VIOLÊNCIA DOMÉSTICA/FAMILIAR [SE APLICÁVEL]
-Identificar medidas em vigor, risco e reflexos processuais.
+Identificar risco atual ou iminente à vida ou às integridades física, sexual,
+psicológica, moral ou patrimonial; registrar medidas protetivas vigentes,
+juízo/processo de origem e reflexos processuais.
+Se houver pedido de guarda, observar o art. 699-A do CPC: antes da audiência
+de mediação/conciliação, o juiz indaga partes e Ministério Público sobre risco
+de violência e fixa prazo de 5 dias para prova ou indícios pertinentes.
+Verificar se eventual medida protetiva cível, inclusive alimentos provisionais
+ou provisórios, já constitui título executivo judicial nos termos do art. 22,
+§ 10, da Lei Maria da Penha, evitando duplicidade ou incompatibilidade de pedidos.
 Não expor dados desnecessários de crianças ou vítimas.
 
 XVI — DAS PROVAS
@@ -124,9 +132,11 @@ j) partilha item a item;
 k) avaliação/apuração de haveres, se necessária;
 l) tutela patrimonial específica, se cabível;
 m) intervenção do Ministério Público, quando legalmente exigida;
-n) citação/intimações;
-o) produção de provas;
-p) demais providências estritamente sustentadas pelos fatos.
+n) observância do art. 699-A do CPC, quando aplicável;
+o) coordenação com medidas protetivas cíveis vigentes, quando aplicável;
+p) citação/intimações;
+q) produção de provas;
+r) demais providências estritamente sustentadas pelos fatos.
 
 XVIII — DO VALOR DA CAUSA
 Calcular conforme os pedidos cumulados e as regras processuais aplicáveis.
