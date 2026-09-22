@@ -89,7 +89,7 @@ Para o superendividamento, isso reforça a necessidade de separar:
 
 ## 6. Consequência prática: a petição deve explicar, não esconder nem presumir
 
-A estratégia processual mais defensável é oferecer uma fotografia verificável:
+A abordagem probatoriamente mais transparente é oferecer uma fotografia verificável:
 
 1. estado civil formal;
 2. data alegada da separação de fato e sua prova;
