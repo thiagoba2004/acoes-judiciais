@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.12",
-  "current_strategy_code": "EA-000003-000024",
-  "current_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações",
-  "current_phase": {
-    "phase_number": 4,
-    "phase_total": 4,
-    "phase_code": "F-000003-000024-004",
-    "phase_name": "Deploy, verificação e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000024 Fases 01-03 concluídas: arquitetura Coleção → Detalhe implementada e auditada sem falhas.",
-  "next_logical_step": "Confirmar conclusão do GitHub Pages run 35740233434; então fechar EA-000003-000024 e sincronizar o perfil do Gerador 1.12.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000024 concluída: Notícias, Artigos e Observatório usam índice/coleção com títulos hiperlinkados e páginas individuais.",
+  "next_logical_step": "Modo operacional editorial sob o padrão Coleção → Detalhe; novos itens devem entrar no índice e possuir página individual própria.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,19 +29,19 @@
     "JURISPRUDENCE_MATRIX.md"
   ],
   "updated_at": "2026-09-22",
-  "site_status": "ARQUITETURA_EDITORIAL_PUBLICACOES_PUBLICADA_E_AUDITADA",
+  "site_status": "PUBLICACOES_COLECAO_DETALHE_PUBLICADAS_E_AUDITADAS",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35728854051,
+    "workflow_run_id": 35740233434,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_REPOSITORY_AUDIT",
-    "public_content_commit": "6d161d0656f3053ea56d65b617d98c3a787f46e2",
-    "completed_at": "2026-09-22T12:43:39Z",
-    "note": "Build public-only artifact, Upload Pages artifact e Deploy to GitHub Pages concluídos com success; auditoria: 20 HTMLs, 540 hrefs, zero falhas."
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_COLLECTION_DETAIL_AUDIT",
+    "public_content_commit": "220ca0310dd967f2d55cf57507b3e749851a2793",
+    "completed_at": "2026-09-22T14:28:01Z",
+    "note": "Coleção → Detalhe: 3 índices, 4 detalhes, 169 links verificados, zero falhas."
   },
   "public_menu": [
     "Início",
@@ -158,7 +152,7 @@
     "public_status": "IMPLEMENTADO_E_VERIFICADO",
     "status": "CONCLUIDA",
     "collection_detail_pattern": {
-      "status": "IMPLEMENTADO_AGUARDA_DEPLOY",
+      "status": "IMPLEMENTADO_E_VERIFICADO",
       "collection_pages": [
         "/publicacoes/noticias/",
         "/publicacoes/artigos/",
@@ -167,6 +161,6 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000020",
-  "last_concluded_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Ações Judiciais"
+  "last_concluded_strategy_code": "EA-000003-000024",
+  "last_concluded_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações"
 }
