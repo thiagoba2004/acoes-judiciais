@@ -354,3 +354,13 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 
 **Resultado EA-000003-000018:** 6/6 fases concluídas; dossiê e modelo integrados; Markdown/HTML sincronizados; fontes específicas expostas; reauditoria global aprovada com 16 HTMLs, 457 hrefs, 69 verificações de âncoras, 4 botões de cópia e zero falhas; GitHub Pages run `35668023210` success.
 
+## EA-000003-000019 — Nova Auditoria do Advogado do Diabo do Site Ações Judiciais — EM EXECUÇÃO
+
+1. **Fase 01/07 — Inventário integral e delimitação do corpus** — identificar todas as rotas públicas e pares Markdown/HTML.
+2. **Fase 02/07 — Paridade Markdown/HTML e integridade editorial** — comparar semanticamente artefatos e arquitetura pública.
+3. **Fase 03/07 — Auditoria jurídica adversarial por ação e guia** — atacar teses, pressupostos, exceções e riscos.
+4. **Fase 04/07 — Verificação normativa, jurisprudencial e de superveniência** — conferir fontes oficiais e estado atual dos precedentes.
+5. **Fase 05/07 — Doutrina, posições institucionais e contraditório** — verificar atribuição, atualidade e equilíbrio.
+6. **Fase 06/07 — Contradições transversais e priorização** — cruzar o corpus e classificar achados.
+7. **Fase 07/07 — Relatório do Advogado do Diabo e fechamento** — produzir relatório final sem correção silenciosa do corpus.
+
