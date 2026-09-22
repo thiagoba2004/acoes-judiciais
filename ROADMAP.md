@@ -1,6 +1,8 @@
 # ROADMAP — PRJ-000003 — Ações Judiciais
 
-## Estratégia corrente
+## Estado atual e histórico de estratégias
+
+**Estado atual em 22/09/2026:** nenhuma Estratégia Autônoma ativa. O bloco abaixo preserva o plano histórico da EA-000003-000001, já concluída.
 
 **EA-000003-000001 — Ação de Repactuação de Dívidas por Superendividamento**
 
@@ -354,7 +356,7 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 
 **Resultado EA-000003-000018:** 6/6 fases concluídas; dossiê e modelo integrados; Markdown/HTML sincronizados; fontes específicas expostas; reauditoria global aprovada com 16 HTMLs, 457 hrefs, 69 verificações de âncoras, 4 botões de cópia e zero falhas; GitHub Pages run `35668023210` success.
 
-## EA-000003-000019 — Nova Auditoria do Advogado do Diabo do Site Ações Judiciais — EM EXECUÇÃO
+## EA-000003-000019 — Nova Auditoria do Advogado do Diabo do Site Ações Judiciais — CONCLUÍDA
 
 1. **Fase 01/07 — Inventário integral e delimitação do corpus** — identificar todas as rotas públicas e pares Markdown/HTML.
 2. **Fase 02/07 — Paridade Markdown/HTML e integridade editorial** — comparar semanticamente artefatos e arquitetura pública.
@@ -363,7 +365,7 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 5. **Fase 05/07 — Doutrina, posições institucionais e contraditório** — verificar atribuição, atualidade e equilíbrio.
 6. **Fase 06/07 — Contradições transversais e priorização** — cruzar o corpus e classificar achados.
 7. **Fase 07/07 — Relatório do Advogado do Diabo e fechamento** — produzir relatório final sem correção silenciosa do corpus.
-## Programa editorial — Atualidade, Análise e Observação — PLANEJADO
+## Programa editorial — Atualidade, Análise e Observação — CONCLUÍDO
 
 **Dependência transversal:** EA-000002-000008 no PRJ-000002 — Gerador de Agents.
 
@@ -373,3 +375,14 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 - **EA-000003-000023 — Observatório jurídico dos temas cobertos pelo Site.** 7 fases; foco em pesquisa cumulativa, visão sistêmica, horizon scanning e evidência viva.
 
 **Regra de execução:** nenhuma alteração pública de menu/rotas antes da conclusão das fases normativas pertinentes da EA-000002-000008.
+
+
+## Sincronização canônica pós-Observatório — 22/09/2026
+
+- **EA-000003-000019:** auditoria concluída em 7/7; 10 achados finais priorizados. A própria estratégia registrou que nenhuma correção pública foi executada durante a auditoria; portanto, o ciclo corretivo desses achados continua sendo uma frente material distinta.
+- **EA-000003-000020 a EA-000003-000023:** programa editorial concluído e publicado; deploy integrado `35728854051` com success.
+- **EA-000003-000024:** arquitetura Coleção → Detalhe concluída; deploy `35740233434` com success.
+- **EA-000003-000025:** síntese institucional da Home concluída; deploy `35747259846` com success.
+- **EA-000003-000026:** separação entre monitoramento interno e Site Público concluída; deploy `35753373991` com success. Rastreabilidade do fechamento reconciliada por evento append-only em 22/09/2026.
+- **EA-000003-000027:** arquitetura pública do Observatório Jurídico concluída; deploy `35756498839` com success.
+- **Estado corrente:** nenhuma estratégia ativa. Próxima frente material comprovada: ciclo corretivo específico dos 10 achados da EA-000003-000019, salvo novo pedido que altere a prioridade.
