@@ -8,11 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000028",
-  "current_strategy_name": "Correção adversarial do dossiê de Direito das Famílias",
-  "current_phase": "Fase 01/06 — Verificação das fontes supervenientes e delimitação",
+  "current_strategy_code": "EA-000003-000029",
+  "current_strategy_name": "Correção adversarial do dossiê trabalhista e da proveniência institucional",
+  "current_phase": "Fase 01/06 — Verificação normativa, jurisprudencial e institucional",
   "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Executar a Fase 01/06 da EA-000003-000028: verificar em fontes oficiais as Leis nº 15.411/2026 e nº 15.412/2026, o art. 699-A do CPC e o alcance do REsp 2.189.143/SP antes de alterar o corpus público.",
+  "next_logical_step": "Executar EA-000003-000029: corrigir A-03, A-04, A-07 e A-09 com verificação oficial prévia e paridade Markdown–HTML.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -162,15 +162,15 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000027",
-  "last_concluded_strategy_name": "Arquitetura pública do Observatório Jurídico",
+  "last_concluded_strategy_code": "EA-000003-000028",
+  "last_concluded_strategy_name": "Correção adversarial do dossiê de Direito das Famílias",
   "current_strategy": {
-    "strategy_code": "EA-000003-000028",
-    "strategy_name": "Correção adversarial do dossiê de Direito das Famílias",
+    "strategy_code": "EA-000003-000029",
+    "strategy_name": "Correção adversarial do dossiê trabalhista e da proveniência institucional",
     "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000003-000028-001",
-    "phase_name": "Verificação das fontes supervenientes e delimitação",
+    "phase_code": "F-000003-000029-001",
+    "phase_name": "Verificação normativa, jurisprudencial e institucional",
     "status": "EM_EXECUCAO"
   },
   "corrective_program": {
@@ -182,6 +182,11 @@
       "EA-000003-000030",
       "EA-000003-000031"
     ],
-    "status": "EM_EXECUCAO"
+    "status": "EM_EXECUCAO",
+    "corrected_findings": [
+      "A-01",
+      "A-02",
+      "A-08"
+    ]
   }
 }
