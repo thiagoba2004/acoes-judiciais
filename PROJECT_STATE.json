@@ -8,11 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
+  "current_strategy_code": "EA-000003-000028",
+  "current_strategy_name": "Correção adversarial do dossiê de Direito das Famílias",
+  "current_phase": "Fase 01/06 — Verificação das fontes supervenientes e delimitação",
   "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Abrir ciclo corretivo específico para os 10 achados da EA-000003-000019 antes de declarar saneamento jurídico integral; as estratégias editoriais EA-000003-000020 a EA-000003-000027 não equivalem, por si, à correção desses achados.",
+  "next_logical_step": "Executar a Fase 01/06 da EA-000003-000028: verificar em fontes oficiais as Leis nº 15.411/2026 e nº 15.412/2026, o art. 699-A do CPC e o alcance do REsp 2.189.143/SP antes de alterar o corpus público.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -32,7 +32,7 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -163,5 +163,25 @@
     }
   },
   "last_concluded_strategy_code": "EA-000003-000027",
-  "last_concluded_strategy_name": "Arquitetura pública do Observatório Jurídico"
+  "last_concluded_strategy_name": "Arquitetura pública do Observatório Jurídico",
+  "current_strategy": {
+    "strategy_code": "EA-000003-000028",
+    "strategy_name": "Correção adversarial do dossiê de Direito das Famílias",
+    "phase_number": 1,
+    "phase_total": 6,
+    "phase_code": "F-000003-000028-001",
+    "phase_name": "Verificação das fontes supervenientes e delimitação",
+    "status": "EM_EXECUCAO"
+  },
+  "corrective_program": {
+    "source_strategy": "EA-000003-000019",
+    "findings_total": 10,
+    "strategies": [
+      "EA-000003-000028",
+      "EA-000003-000029",
+      "EA-000003-000030",
+      "EA-000003-000031"
+    ],
+    "status": "EM_EXECUCAO"
+  }
 }
