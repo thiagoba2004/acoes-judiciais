@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000019",
   "current_strategy_name": "Nova Auditoria do Advogado do Diabo do Site Ações Judiciais",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 2,
     "phase_total": 7,
-    "phase_code": "F-000003-000019-001",
-    "phase_name": "Inventário integral e delimitação do corpus",
+    "phase_code": "F-000003-000019-002",
+    "phase_name": "Paridade Markdown/HTML e integridade editorial",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "Cluster separação de fato × superendividamento concluído: EA14-EA18 finalizadas, integradas, auditadas e publicadas.",
-  "next_logical_step": "Inventariar integralmente o corpus público atual e iniciar a auditoria adversarial sem aplicar correções silenciosas.",
+  "next_logical_step": "Comparar semanticamente os 15 pares Markdown/HTML e auditar a página funcional sem par.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
