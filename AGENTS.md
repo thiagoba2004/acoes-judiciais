@@ -355,3 +355,16 @@ Para Notícias, Artigos e Observatório públicos, a página da seção é um í
 - O índice do Observatório apresenta **temas**, não versões técnicas.
 - Para o Observatório Jurídico, a unidade temática deve organizar, quando aplicável: **Em síntese; Legislação vigente; Jurisprudência relevante; Doutrina e posições institucionais; O que mudou desde a última atualização; Questões em aberto; Fontes principais; Conteúdos relacionados**.
 - “Questões em aberto” descreve lacunas substantivas do conhecimento e pode ser pública; monitoramento, fila editorial e gatilhos permanecem internos.
+
+
+### Semântica visual de interação — padrão local AJ
+
+- `<button>` executa ação; `<a href>` navega.
+- ação primária real usa `action-button`; o botão `COPIAR MODELO` pode usar `copy-button`;
+- navegação destacada usa `nav-button`;
+- retorno e navegação simples usam `secondary-link`;
+- é vedada a classe genérica `.button` como padrão público por misturar funções distintas;
+- ação primária usa azul-marinho `#122d4a` e hover/foco azul profundo `#0a1d30`;
+- cobre `#a6532f` é acento de orientação, não preenchimento automático de ação;
+- `a.resource-card` é clicável e deve manter diferenciação cromática; `article.resource-card` é informativo e estático;
+- CTAs redundantes dentro de cards de destino único devem ser evitados.
