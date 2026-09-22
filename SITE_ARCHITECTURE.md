@@ -68,3 +68,12 @@ Nos dossiês de ações judiciais, quando materialmente relevante, devem existir
 - O título do item é o hiperlink principal; data, tema e resumo curto orientam a escolha.
 - O índice não reproduz integralmente múltiplos conteúdos individuais.
 - Markdown e HTML seguem a mesma granularidade.
+
+
+## Arquitetura pública do Observatório — 22/09/2026
+
+- índice público organizado por **temas do Observatório**;
+- metadado público principal: **Atualizado em DD/MM/AAAA**;
+- identificadores técnicos de versão ficam fora da UI;
+- cada tema jurídico organiza síntese, legislação, jurisprudência, doutrina/posições institucionais, mudanças, questões em aberto, fontes e conteúdos relacionados;
+- monitoramento e gatilhos permanecem na governança interna.

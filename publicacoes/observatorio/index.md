@@ -1,11 +1,11 @@
 # Observatório jurídico
 
-Pesquisa cumulativa e visão sistêmica dos temas já cobertos pelo Site.
+O Observatório sistematiza o **estado atual do conhecimento** sobre os temas jurídicos estudados pelo Site. Reúne conclusões verificadas, mudanças relevantes já analisadas, questões ainda abertas e caminhos para as principais fontes e conteúdos relacionados.
 
-## Unidades publicadas
+## Temas do Observatório
 
-### [Superendividamento — estado do conhecimento — 22/09/2026](superendividamento-estado-do-conhecimento-2026-09-22.html)
+### [Superendividamento — Estado atual do conhecimento](superendividamento-estado-do-conhecimento-2026-09-22.html)
 
-**Snapshot 0.1 · data de corte e última busca: 22/09/2026**
+**Atualizado em 22/09/2026**
 
-Síntese do que permanece estável, do que está consolidado e das lacunas prioritárias no dossiê de superendividamento.
+Síntese da legislação, jurisprudência, questões jurídicas em aberto e relações com o dossiê de repactuação de dívidas por superendividamento.

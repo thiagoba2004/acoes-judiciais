@@ -6,7 +6,7 @@
 **project_name:** `Ações Judiciais`  
 **project_id legado:** `acoes-judiciais`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.14`  
+**generator_release:** `1.15`  
 **repository:** `thiagoba2004/acoes-judiciais`  
 **modules:** `research`, `legal`, `publication`, `web-site`, `contact-protocol`, `software`, `legal`, `publication`, `software`
 
@@ -346,3 +346,12 @@ Para Notícias, Artigos e Observatório públicos, a página da seção é um í
 - O Site Público exibe somente conteúdo editorial já publicado e informações substantivas úteis ao leitor.
 - Monitoramento, horizon scanning, gatilhos e critérios de materialidade permanecem em arquivos internos de pesquisa/governança.
 - A auditoria de publicação deve procurar e bloquear a exposição desses estados internos.
+
+
+## 15. Arquitetura pública do Observatório
+
+- Não expor no Site identificadores técnicos de versão como `Snapshot 0.1`, `v0.1` ou equivalentes, salvo significado público comprovado.
+- Cada tema do Observatório deve exibir **Atualizado em DD/MM/AAAA**.
+- O índice do Observatório apresenta **temas**, não versões técnicas.
+- Para o Observatório Jurídico, a unidade temática deve organizar, quando aplicável: **Em síntese; Legislação vigente; Jurisprudência relevante; Doutrina e posições institucionais; O que mudou desde a última atualização; Questões em aberto; Fontes principais; Conteúdos relacionados**.
+- “Questões em aberto” descreve lacunas substantivas do conhecimento e pode ser pública; monitoramento, fila editorial e gatilhos permanecem internos.
