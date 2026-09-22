@@ -65,3 +65,13 @@ A identidade jurídica preserva azul-marinho, marfim e cobre, mas a cor passa a 
 Preto não é usado como preenchimento automático de CTA. O cobre funciona como acento editorial e de orientação, não como substituto arbitrário da cor primária de uma ação.
 
 É vedado usar uma classe genérica `.button` para misturar navegação e ação. O elemento HTML e a classe visual devem refletir a função real: `<button>` para ação e `<a href>` para navegação.
+
+
+### Botão ENVIAR MENSAGEM — padrão transversal
+
+O botão real **ENVIAR MENSAGEM** usa a classe adicional `submit-button` e deve ser sempre **oval/pílula**, nunca retangular:
+
+- `border-radius: 999px`;
+- mantém a cor primária jurídica azul-marinho;
+- a forma é compartilhada com os demais Sites, sem importar a paleta de outro Projeto;
+- continua sendo `<button type="submit">`.
