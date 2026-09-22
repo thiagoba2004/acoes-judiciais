@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.11",
-  "current_strategy_code": "EA-000003-000023",
-  "current_strategy_name": "Observatório jurídico dos temas cobertos pelo Site",
-  "current_phase": {
-    "phase_number": 7,
-    "phase_total": 7,
-    "phase_code": "F-000003-000023-007",
-    "phase_name": "Integração, publicação e auditoria",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000023 Fases 01-06 concluídas e reconciliadas com artefatos persistidos.",
-  "next_logical_step": "Integrar Notícias, Artigos e Observatório sob o hub Publicações; implementar rotas públicas, atualizar menu/Mapa do Site, auditar e publicar.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000020 concluída: hub Publicações com Notícias, Artigos e Observatório publicado, auditado e implantado.",
+  "next_logical_step": "Modo operacional editorial: alimentar Notícias, Artigos e Observatório conforme seus protocolos e abrir nova Estratégia Autônoma somente quando surgir demanda material nova.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,19 +29,19 @@
     "JURISPRUDENCE_MATRIX.md"
   ],
   "updated_at": "2026-09-22",
-  "site_status": "INTEGRACAO_SEPARACAO_RENDA_PATRIMONIO_PUBLICADA_E_VERIFICADA",
+  "site_status": "ARQUITETURA_EDITORIAL_PUBLICACOES_PUBLICADA_E_AUDITADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35668023210,
+    "workflow_run_id": 35728854051,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "9a27731b2f8e9eaa583f0974d13e25961dce3142",
-    "completed_at": "2026-09-21T23:32:45Z",
-    "note": "Job deploy e todas as etapas, inclusive Deploy to GitHub Pages, concluídas com success. Reauditoria global local ao repositório: 16 HTMLs, 457 hrefs, 69 verificações de âncoras, 4 botões de cópia e zero falhas."
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_REPOSITORY_AUDIT",
+    "public_content_commit": "6d161d0656f3053ea56d65b617d98c3a787f46e2",
+    "completed_at": "2026-09-22T12:43:39Z",
+    "note": "Build public-only artifact, Upload Pages artifact e Deploy to GitHub Pages concluídos com success; auditoria: 20 HTMLs, 540 hrefs, zero falhas."
   },
   "public_menu": [
     "Início",
@@ -57,6 +51,7 @@
     "Jurisprudência",
     "Doutrina",
     "Legislação",
+    "Publicações",
     "Fontes",
     "Fale Conosco"
   ],
@@ -154,7 +149,9 @@
     ],
     "navigation_mode": "EDITORIAL_HUB",
     "hub_label": "Publicações",
-    "public_status": "NAO_IMPLEMENTADO",
-    "status": "EM_EXECUCAO"
-  }
+    "public_status": "IMPLEMENTADO_E_VERIFICADO",
+    "status": "CONCLUIDA"
+  },
+  "last_concluded_strategy_code": "EA-000003-000020",
+  "last_concluded_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Ações Judiciais"
 }

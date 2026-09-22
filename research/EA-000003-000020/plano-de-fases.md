@@ -1,6 +1,6 @@
 # EA-000003-000020 — Reorganização editorial e arquitetura de navegação do Site Ações Judiciais
 
-**Status:** EM EXECUÇÃO  
+**Status:** CONCLUÍDA  
 **Dependência:** EA-000002-000008 — Padrão editorial de Atualidade, Análise e Observação para Sites.
 
 ## Objetivo
@@ -19,7 +19,14 @@ Integrar Notícias, Artigos e Observatório ao Site Ações Judiciais sem duplic
 
 - Fase 01/06 — CONCLUÍDA — `inventario-sobreposicao-semantica.md`.
 - Fase 02/06 — CONCLUÍDA — `decisao-arquitetura-editorial.md`.
-- Fase 03/06 — EM EXECUÇÃO — aguarda entregas de EA-000003-000021, EA-000003-000022 e EA-000003-000023.
-- Fases 04–06 — PENDENTES.
+- Fase 03/06 — CONCLUÍDA — estratégias filhas integradas.
+- Fase 04/06 — CONCLUÍDA — rotas, taxonomia e Mapa do Site atualizados.
+- Fase 05/06 — CONCLUÍDA — hub Publicações e workflow GitHub Pages implementados.
+- Fase 06/06 — CONCLUÍDA — auditoria regressiva sem falhas e deploy verificado.
 
 **Dependência do Gerador:** EA-000002-000008 CONCLUÍDA; Gerador 1.11 propagado ao AGENTS local.
+
+
+## Fechamento — 22/09/2026
+
+A estratégia foi concluída. O menu global passou a incluir **Publicações**, que concentra Notícias, Artigos e Observatório. O deploy final corresponde ao commit `6d161d0656f3053ea56d65b617d98c3a787f46e2` e ao workflow run `35728854051`, concluído com `success`.
