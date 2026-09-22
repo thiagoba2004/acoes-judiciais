@@ -15,10 +15,10 @@
     "phase_total": 7,
     "phase_code": "F-000003-000019-007",
     "phase_name": "Relatório do Advogado do Diabo e fechamento",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Cluster separação de fato × superendividamento concluído: EA14-EA18 finalizadas, integradas, auditadas e publicadas.",
-  "next_logical_step": "Produzir o Relatório do Advogado do Diabo, registrar escopo, metodologia, achados priorizados, falsos positivos descartados e recomendações corretivas; encerrar a estratégia sem alterar o corpus público.",
+  "last_completed_milestone": "EA-000003-000019 concluída: auditoria adversarial integral do Site Ações Judiciais, com 10 achados finais priorizados, falsos positivos documentados e Relatório do Advogado do Diabo persistido.",
+  "next_logical_step": "Abrir estratégia(s) corretiva(s) específica(s) a partir do Relatório do Advogado do Diabo e, após as correções, executar reauditoria independente; não reabrir a EA-000003-000019.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,7 +38,7 @@
   "site_status": "INTEGRACAO_SEPARACAO_RENDA_PATRIMONIO_PUBLICADA_E_VERIFICADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
@@ -132,5 +132,17 @@
     "current": "EA-000003-000018",
     "integrator": "EA-000003-000018",
     "status": "CONCLUIDA"
+  },
+  "audit_strategy": {
+    "strategy_code": "EA-000003-000019",
+    "status": "CONCLUIDA",
+    "report_ref": "research/EA-000003-000019/relatorio-advogado-do-diabo.md",
+    "findings_total": 10,
+    "high": 1,
+    "medium_high": 1,
+    "medium": 6,
+    "low_medium": 1,
+    "low": 1,
+    "public_corrections_applied": false
   }
 }
