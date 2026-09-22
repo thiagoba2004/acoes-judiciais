@@ -363,4 +363,13 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 5. **Fase 05/07 — Doutrina, posições institucionais e contraditório** — verificar atribuição, atualidade e equilíbrio.
 6. **Fase 06/07 — Contradições transversais e priorização** — cruzar o corpus e classificar achados.
 7. **Fase 07/07 — Relatório do Advogado do Diabo e fechamento** — produzir relatório final sem correção silenciosa do corpus.
+## Programa editorial — Atualidade, Análise e Observação — PLANEJADO
 
+**Dependência transversal:** EA-000002-000008 no PRJ-000002 — Gerador de Agents.
+
+- **EA-000003-000020 — Reorganização editorial e arquitetura de navegação do Site Ações Judiciais.** Estratégia integradora; 6 fases.
+- **EA-000003-000021 — Notícias jurídicas dos temas cobertos pelo Site.** 6 fases; inclui cadências semanal, mensal, trimestral, semestral e anual.
+- **EA-000003-000022 — Artigos jurídicos críticos e argumentativos.** 6 fases; foco em tese, contraditório e fundamentação legal, jurisprudencial e doutrinária.
+- **EA-000003-000023 — Observatório jurídico dos temas cobertos pelo Site.** 7 fases; foco em pesquisa cumulativa, visão sistêmica, horizon scanning e evidência viva.
+
+**Regra de execução:** nenhuma alteração pública de menu/rotas antes da conclusão das fases normativas pertinentes da EA-000002-000008.
