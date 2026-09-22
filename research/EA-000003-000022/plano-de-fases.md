@@ -1,6 +1,6 @@
 # EA-000003-000022 — Artigos jurídicos críticos e argumentativos
 
-**Status:** PLANEJADA  
+**Status:** EM EXECUÇÃO  
 **Objetivo:** criar uma camada autoral para desenvolver raciocínio, crítica e teses sobre temas do Site que admitam novas abordagens, perspectivas ou controvérsias.
 
 ## Plano de Fases
