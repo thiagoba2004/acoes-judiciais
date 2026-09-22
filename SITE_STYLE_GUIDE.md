@@ -49,3 +49,19 @@ Menu global horizontal rolável, item atual identificável, conteúdo sem overfl
 ## Diferenciação
 
 Não reutilizar a paleta, tipografia ou linguagem de cards do Classe e Massas ou do Planejamento Financeiro.
+
+
+## Hierarquia semântica de interação
+
+A identidade jurídica preserva azul-marinho, marfim e cobre, mas a cor passa a ter função semântica explícita:
+
+- **ação primária real** (`action-button` e `copy-button`): azul-marinho `#122d4a`, texto branco;
+- **hover/foco de ação primária**: azul-marinho profundo `#0a1d30`, texto branco;
+- **navegação destacada** (`nav-button`): superfície clara, contorno azul-marinho e detalhe cobre;
+- **navegação simples/retorno** (`secondary-link`): link textual sublinhado;
+- **card clicável**: azul-claro `#e5edf4`, hover `#d8e4ee`, faixa superior azul-marinho/cobre;
+- **card informativo**: branco-quente/marfim, estático.
+
+Preto não é usado como preenchimento automático de CTA. O cobre funciona como acento editorial e de orientação, não como substituto arbitrário da cor primária de uma ação.
+
+É vedado usar uma classe genérica `.button` para misturar navegação e ação. O elemento HTML e a classe visual devem refletir a função real: `<button>` para ação e `<a href>` para navegação.
