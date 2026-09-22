@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000019",
   "current_strategy_name": "Nova Auditoria do Advogado do Diabo do Site Ações Judiciais",
   "current_phase": {
-    "phase_number": 4,
+    "phase_number": 5,
     "phase_total": 7,
-    "phase_code": "F-000003-000019-004",
-    "phase_name": "Verificação normativa, jurisprudencial e de superveniência",
+    "phase_code": "F-000003-000019-005",
+    "phase_name": "Doutrina, posições institucionais e contraditório",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "Cluster separação de fato × superendividamento concluído: EA14-EA18 finalizadas, integradas, auditadas e publicadas.",
-  "next_logical_step": "Confrontar os achados materiais da Fase 03 com legislação, precedentes qualificados e fontes oficiais atuais, classificando cada ponto como confirmado, parcialmente confirmado, falso positivo ou hipótese não confirmada.",
+  "next_logical_step": "Auditar atribuição, natureza, atualidade e contraditório das fontes doutrinárias, acadêmicas, profissionais e institucionais usadas nas páginas públicas.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
