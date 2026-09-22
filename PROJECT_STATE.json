@@ -11,13 +11,13 @@
   "current_strategy_code": "EA-000003-000033",
   "current_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 3,
-    "phase_name": "Registro e componente comum",
+    "phase_name": "Auditoria, deploy e fechamento",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000032 concluída: 24/24 páginas públicas aprovadas na auditoria de semântica visual; ações, navegação destacada, links secundários e cards harmonizados; deploy verificado.",
-  "next_logical_step": "Executar EA-000003-000033.",
+  "next_logical_step": "Confirmar deploy do botão ENVIAR MENSAGEM oval.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
