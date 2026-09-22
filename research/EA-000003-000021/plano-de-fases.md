@@ -1,6 +1,6 @@
 # EA-000003-000021 — Notícias jurídicas dos temas cobertos pelo Site
 
-**Status:** PLANEJADA  
+**Status:** EM EXECUÇÃO  
 **Objetivo:** instituir vigilância editorial periódica dos assuntos já cobertos pelo Site, publicando fatos novos verificáveis e conectando-os às páginas temáticas correspondentes.
 
 ## Plano de Fases
