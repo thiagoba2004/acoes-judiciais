@@ -8,11 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000030",
-  "current_strategy_name": "Correção adversarial de Superendividamento e Doutrina",
-  "current_phase": "Fase 01/05 — Verificação das fontes e delimitação",
+  "current_strategy_code": "EA-000003-000031",
+  "current_strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
+  "current_phase": "Fase 01/05 — Inventário pós-correção e matriz achado→correção",
   "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Executar EA-000003-000030: corrigir A-05, A-06 e A-10 e preparar o corpus para a reauditoria EA-000003-000031.",
+  "next_logical_step": "Executar reauditoria regressiva dos 10 achados A-01 a A-10 e somente declarar saneamento após validar fontes, paridade, links e ausência de regressões.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -162,15 +162,15 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000029",
-  "last_concluded_strategy_name": "Correção adversarial do dossiê trabalhista e da proveniência institucional",
+  "last_concluded_strategy_code": "EA-000003-000030",
+  "last_concluded_strategy_name": "Correção adversarial de Superendividamento e Doutrina",
   "current_strategy": {
-    "strategy_code": "EA-000003-000030",
-    "strategy_name": "Correção adversarial de Superendividamento e Doutrina",
+    "strategy_code": "EA-000003-000031",
+    "strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
     "phase_number": 1,
     "phase_total": 5,
-    "phase_code": "F-000003-000030-001",
-    "phase_name": "Verificação das fontes e delimitação",
+    "phase_code": "F-000003-000031-001",
+    "phase_name": "Inventário pós-correção e matriz achado→correção",
     "status": "EM_EXECUCAO"
   },
   "corrective_program": {
@@ -182,15 +182,18 @@
       "EA-000003-000030",
       "EA-000003-000031"
     ],
-    "status": "EM_EXECUCAO",
+    "status": "EM_REAUDITORIA",
     "corrected_findings": [
       "A-01",
       "A-02",
       "A-03",
       "A-04",
+      "A-05",
+      "A-06",
       "A-07",
       "A-08",
-      "A-09"
+      "A-09",
+      "A-10"
     ]
   }
 }
