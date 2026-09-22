@@ -15,3 +15,11 @@ Integrar Notícias, Artigos e Observatório ao Site Ações Judiciais sem duplic
 6. **Fase 06/06 [F-000003-000020-006] — Auditoria regressiva e fechamento** — validar desktop/mobile, links, conteúdo, acessibilidade e não redundância.
 
 **Gate de não redundância:** cada conteúdo deve ter uma função editorial primária identificável; páginas temáticas continuam sendo a fonte estável do conhecimento jurídico, enquanto as novas camadas tratam atualização, análise autoral e observação cumulativa.
+## Estado de execução — 22/09/2026
+
+- Fase 01/06 — CONCLUÍDA — `inventario-sobreposicao-semantica.md`.
+- Fase 02/06 — CONCLUÍDA — `decisao-arquitetura-editorial.md`.
+- Fase 03/06 — EM EXECUÇÃO — aguarda entregas de EA-000003-000021, EA-000003-000022 e EA-000003-000023.
+- Fases 04–06 — PENDENTES.
+
+**Dependência do Gerador:** EA-000002-000008 CONCLUÍDA; Gerador 1.11 propagado ao AGENTS local.
