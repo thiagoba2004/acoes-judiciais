@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000032",
   "current_strategy_name": "Auditoria e harmonização semântica da interface do Site Ações Judiciais",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 5,
     "phase_total": 5,
-    "phase_code": "F-000003-000032-001",
-    "phase_name": "Registro, inventário e matriz de componentes",
+    "phase_code": "F-000003-000032-005",
+    "phase_name": "Deploy, verificação e fechamento",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000031 concluída: 10/10 achados da auditoria adversarial corrigidos e revalidados; regressão pública de monitoramento corrigida; deploy verificado.",
-  "next_logical_step": "Executar FASE 01/05 da EA-000003-000032: inventário e matriz de componentes.",
+  "next_logical_step": "Confirmar GitHub Pages e concluir FASE 05/05 da EA-000003-000032.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
