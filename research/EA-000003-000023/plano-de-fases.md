@@ -1,6 +1,6 @@
 # EA-000003-000023 — Observatório jurídico dos temas cobertos pelo Site
 
-**Status:** PLANEJADA  
+**Status:** EM EXECUÇÃO  
 **Objetivo:** instituir leitura, pesquisa e sistematização cumulativa de assuntos já abordados, priorizando aprofundamento, conexões sistêmicas, evolução temporal, lacunas e sinais emergentes.
 
 ## Plano de Fases
