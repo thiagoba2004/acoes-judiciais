@@ -1,6 +1,6 @@
 # EA-000003-000020 — Reorganização editorial e arquitetura de navegação do Site Ações Judiciais
 
-**Status:** PLANEJADA  
+**Status:** EM EXECUÇÃO  
 **Dependência:** EA-000002-000008 — Padrão editorial de Atualidade, Análise e Observação para Sites.
 
 ## Objetivo
