@@ -1,6 +1,6 @@
 # Reclamação Trabalhista com pedido de Indenização por Danos Morais
 
-**Última revisão:** 21/09/2026.
+**Última revisão:** 22/09/2026.
 
 ## Visão geral
 
@@ -246,22 +246,21 @@ As faixas do § 1º são **orientativas**. Nas ADIs 6.050, 6.069 e 6.082, o STF 
 - Tema 107 — barreira sanitária: conferir o estado individual antes do protocolo;
 - Tema 117 — limitação do banheiro: afetado, sem tese definitiva na consulta de 21/09/2026;
 - Tema 200 — norma prescricional em acidente/doença: conferir o estado individual antes do protocolo;
-- **Tema 215 — foro do domicílio: julgado em 19/08/2026; não deve mais ser descrito como apenas afetado**;
 - Tema 35 — limitação aos valores indicados na inicial: conferir o estado individual antes do protocolo.
 
 ## 10. Teses institucionais
 
-### ANAMATRA
+### 2ª Jornada de Direito Material e Processual do Trabalho
 
-A 2ª Jornada de Direito Material e Processual do Trabalho aprovou teses críticas à leitura restritiva do Título II-A da CLT e à tarifação salarial.
+A 2ª Jornada de 2017, promovida pela ANAMATRA **em parceria com outras entidades**, aprovou enunciados críticos à leitura restritiva do Título II-A da CLT e à tarifação salarial. Esses enunciados são produção de uma jornada jurídica multi-institucional e **não são automaticamente posição oficial da ANAMATRA**. Atribuição institucional mais forte exige comprovação de ratificação específica, como ocorre com teses aprovadas pela Assembleia Geral do CONAMAT.
 
-**Relação com o Direito atual:** convergência parcial com o STF, que preservou os critérios legais como orientação, mas afastou teto absoluto.
+**Relação com o Direito atual:** os enunciados são não vinculantes e apresentam convergência parcial com o STF, que preservou os critérios legais como orientação, mas afastou teto absoluto.
 
-### ABRAT
+### Nota técnica conjunta de 2017 — sete entidades signatárias
 
-A Nota Técnica da Associação Brasileira da Advocacia Trabalhista sobre a Reforma Trabalhista também criticou limites rígidos à reparação extrapatrimonial.
+A nota técnica de 05/06/2017 hospedada pela ABRAT também criticou limites rígidos à reparação extrapatrimonial. O documento é **conjunto**, assinado por ANPT, ANAMATRA, ABRAT, SINAIT, ALAL, ALJT e JUTRA.
 
-Trata-se de posição institucional não vinculante.
+Trata-se de posição institucional conjunta, não vinculante; a ABRAT é uma das signatárias e a entidade que hospeda a página consultada.
 
 ### ANPT
 
@@ -386,6 +385,10 @@ Somar os valores indicados nos pedidos e verificar o rito e a jurisprudência vi
 - Lei nº 14.967/2024 — segurança privada e instituições financeiras;
 - STF — Tema 932;
 - STF — ADIs 6.050, 6.069 e 6.082;
-- TST — índice de precedentes qualificados e IRR Tema 84.
+- TST — índice de precedentes qualificados e IRR Tema 84;
+- TST — Tema 215, tese firmada sobre competência territorial e foro do domicílio em hipóteses excepcionais;
+- ANAMATRA — 2ª Jornada de Direito Material e Processual do Trabalho (evento multi-institucional);
+- ANAMATRA — regulamento do 19º CONAMAT, para distinção entre teses do evento e posição oficial da Associação;
+- Nota técnica conjunta de 05/06/2017, hospedada pela ABRAT e assinada por ANPT, ANAMATRA, ABRAT, SINAIT, ALAL, ALJT e JUTRA.
 
 > Verifique sempre a atualização normativa e jurisprudencial antes do protocolo.
