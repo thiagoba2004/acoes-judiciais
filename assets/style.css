@@ -136,3 +136,10 @@ article.resource-card:hover{
   box-shadow:none;
   transform:none
 }
+
+
+/* Padrão transversal — botão ENVIAR MENSAGEM */
+.submit-button{
+  border-radius:999px !important;
+  padding-inline:1.45rem;
+}
