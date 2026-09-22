@@ -7,6 +7,9 @@
 4. Qual a data provável da separação de fato e como pode ser provada?
 5. Existem processos anteriores entre as partes?
 6. Há medidas protetivas, boletim de ocorrência ou notícia de violência?
+6.1. Existe risco atual ou iminente à vida ou à integridade física, sexual, psicológica, moral ou patrimonial da mulher ou de dependentes?
+6.2. Há medida protetiva cível vigente, inclusive alimentos provisionais/provisórios, que já constitua título executivo judicial?
+6.3. Se houver pedido de guarda, já ocorreu a indagação do art. 699-A do CPC? Há prova ou indícios que precisem ser apresentados no prazo de 5 dias?
 7. Há filhos menores/incapazes?
 8. Onde residem os filhos e quem exerce atualmente os cuidados cotidianos?
 9. Há urgência que não pode aguardar a instrução?
@@ -14,7 +17,7 @@
 ## Bloco B — divórcio
 10. Há manifestação inequívoca de vontade de se divorciar?
 11. A certidão é suficiente para julgamento imediato do pedido de divórcio?
-12. Há razão para pedir julgamento parcial do mérito do divórcio?
+12. Há razão concreta para pedir julgamento parcial do mérito do divórcio? A admissibilidade reconhecida pelo STJ não torna a técnica obrigatória em todo caso.
 
 ## Bloco C — patrimônio
 13. Quais ativos e passivos existiam antes do casamento?
