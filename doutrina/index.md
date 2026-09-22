@@ -64,8 +64,8 @@ Enunciados, pareceres, notas técnicas e posições de entidades jurídicas não
 
 ### Direito do Trabalho
 
-- **ANAMATRA — Associação Nacional das Magistradas e dos Magistrados da Justiça do Trabalho:** enunciados da 2ª Jornada sobre dano extrapatrimonial, tratados como teses institucionais/doutrinárias não vinculantes e confrontados com as ADIs 6.050, 6.069 e 6.082.
-- **ABRAT — Associação Brasileira da Advocacia Trabalhista:** Nota Técnica de 2017 com crítica a limites rígidos à reparação extrapatrimonial; posição institucional não vinculante.
+- **2ª Jornada de Direito Material e Processual do Trabalho:** enunciados aprovados em evento promovido pela ANAMATRA em parceria com outras entidades; produção multi-institucional não vinculante, que não deve ser convertida automaticamente em posição oficial da ANAMATRA sem ratificação específica.
+- **Nota técnica conjunta de 2017:** documento hospedado pela ABRAT e assinado por ANPT, ANAMATRA, ABRAT, SINAIT, ALAL, ALJT e JUTRA; posição institucional conjunta, não vinculante.
 
 ### Entidades monitoradas
 
