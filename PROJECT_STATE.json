@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000032",
-  "current_strategy_name": "Auditoria e harmonização semântica da interface do Site Ações Judiciais",
-  "current_phase": {
-    "phase_number": 5,
-    "phase_total": 5,
-    "phase_code": "F-000003-000032-005",
-    "phase_name": "Deploy, verificação e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000031 concluída: 10/10 achados da auditoria adversarial corrigidos e revalidados; regressão pública de monitoramento corrigida; deploy verificado.",
-  "next_logical_step": "Confirmar GitHub Pages e concluir FASE 05/05 da EA-000003-000032.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000032 concluída: 24/24 páginas públicas aprovadas na auditoria de semântica visual; ações, navegação destacada, links secundários e cards harmonizados; deploy verificado.",
+  "next_logical_step": "Modo operacional. A interface usa semântica funcional própria: ações em azul-marinho, navegação destacada contornada, retornos textuais e cards jurídicos diferenciados.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -42,12 +36,12 @@
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35763781353,
+    "workflow_run_id": 35795174312,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_REGRESSION_AUDIT",
-    "commit_sha": "8fc14a7265c3c8a8571d506c4d7dd61693559a5b",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_INTERFACE_AUDIT",
+    "commit_sha": "66616c60982ac43c24a1d3d579ca2e67d671aed6",
     "completed_at": "2026-09-22",
-    "note": "Ciclo corretivo EA-000003-000019: 10/10 achados corrigidos e revalidados; 24 HTMLs, 633 hrefs, zero links/âncoras quebrados."
+    "note": "EA-000003-000032: harmonização semântica da interface jurídica; 24/24 HTMLs aprovados."
   },
   "public_menu": [
     "Início",
@@ -169,14 +163,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000031",
-  "last_concluded_strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
-  "current_strategy": {
-    "strategy_code": "EA-000003-000032",
-    "strategy_name": "Auditoria e harmonização semântica da interface do Site Ações Judiciais",
-    "plan_ref": "research/EA-000003-000032/plano-de-fases.md",
-    "status": "EM_EXECUCAO"
-  },
+  "last_concluded_strategy_code": "EA-000003-000032",
+  "last_concluded_strategy_name": "Auditoria e harmonização semântica da interface do Site Ações Judiciais",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
