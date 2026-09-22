@@ -301,7 +301,7 @@ Esse exemplo é mantido no Site porque mostra como uma tese institucional releva
 Fonte:
 - [ADFAS — parecer institucional de 2019](https://adfas.org.br/wp-content/uploads/2019/07/Parecer-ADFAS-Projeto-de-Lei-510-de-2019.pdf)
 
-### Entidades monitoradas
+### Outras instituições relevantes
 
 O **IBDCivil — Instituto Brasileiro de Direito Civil** foi identificado como associação privada sem fins lucrativos, com produção acadêmica relevante e atuação como *amicus curiae*. Nesta auditoria, porém, não foi localizada posição institucional específica e recuperável sobre este dossiê que justificasse atribuição como tese do Instituto. Artigos publicados em sua revista permanecem doutrina de seus respectivos autores.
 
