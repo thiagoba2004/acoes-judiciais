@@ -5,20 +5,20 @@
   "project_alias": "AJ",
   "project_id": "acoes-judiciais",
   "repository": "thiagoba2004/acoes-judiciais",
-  "status": "OPERACIONAL",
+  "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
-  "generator_release": "1.9",
-  "current_strategy_code": "EA-000003-000019",
-  "current_strategy_name": "Nova Auditoria do Advogado do Diabo do Site Ações Judiciais",
+  "generator_release": "1.11",
+  "current_strategy_code": "EA-000003-000020",
+  "current_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Ações Judiciais",
   "current_phase": {
-    "phase_number": 7,
-    "phase_total": 7,
-    "phase_code": "F-000003-000019-007",
-    "phase_name": "Relatório do Advogado do Diabo e fechamento",
-    "status": "CONCLUIDA"
+    "phase_number": 3,
+    "phase_total": 6,
+    "phase_code": "F-000003-000020-003",
+    "phase_name": "Integração das estratégias filhas",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000003-000019 concluída: auditoria adversarial integral do Site Ações Judiciais, com 10 achados finais priorizados, falsos positivos documentados e Relatório do Advogado do Diabo persistido.",
-  "next_logical_step": "Abrir estratégia(s) corretiva(s) específica(s) a partir do Relatório do Advogado do Diabo e, após as correções, executar reauditoria independente; não reabrir a EA-000003-000019.",
+  "last_completed_milestone": "EA-000003-000020 Fases 01 e 02 concluídas: inventário semântico e decisão EDITORIAL_HUB/Publicações.",
+  "next_logical_step": "Executar EA-000003-000021 — Notícias jurídicas dos temas cobertos pelo Site; produzir escopo, protocolo, cadência, modelo e piloto antes da implementação pública do hub.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -34,7 +34,7 @@
     "RESEARCH_DOUTRINA_PROTOCOL.md",
     "JURISPRUDENCE_MATRIX.md"
   ],
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-09-22",
   "site_status": "INTEGRACAO_SEPARACAO_RENDA_PATRIMONIO_PUBLICADA_E_VERIFICADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
@@ -144,5 +144,17 @@
     "low_medium": 1,
     "low": 1,
     "public_corrections_applied": false
+  },
+  "editorial_program": {
+    "integrator": "EA-000003-000020",
+    "children": [
+      "EA-000003-000021",
+      "EA-000003-000022",
+      "EA-000003-000023"
+    ],
+    "navigation_mode": "EDITORIAL_HUB",
+    "hub_label": "Publicações",
+    "public_status": "NAO_IMPLEMENTADO",
+    "status": "EM_EXECUCAO"
   }
 }
