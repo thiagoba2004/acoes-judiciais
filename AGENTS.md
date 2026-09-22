@@ -368,3 +368,11 @@ Para Notícias, Artigos e Observatório públicos, a página da seção é um í
 - cobre `#a6532f` é acento de orientação, não preenchimento automático de ação;
 - `a.resource-card` é clicável e deve manter diferenciação cromática; `article.resource-card` é informativo e estático;
 - CTAs redundantes dentro de cards de destino único devem ser evitados.
+
+
+### Padrão transversal do botão ENVIAR MENSAGEM
+
+- todo botão público **ENVIAR MENSAGEM** deve incluir `submit-button`;
+- `submit-button` é sempre oval/pílula (`border-radius:999px`), nunca retangular;
+- no Ações Judiciais, a cor permanece azul-marinho;
+- não aplicar essa forma automaticamente a todos os demais botões.
