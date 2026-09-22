@@ -240,7 +240,7 @@ As faixas do § 1º são **orientativas**. Nas ADIs 6.050, 6.069 e 6.082, o STF 
 - **IRR 181:** dano por ricochete em acidente fatal.
 - **IRR 192:** retenção injustificada de CTPS — dano presumido.
 
-### Temas em monitoramento
+### Temas que exigem conferência atualizada
 
 - Tema 103 — atraso reiterado de salários: afetado, sem tese definitiva na consulta de 21/09/2026;
 - Tema 107 — barreira sanitária: conferir o estado individual antes do protocolo;
