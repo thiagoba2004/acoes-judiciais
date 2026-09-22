@@ -10,9 +10,9 @@
   "generator_release": "1.15",
   "current_strategy_code": "EA-000003-000031",
   "current_strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
-  "current_phase": "Fase 01/05 — Inventário pós-correção e matriz achado→correção",
+  "current_phase": "Fase 03/05 — Paridade Markdown–HTML e consistência transversal",
   "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Executar reauditoria regressiva dos 10 achados A-01 a A-10 e somente declarar saneamento após validar fontes, paridade, links e ausência de regressões.",
+  "next_logical_step": "Auditar paridade das correções A-01 a A-10 entre Markdown e HTML e verificar consistência transversal antes da auditoria de links/âncoras.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -167,10 +167,10 @@
   "current_strategy": {
     "strategy_code": "EA-000003-000031",
     "strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 5,
-    "phase_code": "F-000003-000031-001",
-    "phase_name": "Inventário pós-correção e matriz achado→correção",
+    "phase_code": "F-000003-000031-003",
+    "phase_name": "Paridade Markdown–HTML e consistência transversal",
     "status": "EM_EXECUCAO"
   },
   "corrective_program": {
