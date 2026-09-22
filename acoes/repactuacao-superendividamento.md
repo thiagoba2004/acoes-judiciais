@@ -1,6 +1,6 @@
 # Ação de Repactuação de Dívidas por Superendividamento
 
-**Última revisão:** 21/09/2026  
+**Última revisão:** 22/09/2026  
 
 Este dossiê organiza, de forma teórica e prática, a ação/procedimento de repactuação de dívidas por superendividamento prevista no Código de Defesa do Consumidor (CDC), com as alterações da Lei nº 14.181/2021.
 
@@ -171,7 +171,7 @@ O valor integral de mercado não deve ser tratado automaticamente como patrimôn
 
 **Veículo quitado:** é patrimônio e deve ser declarado; sua existência não afasta automaticamente o superendividamento.
 
-**Veículo financiado com alienação fiduciária:** jurisprudência estadual consultada classifica o crédito como garantido e o exclui da repactuação do art. 104-A, § 1º. A classificação deve ser feita contrato a contrato e a ausência de tese repetitiva específica do STJ deve ser explicitada quando relevante.
+**Veículo financiado com alienação fiduciária:** o precedente estadual consultado — TJSP, Apelação 1182227-29.2023.8.26.0100 — classificou o crédito como garantido e o excluiu da repactuação do art. 104-A, § 1º. Trata-se de **precedente estadual não vinculante**: não deve ser convertido em regra nacional. A classificação deve ser feita contrato a contrato. Na Edição 282 de Jurisprudência em Teses do STJ, consultada em 22/09/2026, não foi localizada tese específica sobre alienação fiduciária de veículo.
 
 Para ambos, avaliar:
 - valor de mercado;
@@ -188,7 +188,7 @@ Para ambos, avaliar:
 | renda do cônjuge separado de fato | quando material/disponível ou exigida | sim, para rateios e realidade econômica | não |
 | apartamento financiado | sim | sim, conforme moradia e parcela efetiva | não — financiamento imobiliário excluído |
 | veículo quitado | sim | custos essenciais comprovados | não há dívida associada |
-| veículo com alienação fiduciária | sim, com saldo e gravame | sim, conforme uso | tendência de exclusão do crédito garantido |
+| veículo com alienação fiduciária | sim, com saldo e gravame | sim, conforme uso | precedente estadual consultado aponta exclusão; não é tese nacional vinculante |
 | patrimônio comum não partilhado | sim | conforme frutos/despesas | não se confunde com dívida do plano |
 
 ## 9. Ferramentas práticas
@@ -318,7 +318,7 @@ Relacionar e numerar todos os documentos.
 
 Além da doutrina individual, este dossiê acompanha posições institucionais de entidades especializadas em Direito do Consumidor e defesa do consumidor. Essas posições são **atribuídas e não vinculantes** e devem ser confrontadas com a legislação e a jurisprudência atuais.
 
-### BRASILCON — Instituto Brasileiro de Política e Direito do Consumidor
+### BRASILCON — posição institucional interessada no polo consumerista
 
 O BRASILCON teve participação relevante na construção e difusão da Lei nº 14.181/2021 e sustenta a centralidade do crédito responsável, da boa-fé, da prevenção do superendividamento e da preservação do mínimo existencial.
 
@@ -328,7 +328,7 @@ Em 03/03/2023, o Instituto entregou requerimento de revogação do Decreto nº 1
 
 Em 23/04/2026, o STF não acolheu uma invalidação ampla do parâmetro quantitativo por decreto. A Corte admitiu essa técnica regulamentar, mas determinou avaliação técnica anual para manutenção ou atualização do valor e declarou inconstitucional a exclusão do crédito consignado da aferição do mínimo existencial.
 
-### Idec — Instituto de Defesa de Consumidores
+### Idec — posição institucional interessada no polo consumerista
 
 O Idec criticou a definição de um valor nominal fixo para o mínimo existencial e sustentou metodologia que considere as necessidades reais do consumidor — como habitação, saúde, alimentação, transporte e educação —, além da situação individual e do histórico de endividamento.
 
