@@ -6,7 +6,7 @@
 **project_name:** `Ações Judiciais`  
 **project_id legado:** `acoes-judiciais`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.9`  
+**generator_release:** `1.11`  
 **repository:** `thiagoba2004/acoes-judiciais`  
 **modules:** `research`, `legal`, `publication`, `web-site`, `contact-protocol`, `software`, `legal`, `publication`, `software`
 
@@ -85,7 +85,12 @@ Nunca afirmar commit, publicação, implantação, jurisprudência verificada ou
 - registrar data de consulta quando a informação puder mudar;
 - preservar URL, identificador, documento ou metadados suficientes para recuperação;
 - registrar divergências entre fontes;
-- não reconstruir citações, números ou datas de memória quando a fonte puder ser recuperada.
+- não reconstruir citações, números ou datas de memória quando a fonte puder ser recuperada;
+- para Notícias e Observatório, separar cadência de busca de gatilho de publicação;
+- monitorar por padrão apenas temas já cobertos pelo Site, salvo decisão expressa de expansão;
+- quando houver monitoramento recorrente, registrar janela temporal, descritores, fontes prioritárias, data de corte e critérios de relevância;
+- no Observatório, aplicar ciclo de horizon scanning: detectar → filtrar → priorizar → avaliar → disseminar → acompanhar;
+- usar lógica de evidência viva quando conclusões puderem mudar: data da última busca, versão/data da síntese e registro do que mudou.
 
 ## 8. Módulo legal
 
@@ -205,6 +210,13 @@ Para cada novo JSON deve ser possível responder: **quem ou qual processo o cons
 
 Alterações editoriais devem ser sincronizadas entre a fonte Markdown e o HTML publicado. JSON existente só precisa ser atualizado quando sua função estruturada exigir. A auditoria final deve comparar semanticamente Markdown e HTML e bloquear a publicação quando houver divergência material.
 
+Quando forem publicados conteúdos editoriais transversais:
+- **Notícias** tratam fatos e mudanças verificáveis, com data do fato quando conhecida, data de publicação e fontes recuperáveis;
+- **Artigos** tratam análise autoral/argumentativa, distinguindo fatos, direito positivo, jurisprudência, doutrina, inferências, objeções e posição editorial;
+- **Observatório** trata pesquisa cumulativa, relações, tendências, lacunas e sínteses atualizáveis, com data de corte e registro de mudanças;
+- cada conteúdo possui uma função editorial primária; evitar triplicação do mesmo texto entre as três camadas;
+- buscas semanais, mensais, trimestrais, semestrais e anuais podem coexistir, mas publicação depende de materialidade e não do calendário isoladamente.
+
 Se forem publicados Modelos reutilizáveis:
 
 - o botão **COPIAR MODELO** deve ficar imediatamente acima do texto exato a copiar;
@@ -239,7 +251,11 @@ Antes de cada publicação, executar varredura de vazamento de governança. A pr
 
 O Site é uma arquitetura pública multipágina. Não pode ser reduzido a uma Home com cards e uma página longa.
 
-**Menu global obrigatório:** Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco.
+**Menu global obrigatório vigente:** Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco.
+
+**Arquitetura editorial planejada:** `EDITORIAL_HUB` com rótulo **Publicações**, contendo Notícias, Artigos e Observatório. O hub só entra no menu público após existir conteúdo real nas páginas centrais, rotas auditadas e workflow do GitHub Pages atualizado.
+
+**Menu futuro após o gate de conteúdo:** Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Publicações · Fale Conosco.
 
 Regras obrigatórias:
 - o mesmo menu global aparece em todas as páginas;
@@ -252,6 +268,10 @@ Regras obrigatórias:
 - a auditoria de publicação deve verificar separadamente presença de `<title>`, quantidade de `<h1>` e visibilidade editorial do título, para impedir páginas cujo título exista apenas na aba do navegador;
 - `mapa-do-site/` reflete as rotas públicas reais;
 - páginas centrais de Menu possuem conteúdo útil, não placeholders;
+- Publicações não substitui áreas estáveis: Notícias = mudança factual; Artigos = análise autoral; Observatório = síntese sistêmica cumulativa;
+- as rotas planejadas são `/publicacoes/`, `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/`;
+- o Mapa do Site deve expor as três subáreas quando públicas, mesmo agrupadas sob o hub;
+- cada notícia deve apontar para a página jurídica estável afetada quando houver; artigos e observatórios devem usar referências cruzadas, não duplicação;
 - Doutrina é área material própria e não deve ser absorvida por Fontes; Fontes registra proveniência e acesso, enquanto Doutrina organiza conteúdo interpretativo por tema/ação;
 - toda publicação doutrinária deve separar metadados verificados, escopo seguro de uso e teses efetivamente lidas;
 - a interface pública não exibe códigos, estados e metadados de governança interna;
