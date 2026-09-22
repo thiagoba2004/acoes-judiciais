@@ -2,7 +2,7 @@
 
 ## Menu global
 
-Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Fontes · Fale Conosco
+Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legislação · Publicações · Fontes · Fale Conosco
 
 ## Função de cada área
 
@@ -13,6 +13,7 @@ Início · Ações · Guias · Modelos · Jurisprudência · Doutrina · Legisla
 - **Jurisprudência:** precedentes e teses por controvérsia.
 - **Doutrina:** obras, capítulos, artigos, produção acadêmica, produção de Comissões da OAB, teses de entidades jurídicas especializadas, doutrina profissional assinada e posições institucionais interessadas, organizadas por ação/tema com autoria, natureza documental, contraditório e confronto com legislação/jurisprudência.
 - **Legislação:** legislação vigente organizada por tema, com **atos institucionais e soft law identificados separadamente** para não confundir lei com recomendação, resolução orientativa ou política judiciária.
+- **Publicações:** hub editorial transversal em `/publicacoes/`, com três subáreas: **Notícias** (o que mudou), **Artigos** (como interpretar e problematizar) e **Observatório** (como o estado cumulativo do conhecimento se conecta e evolui). As páginas temáticas permanecem como fonte estável.
 - **Fontes:** acesso às fontes primárias, acadêmicas, institucionais e profissionais efetivamente utilizadas, preservando proveniência, autoria e contexto. O Site não cria ranking de universidades ou escritórios.
 - **Fale Conosco:** canal protocolado de contato.
 - **Mapa do Site:** índice estrutural acessível pelo rodapé, fora do menu global.
@@ -49,3 +50,12 @@ Nos dossiês de ações judiciais, quando materialmente relevante, devem existir
 - Condições, exceções, status recursal, datas de verificação e ressalvas materiais não podem aparecer em apenas um formato.
 - Jurisprudência deve ser consolidada em matriz canônica de precedentes, com atualização de status antes de publicação.
 - Nova rota pública exige atualização do workflow do GitHub Pages e conferência do artefato implantado.
+
+
+## Arquitetura editorial transversal — implementada em 22/09/2026
+
+- Modo de navegação: `EDITORIAL_HUB`.
+- Rótulo global: **Publicações**.
+- Rotas públicas: `/publicacoes/`, `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/`.
+- O Mapa do Site expõe as três subáreas.
+- Cada conteúdo tem função editorial primária; uma mesma evidência pode ser referenciada por mais de uma camada, sem duplicação textual.
