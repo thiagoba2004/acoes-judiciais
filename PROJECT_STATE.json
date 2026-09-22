@@ -12,7 +12,7 @@
   "current_strategy_name": null,
   "current_phase": null,
   "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Modo operacional: novas unidades do Observatório devem seguir a arquitetura pública por tema e manter versionamento técnico somente na governança interna.",
+  "next_logical_step": "Abrir ciclo corretivo específico para os 10 achados da EA-000003-000019 antes de declarar saneamento jurídico integral; as estratégias editoriais EA-000003-000020 a EA-000003-000027 não equivalem, por si, à correção desses achados.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -93,7 +93,8 @@
     }
   },
   "non_blocking_debts": [
-    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura."
+    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura.",
+    "Os 10 achados da EA-000003-000019 permanecem sem correção pública integral comprovada; exigir ciclo corretivo autônomo e auditoria regressiva antes de declarar saneamento."
   ],
   "planned_public_path": "acoes/reclamacao-trabalhista-danos-morais.html",
   "artifact_policy": {
