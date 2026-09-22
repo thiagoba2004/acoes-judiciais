@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000025",
   "current_strategy_name": "Atualização da síntese institucional da Home",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 3,
-    "phase_code": "F-000003-000025-001",
-    "phase_name": "Confronto entre abertura e arquitetura atual",
+    "phase_code": "F-000003-000025-003",
+    "phase_name": "Auditoria, deploy e fechamento",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000003-000025 aberta para revalidar a síntese institucional após expansão editorial do Site.",
-  "next_logical_step": "Confrontar a abertura da Home com SITE_ARCHITECTURE.md; atualizar somente o necessário; auditar e publicar.",
+  "last_completed_milestone": "EA-000003-000025 Fases 01-02 concluídas: síntese institucional atualizada para refletir Doutrina e Publicações.",
+  "next_logical_step": "Auditar paridade index.md/index.html e confirmar deploy do GitHub Pages; então fechar a estratégia.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
