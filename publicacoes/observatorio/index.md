@@ -8,4 +8,4 @@ Pesquisa cumulativa e visão sistêmica dos temas já cobertos pelo Site.
 
 **Snapshot 0.1 · data de corte e última busca: 22/09/2026**
 
-Síntese do que permanece estável, do que está consolidando, dos sinais em monitoramento e das lacunas prioritárias no dossiê de superendividamento.
+Síntese do que permanece estável, do que está consolidado e das lacunas prioritárias no dossiê de superendividamento.

@@ -8,11 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.13",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
-  "last_completed_milestone": "EA-000003-000025 concluída: Home revalidada e atualizada para refletir Doutrina e Publicações; deploy verificado.",
-  "next_logical_step": "Modo operacional; novas mudanças de escopo do Site devem revalidar a síntese institucional da Home sem convertê-la em catálogo.",
+  "current_strategy_code": "EA-000003-000026",
+  "current_strategy_name": "Separação entre monitoramento interno e Site Público",
+  "current_phase": {
+    "phase_number": 3,
+    "phase_total": 3,
+    "phase_code": "F-000003-000026-003",
+    "phase_name": "Auditoria, deploy e fechamento",
+    "status": "EM_EXECUCAO"
+  },
+  "last_completed_milestone": "EA-000003-000026 Fases 01-02 concluídas: estados internos removidos da camada pública e regra preventiva adicionada.",
+  "next_logical_step": "Auditar o Site Público e confirmar o deploy do GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",

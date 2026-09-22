@@ -337,3 +337,12 @@ Para Notícias, Artigos e Observatório públicos, a página da seção é um í
 - O padrão atual do Site — `h1` em aproximadamente `1,5rem–1,9rem`, Home em aproximadamente `1,75rem–2,25rem` e mobile em `1,5rem` — é compatível com a regra do Gerador 1.13.
 - A Home e demais páginas não podem produzir overflow horizontal geral; exceções deliberadas ficam restritas a componentes próprios de rolagem.
 - Alterações de CSS estrutural devem ser revalidadas em mobile.
+
+
+## 14. Estados editoriais internos não são conteúdo público
+
+- Rótulos como **“Em monitoramento”**, “fila editorial”, “pendente”, “gatilho de revisão”, “critério editorial”, “triagem” e equivalentes pertencem à governança interna.
+- Itens ainda não aprovados como notícia, artigo ou unidade do Observatório não devem aparecer no Site Público como pré-publicação.
+- O Site Público exibe somente conteúdo editorial já publicado e informações substantivas úteis ao leitor.
+- Monitoramento, horizon scanning, gatilhos e critérios de materialidade permanecem em arquivos internos de pesquisa/governança.
+- A auditoria de publicação deve procurar e bloquear a exposição desses estados internos.

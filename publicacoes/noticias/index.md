@@ -16,6 +16,3 @@ A primeira reunião sinaliza articulação institucional nacional em torno do su
 
 O precedente interessa à relação entre obrigação alimentar, patrimônio e cumprimento de acordo e será acompanhado para revalidação do dossiê estável.
 
-## Critério editorial
-
-A página Notícias funciona como **índice**. Cada notícia publicada possui página própria; fatos adjacentes ou de baixa materialidade podem ser monitorados ou encaminhados ao Observatório sem virar notícia autônoma.
