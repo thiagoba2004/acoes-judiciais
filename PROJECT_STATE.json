@@ -10,9 +10,9 @@
   "generator_release": "1.15",
   "current_strategy_code": "EA-000003-000031",
   "current_strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
-  "current_phase": "Fase 03/05 — Paridade Markdown–HTML e consistência transversal",
+  "current_phase": "Fase 05/05 — Relatório regressivo, deploy final e fechamento do ciclo",
   "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Auditar paridade das correções A-01 a A-10 entre Markdown e HTML e verificar consistência transversal antes da auditoria de links/âncoras.",
+  "next_logical_step": "Confirmar o deploy posterior à correção da regressão pública, produzir o relatório regressivo final e encerrar o ciclo A-01 a A-10 se o pipeline estiver success.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -167,10 +167,10 @@
   "current_strategy": {
     "strategy_code": "EA-000003-000031",
     "strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
-    "phase_number": 3,
+    "phase_number": 5,
     "phase_total": 5,
-    "phase_code": "F-000003-000031-003",
-    "phase_name": "Paridade Markdown–HTML e consistência transversal",
+    "phase_code": "F-000003-000031-005",
+    "phase_name": "Relatório regressivo, deploy final e fechamento do ciclo",
     "status": "EM_EXECUCAO"
   },
   "corrective_program": {
