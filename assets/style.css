@@ -39,10 +39,15 @@ h3{font-size:1.08rem;line-height:1.28;margin:1.3rem 0 .4rem}
 .lede{max-width:48rem;font:400 clamp(1.1rem,2.3vw,1.3rem)/1.5 var(--font-sans);color:#33414d}
 .hero{padding:0 0 2rem;border-bottom:3px solid var(--navy)}
 .hero-actions{display:flex;gap:.7rem;flex-wrap:wrap;margin-top:1.2rem}
-.button,.copy-button{min-height:var(--touch);display:inline-flex;align-items:center;justify-content:center;padding:.72rem 1rem;border:1px solid var(--navy);background:var(--navy);color:#fff;text-decoration:none;font:800 .74rem/1 var(--font-sans);letter-spacing:.04em;text-transform:uppercase;cursor:pointer}
-.button:hover,.copy-button:hover{background:var(--accent);border-color:var(--accent);color:#fff}
-.button.secondary{background:transparent;color:var(--navy)}
-.button.secondary:hover{background:var(--navy);color:#fff}
+.action-button,.copy-button,.nav-button{min-height:var(--touch);display:inline-flex;align-items:center;justify-content:center;padding:.72rem 1rem;font:800 .74rem/1 var(--font-sans);letter-spacing:.04em;text-transform:uppercase}
+.action-button,.copy-button{border:1px solid var(--navy);background:var(--navy);color:#fff;cursor:pointer}
+.action-button:hover,.action-button:focus-visible,.copy-button:hover,.copy-button:focus-visible{background:var(--navy-deep);border-color:var(--navy-deep);color:#fff}
+.action-button:disabled,.copy-button:disabled{opacity:.62;cursor:wait}
+.nav-button{border:1px solid var(--navy);background:var(--surface);color:var(--navy);text-decoration:none}
+.nav-button::after{content:" →";margin-left:.4rem;color:var(--accent)}
+.nav-button:hover,.nav-button:focus-visible{background:#edf1f4;border-color:var(--accent);color:var(--navy-deep)}
+.secondary-link{font-weight:800;color:var(--navy);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.22em}
+.secondary-link:hover,.secondary-link:focus-visible{color:var(--accent)}
 .section-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.4rem 0 2.2rem}
 .resource-card{display:flex;flex-direction:column;gap:.5rem;min-width:0;padding:1.1rem 1.05rem 1.2rem;background:var(--surface);border:1px solid var(--line);border-top:5px solid var(--navy);text-decoration:none;color:inherit}
 a.resource-card:hover{border-top-color:var(--accent);box-shadow:0 8px 24px rgba(18,45,74,.12);transform:translateY(-2px)}
