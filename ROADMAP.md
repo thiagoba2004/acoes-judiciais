@@ -386,3 +386,11 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 - **EA-000003-000026:** separação entre monitoramento interno e Site Público concluída; deploy `35753373991` com success. Rastreabilidade do fechamento reconciliada por evento append-only em 22/09/2026.
 - **EA-000003-000027:** arquitetura pública do Observatório Jurídico concluída; deploy `35756498839` com success.
 - **Estado corrente:** nenhuma estratégia ativa. Próxima frente material comprovada: ciclo corretivo específico dos 10 achados da EA-000003-000019, salvo novo pedido que altere a prioridade.
+
+
+## Ciclo corretivo dos 10 achados da EA-000003-000019
+
+- **EA-000003-000028 — Correção adversarial do dossiê de Direito das Famílias** — EM EXECUÇÃO; 6 fases; achados A-01, A-02 e A-08.
+- **EA-000003-000029 — Correção adversarial do dossiê trabalhista e da proveniência institucional** — PLANEJADA; 6 fases; achados A-03, A-04, A-07 e A-09.
+- **EA-000003-000030 — Correção adversarial de Superendividamento e Doutrina** — PLANEJADA; 5 fases; achados A-05, A-06 e A-10.
+- **EA-000003-000031 — Reauditoria regressiva pós-correção do Site Ações Judiciais** — PLANEJADA; 5 fases; depende da conclusão das EA-000003-000028 a EA-000003-000030.
