@@ -67,7 +67,7 @@ Enunciados, pareceres, notas técnicas e posições de entidades jurídicas não
 - **2ª Jornada de Direito Material e Processual do Trabalho:** enunciados aprovados em evento promovido pela ANAMATRA em parceria com outras entidades; produção multi-institucional não vinculante, que não deve ser convertida automaticamente em posição oficial da ANAMATRA sem ratificação específica.
 - **Nota técnica conjunta de 2017:** documento hospedado pela ABRAT e assinado por ANPT, ANAMATRA, ABRAT, SINAIT, ALAL, ALJT e JUTRA; posição institucional conjunta, não vinculante.
 
-### Entidades monitoradas
+### Outras instituições relevantes
 
 - **IBDCivil:** relevante ao Direito Civil, mas sem tese institucional específica incorporada nesta auditoria; artigos da revista são atribuídos aos autores.
 - **MPCON:** entidade relevante ao Direito do Consumidor, mas sem tese institucional autônoma suficientemente delimitada incorporada nesta versão.
