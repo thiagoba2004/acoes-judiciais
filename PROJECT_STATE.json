@@ -8,11 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000029",
-  "current_strategy_name": "Correção adversarial do dossiê trabalhista e da proveniência institucional",
-  "current_phase": "Fase 01/06 — Verificação normativa, jurisprudencial e institucional",
+  "current_strategy_code": "EA-000003-000030",
+  "current_strategy_name": "Correção adversarial de Superendividamento e Doutrina",
+  "current_phase": "Fase 01/05 — Verificação das fontes e delimitação",
   "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Executar EA-000003-000029: corrigir A-03, A-04, A-07 e A-09 com verificação oficial prévia e paridade Markdown–HTML.",
+  "next_logical_step": "Executar EA-000003-000030: corrigir A-05, A-06 e A-10 e preparar o corpus para a reauditoria EA-000003-000031.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -162,15 +162,15 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000028",
-  "last_concluded_strategy_name": "Correção adversarial do dossiê de Direito das Famílias",
+  "last_concluded_strategy_code": "EA-000003-000029",
+  "last_concluded_strategy_name": "Correção adversarial do dossiê trabalhista e da proveniência institucional",
   "current_strategy": {
-    "strategy_code": "EA-000003-000029",
-    "strategy_name": "Correção adversarial do dossiê trabalhista e da proveniência institucional",
+    "strategy_code": "EA-000003-000030",
+    "strategy_name": "Correção adversarial de Superendividamento e Doutrina",
     "phase_number": 1,
-    "phase_total": 6,
-    "phase_code": "F-000003-000029-001",
-    "phase_name": "Verificação normativa, jurisprudencial e institucional",
+    "phase_total": 5,
+    "phase_code": "F-000003-000030-001",
+    "phase_name": "Verificação das fontes e delimitação",
     "status": "EM_EXECUCAO"
   },
   "corrective_program": {
@@ -186,7 +186,11 @@
     "corrected_findings": [
       "A-01",
       "A-02",
-      "A-08"
+      "A-03",
+      "A-04",
+      "A-07",
+      "A-08",
+      "A-09"
     ]
   }
 }
