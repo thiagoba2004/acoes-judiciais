@@ -336,7 +336,7 @@ O Idec criticou a definição de um valor nominal fixo para o mínimo existencia
 
 O STF não afastou a possibilidade de parâmetro quantitativo, mas passou a exigir reavaliação técnica periódica e publicidade da decisão sobre sua manutenção ou atualização.
 
-### Entidades monitoradas
+### Outras instituições relevantes
 
 A auditoria também identificou a **MPCON — Associação Nacional do Ministério Público do Consumidor** como entidade relevante. Nesta versão, porém, não foi localizada posição institucional própria suficientemente delimitada sobre a repactuação para ser apresentada como tese autônoma; por isso, permanece em monitoramento.
 
