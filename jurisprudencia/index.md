@@ -22,6 +22,6 @@ Precedentes e teses organizados por tema, sempre vinculados às fontes oficiais.
 - TST — IRR 192: retenção injustificada de CTPS e dano presumido;
 - TST — Tema 215: julgado em 19/08/2026; foro do domicílio admitido apenas excepcionalmente, mediante demonstração concreta de acesso impossível ou desproporcionalmente oneroso a outro foro legalmente competente;
 - Temas 103 e 117: afetados e sem tese definitiva na consulta de 21/09/2026;
-- Temas 107, 200 e 35: permanecem em monitoramento e devem ter o estado individual conferido antes do protocolo.
+- Temas 107, 200 e 35: devem ter o estado individual conferido antes do protocolo.
 
 **Última revisão:** 21/09/2026.
