@@ -324,3 +324,8 @@ Temas com consequências financeiras, inclusive **superendividamento** e **divó
 Antes de declarar uma etapa concluída, confirmar persistência, versão remota, estado, fontes críticas, coerência dos artefatos publicados e próximo passo lógico.
 
 > **Nunca obrigar o usuário a pagar novamente, com tempo, energia ou recursos, por falha de memória, persistência, continuidade, planejamento ou verificação do Modelo de IA.**
+
+
+## Padrão editorial Coleção → Detalhe
+
+Para Notícias, Artigos e Observatório públicos, a página da seção é um índice/arquivo. Cada conteúdo integral deve possuir página própria; o título do item é o hiperlink principal, acompanhado de metadados e resumo curto. É proibido acumular múltiplos conteúdos integrais na página de índice quando os itens têm autonomia editorial.

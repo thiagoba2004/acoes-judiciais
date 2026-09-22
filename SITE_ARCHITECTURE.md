@@ -59,3 +59,12 @@ Nos dossiês de ações judiciais, quando materialmente relevante, devem existir
 - Rotas públicas: `/publicacoes/`, `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/`.
 - O Mapa do Site expõe as três subáreas.
 - Cada conteúdo tem função editorial primária; uma mesma evidência pode ser referenciada por mais de uma camada, sem duplicação textual.
+
+
+## Padrão Coleção → Detalhe — 22/09/2026
+
+- `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/` são páginas de **coleção/índice**.
+- Cada item publicado possui página individual própria na mesma subpasta.
+- O título do item é o hiperlink principal; data, tema e resumo curto orientam a escolha.
+- O índice não reproduz integralmente múltiplos conteúdos individuais.
+- Markdown e HTML seguem a mesma granularidade.
