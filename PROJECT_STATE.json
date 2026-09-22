@@ -8,11 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000031",
-  "current_strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
-  "current_phase": "Fase 05/05 — Relatório regressivo, deploy final e fechamento do ciclo",
-  "last_completed_milestone": "EA-000003-000027 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Confirmar o deploy posterior à correção da regressão pública, produzir o relatório regressivo final e encerrar o ciclo A-01 a A-10 se o pipeline estiver success.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000031 concluída: 10/10 achados da auditoria adversarial corrigidos e revalidados; regressão pública de monitoramento corrigida; deploy verificado.",
+  "next_logical_step": "Modo operacional. Novos pedidos devem ser registrados e classificados como manutenção ou nova Estratégia Autônoma; não há achado A-01 a A-10 pendente.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -32,16 +32,16 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35756498839,
+    "workflow_run_id": 35763781353,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_OBSERVATORY_AUDIT",
-    "commit_sha": "59381efbe786497de6c32e8957bab09aadc7202b",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_REGRESSION_AUDIT",
+    "commit_sha": "8fc14a7265c3c8a8571d506c4d7dd61693559a5b",
     "completed_at": "2026-09-22",
-    "note": "Observatório: 7 arquivos auditados, 8 seções obrigatórias, 109 links internos e zero falhas."
+    "note": "Ciclo corretivo EA-000003-000019: 10/10 achados corrigidos e revalidados; 24 HTMLs, 633 hrefs, zero links/âncoras quebrados."
   },
   "public_menu": [
     "Início",
@@ -93,8 +93,7 @@
     }
   },
   "non_blocking_debts": [
-    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura.",
-    "Os 10 achados da EA-000003-000019 permanecem sem correção pública integral comprovada; exigir ciclo corretivo autônomo e auditoria regressiva antes de declarar saneamento."
+    "Entregabilidade do EmailJS: no teste de 20/09/2026, a confirmação chegou inicialmente ao Spam do Yahoo Mail; acompanhar reputação e avaliar autenticação/domínio próprio em evolução futura."
   ],
   "planned_public_path": "acoes/reclamacao-trabalhista-danos-morais.html",
   "artifact_policy": {
@@ -139,7 +138,9 @@
     "medium": 6,
     "low_medium": 1,
     "low": 1,
-    "public_corrections_applied": false
+    "public_corrections_applied": true,
+    "corrective_cycle_status": "CONCLUIDO_E_REAUDITADO",
+    "corrective_cycle_final": "EA-000003-000031"
   },
   "editorial_program": {
     "integrator": "EA-000003-000020",
@@ -162,17 +163,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000030",
-  "last_concluded_strategy_name": "Correção adversarial de Superendividamento e Doutrina",
-  "current_strategy": {
-    "strategy_code": "EA-000003-000031",
-    "strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
-    "phase_number": 5,
-    "phase_total": 5,
-    "phase_code": "F-000003-000031-005",
-    "phase_name": "Relatório regressivo, deploy final e fechamento do ciclo",
-    "status": "EM_EXECUCAO"
-  },
+  "last_concluded_strategy_code": "EA-000003-000031",
+  "last_concluded_strategy_name": "Reauditoria regressiva pós-correção do Site Ações Judiciais",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
@@ -182,7 +175,7 @@
       "EA-000003-000030",
       "EA-000003-000031"
     ],
-    "status": "EM_REAUDITORIA",
+    "status": "CONCLUIDO_E_REAUDITADO",
     "corrected_findings": [
       "A-01",
       "A-02",
@@ -195,5 +188,6 @@
       "A-09",
       "A-10"
     ]
-  }
+  },
+  "legal_corpus_status": "CICLO_ADVERSARIAL_CORRIGIDO_E_REAUDITADO"
 }
