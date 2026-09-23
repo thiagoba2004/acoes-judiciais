@@ -34,6 +34,9 @@
 | Prescrição em acidente/doença | TST — Tema 200 | controvérsia prescricional | conferir página individual antes do uso | monitoramento | 21/09/2026 |
 | Valores indicados na inicial | TST — Tema 35 | controvérsia sobre limitação dos pedidos | conferir página individual antes do uso | monitoramento | 21/09/2026 |
 
+| Sigilo de informações financeiras nos autos | STJ — Tema 590 | informações bancárias sigilosas requisitadas judicialmente devem integrar os autos sob proteção adequada; no caso repetitivo, o processo corria em segredo de justiça | precedente formado em execução fiscal sob CPC/1973; **não é tese específica de superendividamento** e não autoriza segredo automático de toda ação com documento financeiro | repetitivo com trânsito em julgado; página oficial consultada | 23/09/2026 |
+| Publicidade em ação de repactuação | TJPR — 0001761-87.2025.8.16.0028 | fonte oficial registra ação de repactuação por superendividamento com "Segredo de Justiça: Não" | dado empírico/jurisprudencial estadual; demonstra ausência de segredo universal, não fixa regra nacional | acórdão de 29/04/2026 | 23/09/2026 |
+
 ## Regra de atualização
 
 Ao alterar qualquer precedente acima:
