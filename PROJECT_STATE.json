@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000035",
-  "current_strategy_name": "Erros advocatícios na repactuação por superendividamento e protocolo preventivo",
-  "current_phase": {
-    "phase_number": 8,
-    "phase_total": 8,
-    "phase_code": "F-000003-000035-008",
-    "phase_name": "Publicação, integração, auditoria e deploy",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000034 concluída: artigo sobre coexistência entre superendividamento, indenização trabalhista de R$ 100 mil e penhora publicado, auditado e integrado ao Site.",
-  "next_logical_step": "Verificar integração pública, links, artefato do GitHub Pages e deploy do novo artigo.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000035 concluída: artigo sobre erros da advocacia autoral em ações de repactuação por superendividamento publicado, auditado, integrado e implantado.",
+  "next_logical_step": "Nenhuma Estratégia Autônoma ativa. Aguardar novo pedido ou nova prioridade material do Projeto.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -40,14 +34,16 @@
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35806082369,
+    "workflow_run_id": 35853415203,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTICLE_AUDIT",
-    "commit_sha": "ec0530db9fd6de011dd0bdde7ce83a3967667f25",
-    "completed_at": "2026-09-22",
-    "note": "EA-000003-000034: artigo sobre indenização trabalhista superveniente e penhora publicado."
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
+    "commit_sha": "c1be07dc1d53ce6bc2cdee1a75165e1d6ebe67d5",
+    "completed_at": "2026-09-23",
+    "artifact_id": 10746267417,
+    "artifact_digest": "sha256:25e846501e6118ec2c38826c9304e9e7baa9ba654160229c8a94903e21364445",
+    "note": "EA-000003-000035: artigo sobre erros advocatícios na repactuação por superendividamento publicado; artefato auditado sem falhas."
   },
   "public_menu": [
     "Início",
@@ -169,8 +165,8 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000034",
-  "last_concluded_strategy_name": "Superendividamento, indenização trabalhista superveniente e penhora",
+  "last_concluded_strategy_code": "EA-000003-000035",
+  "last_concluded_strategy_name": "Erros advocatícios na repactuação por superendividamento e protocolo preventivo",
   "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
@@ -195,5 +191,6 @@
       "A-10"
     ]
   },
-  "legal_corpus_status": "CICLO_ADVERSARIAL_CORRIGIDO_E_REAUDITADO"
+  "legal_corpus_status": "CICLO_ADVERSARIAL_CORRIGIDO_E_REAUDITADO",
+  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/erros-advocacia-repactuacao-superendividamento.html"
 }
