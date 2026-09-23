@@ -13,20 +13,21 @@ Para afirmações jurídicas relevantes, a referência pública deve permitir id
 - Planalto — legislação federal;
 - Supremo Tribunal Federal — jurisprudência constitucional;
 - Superior Tribunal de Justiça — precedentes infraconstitucionais;
-- Conselho Nacional de Justiça — atos e políticas judiciárias;
+- Conselho Nacional de Justiça — atos, políticas judiciárias e Cartilha sobre o tratamento do superendividamento (2022, lida com controle de superveniência);
 - Tribunal Superior do Trabalho — precedentes qualificados, acórdãos e jurisprudência trabalhista.
 
 ## Produção acadêmica
 
 A produção acadêmica é selecionada por pertinência temática, autoria identificada e critérios externos verificáveis de qualidade. O Site não atribui ao curso ou à universidade a tese individual do autor.
 
+- **EPM/TJSP — Cadernos Jurídicos 69 (2025):** artigos autorais sobre petição inicial, plano, rito, competência e relação com outras demandas; autoria individual, não posição institucional do Tribunal.
 - **UFRGS:** Observatório do Crédito, Superendividamento e Conciliação de Conflitos de Consumo.
 - **Faculdade de Direito da USP:** teses e dissertações sobre Direito de Família, alimentos e dano moral trabalhista.
 - **CAPES:** fonte metodológica para avaliação externa da excelência de programas de pós-graduação; não é usada para criar ranking próprio.
 
 ## OAB e suas comissões
 
-- **OAB Nacional — Defesa do Consumidor:** nota técnica e Cartilha Superendividamento.
+- **OAB Nacional — Defesa do Consumidor:** a Cartilha Superendividamento disponível no portal é material histórico de 2021, anterior à Lei nº 14.181/2021, e não deve ser usada isoladamente como descrição do direito vigente; a Comissão anunciou em 2022 produção específica voltada à advocacia.
 - **OAB-SP — Comissão de Direito de Família:** Cartilha de Direito de Família.
 - **OAB Nacional — Comissão Especial de Direito de Família:** produção acadêmica e agenda nacional de 2026 em monitoramento.
 - **OAB — Comissão da Mulher Advogada:** cartilha de prevenção e enfrentamento ao assédio moral e sexual.
@@ -61,4 +62,4 @@ O reconhecimento externo serve apenas como critério de seleção da fonte; não
 
 As instituições são fontes de posições **não vinculantes**. A incorporação ao Site exige atribuição, documento recuperável e confronto com legislação e jurisprudência.
 
-**Última revisão:** 21/09/2026.
+**Última revisão:** 23/09/2026.
