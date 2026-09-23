@@ -11,13 +11,13 @@
   "current_strategy_code": "EA-000003-000034",
   "current_strategy_name": "Superendividamento, indenização trabalhista superveniente e penhora",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_name": "Corpus interno e perguntas jurídicas",
+    "phase_name": "Publicação, auditoria e deploy",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000033 concluída: botão ENVIAR MENSAGEM oval/pílula, mantendo azul-marinho; deploy verificado.",
-  "next_logical_step": "Executar pesquisa legislativa, doutrinária e jurisprudencial sobre indenização superveniente, penhora e superendividamento.",
+  "next_logical_step": "Confirmar auditoria estrutural e GitHub Pages do artigo sobre indenização e penhora.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
