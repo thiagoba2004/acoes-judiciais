@@ -37,6 +37,10 @@
 | Sigilo de informações financeiras nos autos | STJ — Tema 590 | informações bancárias sigilosas requisitadas judicialmente devem integrar os autos sob proteção adequada; no caso repetitivo, o processo corria em segredo de justiça | precedente formado em execução fiscal sob CPC/1973; **não é tese específica de superendividamento** e não autoriza segredo automático de toda ação com documento financeiro | repetitivo com trânsito em julgado; página oficial consultada | 23/09/2026 |
 | Publicidade em ação de repactuação | TJPR — 0001761-87.2025.8.16.0028 | fonte oficial registra ação de repactuação por superendividamento com "Segredo de Justiça: Não" | dado empírico/jurisprudencial estadual; demonstra ausência de segredo universal, não fixa regra nacional | acórdão de 29/04/2026 | 23/09/2026 |
 
+| Prova do superendividamento | STJ — AgInt no AREsp 3.032.409/SP | caracterização depende do conjunto fático-probatório; no caso, a origem apontou ausência de prova de renda familiar e despesas | não fixa rol nacional nem soma automática de renda de cônjuge; incidiu Súmula 7 | DJEN 14/05/2026 | 23/09/2026 |
+| Exibição incidental na repactuação | TJPR — AI 0009116-04.2026.8.16.0000 | admite exibição incidental de contratos quando demonstrada plausibilidade da relação e especificada a documentação necessária ao plano | precedente estadual não vinculante; confrontar com prática do tribunal competente | julgado 04/05/2026 | 23/09/2026 |
+| Documentos e exibição na repactuação | TJDFT — Acórdão 1955929 | exige documentação suficiente na inicial ou via autônoma para obtenção, rejeitando exibição incidental no rito especial | precedente estadual não vinculante; diverge da linha do TJPR acima | DJe 06/01/2025 | 23/09/2026 |
+
 ## Regra de atualização
 
 Ao alterar qualquer precedente acima:
