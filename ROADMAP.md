@@ -422,3 +422,18 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 - GitHub Pages run `35853415203`: **success**.
 
 **Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
+
+## EA-000003-000036 — Segredo de justiça e proteção de dados na repactuação por superendividamento — EM EXECUÇÃO
+
+**Origem:** REQ-20260923-004.  
+**Plano:** `research/EA-000003-000036/plano-de-fases.md`.
+
+### Fases
+1. Delimitação jurídica e mapa de controvérsias — EM EXECUÇÃO.
+2. Legislação, CNJ e arquitetura do sigilo processual — PLANEJADA.
+3. Jurisprudência e prática dos tribunais — PLANEJADA.
+4. Doutrina, academia, OAB e instituições especializadas — PLANEJADA.
+5. Critérios e protocolo prático para a advocacia — PLANEJADA.
+6. Redação e auditoria adversarial do artigo — PLANEJADA.
+7. Publicação, integração e verificação — PLANEJADA.
+
