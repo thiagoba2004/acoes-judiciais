@@ -4,6 +4,12 @@ Análises jurídicas críticas e argumentativas sobre temas já cobertos pelo Si
 
 ## Publicados
 
+### [Provas na ação de repactuação por superendividamento: o que é essencial em cada tipo de dívida?](provas-repactuacao-superendividamento.html)
+
+**23/09/2026 · Superendividamento · Prova · Documentos**
+
+Organiza a prova por categoria de dívida, distingue contrato, saldo e pagamento, e propõe protocolo prudencial para extratos, faturas e outras séries documentais sem inventar prazo legal nacional.
+
 ### [Toda ação de repactuação por superendividamento tramita em segredo de justiça?](segredo-justica-superendividamento.html)
 
 **23/09/2026 · Superendividamento · Processo · Privacidade**
