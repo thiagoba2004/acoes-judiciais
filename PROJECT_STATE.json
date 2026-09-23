@@ -8,11 +8,16 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
+  "current_strategy_code": "EA-000003-000034",
+  "current_strategy_name": "Superendividamento, indenização trabalhista superveniente e penhora",
+  "current_phase": {
+    "phase_number": 1,
+    "phase_total": 6,
+    "phase_name": "Corpus interno e perguntas jurídicas",
+    "status": "EM_EXECUCAO"
+  },
   "last_completed_milestone": "EA-000003-000033 concluída: botão ENVIAR MENSAGEM oval/pílula, mantendo azul-marinho; deploy verificado.",
-  "next_logical_step": "Modo operacional. Preservar submit-button oval em futuras alterações.",
+  "next_logical_step": "Executar pesquisa legislativa, doutrinária e jurisprudencial sobre indenização superveniente, penhora e superendividamento.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -165,7 +170,12 @@
   },
   "last_concluded_strategy_code": "EA-000003-000033",
   "last_concluded_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
-  "current_strategy": null,
+  "current_strategy": {
+    "strategy_code": "EA-000003-000034",
+    "strategy_name": "Superendividamento, indenização trabalhista superveniente e penhora",
+    "plan_ref": "research/EA-000003-000034/plano-de-fases.md",
+    "status": "EM_EXECUCAO"
+  },
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
