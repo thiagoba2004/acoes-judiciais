@@ -394,3 +394,31 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 - **EA-000003-000029 — Correção adversarial do dossiê trabalhista e da proveniência institucional** — CONCLUÍDA; 6/6; A-03, A-04, A-07 e A-09 corrigidos; run `35760077593` success.
 - **EA-000003-000030 — Correção adversarial de Superendividamento e Doutrina** — CONCLUÍDA; 5/5; A-05, A-06 e A-10 corrigidos; run `35760822807` success.
 - **EA-000003-000031 — Reauditoria regressiva pós-correção do Site Ações Judiciais** — CONCLUÍDA; 5/5; 10/10 achados corrigidos e revalidados; regressão pública de monitoramento corrigida; 24 HTMLs, 633 hrefs, zero links/âncoras quebrados; run `35763781353` success.
+
+## EA-000003-000035 — Erros advocatícios na repactuação por superendividamento e protocolo preventivo — CONCLUÍDA
+
+**Origem:** REQ-20260923-001.  
+**Plano:** `research/EA-000003-000035/plano-de-fases.md`.  
+**Auditoria final:** `research/EA-000003-000035/08-auditoria-publicacao.md`.
+
+### Fases
+1. Registro, delimitação e taxonomia preliminar de erros — CONCLUÍDA.
+2. Marco normativo e arquitetura processual — CONCLUÍDA.
+3. Jurisprudência e padrões de insucesso processual — CONCLUÍDA.
+4. Doutrina, academia, OAB e instituições especializadas — CONCLUÍDA.
+5. Causas dos erros e matriz de criticidade — CONCLUÍDA.
+6. Protocolos preventivos para a advocacia autoral — CONCLUÍDA.
+7. Redação e auditoria adversarial do artigo — CONCLUÍDA.
+8. Publicação, integração, auditoria e deploy — CONCLUÍDA.
+
+### Resultado
+- artigo: `publicacoes/artigos/erros-advocacia-repactuacao-superendividamento.html`;
+- 12 padrões de falha/risco sistematizados sem ranking estatístico artificial;
+- protocolo preventivo estruturado;
+- paridade Markdown–HTML aprovada após correção do subtítulo;
+- 21 referências externas nas duas versões;
+- artefato final: 26 HTMLs, 716 hrefs, 514 links internos e 69 âncoras, zero falhas;
+- zero vazamentos de governança;
+- GitHub Pages run `35853415203`: **success**.
+
+**Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
