@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000036",
   "current_strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 7,
     "phase_total": 7,
-    "phase_code": "F-000003-000036-006",
-    "phase_name": "Redação e auditoria adversarial do artigo",
+    "phase_code": "F-000003-000036-007",
+    "phase_name": "Publicação, integração e verificação",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000035 concluída e revisão pós-publicação de linguagem clara aplicada: anglicismos desnecessários removidos do artigo e do índice público.",
-  "next_logical_step": "Redigir o artigo canônico, submetê-lo à auditoria adversarial e só então avançar à publicação.",
+  "next_logical_step": "Integrar o artigo ao índice público e ao Mapa do Site; verificar o artefato do GitHub Pages e concluir a estratégia somente após implantação confirmada.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -40,7 +40,7 @@
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": null,
+  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/segredo-justica-superendividamento.html",
   "last_deployment": {
     "workflow_run_id": 35855098538,
     "status": "SUCCESS",
@@ -177,10 +177,10 @@
     "strategy_code": "EA-000003-000036",
     "strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
     "status": "EM_EXECUCAO",
-    "phase_number": 6,
+    "phase_number": 7,
     "phase_total": 7,
-    "phase_code": "F-000003-000036-006",
-    "phase_name": "Redação e auditoria adversarial do artigo"
+    "phase_code": "F-000003-000036-007",
+    "phase_name": "Publicação, integração e verificação"
   },
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
