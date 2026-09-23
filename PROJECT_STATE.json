@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000035",
   "current_strategy_name": "Erros advocatícios na repactuação por superendividamento e protocolo preventivo",
   "current_phase": {
-    "phase_number": 7,
+    "phase_number": 8,
     "phase_total": 8,
-    "phase_code": "F-000003-000035-007",
-    "phase_name": "Redação e auditoria adversarial do artigo",
+    "phase_code": "F-000003-000035-008",
+    "phase_name": "Publicação, integração, auditoria e deploy",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000034 concluída: artigo sobre coexistência entre superendividamento, indenização trabalhista de R$ 100 mil e penhora publicado, auditado e integrado ao Site.",
-  "next_logical_step": "Redigir artigo canônico em Markdown, auditar afirmações jurídicas e converter para HTML público conforme padrão editorial.",
+  "next_logical_step": "Verificar integração pública, links, artefato do GitHub Pages e deploy do novo artigo.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
