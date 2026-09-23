@@ -27,3 +27,22 @@ Redigir artigo, testar exageros e separar conclusões firmes de matérias contro
 
 ### FASE 06/06 — Publicação, auditoria e deploy
 Gerar Markdown/HTML, integrar Artigos, Observatório, Fontes e Mapa do Site, auditar e confirmar GitHub Pages.
+
+## Estado final
+
+**CONCLUÍDA — 6/6 fases.**
+
+A pesquisa integrou CDC, CPC, doutrina e jurisprudência atual do STJ/STF; o artigo foi redigido, revisado adversarialmente, publicado e integrado ao Site.
+
+Pontos controlados:
+- fato superveniente sem extinção automática;
+- natureza indenizatória sem blindagem integral;
+- autonomia entre repactuação e execução;
+- ausência de stay universal automático;
+- SISBAJUD e contraditório do art. 854;
+- Tema 1235;
+- Tema 1285 ainda pendente;
+- distinção entre mínimo existencial e impenhorabilidade;
+- hipótese de penhora no rosto dos autos.
+
+GitHub Pages run **35806082369 — success**.
