@@ -451,3 +451,18 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 
 **Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
 
+## EA-000003-000037 — Provas na repactuação por superendividamento: matriz por categoria e documentos recorrentes — EM EXECUÇÃO
+
+**Origem:** REQ-20260923-005.  
+**Plano:** `research/EA-000003-000037/plano-de-fases.md`.
+
+### Fases
+1. Delimitação, densidade e mapa probatório — EM EXECUÇÃO.
+2. Marco normativo probatório e superveniências — PENDENTE.
+3. Jurisprudência e prática dos tribunais — PENDENTE.
+4. Matriz de provas por categoria de dívida — PENDENTE.
+5. Doutrina, academia, OAB e instituições especializadas — PENDENTE.
+6. Protocolo para documentos recorrentes e completude — PENDENTE.
+7. Redação e auditoria adversarial — PENDENTE.
+8. Publicação, integração e verificação — PENDENTE.
+
