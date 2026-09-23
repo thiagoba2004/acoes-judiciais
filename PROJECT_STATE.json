@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000036",
   "current_strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 7,
-    "phase_code": "F-000003-000036-001",
-    "phase_name": "Delimitação jurídica e mapa de controvérsias",
+    "phase_code": "F-000003-000036-006",
+    "phase_name": "Redação e auditoria adversarial do artigo",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000035 concluída e revisão pós-publicação de linguagem clara aplicada: anglicismos desnecessários removidos do artigo e do índice público.",
-  "next_logical_step": "Concluir a Fase 01/07 com delimitação do problema, corpus inicial e questões de pesquisa; avançar para legislação e regulamentação do CNJ.",
+  "next_logical_step": "Redigir o artigo canônico, submetê-lo à auditoria adversarial e só então avançar à publicação.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -177,10 +177,10 @@
     "strategy_code": "EA-000003-000036",
     "strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
     "status": "EM_EXECUCAO",
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 7,
-    "phase_code": "F-000003-000036-001",
-    "phase_name": "Delimitação jurídica e mapa de controvérsias"
+    "phase_code": "F-000003-000036-006",
+    "phase_name": "Redação e auditoria adversarial do artigo"
   },
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
