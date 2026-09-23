@@ -27,6 +27,7 @@
 
 - [Notícias](../publicacoes/noticias/index.html)
 - [Artigos](../publicacoes/artigos/index.html)
+  - [Toda ação de repactuação por superendividamento tramita em segredo de justiça?](../publicacoes/artigos/segredo-justica-superendividamento.html)
   - [Ação de repactuação por superendividamento: 12 erros da advocacia autoral e um protocolo para evitá-los](../publicacoes/artigos/erros-advocacia-repactuacao-superendividamento.html)
   - [Superendividamento e indenização trabalhista de R$ 100 mil: os credores podem penhorar o saldo?](../publicacoes/artigos/superendividamento-indenizacao-trabalhista-penhora.html)
   - [Separação de fato sem divórcio no superendividamento](../publicacoes/artigos/separacao-de-fato-sem-divorcio-superendividamento.html)
