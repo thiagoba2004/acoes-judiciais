@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000035",
   "current_strategy_name": "Erros advocatícios na repactuação por superendividamento e protocolo preventivo",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 2,
     "phase_total": 8,
-    "phase_code": "F-000003-000035-001",
-    "phase_name": "Registro, delimitação e taxonomia preliminar de erros",
+    "phase_code": "F-000003-000035-002",
+    "phase_name": "Marco normativo e arquitetura processual",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000034 concluída: artigo sobre coexistência entre superendividamento, indenização trabalhista de R$ 100 mil e penhora publicado, auditado e integrado ao Site.",
-  "next_logical_step": "Concluir a taxonomia preliminar e iniciar o marco normativo e processual da EA-000003-000035.",
+  "next_logical_step": "Consolidar CDC, CPC, regulamentos e atos institucionais em matriz de requisito, risco, consequência e prevenção.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
