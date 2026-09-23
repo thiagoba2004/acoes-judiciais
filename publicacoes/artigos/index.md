@@ -4,6 +4,12 @@ Análises jurídicas críticas e argumentativas sobre temas já cobertos pelo Si
 
 ## Publicados
 
+### [Superendividamento e indenização trabalhista de R$ 100 mil: os credores podem penhorar o saldo?](superendividamento-indenizacao-trabalhista-penhora.html)
+
+**22/09/2026 · Superendividamento · Execução · Penhora**
+
+O artigo examina fato patrimonial superveniente, boa-fé, autonomia entre repactuação e execução, SISBAJUD, proteção de até 40 salários mínimos e os limites da natureza indenizatória do dano moral.
+
 ### [Separação de fato sem divórcio no superendividamento: por que casamento formal não equivale à soma automática da renda do cônjuge](separacao-de-fato-sem-divorcio-superendividamento.html)
 
 **22/09/2026 · Superendividamento · Família · Prova**
