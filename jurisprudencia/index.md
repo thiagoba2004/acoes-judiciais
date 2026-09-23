@@ -5,6 +5,7 @@ Precedentes e teses organizados por tema, sempre vinculados às fontes oficiais.
 ## Superendividamento
 - STF — mínimo existencial e consignado;
 - STJ — Jurisprudência em Teses 282;
+- STJ — Tema 1085: margem consignável não é teto universal para empréstimo comum com débito em conta;
 - STJ — natureza concursal e competência.
 
 ## Divórcio, partilha, guarda e alimentos
