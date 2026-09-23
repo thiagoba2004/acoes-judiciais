@@ -244,6 +244,9 @@ Pode permanecer público quando útil ao leitor:
 - fontes jurídicas, bibliográficas e institucionais;
 - avisos de uso e limitações;
 - ferramentas, modelos e explicações em linguagem natural.
+- a linguagem pública deve privilegiar português claro e imediatamente compreensível para o leitor brasileiro; anglicismos, jargões corporativos, termos de gestão e vocabulário interno não devem aparecer quando houver equivalente natural em português;
+- termos estrangeiros tecnicamente indispensáveis só podem aparecer quando agregarem precisão real e devem ser explicados na primeira ocorrência; expressões como `gate`, `data room`, `red team`, `workflow`, `deploy` e `snapshot` permanecem internas quando não forem conteúdo substantivo necessário ao leitor;
+- títulos, cards, resumos, chamadas e protocolos públicos devem passar por revisão específica de clareza lexical antes da publicação.
 
 Antes de cada publicação, executar varredura de vazamento de governança. A presença de qualquer marcador interno na camada pública bloqueia o deploy.
 
