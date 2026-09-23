@@ -8,7 +8,7 @@ Análises jurídicas críticas e argumentativas sobre temas já cobertos pelo Si
 
 **23/09/2026 · Superendividamento · Advocacia · Estratégia**
 
-Identifica 12 padrões de falha e risco, examina suas causas estruturais e propõe oito gates de triagem, prova, cálculo, audiência e atualização jurisprudencial.
+Identifica 12 padrões de falha e risco, examina suas causas estruturais e propõe oito etapas de verificação de triagem, prova, cálculo, audiência e atualização jurisprudencial.
 
 ### [Superendividamento e indenização trabalhista de R$ 100 mil: os credores podem penhorar o saldo?](superendividamento-indenizacao-trabalhista-penhora.html)
 
