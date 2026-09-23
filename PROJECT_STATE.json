@@ -8,11 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
+  "current_strategy_code": "EA-000003-000035",
+  "current_strategy_name": "Erros advocatícios na repactuação por superendividamento e protocolo preventivo",
+  "current_phase": {
+    "phase_number": 1,
+    "phase_total": 8,
+    "phase_code": "F-000003-000035-001",
+    "phase_name": "Registro, delimitação e taxonomia preliminar de erros",
+    "status": "EM_EXECUCAO"
+  },
   "last_completed_milestone": "EA-000003-000034 concluída: artigo sobre coexistência entre superendividamento, indenização trabalhista de R$ 100 mil e penhora publicado, auditado e integrado ao Site.",
-  "next_logical_step": "Modo operacional. Aguardar revisão humana do artigo e novas solicitações.",
+  "next_logical_step": "Concluir a taxonomia preliminar e iniciar o marco normativo e processual da EA-000003-000035.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -28,7 +34,7 @@
     "RESEARCH_DOUTRINA_PROTOCOL.md",
     "JURISPRUDENCE_MATRIX.md"
   ],
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-09-23",
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
