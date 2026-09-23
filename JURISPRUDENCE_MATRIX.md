@@ -2,14 +2,15 @@
 
 **Projeto:** PRJ-000003 — Ações Judiciais  
 **Função:** fonte canônica de status e recorte dos precedentes centrais usados no Site.  
-**Última verificação global:** 22/09/2026.
+**Última verificação global:** 23/09/2026.
 
 > Esta matriz não substitui a leitura do inteiro teor. Antes do uso profissional, conferir a fonte oficial e eventual superveniência.
 
 | Tema | Tribunal / referência | Recorte seguro | Condições / limites | Estado verificado | Última verificação |
 |---|---|---|---|---|---|
-| Mínimo existencial e consignado | STF — ADPFs 1005, 1006 e 1097 | Regulamentação quantitativa admitida; exclusão do consignado da aferição afastada | Não transforma o parâmetro nominal em diagnóstico econômico completo | julgamento em 23/04/2026 | 21/09/2026 |
-| Superendividamento | STJ — Jurisprudência em Teses 282 | rito, competência, credores e tutela cautelar | Ler cada tese individualmente; tutela não é automática | edição vigente consultada | 21/09/2026 |
+| Mínimo existencial e consignado | STF — ADPFs 1005, 1006 e 1097 | Regulamentação quantitativa admitida; exclusão do consignado da aferição afastada | Não transforma o parâmetro nominal em diagnóstico econômico completo | julgamento em 23/04/2026 | 23/09/2026 |
+| Superendividamento | STJ — Jurisprudência em Teses 282 | rito, competência, credores e tutela cautelar | Ler cada tese individualmente; tutela não é automática | edição vigente consultada | 23/09/2026 |
+| Empréstimo comum com débito em conta | STJ — Tema 1085 | limites legais da consignação não se aplicam por analogia ao empréstimo bancário comum com débito autorizado em conta, ainda que usada para salário | não confundir margem consignável com capacidade de pagamento ou mínimo existencial; verificar a modalidade contratual | repetitivo vigente consultado | 23/09/2026 |
 | Competência no concurso global | STJ — CC 192.140/DF | tratamento global com credores federais e não federais não desloca automaticamente todo o procedimento à Justiça Federal | distinguir polo exclusivamente federal e ações autônomas | precedente consultado | 21/09/2026 |
 | Separação de fato e regime de bens | STJ — REsp 2.180.444/MT; REsp 2.223.719/SP | separação de fato comprovada encerra prospectivamente a eficácia do regime matrimonial de bens | não equivale a divórcio; direitos patrimoniais formados antes da ruptura podem subsistir; data exige prova | precedentes 2025 consultados | 21/09/2026 |
 | Separação de fato — prova e marco temporal | STJ — REsp 1.660.947/TO; REsp 1.798.975/SP | ruptura efetiva não se confunde com mera interrupção de coabitação; data pode ser questão patrimonial decisiva | exige análise fática; não há fórmula probatória única | precedentes consultados | 21/09/2026 |
