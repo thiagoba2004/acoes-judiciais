@@ -415,17 +415,17 @@ Modelos, artigos, cartilhas, vídeos e decisões antigas continuam acessíveis d
 
 O risco não é pesquisar pouco apenas. É **pesquisar sem cronologia**.
 
-## O protocolo dos oito gates antes e durante a ação
+## O protocolo dos oito etapas de verificação antes e durante a ação
 
 A melhor forma de reduzir risco não é decorar uma lista de erros. É transformar o escritório em um sistema de controle.
 
-### Gate 1 — Cabimento e rito
+### Etapa 1 — Cabimento e rito
 
 Não protocolar antes de confirmar pessoa natural, relação de consumo, boa-fé, superendividamento juridicamente demonstrável, ação autônoma e necessidade do tratamento global.
 
 Se a pretensão real for apenas revisional ou limitação de margem de um contrato, revisar a via.
 
-### Gate 2 — Anamnese financeira
+### Etapa 2 — Diagnóstico financeiro
 
 Produzir uma fotografia datada da vida econômica:
 
@@ -447,7 +447,7 @@ Produzir uma fotografia datada da vida econômica:
 
 A renda de terceiro não deve ser simplesmente somada nem ignorada: deve-se provar qual é sua efetiva participação no orçamento considerado.
 
-### Gate 3 — Data room das dívidas
+### Etapa 3 — Dossiê documental das dívidas
 
 Nenhuma dívida deve existir apenas como uma linha “Banco X — R$ 50 mil”.
 
@@ -455,18 +455,18 @@ Cada contrato precisa de identidade, modalidade, saldo, garantia, forma de pagam
 
 Pendências documentais devem ser marcadas e ter histórico de tentativa de obtenção.
 
-### Gate 4 — Classificação jurídica
+### Etapa 4 — Classificação jurídica
 
 Separar o que entra, o que não entra e o que exige controvérsia específica.
 
-Esse gate deve bloquear automaticamente:
+Essa etapa deve impedir automaticamente:
 
 - inclusão acrítica de garantia real, financiamento imobiliário ou crédito rural;
 - exclusão automática de consignado;
 - aplicação automática de 30% ou 35%;
 - mistura de dívida não consumerista sem fundamentação.
 
-### Gate 5 — Motor do plano
+### Etapa 5 — Cálculo e teste do plano
 
 O plano deve ser uma planilha auditável antes de virar argumento.
 
@@ -486,7 +486,7 @@ Testar:
 
 Se o plano não fecha fora do processo, não ficará melhor depois que for protocolado.
 
-### Gate 6 — Matriz fato, prova, norma e pedido
+### Etapa 6 — Matriz fato, prova, norma e pedido
 
 Para cada afirmação importante da inicial, criar quatro colunas internas:
 
@@ -504,7 +504,7 @@ Exemplo:
 
 Esse método expõe lacunas antes que o réu ou o juiz as exponham.
 
-### Gate 7 — Audiência
+### Etapa 7 — Audiência
 
 Antes da audiência, atualizar renda, saldos e proposta.
 
@@ -520,7 +520,7 @@ Depois, distinguir:
 
 É essa distinção que permitirá pedir corretamente as consequências do art. 104-A e, se necessário, a fase do art. 104-B.
 
-### Gate 8 — Red team jurídico-financeiro
+### Etapa 8 — Revisão crítica jurídico-financeira
 
 Antes do protocolo ou de manifestação decisiva, outra pessoa deve tentar encontrar o que está errado.
 
@@ -539,7 +539,7 @@ A revisão deve perguntar:
 - ficou algum texto copiado com dado de outro cliente?
 - a situação econômica continua atual?
 
-O objetivo do red team não é “melhorar a linguagem”. É tentar impedir que a peça saia com erro material.
+O objetivo da revisão crítica não é “melhorar a linguagem”. É tentar impedir que a peça saia com erro material.
 
 ## Um semáforo simples para decidir se a ação está pronta
 
