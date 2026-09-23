@@ -451,18 +451,33 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 
 **Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
 
-## EA-000003-000037 — Provas na repactuação por superendividamento: matriz por categoria e documentos recorrentes — EM EXECUÇÃO
+## EA-000003-000037 — Provas na repactuação por superendividamento: matriz por categoria e documentos recorrentes — CONCLUÍDA
 
 **Origem:** REQ-20260923-005.  
-**Plano:** `research/EA-000003-000037/plano-de-fases.md`.
+**Plano:** `research/EA-000003-000037/plano-de-fases.md`.  
+**Auditoria final:** `research/EA-000003-000037/08-auditoria-publicacao.md`.
 
 ### Fases
-1. Delimitação, densidade e mapa probatório — EM EXECUÇÃO.
-2. Marco normativo probatório e superveniências — PENDENTE.
-3. Jurisprudência e prática dos tribunais — PENDENTE.
-4. Matriz de provas por categoria de dívida — PENDENTE.
-5. Doutrina, academia, OAB e instituições especializadas — PENDENTE.
-6. Protocolo para documentos recorrentes e completude — PENDENTE.
-7. Redação e auditoria adversarial — PENDENTE.
-8. Publicação, integração e verificação — PENDENTE.
+1. Delimitação, densidade e mapa probatório — CONCLUÍDA.
+2. Marco normativo probatório e superveniências — CONCLUÍDA.
+3. Jurisprudência e prática dos tribunais — CONCLUÍDA.
+4. Matriz de provas por categoria de dívida — CONCLUÍDA.
+5. Doutrina, academia, OAB e instituições especializadas — CONCLUÍDA.
+6. Protocolo para documentos recorrentes e completude — CONCLUÍDA.
+7. Redação e auditoria adversarial — CONCLUÍDA.
+8. Publicação, integração e verificação — CONCLUÍDA.
+
+### Resultado
+- densidade autônoma confirmada;
+- artigo: `publicacoes/artigos/provas-repactuacao-superendividamento.html`;
+- matriz por categoria de dívida consolidada;
+- distinção entre prova do vínculo, evolução/saldo, pagamento, orçamento e classificação jurídica;
+- nenhum prazo nacional fictício de 3/6/12 meses foi criado;
+- protocolo prudencial para extratos e faturas documentado;
+- divergência TJPR/TJDFT sobre exibição incidental explicitada;
+- superveniência STF 23/04/2026 sobre consignado incorporada;
+- artefato final: 28 HTMLs, 787 hrefs, 508 referências internas e 69 âncoras, zero falhas;
+- GitHub Pages run `35881649860`: **success**.
+
+**Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
 
