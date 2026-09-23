@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000037",
-  "current_strategy_name": "Provas na repactuação por superendividamento: matriz por categoria e documentos recorrentes",
-  "current_phase": {
-    "phase_number": 1,
-    "phase_total": 8,
-    "phase_code": "F-000003-000037-001",
-    "phase_name": "Delimitação, densidade e mapa probatório",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000036 concluída: artigo sobre segredo de justiça na repactuação por superendividamento pesquisado, auditado, integrado e implantado.",
-  "next_logical_step": "Concluir a avaliação de densidade e consolidar o marco normativo e jurisprudencial probatório antes da redação.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000037 concluída: artigo sobre provas na repactuação por superendividamento pesquisado, auditado, integrado e implantado.",
+  "next_logical_step": "Nenhuma Estratégia Autônoma ativa; aguardar novo pedido ou priorização.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,18 +32,18 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "SEM_ESTRATEGIA_ATIVA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35863435038,
+    "workflow_run_id": 35881649860,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "2074fd70f5375dcf0919af12c07ed346c58c69ed",
+    "commit_sha": "cd3dd08c84bbda8c543ab5339bf74b8e31e1ee6a",
     "completed_at": "2026-09-23",
-    "artifact_id": 10750594864,
-    "artifact_digest": "sha256:41c043043ee97b46567747a7f166c4c505379e547a780635ac9dfcff03983db7",
-    "note": "EA-000003-000036: artigo sobre segredo de justiça e sigilo documental no superendividamento publicado; artefato baixado e auditado com 27 HTMLs, rota/índice/mapa presentes e zero vazamentos de governança."
+    "artifact_id": 10760323225,
+    "artifact_digest": "sha256:6cb711c6c4515a3abe5740112878a20b74d7c753618a6c735601e611a86aabd8",
+    "note": "EA-000003-000037: artigo probatório publicado; artefato auditado com 28 HTMLs, 787 hrefs, 508 referências internas, 69 âncoras e zero falhas."
   },
   "public_menu": [
     "Início",
@@ -171,9 +165,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000036",
-  "last_concluded_strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
-  "current_strategy": "EA-000003-000037",
+  "last_concluded_strategy_code": "EA-000003-000037",
+  "last_concluded_strategy_name": "Provas na repactuação por superendividamento: matriz por categoria e documentos recorrentes",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
@@ -198,5 +192,5 @@
     ]
   },
   "legal_corpus_status": "CICLO_ADVERSARIAL_CORRIGIDO_E_REAUDITADO",
-  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/segredo-justica-superendividamento.html"
+  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/provas-repactuacao-superendividamento.html"
 }
