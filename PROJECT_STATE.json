@@ -8,16 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000034",
-  "current_strategy_name": "Superendividamento, indenização trabalhista superveniente e penhora",
-  "current_phase": {
-    "phase_number": 6,
-    "phase_total": 6,
-    "phase_name": "Publicação, auditoria e deploy",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000033 concluída: botão ENVIAR MENSAGEM oval/pílula, mantendo azul-marinho; deploy verificado.",
-  "next_logical_step": "Confirmar auditoria estrutural e GitHub Pages do artigo sobre indenização e penhora.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000034 concluída: artigo sobre coexistência entre superendividamento, indenização trabalhista de R$ 100 mil e penhora publicado, auditado e integrado ao Site.",
+  "next_logical_step": "Modo operacional. Aguardar revisão humana do artigo e novas solicitações.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -41,12 +36,12 @@
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/acoes/repactuacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35797334756,
+    "workflow_run_id": 35806082369,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_SUBMIT_BUTTON_AUDIT",
-    "commit_sha": "25ffe378d1ff530d1b9dff496ae41b5089e7228e",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTICLE_AUDIT",
+    "commit_sha": "ec0530db9fd6de011dd0bdde7ce83a3967667f25",
     "completed_at": "2026-09-22",
-    "note": "EA-000003-000033: botão ENVIAR MENSAGEM oval/pílula."
+    "note": "EA-000003-000034: artigo sobre indenização trabalhista superveniente e penhora publicado."
   },
   "public_menu": [
     "Início",
@@ -168,14 +163,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000033",
-  "last_concluded_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
-  "current_strategy": {
-    "strategy_code": "EA-000003-000034",
-    "strategy_name": "Superendividamento, indenização trabalhista superveniente e penhora",
-    "plan_ref": "research/EA-000003-000034/plano-de-fases.md",
-    "status": "EM_EXECUCAO"
-  },
+  "last_concluded_strategy_code": "EA-000003-000034",
+  "last_concluded_strategy_name": "Superendividamento, indenização trabalhista superveniente e penhora",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
