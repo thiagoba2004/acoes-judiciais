@@ -4,6 +4,12 @@ Análises jurídicas críticas e argumentativas sobre temas já cobertos pelo Si
 
 ## Publicados
 
+### [Toda ação de repactuação por superendividamento tramita em segredo de justiça?](segredo-justica-superendividamento.html)
+
+**23/09/2026 · Superendividamento · Processo · Privacidade**
+
+Explica por que o segredo de justiça não é automático e distingue publicidade processual, segredo integral e sigilo de documentos financeiros ou pessoais específicos.
+
 ### [Ação de repactuação por superendividamento: 12 erros da advocacia autoral e um protocolo para evitá-los](erros-advocacia-repactuacao-superendividamento.html)
 
 **23/09/2026 · Superendividamento · Advocacia · Estratégia**
