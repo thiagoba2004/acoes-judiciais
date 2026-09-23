@@ -8,11 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
+  "current_strategy_code": "EA-000003-000036",
+  "current_strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
+  "current_phase": {
+    "phase_number": 1,
+    "phase_total": 7,
+    "phase_code": "F-000003-000036-001",
+    "phase_name": "Delimitação jurídica e mapa de controvérsias",
+    "status": "EM_EXECUCAO"
+  },
   "last_completed_milestone": "EA-000003-000035 concluída e revisão pós-publicação de linguagem clara aplicada: anglicismos desnecessários removidos do artigo e do índice público.",
-  "next_logical_step": "Nenhuma Estratégia Autônoma ativa. Aguardar novo pedido ou nova prioridade material do Projeto.",
+  "next_logical_step": "Concluir a Fase 01/07 com delimitação do problema, corpus inicial e questões de pesquisa; avançar para legislação e regulamentação do CNJ.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -32,7 +38,7 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
@@ -167,7 +173,15 @@
   },
   "last_concluded_strategy_code": "EA-000003-000035",
   "last_concluded_strategy_name": "Erros advocatícios na repactuação por superendividamento e protocolo preventivo",
-  "current_strategy": null,
+  "current_strategy": {
+    "strategy_code": "EA-000003-000036",
+    "strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
+    "status": "EM_EXECUCAO",
+    "phase_number": 1,
+    "phase_total": 7,
+    "phase_code": "F-000003-000036-001",
+    "phase_name": "Delimitação jurídica e mapa de controvérsias"
+  },
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
