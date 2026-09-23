@@ -11,7 +11,7 @@
   "current_strategy_code": null,
   "current_strategy_name": null,
   "current_phase": null,
-  "last_completed_milestone": "EA-000003-000035 concluída: artigo sobre erros da advocacia autoral em ações de repactuação por superendividamento publicado, auditado, integrado e implantado.",
+  "last_completed_milestone": "EA-000003-000035 concluída e revisão pós-publicação de linguagem clara aplicada: anglicismos desnecessários removidos do artigo e do índice público.",
   "next_logical_step": "Nenhuma Estratégia Autônoma ativa. Aguardar novo pedido ou nova prioridade material do Projeto.",
   "canonical_files": [
     "README.md",
@@ -36,14 +36,14 @@
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35853415203,
+    "workflow_run_id": 35855098538,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "c1be07dc1d53ce6bc2cdee1a75165e1d6ebe67d5",
+    "commit_sha": "a93a819dbb3321fdcd80c1fdc920e2eaeb7172bb",
     "completed_at": "2026-09-23",
-    "artifact_id": 10746267417,
-    "artifact_digest": "sha256:25e846501e6118ec2c38826c9304e9e7baa9ba654160229c8a94903e21364445",
-    "note": "EA-000003-000035: artigo sobre erros advocatícios na repactuação por superendividamento publicado; artefato auditado sem falhas."
+    "artifact_id": 10746309645,
+    "artifact_digest": "sha256:e3377baaa91adfeab174f42cc0ed3d42c76f539ce9ff4288196719d15f3db24f",
+    "note": "Correção pós-publicação de linguagem clara no artigo EA-000003-000035: gate/gates, data room e red team removidos da camada pública; concordância final revisada; artefato auditado."
   },
   "public_menu": [
     "Início",
