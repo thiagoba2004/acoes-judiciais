@@ -423,17 +423,31 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 
 **Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
 
-## EA-000003-000036 — Segredo de justiça e proteção de dados na repactuação por superendividamento — EM EXECUÇÃO
+## EA-000003-000036 — Segredo de justiça e proteção de dados na repactuação por superendividamento — CONCLUÍDA
 
 **Origem:** REQ-20260923-004.  
-**Plano:** `research/EA-000003-000036/plano-de-fases.md`.
+**Plano:** `research/EA-000003-000036/plano-de-fases.md`.  
+**Auditoria final:** `research/EA-000003-000036/07-auditoria-publicacao.md`.
 
 ### Fases
-1. Delimitação jurídica e mapa de controvérsias — EM EXECUÇÃO.
-2. Legislação, CNJ e arquitetura do sigilo processual — PLANEJADA.
-3. Jurisprudência e prática dos tribunais — PLANEJADA.
-4. Doutrina, academia, OAB e instituições especializadas — PLANEJADA.
-5. Critérios e protocolo prático para a advocacia — PLANEJADA.
-6. Redação e auditoria adversarial do artigo — PLANEJADA.
-7. Publicação, integração e verificação — PLANEJADA.
+1. Delimitação jurídica e mapa de controvérsias — CONCLUÍDA.
+2. Legislação, CNJ e arquitetura do sigilo processual — CONCLUÍDA.
+3. Jurisprudência e prática dos tribunais — CONCLUÍDA.
+4. Doutrina, academia, OAB e instituições especializadas — CONCLUÍDA.
+5. Critérios e protocolo prático para a advocacia — CONCLUÍDA.
+6. Redação e auditoria adversarial do artigo — CONCLUÍDA.
+7. Publicação, integração e verificação — CONCLUÍDA.
+
+### Resultado
+- artigo: `publicacoes/artigos/segredo-justica-superendividamento.html`;
+- tese central: não há segredo de justiça automático na classe de repactuação por superendividamento;
+- distinção operacional entre publicidade, segredo integral e sigilo documental;
+- protocolo prático para escolha e fundamentação da medida de proteção;
+- casos oficiais públicos e sigilosos confrontados sem generalização indevida;
+- artefato final com 27 HTMLs; nova rota, índice e Mapa do Site presentes;
+- 17 destinos internos do artigo verificados, zero falhas;
+- zero vazamentos de governança no novo artigo;
+- GitHub Pages run `35863435038`: **success**.
+
+**Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
 
