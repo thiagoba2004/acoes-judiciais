@@ -415,7 +415,7 @@ Modelos, artigos, cartilhas, vídeos e decisões antigas continuam acessíveis d
 
 O risco não é pesquisar pouco apenas. É **pesquisar sem cronologia**.
 
-## O protocolo dos oito etapas de verificação antes e durante a ação
+## O protocolo das oito etapas de verificação antes e durante a ação
 
 A melhor forma de reduzir risco não é decorar uma lista de erros. É transformar o escritório em um sistema de controle.
 
