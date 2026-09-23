@@ -1,6 +1,6 @@
 # Ação de repactuação por superendividamento: 12 erros da advocacia autoral e um protocolo para evitá-los
 
-## Por que essas ações falham antes mesmo da audiência — e como transformar triagem, prova, cálculo e atualização jurisprudencial em controle de qualidade
+Por que essas ações falham antes mesmo da audiência — e como transformar triagem, prova, cálculo e atualização jurisprudencial em controle de qualidade
 
 **Atualizado em 23/09/2026**
 
