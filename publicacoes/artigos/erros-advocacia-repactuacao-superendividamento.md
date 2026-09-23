@@ -619,7 +619,7 @@ Quando não coincidem, a melhor providência muitas vezes não é redigir mais.
 - [EPM/TJSP — Cadernos Jurídicos 69, Superendividamento](https://epm.tjsp.jus.br/Publicacoes/CadernoJuridico/113126).
 - [BDJur/STJ — Superendividamento dos consumidores: aspectos materiais e processuais](https://bdjur.stj.jus.br/jspui/bitstream/2011/184082/superendividamento_consumidores_aspectos_buzzi.pdf).
 - [UFRGS — Observatório do Crédito, Superendividamento e Conciliação de Conflitos de Consumo](https://lume.ufrgs.br/handle/10183/185473).
-- [OAB Nacional — Comissão anuncia cartilha para a advocacia sobre pessoas superendividadas](https://www.oab.org.br/noticia/60171/comissao-anuncia-cartilha-sobre-defesa-de-pessoas-superendidadas).
+- [OAB Nacional — Comissão anuncia cartilha para a advocacia sobre pessoas superendividadas](https://www.oab.org.br/noticia/60171/comissao-anuncia-cartilha-sobre-defesa-de-pessoas-superendividadas).
 - [OAB Nacional — Cartilha histórica Superendividamento, anterior à Lei nº 14.181/2021](https://www.oab.org.br/Content/pdf/Cartilha_A4_Superendividamento%20-%20CEDC.pdf).
 - [Senacon/BRASILCON — curso sobre consumo de crédito, prevenção e tratamento do superendividamento](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor/escola-nacional-endc/cursos-endc/Curso-consumo-de-credito-prevencao-e-tratamento-do-superendividamento).
 - [Idec — Nota Técnica sobre mínimo existencial](https://idec.org.br/sites/default/files/nt_minimo_existencial.pdf).
