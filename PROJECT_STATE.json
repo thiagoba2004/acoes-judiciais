@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000036",
-  "current_strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
-  "current_phase": {
-    "phase_number": 7,
-    "phase_total": 7,
-    "phase_code": "F-000003-000036-007",
-    "phase_name": "Publicação, integração e verificação",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000035 concluída e revisão pós-publicação de linguagem clara aplicada: anglicismos desnecessários removidos do artigo e do índice público.",
-  "next_logical_step": "Integrar o artigo ao índice público e ao Mapa do Site; verificar o artefato do GitHub Pages e concluir a estratégia somente após implantação confirmada.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000036 concluída: artigo sobre segredo de justiça na repactuação por superendividamento pesquisado, auditado, integrado e implantado.",
+  "next_logical_step": "Nenhuma Estratégia Autônoma ativa. Aguardar novo pedido ou nova prioridade material do Projeto.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,18 +32,18 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/segredo-justica-superendividamento.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35855098538,
+    "workflow_run_id": 35863435038,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "a93a819dbb3321fdcd80c1fdc920e2eaeb7172bb",
+    "commit_sha": "2074fd70f5375dcf0919af12c07ed346c58c69ed",
     "completed_at": "2026-09-23",
-    "artifact_id": 10746309645,
-    "artifact_digest": "sha256:e3377baaa91adfeab174f42cc0ed3d42c76f539ce9ff4288196719d15f3db24f",
-    "note": "Correção pós-publicação de linguagem clara no artigo EA-000003-000035: gate/gates, data room e red team removidos da camada pública; concordância final revisada; artefato auditado."
+    "artifact_id": 10750594864,
+    "artifact_digest": "sha256:41c043043ee97b46567747a7f166c4c505379e547a780635ac9dfcff03983db7",
+    "note": "EA-000003-000036: artigo sobre segredo de justiça e sigilo documental no superendividamento publicado; artefato baixado e auditado com 27 HTMLs, rota/índice/mapa presentes e zero vazamentos de governança."
   },
   "public_menu": [
     "Início",
@@ -171,17 +165,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000035",
-  "last_concluded_strategy_name": "Erros advocatícios na repactuação por superendividamento e protocolo preventivo",
-  "current_strategy": {
-    "strategy_code": "EA-000003-000036",
-    "strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
-    "status": "EM_EXECUCAO",
-    "phase_number": 7,
-    "phase_total": 7,
-    "phase_code": "F-000003-000036-007",
-    "phase_name": "Publicação, integração e verificação"
-  },
+  "last_concluded_strategy_code": "EA-000003-000036",
+  "last_concluded_strategy_name": "Segredo de justiça e proteção de dados na repactuação por superendividamento",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
@@ -206,5 +192,5 @@
     ]
   },
   "legal_corpus_status": "CICLO_ADVERSARIAL_CORRIGIDO_E_REAUDITADO",
-  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/erros-advocacia-repactuacao-superendividamento.html"
+  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/segredo-justica-superendividamento.html"
 }
