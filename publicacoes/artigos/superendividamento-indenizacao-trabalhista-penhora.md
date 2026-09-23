@@ -357,19 +357,19 @@ Entre esses dois extremos está o trabalho jurídico real: **reconstruir a fotog
 
 ## Fontes principais
 
-- Código de Defesa do Consumidor — arts. 54-A, 104-A e 104-B.
-- Código de Processo Civil — arts. 5º, 6º, 77, 493, 789, 833, 835, 854 e 860.
-- STJ — *Jurisprudência em Teses*, edição 282: Superendividamento.
-- STJ — REsp 2.125.519/PR.
-- STJ — CC 218.010/RS.
-- STJ — REsp 1.677.144/RS.
-- STJ — Tema Repetitivo 1235.
-- STJ — Tema Repetitivo 1285, ainda em julgamento na data de corte.
-- STJ — Tema Repetitivo 370.
+- [Código de Defesa do Consumidor — arts. 54-A, 104-A e 104-B](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm).
+- [Código de Processo Civil — arts. 5º, 6º, 77, 493, 789, 833, 835, 854 e 860](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm).
+- [STJ — Jurisprudência em Teses, edição 282: Superendividamento](https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=282).
+- [STJ — REsp 2.125.519/PR](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202400578198).
+- [STJ — CC 218.010/RS](https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&fr=veja&i=1&livre=%28%27CC%27+INPATH%28CLAP%29+AND+%27218010%27+INPATH%28NUM%29%29&thesaurus=JURIDICO).
+- [STJ — REsp 1.677.144/RS](https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&fr=veja&i=1&livre=%28%27RESP%27+INPATH%28CLAS%29+AND+%271677144%27+INPATH%28NUM%29%29&thesaurus=JURIDICO).
+- [STJ — Tema Repetitivo 1235](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_final=1235&cod_tema_inicial=1235&novaConsulta=true&tipo_pesquisa=T).
+- [STJ — Tema Repetitivo 1285](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&num_processo_classe=2015693&sg_classe=REsp&tipo_pesquisa=T), ainda em julgamento na data de corte.
+- [STJ — Tema Repetitivo 370](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_final=370&cod_tema_inicial=370&novaConsulta=true&tipo_pesquisa=T).
 - STJ — REsp 451.199/SP, no contexto específico de distinção entre pensão e dano moral.
-- STF — ADPFs 1.005, 1.006 e 1.097, julgamento de 23/04/2026.
-- BUZZI, Marco Aurélio Gastaldi; MARQUES, Claudia Lima; CABRAL, Trícia Navarro Xavier; ANDRADE, Juliana Loss de (coord.). *Superendividamento dos consumidores: aspectos materiais e processuais*. Foco, 2024.
-- BESSA, Leonardo Roscoe. *Código de Defesa do Consumidor comentado*. 3. ed., 2025, conforme referência reproduzida em pesquisa temática do TJDFT.
+- [STF — ADPFs 1.005, 1.006 e 1.097 — processo de referência](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6468508), julgamento de 23/04/2026.
+- [BUZZI, Marco Aurélio Gastaldi; MARQUES, Claudia Lima; CABRAL, Trícia Navarro Xavier; ANDRADE, Juliana Loss de (coord.). *Superendividamento dos consumidores: aspectos materiais e processuais*. Foco, 2024](https://bdjur.stj.jus.br/jspui/bitstream/2011/184082/superendividamento_consumidores_aspectos_buzzi.pdf).
+- [TJDFT — Ação de repactuação por superendividamento: procedimento bifásico](https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/cdc-na-visao-do-tjdft-1/superendividamento/acao-de-repactuacao-de-dividas-por-superendividamento-rito), com referência a Leonardo Roscoe Bessa, *Código de Defesa do Consumidor comentado*, 3. ed., 2025.
 
 ## Conteúdos relacionados
 
