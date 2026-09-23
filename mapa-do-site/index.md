@@ -23,6 +23,16 @@
 - [Divórcio litigioso com pedidos cumulados](../acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html#modelo)
 - [Reclamação trabalhista com danos morais](../acoes/reclamacao-trabalhista-danos-morais.html#modelo)
 
+## Publicações
+
+- [Notícias](../publicacoes/noticias/index.html)
+- [Artigos](../publicacoes/artigos/index.html)
+  - [Ação de repactuação por superendividamento: 12 erros da advocacia autoral e um protocolo para evitá-los](../publicacoes/artigos/erros-advocacia-repactuacao-superendividamento.html)
+  - [Superendividamento e indenização trabalhista de R$ 100 mil: os credores podem penhorar o saldo?](../publicacoes/artigos/superendividamento-indenizacao-trabalhista-penhora.html)
+  - [Separação de fato sem divórcio no superendividamento](../publicacoes/artigos/separacao-de-fato-sem-divorcio-superendividamento.html)
+- [Observatório](../publicacoes/observatorio/index.html)
+  - [Superendividamento — Estado atual do conhecimento](../publicacoes/observatorio/superendividamento-estado-do-conhecimento-2026-09-22.html)
+
 ## Áreas transversais
 
 - Início
@@ -47,4 +57,4 @@
 - Fale Conosco
 - [Privacidade](../privacidade/index.html)
 
-**Última revisão:** 21/09/2026.
+**Última revisão:** 23/09/2026.
