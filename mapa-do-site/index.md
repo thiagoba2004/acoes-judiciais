@@ -27,6 +27,7 @@
 
 - [Notícias](../publicacoes/noticias/index.html)
 - [Artigos](../publicacoes/artigos/index.html)
+  - [Indenização trabalhista de R$ 100 mil: poupança, CDB, LCI, LCA, fundos e previdência protegem contra penhora?](../publicacoes/artigos/indenizacao-trabalhista-investimentos-impenhorabilidade-sisbajud.html)
   - [Provas na ação de repactuação por superendividamento: o que é essencial em cada tipo de dívida?](../publicacoes/artigos/provas-repactuacao-superendividamento.html)
   - [Toda ação de repactuação por superendividamento tramita em segredo de justiça?](../publicacoes/artigos/segredo-justica-superendividamento.html)
   - [Ação de repactuação por superendividamento: 12 erros da advocacia autoral e um protocolo para evitá-los](../publicacoes/artigos/erros-advocacia-repactuacao-superendividamento.html)
@@ -59,4 +60,4 @@
 - Fale Conosco
 - [Privacidade](../privacidade/index.html)
 
-**Última revisão:** 23/09/2026.
+**Última revisão:** 24/09/2026.

@@ -4,6 +4,12 @@ Análises jurídicas críticas e argumentativas sobre temas já cobertos pelo Si
 
 ## Publicados
 
+### [Indenização trabalhista de R$ 100 mil: poupança, CDB, LCI, LCA, fundos e previdência protegem contra penhora?](indenizacao-trabalhista-investimentos-impenhorabilidade-sisbajud.html)
+
+**24/09/2026 · Execução · Penhora · Investimentos**
+
+Explica o alcance do SISBAJUD sobre aplicações financeiras, compara a proteção dos 40 salários mínimos em poupança e outros produtos e examina CDB, LCI/LCA, fundos e previdência aberta sem confundir impenhorabilidade com blindagem patrimonial.
+
 ### [Provas na ação de repactuação por superendividamento: o que é essencial em cada tipo de dívida?](provas-repactuacao-superendividamento.html)
 
 **23/09/2026 · Superendividamento · Prova · Documentos**

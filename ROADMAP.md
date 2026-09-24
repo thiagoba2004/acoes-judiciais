@@ -481,3 +481,27 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 
 **Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
 
+## EA-000003-000038 — Indenização trabalhista, reserva financeira e limites da penhora — EM EXECUÇÃO
+
+**Origem:** REQ-20260924-001.  
+**Plano:** `research/EA-000003-000038/plano-de-fases.md`.
+
+### Fases
+1. Densidade, delimitação e mapa de controvérsias — CONCLUÍDA.
+2. Marco normativo e processual — CONCLUÍDA.
+3. SISBAJUD e alcance técnico dos bloqueios — CONCLUÍDA.
+4. Jurisprudência superior e evolução temporal — CONCLUÍDA.
+5. Matriz por produto financeiro — CONCLUÍDA.
+6. Prova e protocolo jurídico lícito — CONCLUÍDA.
+7. Redação e auditoria adversarial — CONCLUÍDA.
+8. Publicação, integração, auditoria e deploy — EM EXECUÇÃO.
+
+### Achados centrais
+- densidade autônoma confirmada;
+- poupança não é a única modalidade em que a proteção de 40 SM pode ser discutida, mas é a hipótese legal mais direta;
+- fora da poupança, REsp 1.677.144/RS e precedentes de 2026 exigem prova concreta de reserva para o mínimo existencial;
+- CDB, RDB, LCI, LCA, fundos e ativos em corretoras estão dentro do alcance regulatório do SISBAJUD;
+- PGBL/VGBL não constituem porto seguro automático;
+- Tema 1.235 exige alegação tempestiva; Tema 1.285 permanece em julgamento;
+- nenhuma estratégia lícita garante impenhorabilidade integral dos R$ 100 mil pelo simples produto financeiro.
+
