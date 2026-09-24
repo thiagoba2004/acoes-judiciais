@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000039",
-  "current_strategy_name": "Pessoa natural e pessoa física no superendividamento",
-  "current_phase": {
-    "phase_number": 1,
-    "phase_total": 7,
-    "phase_code": "F-000003-000039-001",
-    "phase_name": "Densidade e delimitação",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000038 concluída e corrigida pós-publicação: Tesouro Direto incorporado ao artigo, com nova auditoria e novo deploy verificado.",
-  "next_logical_step": "Concluir pesquisa normativa e terminológica sobre pessoa natural e pessoa física, testar a densidade e avançar para direito civil e CDC.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000039 concluída: artigo sobre pessoa natural e pessoa física pesquisado, auditado, publicado e verificado.",
+  "next_logical_step": "Nenhuma Estratégia Autônoma ativa; aguardar novo pedido ou priorização.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,18 +32,18 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "SEM_ESTRATEGIA_ATIVA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35985747888,
+    "workflow_run_id": 35999103156,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "ed824c6b6a130f08b3e6ba207e6acbc484d4709b",
+    "commit_sha": "9da3c52eadebe3ed51043f15c4e58aef4466b1f6",
     "completed_at": "2026-09-24",
-    "artifact_id": 10802225965,
-    "artifact_digest": "sha256:672faf39047dff922c2ca49d4e2718cea6824152c9c9e0e3026b01efab5810d4",
-    "note": "Correção pós-publicação da EA-000003-000038: Tesouro Direto incluído no artigo, índice e Mapa do Site; artefato com 29 HTMLs; rota e seção Tesouro Direto verificadas; GitHub Pages success."
+    "artifact_id": 10807710508,
+    "artifact_digest": "sha256:65d337c329f72ecf09a5b2e85d6ab96262cd374a1e9fcef52ff6818214a9f8c6",
+    "note": "Artigo sobre pessoa natural e pessoa física publicado, integrado ao índice e Mapa do Site; artefato com 30 HTMLs; rota verificada; GitHub Pages success."
   },
   "public_menu": [
     "Início",
@@ -171,9 +165,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000038",
-  "last_concluded_strategy_name": "Indenização trabalhista, reserva financeira e limites da penhora",
-  "current_strategy": "EA-000003-000039",
+  "last_concluded_strategy_code": "EA-000003-000039",
+  "last_concluded_strategy_name": "Pessoa natural e pessoa física no superendividamento",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
@@ -198,5 +192,5 @@
     ]
   },
   "legal_corpus_status": "CICLO_ADVERSARIAL_CORRIGIDO_E_REAUDITADO",
-  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/indenizacao-trabalhista-investimentos-impenhorabilidade-sisbajud.html"
+  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/pessoa-natural-pessoa-fisica-superendividamento.html"
 }
