@@ -4,6 +4,12 @@ Análises jurídicas críticas e argumentativas sobre temas já cobertos pelo Si
 
 ## Publicados
 
+### [Pessoa natural ou pessoa física? O vocabulário da Lei do Superendividamento e do Direito brasileiro](pessoa-natural-pessoa-fisica-superendividamento.html)
+
+**24/09/2026 · Superendividamento · Terminologia jurídica**
+
+Explica por que a Lei nº 14.181/2021 adota “pessoa natural”, enquanto o próprio CDC, o CPF e o IRPF também usam “pessoa física”, reconstruindo a história e os efeitos jurídicos das duas expressões.
+
 ### [Indenização trabalhista de R$ 100 mil: poupança, Tesouro Direto e outros investimentos protegem contra penhora?](indenizacao-trabalhista-investimentos-impenhorabilidade-sisbajud.html)
 
 **24/09/2026 · Execução · Penhora · Investimentos**
