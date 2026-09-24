@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000003-000038",
   "current_strategy_name": "Indenização trabalhista, reserva financeira e limites da penhora",
   "current_phase": {
-    "number": 1,
+    "number": 8,
     "total": 8,
-    "code": "F-000003-000038-001",
-    "name": "Densidade, delimitação e mapa de controvérsias",
+    "code": "F-000003-000038-008",
+    "name": "Publicação, integração, auditoria e deploy",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000003-000037 concluída: artigo sobre provas na repactuação por superendividamento pesquisado, auditado, integrado e implantado.",
-  "next_logical_step": "Concluir a pesquisa exaustiva e a matriz produto por produto antes da redação e publicação.",
+  "next_logical_step": "Mesclar a estratégia em main, verificar GitHub Pages e encerrar somente após confirmação do deploy.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
