@@ -402,17 +402,17 @@ Portanto, o verdadeiro diferencial não é procurar um esconderijo financeiro. �
 
 ## Fontes principais
 
-- **Brasil — Código de Processo Civil**, especialmente arts. 789, 792, 833 e 854: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
-- **Brasil — Decreto nº 12.797/2025**, salário mínimo de R$ 1.621,00 em 2026: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12797.htm
-- **CNJ — Regulamento do SISBAJUD vigente**, arts. 17 a 24: https://atos.cnj.jus.br/atos/detalhar/6243
-- **STJ — REsp 1.677.144/RS, Corte Especial**, Informativo 804: https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D020577
-- **STJ — Tema Repetitivo 1.235**, alegação tempestiva da impenhorabilidade: https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&num_processo_classe=2066882&sg_classe=REsp&tipo_pesquisa=T
-- **STJ — Tema Repetitivo 1.285**, em julgamento na data de corte: https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&num_processo_classe=2015693&sg_classe=REsp&tipo_pesquisa=T
-- **STJ — REsp 1.230.060/PR**, indenização trabalhista mantida em fundo de investimento: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2014/2014-08-27_14-43_Reserva-unica-de-ate-40-minimos-e-impenhoravel-qualquer-que-seja-a-aplicacao-financeira.aspx
-- **STJ — AREsp 3.056.396/RS**, julgado em 16/03/2026.
-- **STJ — AREsp 3.170.065/SP**, julgado em 24/08/2026.
-- **STJ — AgInt no REsp 2.182.308/SP**, VGBL, julgado em 25/05/2026.
-- **STJ — REsp 2.167.867/RS**, PGBL, julgado em 08/06/2026.
-- **STJ — Tema Repetitivo 1.230**, verbas remuneratórias, julgado em setembro de 2026.
+- [**Brasil — Código de Processo Civil**, especialmente arts. 789, 792, 833 e 854](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm)
+- [**Brasil — Decreto nº 12.797/2025**, salário mínimo de R$ 1.621,00 em 2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12797.htm)
+- [**CNJ — Regulamento do SISBAJUD vigente**, arts. 17 a 24](https://atos.cnj.jus.br/atos/detalhar/6243)
+- [**STJ — REsp 1.677.144/RS, Corte Especial**, Informativo 804](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D020577)
+- [**STJ — Tema Repetitivo 1.235**, alegação tempestiva da impenhorabilidade](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&num_processo_classe=2066882&sg_classe=REsp&tipo_pesquisa=T)
+- [**STJ — Tema Repetitivo 1.285**, em julgamento na data de corte](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&num_processo_classe=2015693&sg_classe=REsp&tipo_pesquisa=T)
+- [**STJ — REsp 1.230.060/PR**, indenização trabalhista mantida em fundo de investimento](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2014/2014-08-27_14-43_Reserva-unica-de-ate-40-minimos-e-impenhoravel-qualquer-que-seja-a-aplicacao-financeira.aspx)
+- [**STJ — AREsp 3.056.396/RS**, julgado em 16/03/2026](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503570600)
+- [**STJ — AREsp 3.170.065/SP**, julgado em 24/08/2026](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=27%2F08%2F2026&num_registro=202600387255)
+- [**STJ — AgInt no REsp 2.182.308/SP**, VGBL, julgado em 25/05/2026](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=28%2F05%2F2026&num_registro=202404360663)
+- [**STJ — REsp 2.167.867/RS**, PGBL, julgado em 08/06/2026](https://scon.stj.jus.br/SCON/pesquisar.jsp?O=RR&b=ACOR&p=true&preConsultaPP=7532%2F0&thesaurus=JURIDICO&tp=T)
+- [**STJ — Tema Repetitivo 1.230**, verbas remuneratórias, julgado em setembro de 2026](https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&fr=veja&i=1&livre=%28%27RESP%27+INPATH%28CLAS%29+AND+%272071335%27+INPATH%28NUM%29%29&thesaurus=JURIDICO)
 
 > **Nota de atualização:** o Tema 1.285/STJ ainda está em julgamento. Este artigo deverá ser revisto quando a Corte Especial fixar a tese repetitiva.
