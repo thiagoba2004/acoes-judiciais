@@ -1,10 +1,10 @@
-# Indenização trabalhista de R$ 100 mil: poupança, CDB, LCI, LCA, fundos e previdência protegem contra penhora?
+# Indenização trabalhista de R$ 100 mil: poupança, Tesouro Direto e outros investimentos protegem contra penhora?
 
 ## O que o SISBAJUD alcança, como funciona a regra dos 40 salários mínimos e por que rendimento maior não significa ausência de proteção — nem imunidade
 
 **Atualizado em 24/09/2026**
 
-Uma pessoa recebe **R$ 100.000,00 líquidos de indenização trabalhista por dano moral** e, ao mesmo tempo, possui dívidas que podem gerar execução. Surge então uma dúvida prática: é preciso sacrificar rentabilidade e colocar parte do dinheiro em caderneta de poupança para reduzir o risco de penhora? CDB, LCI, LCA, fundo de investimento ou previdência aberta poderiam oferecer proteção semelhante? E o SISBAJUD alcança apenas o saldo da conta-corrente?
+Uma pessoa recebe **R$ 100.000,00 líquidos de indenização trabalhista por dano moral** e, ao mesmo tempo, possui dívidas que podem gerar execução. Surge então uma dúvida prática: é preciso sacrificar rentabilidade e colocar parte do dinheiro em caderneta de poupança para reduzir o risco de penhora? **Tesouro Direto**, CDB, LCI, LCA, fundo de investimento ou previdência aberta poderiam oferecer proteção semelhante? E o SISBAJUD alcança apenas o saldo da conta-corrente?
 
 A resposta exige cuidado porque três coisas diferentes costumam ser confundidas:
 
@@ -18,7 +18,7 @@ Misturar essas três perguntas produz dois erros opostos: acreditar que um inves
 
 **Não, a poupança não é a única aplicação na qual se pode discutir a proteção de até 40 salários mínimos. Mas, na jurisprudência atual do STJ, é a modalidade que possui o suporte literal mais forte do art. 833, X, do CPC e para a qual a Corte Especial reconheceu proteção automática quanto ao tipo de conta, respeitado o teto. Para conta-corrente e outras aplicações, a extensão dessa proteção pode ser admitida, mas hoje exige prova concreta de que o valor constitui verdadeira reserva patrimonial destinada ao mínimo existencial do devedor ou de sua família.**
 
-Ao mesmo tempo, **CDB, RDB, LCI, LCA, fundos de investimento, ativos custodiados por corretoras e outras aplicações não estão fora do alcance técnico do SISBAJUD**. O regulamento vigente do sistema prevê expressamente o bloqueio dessas modalidades.
+Ao mesmo tempo, **Tesouro Direto, CDB, RDB, LCI, LCA, fundos de investimento, ativos custodiados por corretoras e outras aplicações não estão fora do alcance técnico do SISBAJUD**. O regulamento vigente do sistema prevê expressamente o bloqueio dessas modalidades.
 
 E a previdência aberta também não funciona como cofre imune: o STJ trata PGBL e VGBL de modo casuístico e, especialmente durante a fase de acumulação, pode reconhecer natureza predominante de investimento financeiro quando não estiver demonstrada função alimentar.
 
@@ -172,7 +172,25 @@ A isenção tributária ou a natureza do lastro dessas letras não cria, por si 
 
 Se o devedor pretende sustentar a proteção de até 40 salários mínimos, o ponto central será demonstrar que o montante possui **função de reserva patrimonial para o mínimo existencial**, não apenas que está investido em um produto conservador e rentável.
 
-### 6.5 Fundos de investimento
+### 6.5 Tesouro Direto: Tesouro Selic, Prefixado e IPCA+
+
+O **Tesouro Direto** deveria ser examinado expressamente porque é uma das alternativas naturais à poupança quando o objetivo econômico é manter uma reserva em renda fixa.
+
+Ele não é depósito bancário. O Tesouro Direto é o programa de venda de títulos públicos federais a pessoas físicas, operacionalizado em parceria com a B3. As posições são registradas em contas individualizadas de custódia; o Banco Central disponibiliza inclusive extrato que reúne títulos adquiridos pelo Tesouro Direto e outros títulos custodiados no Selic.
+
+Do ponto de vista executivo, isso não o coloca fora do alcance judicial. O Regulamento do SISBAJUD determina que infraestruturas do mercado financeiro e corretoras/distribuidoras cumpram ordens relativas a **ativos financeiros e valores mobiliários** registrados ou depositados em suas plataformas. A prática judicial recente também menciona expressamente o Tesouro Direto entre as aplicações de renda fixa alcançadas pelo sistema.
+
+Logo, **Tesouro Selic, Tesouro Prefixado e Tesouro IPCA+ não funcionam como abrigo técnico contra o SISBAJUD**.
+
+A pergunta jurídica seguinte é diferente: títulos públicos de até 40 salários mínimos podem receber a proteção construída pelo STJ para reservas financeiras fora da poupança?
+
+Não foi localizado, na pesquisa realizada para esta revisão, **precedente qualificado do STJ que atribua ao Tesouro Direto uma impenhorabilidade específica ou automática**. A tese defensiva, portanto, teria de partir da jurisprudência geral sobre a extensão do art. 833, X, para outras aplicações e da demonstração concreta de que a posição em títulos públicos funciona como reserva destinada ao mínimo existencial.
+
+O Tema 1.285 não menciona nominalmente Tesouro Direto em sua questão submetida a julgamento, mas a futura tese poderá influenciar a análise porque discute justamente até onde se estende a proteção das reservas financeiras mantidas fora da poupança.
+
+Também não há, no estado atual da jurisprudência superior, base segura para dizer que **Tesouro Selic** seja juridicamente mais protegido do que **Tesouro IPCA+** ou **Tesouro Prefixado** apenas por sua liquidez ou volatilidade. O produto financeiro pode ajudar a caracterizar a finalidade econômica da reserva, mas não substitui a prova do mínimo existencial.
+
+### 6.6 Fundos de investimento
 
 Os fundos têm história jurisprudencial particularmente importante.
 
@@ -186,7 +204,7 @@ A Corte Especial, no REsp 1.677.144/RS, passou a exigir, fora da poupança, prov
 
 Além disso, o SISBAJUD possui mecanismo próprio para atingir cotas e outros ativos em instituições do mercado financeiro.
 
-### 6.6 Previdência privada aberta: PGBL e VGBL
+### 6.7 Previdência privada aberta: PGBL e VGBL
 
 Aqui existe um dos maiores riscos de simplificação.
 
@@ -377,6 +395,7 @@ O artigo anterior deste Site, **“Superendividamento e indenização trabalhist
 | Conta-corrente | Sim | possível, se comprovada função de reserva/mínimo existencial | relevante |
 | CDB/RDB | Sim, expressamente | possível por extensão, sob prova | relevante |
 | LCI/LCA | Sim, expressamente | possível por extensão, sob prova | relevante |
+| Tesouro Direto — Selic, Prefixado e IPCA+ | Sim; títulos públicos e ativos em custódia podem ser alcançados | possível apenas por extensão jurisprudencial e prova da função de reserva; sem proteção específica automática localizada | relevante |
 | Fundo de investimento | Sim | possível por extensão, sob prova | relevante e alcançado pelo Tema 1.285 |
 | PGBL/VGBL em acumulação | pode ser objeto de constrição; via operacional depende da instituição e da ordem | não há imunidade automática; análise casuística | alta |
 
@@ -388,9 +407,9 @@ A melhor resposta jurídica não é escolher entre “poupança ou investimento�
 
 É separar **proteção material, prova e execução eletrônica**.
 
-A caderneta de poupança continua sendo, em setembro de 2026, a posição mais simples para invocar o art. 833, X, até R$ 64.840,00. Isso não significa que aplicações mais rentáveis estejam automaticamente desprotegidas. CDB, LCI, LCA e fundos podem, em tese, receber proteção dentro do mesmo teto se houver prova convincente de que funcionam como verdadeira reserva para o mínimo existencial.
+A caderneta de poupança continua sendo, em setembro de 2026, a posição mais simples para invocar o art. 833, X, até R$ 64.840,00. Isso não significa que aplicações mais rentáveis estejam automaticamente desprotegidas. **Tesouro Direto, CDB, LCI, LCA e fundos** podem, em tese, sustentar discussão de proteção dentro do mesmo teto se houver prova convincente de que funcionam como verdadeira reserva para o mínimo existencial.
 
-A contrapartida é clara: todos esses produtos estão no campo de alcance do SISBAJUD, e a proteção precisará ser discutida juridicamente depois da constrição.
+A contrapartida é clara: todos esses produtos podem ser alcançados por ordens judiciais de constrição patrimonial, inclusive por meio do SISBAJUD conforme a instituição e a forma de custódia, e a proteção precisará ser discutida juridicamente.
 
 PGBL e VGBL tampouco oferecem blindagem automática. A jurisprudência recente exige análise concreta de finalidade e subsistência.
 
@@ -405,6 +424,8 @@ Portanto, o verdadeiro diferencial não é procurar um esconderijo financeiro. �
 - [**Brasil — Código de Processo Civil**, especialmente arts. 789, 792, 833 e 854](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm)
 - [**Brasil — Decreto nº 12.797/2025**, salário mínimo de R$ 1.621,00 em 2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12797.htm)
 - [**CNJ — Regulamento do SISBAJUD vigente**, arts. 17 a 24](https://atos.cnj.jus.br/atos/detalhar/6243)
+- [**B3 — Tesouro Direto: regras e estrutura do programa**](https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/tesouro-direto.htm)
+- [**Banco Central — Extrato do Tesouro Direto e Selic**](https://www.bcb.gov.br/meubc/tesouro-direto)
 - [**STJ — REsp 1.677.144/RS, Corte Especial**, Informativo 804](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D020577)
 - [**STJ — Tema Repetitivo 1.235**, alegação tempestiva da impenhorabilidade](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&num_processo_classe=2066882&sg_classe=REsp&tipo_pesquisa=T)
 - [**STJ — Tema Repetitivo 1.285**, em julgamento na data de corte](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&num_processo_classe=2015693&sg_classe=REsp&tipo_pesquisa=T)
