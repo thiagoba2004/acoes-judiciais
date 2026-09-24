@@ -481,7 +481,7 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 
 **Estado corrente após o fechamento:** nenhuma Estratégia Autônoma ativa.
 
-## EA-000003-000038 — Indenização trabalhista, reserva financeira e limites da penhora — EM EXECUÇÃO
+## EA-000003-000038 — Indenização trabalhista, reserva financeira e limites da penhora — CONCLUÍDA
 
 **Origem:** REQ-20260924-001.  
 **Plano:** `research/EA-000003-000038/plano-de-fases.md`.
@@ -494,7 +494,7 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 5. Matriz por produto financeiro — CONCLUÍDA.
 6. Prova e protocolo jurídico lícito — CONCLUÍDA.
 7. Redação e auditoria adversarial — CONCLUÍDA.
-8. Publicação, integração, auditoria e deploy — EM EXECUÇÃO.
+8. Publicação, integração, auditoria e deploy — CONCLUÍDA.
 
 ### Achados centrais
 - densidade autônoma confirmada;
@@ -505,3 +505,18 @@ Plano: `research/EA-000003-000018/plano-de-fases.md`.
 - Tema 1.235 exige alegação tempestiva; Tema 1.285 permanece em julgamento;
 - nenhuma estratégia lícita garante impenhorabilidade integral dos R$ 100 mil pelo simples produto financeiro.
 
+
+
+### Resultado — EA-000003-000038
+
+- 8/8 fases concluídas;
+- densidade temática confirmada e artigo autônomo publicado;
+- regra dos 40 salários mínimos calculada para 2026: R$ 64.840,00;
+- poupança distinguida de conta-corrente e demais aplicações segundo REsp 1.677.144/RS;
+- Tema 1.235 e ônus de alegação tempestiva incorporados;
+- Tema 1.285 preservado como controvérsia pendente;
+- alcance do SISBAJUD documentado para CDB, RDB, LCI, LCA, fundos e outros ativos;
+- PGBL/VGBL tratados à luz de julgados de 2026, sem promessa de imunidade;
+- artigo integrado a Artigos e Mapa do Site;
+- artefato GitHub Pages com 29 HTMLs e rota nova presente;
+- GitHub Pages run `35983447318`: **success**.
