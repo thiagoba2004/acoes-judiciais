@@ -8,11 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
+  "current_strategy_code": "EA-000003-000038",
+  "current_strategy_name": "Indenização trabalhista, reserva financeira e limites da penhora",
+  "current_phase": {
+    "number": 1,
+    "total": 8,
+    "code": "F-000003-000038-001",
+    "name": "Densidade, delimitação e mapa de controvérsias",
+    "status": "EM_EXECUCAO"
+  },
   "last_completed_milestone": "EA-000003-000037 concluída: artigo sobre provas na repactuação por superendividamento pesquisado, auditado, integrado e implantado.",
-  "next_logical_step": "Nenhuma Estratégia Autônoma ativa; aguardar novo pedido ou priorização.",
+  "next_logical_step": "Concluir a pesquisa exaustiva e a matriz produto por produto antes da redação e publicação.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -28,11 +34,11 @@
     "RESEARCH_DOUTRINA_PROTOCOL.md",
     "JURISPRUDENCE_MATRIX.md"
   ],
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-09-24",
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "SEM_ESTRATEGIA_ATIVA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
@@ -167,7 +173,7 @@
   },
   "last_concluded_strategy_code": "EA-000003-000037",
   "last_concluded_strategy_name": "Provas na repactuação por superendividamento: matriz por categoria e documentos recorrentes",
-  "current_strategy": null,
+  "current_strategy": "EA-000003-000038",
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
