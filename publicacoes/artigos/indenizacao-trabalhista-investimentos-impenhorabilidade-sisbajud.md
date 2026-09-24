@@ -178,7 +178,7 @@ O **Tesouro Direto** deveria ser examinado expressamente porque é uma das alter
 
 Ele não é depósito bancário. O Tesouro Direto é o programa de venda de títulos públicos federais a pessoas físicas, operacionalizado em parceria com a B3. As posições são registradas em contas individualizadas de custódia; o Banco Central disponibiliza inclusive extrato que reúne títulos adquiridos pelo Tesouro Direto e outros títulos custodiados no Selic.
 
-Do ponto de vista executivo, isso não o coloca fora do alcance judicial. O Regulamento do SISBAJUD determina que infraestruturas do mercado financeiro e corretoras/distribuidoras cumpram ordens relativas a **ativos financeiros e valores mobiliários** registrados ou depositados em suas plataformas. A prática judicial recente também menciona expressamente o Tesouro Direto entre as aplicações de renda fixa alcançadas pelo sistema.
+Do ponto de vista executivo, isso não o coloca fora do alcance judicial. O Regulamento do SISBAJUD determina que infraestruturas do mercado financeiro e corretoras/distribuidoras cumpram ordens relativas a **ativos financeiros e valores mobiliários** registrados ou depositados em suas plataformas.
 
 Logo, **Tesouro Selic, Tesouro Prefixado e Tesouro IPCA+ não funcionam como abrigo técnico contra o SISBAJUD**.
 
