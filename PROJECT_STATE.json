@@ -8,11 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
+  "current_strategy_code": "EA-000003-000040",
+  "current_strategy_name": "Pauta editorial interna e backlog de conteúdo",
+  "current_phase": {
+    "phase_number": 1,
+    "phase_total": 4,
+    "phase_code": "F-000003-000040-001",
+    "phase_name": "Arquitetura e critérios",
+    "status": "EM_EXECUCAO"
+  },
   "last_completed_milestone": "EA-000003-000039 concluída: artigo sobre pessoa natural e pessoa física pesquisado, auditado, publicado e verificado.",
-  "next_logical_step": "Nenhuma Estratégia Autônoma ativa; aguardar novo pedido ou priorização.",
+  "next_logical_step": "Definir a estrutura canônica da pauta editorial, inventariar conteúdos existentes e registrar a pauta inicial sem exposição pública.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -32,7 +38,7 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "SEM_ESTRATEGIA_ATIVA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
@@ -167,7 +173,7 @@
   },
   "last_concluded_strategy_code": "EA-000003-000039",
   "last_concluded_strategy_name": "Pessoa natural e pessoa física no superendividamento",
-  "current_strategy": null,
+  "current_strategy": "EA-000003-000040",
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
