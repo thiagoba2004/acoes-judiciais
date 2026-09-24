@@ -11,7 +11,7 @@
   "current_strategy_code": null,
   "current_strategy_name": null,
   "current_phase": null,
-  "last_completed_milestone": "EA-000003-000038 concluída: artigo sobre indenização trabalhista, investimentos, SISBAJUD e limites da penhora pesquisado, auditado, publicado e implantado.",
+  "last_completed_milestone": "EA-000003-000038 concluída e corrigida pós-publicação: Tesouro Direto incorporado ao artigo, com nova auditoria e novo deploy verificado.",
   "next_logical_step": "Nenhuma Estratégia Autônoma ativa; monitorar superveniência do Tema 1.285/STJ e aguardar novo pedido ou priorização.",
   "canonical_files": [
     "README.md",
@@ -36,14 +36,14 @@
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35983447318,
+    "workflow_run_id": 35985747888,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "9075a1c74b25c922d6b07254b446d3451c36c7d0",
+    "commit_sha": "ed824c6b6a130f08b3e6ba207e6acbc484d4709b",
     "completed_at": "2026-09-24",
-    "artifact_id": 10801690016,
-    "artifact_digest": "sha256:b8152453009c73fe984e4fcbb23c9ecfe0807c3e77b7f48e94cd7e948deea2be",
-    "note": "EA-000003-000038: artigo publicado; artefato com 29 HTMLs; rota, índice de Artigos e Mapa do Site presentes; GitHub Pages success."
+    "artifact_id": 10802225965,
+    "artifact_digest": "sha256:672faf39047dff922c2ca49d4e2718cea6824152c9c9e0e3026b01efab5810d4",
+    "note": "Correção pós-publicação da EA-000003-000038: Tesouro Direto incluído no artigo, índice e Mapa do Site; artefato com 29 HTMLs; rota e seção Tesouro Direto verificadas; GitHub Pages success."
   },
   "public_menu": [
     "Início",
