@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000003-000038",
-  "current_strategy_name": "Indenização trabalhista, reserva financeira e limites da penhora",
-  "current_phase": {
-    "number": 8,
-    "total": 8,
-    "code": "F-000003-000038-008",
-    "name": "Publicação, integração, auditoria e deploy",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000003-000037 concluída: artigo sobre provas na repactuação por superendividamento pesquisado, auditado, integrado e implantado.",
-  "next_logical_step": "Mesclar a estratégia em main, verificar GitHub Pages e encerrar somente após confirmação do deploy.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000003-000038 concluída: artigo sobre indenização trabalhista, investimentos, SISBAJUD e limites da penhora pesquisado, auditado, publicado e implantado.",
+  "next_logical_step": "Nenhuma Estratégia Autônoma ativa; monitorar superveniência do Tema 1.285/STJ e aguardar novo pedido ou priorização.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,18 +32,18 @@
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "SEM_ESTRATEGIA_ATIVA",
   "public_url": "https://thiagoba2004.github.io/acoes-judiciais/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35881649860,
+    "workflow_run_id": 35983447318,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "cd3dd08c84bbda8c543ab5339bf74b8e31e1ee6a",
-    "completed_at": "2026-09-23",
-    "artifact_id": 10760323225,
-    "artifact_digest": "sha256:6cb711c6c4515a3abe5740112878a20b74d7c753618a6c735601e611a86aabd8",
-    "note": "EA-000003-000037: artigo probatório publicado; artefato auditado com 28 HTMLs, 787 hrefs, 508 referências internas, 69 âncoras e zero falhas."
+    "commit_sha": "9075a1c74b25c922d6b07254b446d3451c36c7d0",
+    "completed_at": "2026-09-24",
+    "artifact_id": 10801690016,
+    "artifact_digest": "sha256:b8152453009c73fe984e4fcbb23c9ecfe0807c3e77b7f48e94cd7e948deea2be",
+    "note": "EA-000003-000038: artigo publicado; artefato com 29 HTMLs; rota, índice de Artigos e Mapa do Site presentes; GitHub Pages success."
   },
   "public_menu": [
     "Início",
@@ -171,9 +165,9 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000003-000037",
-  "last_concluded_strategy_name": "Provas na repactuação por superendividamento: matriz por categoria e documentos recorrentes",
-  "current_strategy": "EA-000003-000038",
+  "last_concluded_strategy_code": "EA-000003-000038",
+  "last_concluded_strategy_name": "Indenização trabalhista, reserva financeira e limites da penhora",
+  "current_strategy": null,
   "corrective_program": {
     "source_strategy": "EA-000003-000019",
     "findings_total": 10,
@@ -198,5 +192,5 @@
     ]
   },
   "legal_corpus_status": "CICLO_ADVERSARIAL_CORRIGIDO_E_REAUDITADO",
-  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/provas-repactuacao-superendividamento.html"
+  "last_concluded_strategy_public_url": "https://thiagoba2004.github.io/acoes-judiciais/publicacoes/artigos/indenizacao-trabalhista-investimentos-impenhorabilidade-sisbajud.html"
 }
