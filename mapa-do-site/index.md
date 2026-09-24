@@ -27,6 +27,7 @@
 
 - [Notícias](../publicacoes/noticias/index.html)
 - [Artigos](../publicacoes/artigos/index.html)
+  - [Pessoa natural ou pessoa física? O vocabulário da Lei do Superendividamento e do Direito brasileiro](../publicacoes/artigos/pessoa-natural-pessoa-fisica-superendividamento.html)
   - [Indenização trabalhista de R$ 100 mil: poupança, Tesouro Direto e outros investimentos protegem contra penhora?](../publicacoes/artigos/indenizacao-trabalhista-investimentos-impenhorabilidade-sisbajud.html)
   - [Provas na ação de repactuação por superendividamento: o que é essencial em cada tipo de dívida?](../publicacoes/artigos/provas-repactuacao-superendividamento.html)
   - [Toda ação de repactuação por superendividamento tramita em segredo de justiça?](../publicacoes/artigos/segredo-justica-superendividamento.html)
