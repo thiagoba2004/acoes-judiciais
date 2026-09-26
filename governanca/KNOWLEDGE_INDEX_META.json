@@ -15,7 +15,7 @@
   "record_count": 311,
   "schema_version": "1.0",
   "semantic_tag_counts": {
-    "bdtd_ibict": 8,
+    "bdtd_ibict": 9,
     "editorial": 146,
     "financeiro": 212,
     "fonte": 177,
@@ -26,11 +26,11 @@
     "trabalho_sindical": 55
   },
   "source_system_counts": {
-    "BDTD/IBICT": 2,
+    "BDTD/IBICT": 3,
     "Banco Central do Brasil": 5,
     "CNJ": 24,
     "GOV.BR": 29,
-    "IBICT": 2,
+    "IBICT": 3,
     "Planalto": 27,
     "STF": 19,
     "STJ": 27,
