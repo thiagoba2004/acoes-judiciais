@@ -33,6 +33,23 @@ A seleção não deve depender de um ranking próprio do Site. Usar critérios e
 
 Não atribuir ao curso ou universidade uma 'posição institucional' quando o texto for de autoria individual. Identificar o autor, vínculo acadêmico e natureza do documento.
 
+### 2.2.1. BDTD/IBICT — descoberta sistemática de teses e dissertações
+
+Para temas compatíveis com pesquisa acadêmica brasileira, a camada 2.2 deve incluir busca na **Biblioteca Digital Brasileira de Teses e Dissertações (BDTD)**, mantida pelo **Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT)**.
+
+Procedimento mínimo:
+
+1. registrar descritores, filtros e data da busca;
+2. identificar título, autor, instituição, programa, nível, ano, resumo e palavras-chave;
+3. deduplicar resultados por repositório, Handle e DOI;
+4. abrir o registro institucional de origem antes de atribuir qualquer tese;
+5. ler o texto integral quando a conclusão depender do conteúdo e não apenas dos metadados;
+6. classificar pertinência e contribuição para a pergunta jurídica;
+7. verificar superveniência legislativa e jurisprudencial;
+8. não tratar presença na BDTD como selo de excelência nem como posição institucional da universidade.
+
+A BDTD funciona como mecanismo de descoberta e integração de metadados; a obra depositada na instituição de origem é a unidade documental a ser citada e analisada.
+
 ### 2.3. Comissões da OAB
 
 Pesquisar, quando pertinente, o Conselho Federal e as Seccionais da OAB, especialmente comissões permanentes ou temáticas relacionadas ao ramo estudado.
