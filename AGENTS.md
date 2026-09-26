@@ -6,7 +6,7 @@
 **project_name:** `Ações Judiciais`  
 **project_id legado:** `acoes-judiciais`  
 **generated_from_kernel:** `1.6`  
-**generator_release:** `1.20`  
+**generator_release:** `1.21`  
 **repository:** `thiagoba2004/acoes-judiciais`  
 **modules:** `research`, `legal`, `publication`, `web-site`, `contact-protocol`, `software`, `legal`, `publication`, `software`
 
