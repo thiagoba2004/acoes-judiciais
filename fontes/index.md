@@ -18,6 +18,8 @@ Para afirmações jurídicas relevantes, a referência pública deve permitir id
 
 ## Produção acadêmica
 
+- **BDTD/IBICT — Biblioteca Digital Brasileira de Teses e Dissertações:** fonte sistemática de descoberta de teses e dissertações brasileiras; cada obra é validada no repositório institucional de origem e, quando disponível, por Handle/DOI. A presença na BDTD não equivale a endosso de qualidade ou aderência.
+
 A produção acadêmica é selecionada por pertinência temática, autoria identificada e critérios externos verificáveis de qualidade. O Site não atribui ao curso ou à universidade a tese individual do autor.
 
 - **EPM/TJSP — Cadernos Jurídicos 69 (2025):** artigos autorais sobre petição inicial, plano, rito, competência e relação com outras demandas; autoria individual, não posição institucional do Tribunal.
@@ -62,4 +64,4 @@ O reconhecimento externo serve apenas como critério de seleção da fonte; não
 
 As instituições são fontes de posições **não vinculantes**. A incorporação ao Site exige atribuição, documento recuperável e confronto com legislação e jurisprudência.
 
-**Última revisão:** 23/09/2026.
+**Última revisão:** 26/09/2026.
