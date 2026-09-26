@@ -5,8 +5,8 @@
 **project_alias:** `AJ`  
 **project_name:** `Ações Judiciais`  
 **project_id legado:** `acoes-judiciais`  
-**generated_from_kernel:** `1.4`  
-**generator_release:** `1.19`  
+**generated_from_kernel:** `1.5`  
+**generator_release:** `1.20`  
 **repository:** `thiagoba2004/acoes-judiciais`  
 **modules:** `research`, `legal`, `publication`, `web-site`, `contact-protocol`, `software`, `legal`, `publication`, `software`
 
@@ -399,3 +399,16 @@ Regras obrigatórias:
 
 Estados canônicos: `IDEIA`, `EM_TRIAGEM`, `APROVADA_PARA_PESQUISA`, `EM_PESQUISA`, `PRONTA_PARA_REDACAO`, `EM_REDACAO`, `PRONTA_PARA_PUBLICACAO`, `PUBLICADA`, `SUSPENSA` e `DESCARTADA`.
 
+
+
+## Índice semântico-factual do acervo
+
+Manter `governanca/KNOWLEDGE_INDEX.jsonl`, gerado por `tools/build_knowledge_index.py`, como camada interna de descoberta. Perguntas transversais devem consultar primeiro o índice e depois confirmar o contexto no arquivo original. O índice não replica texto integral nem substitui a fonte jurídica/doutrinária.
+
+## BDTD/IBICT no módulo research/legal
+
+Quando houver aderência à produção acadêmica brasileira, pesquisar sistematicamente a **Biblioteca Digital Brasileira de Teses e Dissertações (BDTD/IBICT)**. A BDTD é fonte de descoberta; a obra no repositório institucional de origem é a unidade a ser lida/citada. Deduplicar por Handle/DOI e controlar superveniência legislativa/jurisprudencial.
+
+## Inovação e aperfeiçoamento proativos
+
+Manter `IMPROVEMENT_LOG.jsonl`. Lacuna estrutural, repetição manual evitável, fonte ausente, oportunidade de automação/indexação/padronização ou melhoria de verificabilidade identificada durante o trabalho deve ser comunicada ao usuário e persistida. Não ampliar silenciosamente o escopo. Trabalho substancial termina com **innovation check**.
