@@ -2,6 +2,7 @@
   "adapter_mode": "LOCAL_ENGINE_RECONCILIATION",
   "adapter_sha": "8c247cb6bfd2a46521e540e452fca2b61463ea68",
   "broker_repository": "thiagoba2004/governanca-geral-modelos-ia",
+  "classification_reason": null,
   "project_code": "PRJ-000003",
   "project_current_phase": null,
   "project_current_strategy": null,
