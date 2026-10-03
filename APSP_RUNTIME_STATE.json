@@ -1,14 +1,16 @@
 {
   "schema_version": "1.0",
-  "runtime_status": "IN_PROGRESS",
+  "runtime_status": "BLOCKED",
   "current_phase": null,
   "completed_phases": [],
   "completed_actions": [],
   "last_verified_action": null,
   "next_executable_action": null,
   "checkpoint": {
-    "at": null,
-    "reason": "runtime_contract_initialized"
+    "at": "2026-10-03",
+    "reason": "no_active_strategy_plan",
+    "source": "EA-000000-000009/F7"
   },
-  "human_decision_required": false
+  "human_decision_required": false,
+  "blocked_reason": "No active local strategy/plan is currently recorded. Runtime must not fabricate work."
 }
