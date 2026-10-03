@@ -92,7 +92,7 @@ def main():
                     if label not in systems:systems.append(label)
         hay=norm(' '.join([rel,title,*hs])+' '+plain[:120000])
         tags=sorted(tag for tag,needles in TAG_RULES.items() if any(norm(n) in hay for n in needles))
-        ids={k:sorted(set(rx.findall(text)))[:100] for k,rx in ID_PATTERNS.items()}
+        ids={k:sorted(set(rx.findall(text)))[:100] for k,rx in ID_PATTERNS.items()}; ids['legal_identifiers']=sorted(set(ID_PATTERNS['legal_identifiers'].findall(text)))[:500]
         rows.append({'path':rel,'extension':ext,'size_bytes':len(raw),'sha256':hashlib.sha256(raw).hexdigest(),'title':title,'headings':hs,'keywords':keywords(plain),'semantic_tags':tags,'external_domains':domains[:50],'source_systems':systems,'identifiers':ids})
     out=root/a.out; meta=root/a.meta; out.parent.mkdir(parents=True,exist_ok=True)
     out.write_text(''.join(json.dumps(r,ensure_ascii=False,sort_keys=True)+'\n' for r in rows),encoding='utf-8')
