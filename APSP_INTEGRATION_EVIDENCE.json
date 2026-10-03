@@ -1,0 +1,15 @@
+{
+  "adapter_mode": "LOCAL_ENGINE_RECONCILIATION",
+  "adapter_sha": "8c247cb6bfd2a46521e540e452fca2b61463ea68",
+  "broker_repository": "thiagoba2004/governanca-geral-modelos-ia",
+  "project_code": "PRJ-000003",
+  "project_current_strategy": null,
+  "project_state_path": "PROJECT_STATE.json",
+  "project_state_sha": "d47200141cfd14723772045caf8a63853338f4d7",
+  "protocol_path": "APSP_AUTONOMOUS_PHASE_SUCCESSION_PROTOCOL.md",
+  "protocol_sha": "47fed56b77fdabd0aaefbeb47983f4cd8dd11dff",
+  "repository": "thiagoba2004/acoes-judiciais",
+  "schema_version": "1.0",
+  "secret_policy": "NO_LOCAL_SECRETS",
+  "status": "VERIFIED"
+}
