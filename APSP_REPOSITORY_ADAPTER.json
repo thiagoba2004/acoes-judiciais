@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "repository": "thiagoba2004/acoes-judiciais",
   "project_code": "PRJ-000003",
   "adapter_mode": "LOCAL_ENGINE_RECONCILIATION",
@@ -16,5 +16,14 @@
     "READ",
     "VERIFY",
     "PERSIST_EVIDENCE"
+  ],
+  "classification_reason": "Project-local APSP engine, runtime contract and runtime state exist; the local engine is reconciled with the central APSP recovery, evidence and anti-loop invariants.",
+  "recovery_applicable": true,
+  "recovery_probe_path": "APSP_RUNTIME_STATE.json",
+  "recovery_reason": null,
+  "validation_artifact_paths": [
+    "APSP_RUNTIME_ENGINE.py",
+    "APSP_RUNTIME_CONTRACT.json",
+    "APSP_RUNTIME_STATE.json"
   ]
 }
