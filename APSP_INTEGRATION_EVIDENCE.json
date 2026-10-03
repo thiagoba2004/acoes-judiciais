@@ -1,8 +1,8 @@
 {
   "adapter_mode": "LOCAL_ENGINE_RECONCILIATION",
-  "adapter_sha": "8c247cb6bfd2a46521e540e452fca2b61463ea68",
+  "adapter_sha": "0fad4661a4ebec44414fbcc42f7f3f4091cc8767",
   "broker_repository": "thiagoba2004/governanca-geral-modelos-ia",
-  "classification_reason": null,
+  "classification_reason": "Project-local APSP engine, runtime contract and runtime state exist; the local engine is reconciled with the central APSP recovery, evidence and anti-loop invariants.",
   "project_code": "PRJ-000003",
   "project_current_phase": null,
   "project_current_strategy": null,
@@ -11,9 +11,27 @@
   "project_strategy_status": "SEM_ESTRATEGIA_ATIVA",
   "protocol_path": "APSP_AUTONOMOUS_PHASE_SUCCESSION_PROTOCOL.md",
   "protocol_sha": "47fed56b77fdabd0aaefbeb47983f4cd8dd11dff",
-  "recovery_applicable": null,
+  "recovery_applicable": true,
+  "recovery_probe": {
+    "path": "APSP_RUNTIME_STATE.json",
+    "sha": "a2a562ba07612ecefe16add55cf640dbb6bb4af2"
+  },
   "repository": "thiagoba2004/acoes-judiciais",
   "schema_version": "1.1",
   "secret_policy": "NO_LOCAL_SECRETS",
-  "status": "VERIFIED"
+  "status": "VERIFIED",
+  "validation_artifacts": [
+    {
+      "path": "APSP_RUNTIME_ENGINE.py",
+      "sha": "d97468cfe514208b531c5f6a305fba32b97c164a"
+    },
+    {
+      "path": "APSP_RUNTIME_CONTRACT.json",
+      "sha": "32b6d390f0872db986d9a2978513ad8dbda69546"
+    },
+    {
+      "path": "APSP_RUNTIME_STATE.json",
+      "sha": "a2a562ba07612ecefe16add55cf640dbb6bb4af2"
+    }
+  ]
 }
