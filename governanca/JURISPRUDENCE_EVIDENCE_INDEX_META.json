@@ -4,7 +4,8 @@
   "source_file": "JURISPRUDENCE_MATRIX.md",
   "record_count": 30,
   "deterministic": true,
-  "source_registry_linkage": "explicit known mappings only; 13 links reconciled on 2026-10-03; 4 evidence units remain unlinked; no authority inferred",
-  "id_algorithm_status": "LEGACY_INCONSISTENT_WITH_CENTRAL_GENERATOR",
-  "id_algorithm_note": "Current evidence_unit_id values were inherited from an earlier project-side generation and are not yet reconciled to tools/build_jurisprudence_evidence_index.py SHA-256(prefix12). Do not represent them as SHA-256 until regeneration."
+  "source_registry_linkage": "explicit known mappings only; 26 linked units; 4 units remain unlinked; no authority inferred",
+  "id_algorithm_status": "CANONICAL_SHA256_PREFIX12",
+  "id_algorithm_note": "Regenerated on 2026-10-03 using SHA-256(prefix12) over norm(topic + ' ' + authority_reference), matching the central tools/build_jurisprudence_evidence_index.py algorithm.",
+  "reconciled_at": "2026-10-03"
 }
