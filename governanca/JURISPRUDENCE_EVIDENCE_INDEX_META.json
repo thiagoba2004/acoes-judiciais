@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0",
+  "generator": "tools/build_jurisprudence_evidence_index.py",
+  "source_file": "JURISPRUDENCE_MATRIX.md",
+  "record_count": 30,
+  "deterministic": true,
+  "source_registry_linkage": "only explicit known mappings; no inferred authority"
+}
