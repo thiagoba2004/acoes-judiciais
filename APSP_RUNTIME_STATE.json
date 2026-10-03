@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "runtime_status": "IN_PROGRESS",
+  "current_phase": null,
+  "completed_phases": [],
+  "completed_actions": [],
+  "last_verified_action": null,
+  "next_executable_action": null,
+  "checkpoint": {
+    "at": null,
+    "reason": "runtime_contract_initialized"
+  },
+  "human_decision_required": false
+}
